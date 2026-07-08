@@ -1,7 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { useState } from "react";
 import { PageHeader } from "@/components/AppShell";
-import { homework as initial, lessons } from "@/data";
+import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { useLearningData } from "@/data";
 
 export const Route = createFileRoute("/homework")({
   component: HomeworkPage,
@@ -14,12 +14,37 @@ export const Route = createFileRoute("/homework")({
 });
 
 function HomeworkPage() {
-  const [items, setItems] = useState(initial);
-  const toggle = (id: string) =>
-    setItems((prev) => prev.map((h) => (h.id === id ? { ...h, done: !h.done } : h)));
+  const learningDataQuery = useLearningData();
 
-  const pending = items.filter((h) => !h.done);
-  const done = items.filter((h) => h.done);
+  if (learningDataQuery.isPending) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="À faire"
+          title="Devoirs"
+          description="Chargement des devoirs."
+        />
+        <DataLoadingState />
+      </>
+    );
+  }
+
+  if (learningDataQuery.isError) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="À faire"
+          title="Devoirs"
+          description="Tes devoirs de français à faire et déjà rendus."
+        />
+        <DataErrorState error={learningDataQuery.error} />
+      </>
+    );
+  }
+
+  const { homework, lessons } = learningDataQuery.data;
+  const pending = homework.filter((h) => !h.done);
+  const done = homework.filter((h) => h.done);
 
   return (
     <>
@@ -37,11 +62,11 @@ function HomeworkPage() {
               const lesson = lessons.find((l) => l.id === h.lessonId);
               return (
                 <li key={h.id} className="card-soft p-4">
-                  <label className="flex items-start gap-3 cursor-pointer">
+                  <div className="flex items-start gap-3">
                     <input
                       type="checkbox"
                       checked={h.done}
-                      onChange={() => toggle(h.id)}
+                      readOnly
                       className="mt-1 h-4 w-4 accent-[var(--color-primary)]"
                     />
                     <div className="min-w-0 flex-1">
@@ -60,7 +85,7 @@ function HomeworkPage() {
                         )}
                       </div>
                     </div>
-                  </label>
+                  </div>
                 </li>
               );
             })}
@@ -81,7 +106,7 @@ function HomeworkPage() {
                 <input
                   type="checkbox"
                   checked
-                  onChange={() => toggle(h.id)}
+                  readOnly
                   className="mt-1 h-4 w-4 accent-[var(--color-primary)]"
                 />
                 <div>
