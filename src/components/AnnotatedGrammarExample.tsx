@@ -1,0 +1,61 @@
+import type { GrammarAnnotatedExample, GrammarExamplePartRole } from "@/types";
+
+const roleClassName: Record<GrammarExamplePartRole, string> = {
+  subject: "border-primary/40 bg-primary/10 text-primary",
+  "direct-object": "border-destructive/40 bg-destructive/10 text-destructive",
+  place: "border-[var(--color-sage)] bg-[var(--color-sage)]/25 text-foreground",
+  time: "border-[var(--color-mustard)] bg-[var(--color-mustard)]/25 text-foreground",
+  "relative-pronoun": "border-foreground/30 bg-foreground/10 text-foreground",
+  pronoun: "border-foreground/30 bg-foreground/10 text-foreground",
+  verb: "border-accent bg-accent/40 text-accent-foreground",
+  context: "border-border bg-secondary/70 text-foreground",
+};
+
+function getPartClassName(role?: GrammarExamplePartRole) {
+  return role ? roleClassName[role] : "border-border bg-secondary/50 text-foreground";
+}
+
+export function AnnotatedGrammarExample({ example }: { example: GrammarAnnotatedExample }) {
+  return (
+    <div className="rounded-xl border border-border bg-background/70 p-4">
+      <div className="text-xs uppercase tracking-widest text-muted-foreground">
+        {example.title}
+      </div>
+
+      {example.sourceSentences && example.sourceSentences.length > 0 && (
+        <div className="mt-3 space-y-1">
+          {example.sourceSentences.map((sentence) => (
+            <div
+              key={sentence}
+              className="rounded-md bg-secondary/50 px-3 py-1.5 font-mono text-xs text-muted-foreground"
+            >
+              {sentence}
+            </div>
+          ))}
+        </div>
+      )}
+
+      <div className="mt-4 rounded-lg border border-border bg-card px-3 py-4 font-mono text-sm leading-8">
+        {example.resultParts.map((part, index) => (
+          <span
+            key={`${part.text}-${index}`}
+            className="inline-flex flex-col items-center align-middle whitespace-pre-wrap"
+          >
+            <span
+              className={`rounded-md border px-1.5 py-0.5 leading-5 ${getPartClassName(part.role)}`}
+            >
+              {part.text}
+            </span>
+            {part.label && (
+              <span className="mt-0.5 text-[10px] uppercase leading-none tracking-wide text-muted-foreground">
+                {part.label}
+              </span>
+            )}
+          </span>
+        ))}
+      </div>
+
+      <p className="mt-3 text-xs text-muted-foreground">{example.explanation}</p>
+    </div>
+  );
+}
