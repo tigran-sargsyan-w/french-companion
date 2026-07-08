@@ -1,6 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { PageHeader } from "@/components/AppShell";
-import { mistakes } from "@/data";
+import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { useLearningData } from "@/data";
 
 export const Route = createFileRoute("/mistakes")({
   component: MistakesPage,
@@ -13,6 +14,35 @@ export const Route = createFileRoute("/mistakes")({
 });
 
 function MistakesPage() {
+  const learningDataQuery = useLearningData();
+
+  if (learningDataQuery.isPending) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="À corriger"
+          title="Mes fautes"
+          description="Chargement des fautes à revoir."
+        />
+        <DataLoadingState />
+      </>
+    );
+  }
+
+  if (learningDataQuery.isError) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="À corriger"
+          title="Mes fautes"
+          description="Chaque erreur vaut une leçon. Relis-les régulièrement."
+        />
+        <DataErrorState error={learningDataQuery.error} />
+      </>
+    );
+  }
+
+  const { mistakes } = learningDataQuery.data;
   const grouped = mistakes.reduce<Record<string, typeof mistakes>>((acc, m) => {
     (acc[m.category] ||= []).push(m);
     return acc;

@@ -8,6 +8,7 @@ Personal French learning dashboard for lessons, vocabulary, grammar, mistakes, h
 - TypeScript
 - Vite
 - TanStack Router
+- TanStack Query
 - Tailwind CSS
 - GitHub Pages via GitHub Actions
 
@@ -26,6 +27,12 @@ npm run preview
 ```
 
 The production build is a static Vite build in `dist/` and is deployed to GitHub Pages by `.github/workflows/pages.yml`.
+
+## Data workflow
+
+Learning content is stored as static JSON files in `public/data/`.
+
+To update lessons, vocabulary, grammar, mistakes or homework, edit the relevant JSON file, commit the change, and push. GitHub Actions will rebuild and redeploy the site automatically.
 
 ## Routing
 

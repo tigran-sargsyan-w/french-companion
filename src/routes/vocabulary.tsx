@@ -1,7 +1,8 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 import { PageHeader } from "@/components/AppShell";
-import { vocabulary, lessons, type VocabStatus } from "@/data";
+import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { useLearningData, type VocabStatus } from "@/data";
 
 export const Route = createFileRoute("/vocabulary")({
   component: VocabularyPage,
@@ -26,6 +27,35 @@ const statusLabel: Record<VocabStatus, string> = {
 
 function VocabularyPage() {
   const [filter, setFilter] = useState<VocabStatus | "all">("all");
+  const learningDataQuery = useLearningData();
+
+  if (learningDataQuery.isPending) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="Mots & expressions"
+          title="Vocabulaire"
+          description="Chargement du carnet de vocabulaire."
+        />
+        <DataLoadingState />
+      </>
+    );
+  }
+
+  if (learningDataQuery.isError) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="Mots & expressions"
+          title="Vocabulaire"
+          description="Ton carnet de vocabulaire français."
+        />
+        <DataErrorState error={learningDataQuery.error} />
+      </>
+    );
+  }
+
+  const { vocabulary, lessons } = learningDataQuery.data;
   const filtered = vocabulary.filter((v) => filter === "all" || v.status === filter);
 
   return (

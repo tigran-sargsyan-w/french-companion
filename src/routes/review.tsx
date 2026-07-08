@@ -2,7 +2,8 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { RotateCw, ChevronLeft, ChevronRight, Check, X } from "lucide-react";
 import { PageHeader } from "@/components/AppShell";
-import { vocabulary } from "@/data";
+import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { useLearningData } from "@/data";
 
 export const Route = createFileRoute("/review")({
   component: ReviewPage,
@@ -15,14 +16,16 @@ export const Route = createFileRoute("/review")({
 });
 
 function ReviewPage() {
-  const deck = useMemo(
-    () => vocabulary.filter((v) => v.status !== "learned"),
-    [],
-  );
+  const learningDataQuery = useLearningData();
   const [i, setI] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [known, setKnown] = useState(0);
   const [unknown, setUnknown] = useState(0);
+
+  const deck = useMemo(
+    () => learningDataQuery.data?.vocabulary.filter((v) => v.status !== "learned") ?? [],
+    [learningDataQuery.data],
+  );
 
   const current = deck[i];
   const total = deck.length;
@@ -58,7 +61,11 @@ function ReviewPage() {
         }
       />
 
-      {total === 0 ? (
+      {learningDataQuery.isPending ? (
+        <DataLoadingState />
+      ) : learningDataQuery.isError ? (
+        <DataErrorState error={learningDataQuery.error} />
+      ) : total === 0 ? (
         <div className="card-soft p-10 text-center">
           <div className="font-display text-2xl">Bravo, tout est appris !</div>
           <p className="text-sm text-muted-foreground mt-2">
@@ -85,7 +92,7 @@ function ReviewPage() {
             <RotateCw className="h-4 w-4" /> Nouvelle session
           </button>
         </div>
-      ) : (
+      ) : current ? (
         <div className="max-w-xl mx-auto">
           <div className="flex items-center justify-between text-xs text-muted-foreground mb-3">
             <span>
@@ -98,7 +105,7 @@ function ReviewPage() {
           <div className="h-1.5 w-full rounded-full bg-secondary overflow-hidden mb-6">
             <div
               className="h-full bg-primary transition-all"
-              style={{ width: `${((i) / total) * 100}%` }}
+              style={{ width: `${(i / total) * 100}%` }}
             />
           </div>
 
@@ -164,7 +171,7 @@ function ReviewPage() {
             </button>
           </div>
         </div>
-      )}
+      ) : null}
     </>
   );
 }

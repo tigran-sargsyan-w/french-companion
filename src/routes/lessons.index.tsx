@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { PageHeader } from "@/components/AppShell";
-import { lessons, getVocab, getGrammar } from "@/data";
+import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { getGrammar, getVocab, useLearningData } from "@/data";
 
 export const Route = createFileRoute("/lessons/")({
   component: LessonsPage,
@@ -13,8 +14,37 @@ export const Route = createFileRoute("/lessons/")({
 });
 
 function LessonsPage() {
-  const sorted = [...lessons].sort((a, b) => b.date.localeCompare(a.date));
-  const grouped = sorted.reduce<Record<string, typeof lessons>>((acc, l) => {
+  const learningDataQuery = useLearningData();
+
+  if (learningDataQuery.isPending) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="Archive"
+          title="Leçons"
+          description="Chargement des leçons."
+        />
+        <DataLoadingState />
+      </>
+    );
+  }
+
+  if (learningDataQuery.isError) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="Archive"
+          title="Leçons"
+          description="Regroupées par mois. Clique sur une leçon pour voir les détails."
+        />
+        <DataErrorState error={learningDataQuery.error} />
+      </>
+    );
+  }
+
+  const data = learningDataQuery.data;
+  const sorted = [...data.lessons].sort((a, b) => b.date.localeCompare(a.date));
+  const grouped = sorted.reduce<Record<string, typeof data.lessons>>((acc, l) => {
     const key = new Date(l.date).toLocaleDateString("fr-FR", {
       month: "long",
       year: "numeric",
@@ -39,8 +69,8 @@ function LessonsPage() {
             </h2>
             <div className="grid sm:grid-cols-2 gap-4">
               {items.map((l) => {
-                const vocab = getVocab(l.vocabIds);
-                const gram = getGrammar(l.grammarTopicIds);
+                const vocab = getVocab(data, l.vocabIds);
+                const gram = getGrammar(data, l.grammarTopicIds);
                 return (
                   <Link
                     key={l.id}
