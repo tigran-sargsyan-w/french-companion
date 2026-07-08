@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { PageHeader } from "@/components/AppShell";
-import { grammar } from "@/data/mockData";
+import { grammar } from "@/data";
 
 export const Route = createFileRoute("/grammar")({
   component: GrammarPage,
