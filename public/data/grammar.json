@@ -17,13 +17,7 @@
           "Le chat est noir.",
           "Le chat est dans le jardin."
         ],
-        "resultParts": [
-          { "text": "Le chat", "role": "subject", "label": "sujet" },
-          { "text": " qui ", "role": "relative-pronoun", "label": "qui" },
-          { "text": "est", "role": "verb", "label": "verbe" },
-          { "text": " dans le jardin ", "role": "place", "label": "lieu" },
-          { "text": "est noir." }
-        ],
+        "markup": "{{sujet:Le chat}} {{qui:qui}} {{verbe:est}} {{lieu:dans le jardin}} est noir.",
         "explanation": "Dans la deuxième phrase, « le chat » est sujet du verbe « est ». On le remplace donc par le pronom relatif « qui »."
       },
       {
@@ -32,12 +26,7 @@
           "Le chat est noir.",
           "Je vois le chat."
         ],
-        "resultParts": [
-          { "text": "Le chat" },
-          { "text": " que ", "role": "relative-pronoun", "label": "que" },
-          { "text": "je vois", "role": "direct-object", "label": "COD" },
-          { "text": " est noir." }
-        ],
+        "markup": "Le chat {{que:que}} {{COD:je vois}} est noir.",
         "explanation": "Dans « Je vois le chat », « le chat » est complément d'objet direct du verbe « vois ». On le remplace par « que »."
       },
       {
@@ -46,12 +35,7 @@
           "La ville est grande.",
           "J'habite cette ville."
         ],
-        "resultParts": [
-          { "text": "La ville" },
-          { "text": " où ", "role": "relative-pronoun", "label": "où" },
-          { "text": "j'habite", "role": "place", "label": "lieu" },
-          { "text": " est grande." }
-        ],
+        "markup": "La ville {{où:où}} {{lieu:j'habite}} est grande.",
         "explanation": "« Cette ville » indique le lieu où j'habite. Pour éviter la répétition, on utilise le pronom relatif « où »."
       },
       {
@@ -60,12 +44,7 @@
           "Je suis né ce jour-là.",
           "Ce jour est important."
         ],
-        "resultParts": [
-          { "text": "Le jour" },
-          { "text": " où ", "role": "relative-pronoun", "label": "où" },
-          { "text": "je suis né", "role": "time", "label": "temps" },
-          { "text": " est important." }
-        ],
+        "markup": "Le jour {{où:où}} {{temps:je suis né}} est important.",
         "explanation": "Quand l'information remplacée exprime un moment, on peut aussi utiliser « où »."
       }
     ]
@@ -86,11 +65,7 @@
           "Mon ami va au musée.",
           "Je vais aussi au musée."
         ],
-        "resultParts": [
-          { "text": "J'" },
-          { "text": "y", "role": "pronoun", "label": "lieu" },
-          { "text": " vais aussi." }
-        ],
+        "markup": "J'{{y:y}} vais aussi.",
         "explanation": "« Au musée » est un complément de lieu. Pour éviter de le répéter, on le remplace par « y »."
       },
       {
@@ -99,14 +74,7 @@
           "Mon ami va au musée.",
           "Mon ami ne va jamais au musée."
         ],
-        "resultParts": [
-          { "text": "Mon ami " },
-          { "text": "n'", "role": "context", "label": "ne" },
-          { "text": "y", "role": "pronoun", "label": "lieu" },
-          { "text": " va ", "role": "verb", "label": "verbe" },
-          { "text": "jamais", "role": "context", "label": "négation" },
-          { "text": "." }
-        ],
+        "markup": "Mon ami {{ne:n'}}{{y:y}} {{verbe:va}} {{négation:jamais}}.",
         "explanation": "Avec « y », la négation se place autour du groupe verbal: n' + y + verbe + jamais."
       }
     ]
