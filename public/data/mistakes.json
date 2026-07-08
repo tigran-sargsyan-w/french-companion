@@ -1,0 +1,50 @@
+[
+  {
+    "id": "m1",
+    "category": "Grammar",
+    "wrong": "Je suis allé au maison",
+    "correct": "Je suis allé à la maison",
+    "note": "à + la, not au (au = à + le).",
+    "lessonId": "l2"
+  },
+  {
+    "id": "m2",
+    "category": "Grammar",
+    "wrong": "Il faut que tu viens",
+    "correct": "Il faut que tu viennes",
+    "note": "Il faut que + subjunctive.",
+    "lessonId": "l5"
+  },
+  {
+    "id": "m3",
+    "category": "Vocabulary",
+    "wrong": "Je suis chaud",
+    "correct": "J'ai chaud",
+    "note": "Use 'avoir' for physical states.",
+    "lessonId": "l1"
+  },
+  {
+    "id": "m4",
+    "category": "Pronunciation",
+    "wrong": "plu-s (silent s dropped)",
+    "correct": "plus [plys] vs [ply]",
+    "note": "Pronounce 's' in 'plus' when it means 'more'.",
+    "lessonId": "l3"
+  },
+  {
+    "id": "m5",
+    "category": "Spelling",
+    "wrong": "developement",
+    "correct": "développement",
+    "note": "Two 'p', accent aigu on the first 'e'.",
+    "lessonId": "l4"
+  },
+  {
+    "id": "m6",
+    "category": "Grammar",
+    "wrong": "Je l'ai donné à il",
+    "correct": "Je le lui ai donné",
+    "note": "Use pronoun 'lui' after another pronoun.",
+    "lessonId": "l4"
+  }
+]
