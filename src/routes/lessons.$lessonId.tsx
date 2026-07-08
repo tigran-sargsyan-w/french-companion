@@ -1,30 +1,62 @@
-import { createFileRoute, Link, notFound } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { ArrowLeft, Camera } from "lucide-react";
 import { PageHeader } from "@/components/AppShell";
-import { getLesson, getVocab, getGrammar, getHomework } from "@/data";
+import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { getGrammar, getHomework, getLesson, getVocab, useLearningData } from "@/data";
 
 export const Route = createFileRoute("/lessons/$lessonId")({
-  loader: ({ params }) => {
-    const lesson = getLesson(params.lessonId);
-    if (!lesson) throw notFound();
-    return { lesson };
-  },
   component: LessonDetail,
-  notFoundComponent: () => (
-    <div className="py-20 text-center">
-      <h1 className="font-display text-3xl">Leçon introuvable</h1>
-      <Link to="/lessons" className="text-primary hover:underline mt-4 inline-block">
-        ← Retour aux leçons
-      </Link>
-    </div>
-  ),
 });
 
 function LessonDetail() {
-  const { lesson } = Route.useLoaderData();
-  const vocab = getVocab(lesson.vocabIds);
-  const grammar = getGrammar(lesson.grammarTopicIds);
-  const homework = getHomework(lesson.homeworkIds);
+  const { lessonId } = Route.useParams();
+  const learningDataQuery = useLearningData();
+
+  if (learningDataQuery.isPending) {
+    return (
+      <>
+        <Link
+          to="/lessons"
+          className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-foreground mb-4"
+        >
+          <ArrowLeft className="h-4 w-4" /> Toutes les leçons
+        </Link>
+        <DataLoadingState />
+      </>
+    );
+  }
+
+  if (learningDataQuery.isError) {
+    return (
+      <>
+        <Link
+          to="/lessons"
+          className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-foreground mb-4"
+        >
+          <ArrowLeft className="h-4 w-4" /> Toutes les leçons
+        </Link>
+        <DataErrorState error={learningDataQuery.error} />
+      </>
+    );
+  }
+
+  const data = learningDataQuery.data;
+  const lesson = getLesson(data, lessonId);
+
+  if (!lesson) {
+    return (
+      <div className="py-20 text-center">
+        <h1 className="font-display text-3xl">Leçon introuvable</h1>
+        <Link to="/lessons" className="text-primary hover:underline mt-4 inline-block">
+          ← Retour aux leçons
+        </Link>
+      </div>
+    );
+  }
+
+  const vocab = getVocab(data, lesson.vocabIds);
+  const grammar = getGrammar(data, lesson.grammarTopicIds);
+  const homework = getHomework(data, lesson.homeworkIds);
 
   return (
     <>
