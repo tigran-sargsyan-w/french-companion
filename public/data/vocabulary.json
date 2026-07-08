@@ -1,92 +1,119 @@
 [
   {
-    "id": "v1",
-    "french": "bonjour",
-    "translation": "hello",
-    "example": "Bonjour, comment ça va ?",
-    "status": "learned",
-    "firstSeenLessonId": "l1",
-    "appearances": 12
-  },
-  {
-    "id": "v2",
-    "french": "merci",
-    "translation": "thank you",
-    "example": "Merci beaucoup !",
-    "status": "learned",
-    "firstSeenLessonId": "l1",
-    "appearances": 9
-  },
-  {
-    "id": "v3",
-    "french": "la boulangerie",
-    "translation": "bakery",
-    "example": "Je vais à la boulangerie.",
+    "id": "v_2026_07_06_questionnaire",
+    "french": "un questionnaire",
+    "translation": "анкета / опросник",
+    "example": "En groupe, on conçoit un nouveau questionnaire.",
     "status": "learning",
-    "firstSeenLessonId": "l2",
-    "appearances": 4
-  },
-  {
-    "id": "v4",
-    "french": "flâner",
-    "translation": "to stroll",
-    "example": "J'aime flâner dans Paris.",
-    "status": "learning",
-    "firstSeenLessonId": "l3",
-    "appearances": 2
-  },
-  {
-    "id": "v5",
-    "french": "dépaysement",
-    "translation": "change of scenery",
-    "example": "Ce voyage était un vrai dépaysement.",
-    "status": "new",
-    "firstSeenLessonId": "l4",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
     "appearances": 1
   },
   {
-    "id": "v6",
-    "french": "chuchoter",
-    "translation": "to whisper",
-    "example": "Elle chuchote un secret.",
-    "status": "new",
-    "firstSeenLessonId": "l4",
+    "id": "v_2026_07_06_situer",
+    "french": "situer",
+    "translation": "располагать / определять местоположение",
+    "example": "Il faut situer le pays sur la carte.",
+    "status": "learning",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
     "appearances": 1
   },
   {
-    "id": "v7",
-    "french": "le quotidien",
-    "translation": "everyday life",
-    "example": "Le quotidien peut être poétique.",
+    "id": "v_2026_07_06_faire_deviner",
+    "french": "faire deviner",
+    "translation": "дать угадать / заставить угадать",
+    "example": "On doit faire deviner un pays aux autres étudiants.",
     "status": "learning",
-    "firstSeenLessonId": "l3",
-    "appearances": 3
-  },
-  {
-    "id": "v8",
-    "french": "épanoui",
-    "translation": "fulfilled",
-    "example": "Il se sent épanoui dans son travail.",
-    "status": "new",
-    "firstSeenLessonId": "l5",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
     "appearances": 1
   },
   {
-    "id": "v9",
-    "french": "râler",
-    "translation": "to grumble",
-    "example": "Les Français adorent râler.",
+    "id": "v_2026_07_06_proposer",
+    "french": "proposer",
+    "translation": "предлагать",
+    "example": "Je propose une activité pour la classe.",
     "status": "learning",
-    "firstSeenLessonId": "l2",
-    "appearances": 3
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
+    "appearances": 1
   },
   {
-    "id": "v10",
-    "french": "la rentrée",
-    "translation": "back-to-school season",
-    "example": "La rentrée commence en septembre.",
-    "status": "learned",
-    "firstSeenLessonId": "l1",
-    "appearances": 5
+    "id": "v_2026_07_06_conseiller",
+    "french": "conseiller",
+    "translation": "советовать",
+    "example": "Je te conseille de réviser les pronoms relatifs.",
+    "status": "learning",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
+    "appearances": 1
+  },
+  {
+    "id": "v_2026_07_06_obliger",
+    "french": "obliger",
+    "translation": "обязывать / заставлять",
+    "example": "Le professeur nous oblige à parler français.",
+    "status": "learning",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
+    "appearances": 1
+  },
+  {
+    "id": "v_2026_07_06_accepter",
+    "french": "accepter",
+    "translation": "принимать / соглашаться",
+    "example": "J'accepte ta proposition.",
+    "status": "learning",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
+    "appearances": 1
+  },
+  {
+    "id": "v_2026_07_06_refuser",
+    "french": "refuser",
+    "translation": "отказываться / отказывать",
+    "example": "Il refuse de répondre à la question.",
+    "status": "learning",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
+    "appearances": 1
+  },
+  {
+    "id": "v_2026_07_06_a_l_est_de",
+    "french": "à l'est de",
+    "translation": "к востоку от",
+    "example": "La Pologne est à l'est de l'Allemagne.",
+    "status": "learning",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
+    "appearances": 1
+  },
+  {
+    "id": "v_2026_07_06_au_nord_de",
+    "french": "au nord de",
+    "translation": "к северу от",
+    "example": "Ce pays est au nord de la République tchèque.",
+    "status": "learning",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
+    "appearances": 1
+  },
+  {
+    "id": "v_2026_07_06_au_sud_de",
+    "french": "au sud de",
+    "translation": "к югу от",
+    "example": "Cette ville est au sud de la France.",
+    "status": "learning",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
+    "appearances": 1
+  },
+  {
+    "id": "v_2026_07_06_a_cote_de",
+    "french": "à côté de",
+    "translation": "рядом с",
+    "example": "Cette ville est à côté de la mer.",
+    "status": "learning",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
+    "appearances": 1
+  },
+  {
+    "id": "v_2026_07_06_entre_et",
+    "french": "entre ... et ...",
+    "translation": "между ... и ...",
+    "example": "L'Espagne est entre le Portugal et la France.",
+    "status": "learning",
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
+    "appearances": 1
   }
 ]

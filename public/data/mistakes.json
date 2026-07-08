@@ -1,50 +1,26 @@
 [
   {
-    "id": "m1",
+    "id": "m_2026_07_06_n_y_va_jamais",
     "category": "Grammar",
-    "wrong": "Je suis allé au maison",
-    "correct": "Je suis allé à la maison",
-    "note": "à + la, not au (au = à + le).",
-    "lessonId": "l2"
+    "wrong": "Mon ami ne va y jamais.",
+    "correct": "Mon ami n'y va jamais.",
+    "note": "Avec le pronom y, la négation encadre le groupe verbal: ne/n' + y + verbe + jamais.",
+    "lessonId": "lesson_2026_07_06_relative_y"
   },
   {
-    "id": "m2",
+    "id": "m_2026_07_06_ce_pays",
     "category": "Grammar",
-    "wrong": "Il faut que tu viens",
-    "correct": "Il faut que tu viennes",
-    "note": "Il faut que + subjunctive.",
-    "lessonId": "l5"
+    "wrong": "C'est pays est à l'est de l'Allemagne.",
+    "correct": "Ce pays est à l'est de l'Allemagne.",
+    "note": "Devant un nom, on utilise ce/cet/cette/ces. C'est = cela est.",
+    "lessonId": "lesson_2026_07_06_relative_y"
   },
   {
-    "id": "m3",
-    "category": "Vocabulary",
-    "wrong": "Je suis chaud",
-    "correct": "J'ai chaud",
-    "note": "Use 'avoir' for physical states.",
-    "lessonId": "l1"
-  },
-  {
-    "id": "m4",
-    "category": "Pronunciation",
-    "wrong": "plu-s (silent s dropped)",
-    "correct": "plus [plys] vs [ply]",
-    "note": "Pronounce 's' in 'plus' when it means 'more'.",
-    "lessonId": "l3"
-  },
-  {
-    "id": "m5",
-    "category": "Spelling",
-    "wrong": "developement",
-    "correct": "développement",
-    "note": "Two 'p', accent aigu on the first 'e'.",
-    "lessonId": "l4"
-  },
-  {
-    "id": "m6",
+    "id": "m_2026_07_06_l_allemagne",
     "category": "Grammar",
-    "wrong": "Je l'ai donné à il",
-    "correct": "Je le lui ai donné",
-    "note": "Use pronoun 'lui' after another pronoun.",
-    "lessonId": "l4"
+    "wrong": "à l'est de la Allemagne",
+    "correct": "à l'est de l'Allemagne",
+    "note": "Devant une voyelle, la devient l'.",
+    "lessonId": "lesson_2026_07_06_relative_y"
   }
 ]

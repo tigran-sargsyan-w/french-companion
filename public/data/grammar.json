@@ -1,44 +1,48 @@
 [
   {
-    "id": "g1",
-    "title": "Présent des verbes en -er",
-    "category": "Verbs",
-    "summary": "Regular conjugation of -er verbs in the present tense.",
-    "examples": ["je parle", "tu parles", "nous parlons"]
-  },
-  {
-    "id": "g2",
-    "title": "Passé composé avec avoir",
-    "category": "Tenses",
-    "summary": "Compound past using 'avoir' + past participle.",
-    "examples": ["J'ai mangé", "Nous avons vu"]
-  },
-  {
-    "id": "g3",
-    "title": "Articles définis et indéfinis",
-    "category": "Articles",
-    "summary": "Difference between le/la/les and un/une/des.",
-    "examples": ["le livre", "une pomme", "des amis"]
-  },
-  {
-    "id": "g4",
-    "title": "Adjectifs — accord",
-    "category": "Adjectives",
-    "summary": "Adjective agreement in gender and number.",
-    "examples": ["un petit chat", "une petite maison"]
-  },
-  {
-    "id": "g5",
-    "title": "Subjonctif présent",
-    "category": "Moods",
-    "summary": "Present subjunctive after expressions of doubt, wish, emotion.",
-    "examples": ["Il faut que tu viennes", "Je veux qu'il parte"]
-  },
-  {
-    "id": "g6",
-    "title": "Pronoms COD / COI",
+    "id": "g_2026_07_06_pronoms_relatifs_qui_que_ou",
+    "title": "Pronoms relatifs: qui, que, où",
     "category": "Pronouns",
-    "summary": "Direct and indirect object pronouns.",
-    "examples": ["Je le vois", "Je lui parle"]
+    "summary": "Qui remplace le sujet; que remplace le complément d'objet direct; où remplace un complément de lieu ou de temps.",
+    "examples": [
+      "Le chat qui est dans le jardin est noir.",
+      "Le chat que je vois est noir.",
+      "La ville où j'habite est grande.",
+      "Le jour où je suis né."
+    ]
+  },
+  {
+    "id": "g_2026_07_06_pronom_y",
+    "title": "Pronom Y",
+    "category": "Pronouns",
+    "summary": "Y remplace souvent un complément de lieu introduit par à, au, aux, dans, chez, etc.",
+    "examples": [
+      "Mon ami va au musée. J'y vais aussi.",
+      "Mon ami n'y va jamais."
+    ]
+  },
+  {
+    "id": "g_2026_07_06_situer",
+    "title": "Situer un lieu",
+    "category": "Location",
+    "summary": "Pour situer un pays ou une ville, on utilise des expressions comme à l'est de, au nord de, au sud de, à côté de, entre ... et ...",
+    "examples": [
+      "Ce pays est à l'est de l'Allemagne et au nord de la République tchèque.",
+      "Cette ville est au sud de la France, à côté de la mer.",
+      "Ce pays est entre le Portugal et la France."
+    ]
+  },
+  {
+    "id": "g_2026_07_06_genre_pays",
+    "title": "Genre des pays",
+    "category": "Articles",
+    "summary": "Les noms de pays qui finissent par -e sont généralement féminins. Exceptions notées en classe: le Mexique, le Belize, le Suriname.",
+    "examples": [
+      "la France",
+      "l'Allemagne",
+      "le Mexique",
+      "le Belize",
+      "le Suriname"
+    ]
   }
 ]
