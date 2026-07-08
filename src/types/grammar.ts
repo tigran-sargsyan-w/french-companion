@@ -8,16 +8,10 @@ export type GrammarExamplePartRole =
   | "verb"
   | "context";
 
-export interface GrammarExamplePart {
-  text: string;
-  role?: GrammarExamplePartRole;
-  label?: string;
-}
-
 export interface GrammarAnnotatedExample {
   title: string;
   sourceSentences?: string[];
-  resultParts: GrammarExamplePart[];
+  markup: string;
   explanation: string;
 }
 
