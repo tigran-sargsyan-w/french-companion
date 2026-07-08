@@ -7,10 +7,9 @@ import {
   HeadContent,
   Scripts,
 } from "@tanstack/react-router";
-import { useEffect, type ReactNode } from "react";
+import type { ReactNode } from "react";
 
 import appCss from "../styles.css?url";
-import { reportLovableError } from "../lib/lovable-error-reporting";
 import { AppShell } from "../components/AppShell";
 
 function NotFoundComponent() {
@@ -38,9 +37,6 @@ function NotFoundComponent() {
 function ErrorComponent({ error, reset }: { error: Error; reset: () => void }) {
   console.error(error);
   const router = useRouter();
-  useEffect(() => {
-    reportLovableError(error, { boundary: "tanstack_root_error_component" });
-  }, [error]);
 
   return (
     <div className="flex min-h-screen items-center justify-center bg-background px-4">
@@ -76,23 +72,26 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Salut — Mon cahier de français" },
+      { title: "French Companion" },
       {
         name: "description",
         content:
           "Un tableau de bord personnel pour archiver et réviser tes cours de français : leçons, vocabulaire, grammaire, fautes et devoirs.",
       },
-      { property: "og:title", content: "Salut — Mon cahier de français" },
+      { property: "og:title", content: "French Companion" },
       {
         property: "og:description",
-        content: "Un tableau de bord personnel pour archiver et réviser tes cours de français : leçons, vocabulaire, grammaire, fautes et devoirs.",
+        content:
+          "Un tableau de bord personnel pour archiver et réviser tes cours de français : leçons, vocabulaire, grammaire, fautes et devoirs.",
       },
       { property: "og:type", content: "website" },
-      { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:title", content: "Salut — Mon cahier de français" },
-      { name: "twitter:description", content: "Un tableau de bord personnel pour archiver et réviser tes cours de français : leçons, vocabulaire, grammaire, fautes et devoirs." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a8b42de9-83c2-4b3d-8ffd-71736191ba47/id-preview-dd2e7b00--7d0cb7c8-cfbc-4640-aee4-bd8d2b385e18.lovable.app-1783536769887.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a8b42de9-83c2-4b3d-8ffd-71736191ba47/id-preview-dd2e7b00--7d0cb7c8-cfbc-4640-aee4-bd8d2b385e18.lovable.app-1783536769887.png" },
+      { name: "twitter:card", content: "summary" },
+      { name: "twitter:title", content: "French Companion" },
+      {
+        name: "twitter:description",
+        content:
+          "Un tableau de bord personnel pour archiver et réviser tes cours de français : leçons, vocabulaire, grammaire, fautes et devoirs.",
+      },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
