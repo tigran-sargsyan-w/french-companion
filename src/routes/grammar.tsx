@@ -1,6 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { PageHeader } from "@/components/AppShell";
-import { grammar } from "@/data";
+import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { useLearningData } from "@/data";
 
 export const Route = createFileRoute("/grammar")({
   component: GrammarPage,
@@ -13,6 +14,35 @@ export const Route = createFileRoute("/grammar")({
 });
 
 function GrammarPage() {
+  const learningDataQuery = useLearningData();
+
+  if (learningDataQuery.isPending) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="Règles & structures"
+          title="Grammaire"
+          description="Chargement des points de grammaire."
+        />
+        <DataLoadingState />
+      </>
+    );
+  }
+
+  if (learningDataQuery.isError) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="Règles & structures"
+          title="Grammaire"
+          description="Chaque carte reprend un point vu en cours."
+        />
+        <DataErrorState error={learningDataQuery.error} />
+      </>
+    );
+  }
+
+  const { grammar } = learningDataQuery.data;
   const byCategory = grammar.reduce<Record<string, typeof grammar>>((acc, g) => {
     (acc[g.category] ||= []).push(g);
     return acc;
