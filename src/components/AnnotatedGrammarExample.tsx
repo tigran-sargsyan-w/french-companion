@@ -11,11 +11,63 @@ const roleClassName: Record<GrammarExamplePartRole, string> = {
   context: "border-border bg-secondary/70 text-foreground",
 };
 
+const labelToRole: Record<string, GrammarExamplePartRole> = {
+  sujet: "subject",
+  cod: "direct-object",
+  lieu: "place",
+  temps: "time",
+  qui: "relative-pronoun",
+  que: "relative-pronoun",
+  où: "relative-pronoun",
+  ou: "relative-pronoun",
+  y: "pronoun",
+  pronom: "pronoun",
+  verbe: "verb",
+  ne: "context",
+  négation: "context",
+  negation: "context",
+  contexte: "context",
+};
+
+interface ParsedMarkupPart {
+  text: string;
+  label?: string;
+  role?: GrammarExamplePartRole;
+}
+
 function getPartClassName(role?: GrammarExamplePartRole) {
   return role ? roleClassName[role] : "border-border bg-secondary/50 text-foreground";
 }
 
+function parseMarkup(markup: string): ParsedMarkupPart[] {
+  const parts: ParsedMarkupPart[] = [];
+  const regex = /\{\{([^:}]+):([^}]+)\}\}/g;
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+
+  while ((match = regex.exec(markup))) {
+    const [raw, rawLabel, text] = match;
+
+    if (match.index > lastIndex) {
+      parts.push({ text: markup.slice(lastIndex, match.index) });
+    }
+
+    const label = rawLabel.trim();
+    const role = labelToRole[label.toLowerCase()];
+    parts.push({ text, label, role });
+    lastIndex = match.index + raw.length;
+  }
+
+  if (lastIndex < markup.length) {
+    parts.push({ text: markup.slice(lastIndex) });
+  }
+
+  return parts;
+}
+
 export function AnnotatedGrammarExample({ example }: { example: GrammarAnnotatedExample }) {
+  const parts = parseMarkup(example.markup);
+
   return (
     <div className="rounded-xl border border-border bg-background/70 p-4">
       <div className="text-xs uppercase tracking-widest text-muted-foreground">
@@ -36,23 +88,27 @@ export function AnnotatedGrammarExample({ example }: { example: GrammarAnnotated
       )}
 
       <div className="mt-4 rounded-lg border border-border bg-card px-3 py-4 font-mono text-sm leading-8">
-        {example.resultParts.map((part, index) => (
-          <span
-            key={`${part.text}-${index}`}
-            className="inline-flex flex-col items-center align-middle whitespace-pre-wrap"
-          >
+        {parts.map((part, index) =>
+          part.label ? (
             <span
-              className={`rounded-md border px-1.5 py-0.5 leading-5 ${getPartClassName(part.role)}`}
+              key={`${part.text}-${index}`}
+              className="inline-flex flex-col items-center align-middle whitespace-pre-wrap"
             >
-              {part.text}
-            </span>
-            {part.label && (
+              <span
+                className={`rounded-md border px-1.5 py-0.5 leading-5 ${getPartClassName(part.role)}`}
+              >
+                {part.text}
+              </span>
               <span className="mt-0.5 text-[10px] uppercase leading-none tracking-wide text-muted-foreground">
                 {part.label}
               </span>
-            )}
-          </span>
-        ))}
+            </span>
+          ) : (
+            <span key={`${part.text}-${index}`} className="whitespace-pre-wrap">
+              {part.text}
+            </span>
+          ),
+        )}
       </div>
 
       <p className="mt-3 text-xs text-muted-foreground">{example.explanation}</p>
