@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { RotateCw, ChevronLeft, ChevronRight, Check, X } from "lucide-react";
 import { PageHeader } from "@/components/AppShell";
-import { vocabulary } from "@/data/mockData";
+import { vocabulary } from "@/data";
 
 export const Route = createFileRoute("/review")({
   component: ReviewPage,

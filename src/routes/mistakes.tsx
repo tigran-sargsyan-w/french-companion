@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { PageHeader } from "@/components/AppShell";
-import { mistakes } from "@/data/mockData";
+import { mistakes } from "@/data";
 
 export const Route = createFileRoute("/mistakes")({
   component: MistakesPage,

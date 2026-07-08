@@ -1,7 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useState } from "react";
 import { PageHeader } from "@/components/AppShell";
-import { homework as initial, lessons } from "@/data/mockData";
+import { homework as initial, lessons } from "@/data";
 
 export const Route = createFileRoute("/homework")({
   component: HomeworkPage,

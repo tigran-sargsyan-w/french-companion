@@ -1,7 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { ArrowLeft, Camera } from "lucide-react";
 import { PageHeader } from "@/components/AppShell";
-import { getLesson, getVocab, getGrammar, getHomework } from "@/data/mockData";
+import { getLesson, getVocab, getGrammar, getHomework } from "@/data";
 
 export const Route = createFileRoute("/lessons/$lessonId")({
   loader: ({ params }) => {
