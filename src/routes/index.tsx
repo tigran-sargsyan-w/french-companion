@@ -1,7 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { BookOpen, Languages, Sparkles, AlertCircle, ArrowUpRight } from "lucide-react";
 import { PageHeader } from "@/components/AppShell";
-import { lessons, vocabulary, grammar, mistakes } from "@/data/mockData";
+import { lessons, vocabulary, grammar, mistakes } from "@/data";
 
 export const Route = createFileRoute("/")({
   component: Dashboard,
