@@ -40,5 +40,51 @@
     "category": "Pronouns",
     "summary": "Direct and indirect object pronouns.",
     "examples": ["Je le vois", "Je lui parle"]
+  },
+  {
+    "id": "g_2026_07_06_pronoms_relatifs_qui_que_ou",
+    "title": "Pronoms relatifs: qui, que, où",
+    "category": "Pronouns",
+    "summary": "Qui remplace le sujet; que remplace le complément d'objet direct; où remplace un complément de lieu ou de temps.",
+    "examples": [
+      "Le chat qui est dans le jardin est noir.",
+      "Le chat que je vois est noir.",
+      "La ville où j'habite est grande.",
+      "Le jour où je suis né."
+    ]
+  },
+  {
+    "id": "g_2026_07_06_pronom_y",
+    "title": "Pronom Y",
+    "category": "Pronouns",
+    "summary": "Y remplace souvent un complément de lieu introduit par à, au, aux, dans, chez, etc.",
+    "examples": [
+      "Mon ami va au musée. J'y vais aussi.",
+      "Mon ami n'y va jamais."
+    ]
+  },
+  {
+    "id": "g_2026_07_06_situer",
+    "title": "Situer un lieu",
+    "category": "Location",
+    "summary": "Pour situer un pays ou une ville, on utilise des expressions comme à l'est de, au nord de, au sud de, à côté de, entre ... et ...",
+    "examples": [
+      "Ce pays est à l'est de l'Allemagne et au nord de la République tchèque.",
+      "Cette ville est au sud de la France, à côté de la mer.",
+      "Ce pays est entre le Portugal et la France."
+    ]
+  },
+  {
+    "id": "g_2026_07_06_genre_pays",
+    "title": "Genre des pays",
+    "category": "Articles",
+    "summary": "Les noms de pays qui finissent par -e sont généralement féminins. Exceptions notées en classe: le Mexique, le Belize, le Suriname.",
+    "examples": [
+      "la France",
+      "l'Allemagne",
+      "le Mexique",
+      "le Belize",
+      "le Suriname"
+    ]
   }
 ]
