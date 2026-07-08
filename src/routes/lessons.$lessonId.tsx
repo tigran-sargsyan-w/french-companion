@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { ArrowLeft, Camera } from "lucide-react";
 import { PageHeader } from "@/components/AppShell";
+import { AnnotatedGrammarExample } from "@/components/AnnotatedGrammarExample";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
 import { getGrammar, getHomework, getLesson, getVocab, useLearningData } from "@/data";
 
@@ -99,24 +100,6 @@ function LessonDetail() {
         </section>
 
         <section className="card-soft p-6">
-          <h2 className="font-display text-lg mb-3">Grammaire</h2>
-          <ul className="space-y-3">
-            {grammar.map((g) => (
-              <li key={g.id}>
-                <div className="text-xs uppercase tracking-wider text-primary/80">
-                  {g.category}
-                </div>
-                <div className="font-medium">{g.title}</div>
-                <div className="text-xs text-muted-foreground">{g.summary}</div>
-              </li>
-            ))}
-            {grammar.length === 0 && (
-              <div className="text-sm text-muted-foreground">Aucun point de grammaire.</div>
-            )}
-          </ul>
-        </section>
-
-        <section className="card-soft p-6 lg:col-span-2">
           <h2 className="font-display text-lg mb-3">Devoirs</h2>
           <ul className="space-y-3">
             {homework.map((h) => (
@@ -145,7 +128,32 @@ function LessonDetail() {
           </ul>
         </section>
 
-        <section className="card-soft p-6">
+        <section className="card-soft p-6 lg:col-span-3">
+          <h2 className="font-display text-lg mb-3">Grammaire</h2>
+          <div className="space-y-4">
+            {grammar.map((g) => (
+              <article key={g.id} className="rounded-xl border border-border bg-secondary/30 p-4">
+                <div className="text-xs uppercase tracking-wider text-primary/80">
+                  {g.category}
+                </div>
+                <div className="font-medium">{g.title}</div>
+                <div className="text-sm text-muted-foreground mt-1">{g.summary}</div>
+                {g.annotatedExamples && g.annotatedExamples.length > 0 && (
+                  <div className="mt-4 grid gap-3 lg:grid-cols-2">
+                    {g.annotatedExamples.map((example) => (
+                      <AnnotatedGrammarExample key={example.title} example={example} />
+                    ))}
+                  </div>
+                )}
+              </article>
+            ))}
+            {grammar.length === 0 && (
+              <div className="text-sm text-muted-foreground">Aucun point de grammaire.</div>
+            )}
+          </div>
+        </section>
+
+        <section className="card-soft p-6 lg:col-span-2">
           <h2 className="font-display text-lg mb-3">Notes & Photos</h2>
           <p className="text-sm text-foreground/80 whitespace-pre-line">{lesson.notes}</p>
           <div className="mt-4 grid grid-cols-2 gap-2">
