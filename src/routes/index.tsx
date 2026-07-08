@@ -1,13 +1,44 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { BookOpen, Languages, Sparkles, AlertCircle, ArrowUpRight } from "lucide-react";
 import { PageHeader } from "@/components/AppShell";
-import { lessons, vocabulary, grammar, mistakes } from "@/data";
+import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { useLearningData } from "@/data";
 
 export const Route = createFileRoute("/")({
   component: Dashboard,
 });
 
 function Dashboard() {
+  const learningDataQuery = useLearningData();
+
+  if (learningDataQuery.isPending) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="Bonjour 👋"
+          title="Ton tableau de bord"
+          description="Un aperçu de ta progression en français cette semaine."
+        />
+        <DataLoadingState />
+      </>
+    );
+  }
+
+  if (learningDataQuery.isError) {
+    return (
+      <>
+        <PageHeader
+          eyebrow="Bonjour 👋"
+          title="Ton tableau de bord"
+          description="Un aperçu de ta progression en français cette semaine."
+        />
+        <DataErrorState error={learningDataQuery.error} />
+      </>
+    );
+  }
+
+  const { lessons, vocabulary, grammar, mistakes } = learningDataQuery.data;
+
   const stats = [
     {
       label: "Leçons",
