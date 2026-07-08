@@ -46,5 +46,29 @@
     "correct": "Je le lui ai donné",
     "note": "Use pronoun 'lui' after another pronoun.",
     "lessonId": "l4"
+  },
+  {
+    "id": "m_2026_07_06_n_y_va_jamais",
+    "category": "Grammar",
+    "wrong": "Mon ami ne va y jamais.",
+    "correct": "Mon ami n'y va jamais.",
+    "note": "Avec le pronom y, la négation encadre le groupe verbal: ne/n' + y + verbe + jamais.",
+    "lessonId": "lesson_2026_07_06_relative_y"
+  },
+  {
+    "id": "m_2026_07_06_ce_pays",
+    "category": "Grammar",
+    "wrong": "C'est pays est à l'est de l'Allemagne.",
+    "correct": "Ce pays est à l'est de l'Allemagne.",
+    "note": "Devant un nom, on utilise ce/cet/cette/ces. C'est = cela est.",
+    "lessonId": "lesson_2026_07_06_relative_y"
+  },
+  {
+    "id": "m_2026_07_06_l_allemagne",
+    "category": "Grammar",
+    "wrong": "à l'est de la Allemagne",
+    "correct": "à l'est de l'Allemagne",
+    "note": "Devant une voyelle, la devient l'.",
+    "lessonId": "lesson_2026_07_06_relative_y"
   }
 ]
