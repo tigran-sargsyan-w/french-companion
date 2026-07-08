@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { PageHeader } from "@/components/AppShell";
+import { AnnotatedGrammarExample } from "@/components/AnnotatedGrammarExample";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
 import { useLearningData } from "@/data";
 
@@ -60,7 +61,7 @@ function GrammarPage() {
         {Object.entries(byCategory).map(([cat, items]) => (
           <section key={cat}>
             <h2 className="font-display text-lg text-muted-foreground mb-3">{cat}</h2>
-            <div className="grid sm:grid-cols-2 gap-4">
+            <div className="grid gap-4">
               {items.map((g) => (
                 <article key={g.id} className="card-soft p-5">
                   <div className="text-xs uppercase tracking-widest text-primary/80">
@@ -78,6 +79,13 @@ function GrammarPage() {
                       </li>
                     ))}
                   </ul>
+                  {g.annotatedExamples && g.annotatedExamples.length > 0 && (
+                    <div className="mt-4 grid gap-3 lg:grid-cols-2">
+                      {g.annotatedExamples.map((example) => (
+                        <AnnotatedGrammarExample key={example.title} example={example} />
+                      ))}
+                    </div>
+                  )}
                 </article>
               ))}
             </div>
