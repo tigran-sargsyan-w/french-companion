@@ -9,6 +9,65 @@
       "Le chat que je vois est noir.",
       "La ville où j'habite est grande.",
       "Le jour où je suis né."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Qui remplace le sujet",
+        "sourceSentences": [
+          "Le chat est noir.",
+          "Le chat est dans le jardin."
+        ],
+        "resultParts": [
+          { "text": "Le chat", "role": "subject", "label": "sujet" },
+          { "text": " qui ", "role": "relative-pronoun", "label": "qui" },
+          { "text": "est", "role": "verb", "label": "verbe" },
+          { "text": " dans le jardin ", "role": "place", "label": "lieu" },
+          { "text": "est noir." }
+        ],
+        "explanation": "Dans la deuxième phrase, « le chat » est sujet du verbe « est ». On le remplace donc par le pronom relatif « qui »."
+      },
+      {
+        "title": "Que remplace le complément d'objet direct",
+        "sourceSentences": [
+          "Le chat est noir.",
+          "Je vois le chat."
+        ],
+        "resultParts": [
+          { "text": "Le chat" },
+          { "text": " que ", "role": "relative-pronoun", "label": "que" },
+          { "text": "je vois", "role": "direct-object", "label": "COD" },
+          { "text": " est noir." }
+        ],
+        "explanation": "Dans « Je vois le chat », « le chat » est complément d'objet direct du verbe « vois ». On le remplace par « que »."
+      },
+      {
+        "title": "Où remplace un complément de lieu",
+        "sourceSentences": [
+          "La ville est grande.",
+          "J'habite cette ville."
+        ],
+        "resultParts": [
+          { "text": "La ville" },
+          { "text": " où ", "role": "relative-pronoun", "label": "où" },
+          { "text": "j'habite", "role": "place", "label": "lieu" },
+          { "text": " est grande." }
+        ],
+        "explanation": "« Cette ville » indique le lieu où j'habite. Pour éviter la répétition, on utilise le pronom relatif « où »."
+      },
+      {
+        "title": "Où peut aussi remplacer un complément de temps",
+        "sourceSentences": [
+          "Je suis né ce jour-là.",
+          "Ce jour est important."
+        ],
+        "resultParts": [
+          { "text": "Le jour" },
+          { "text": " où ", "role": "relative-pronoun", "label": "où" },
+          { "text": "je suis né", "role": "time", "label": "temps" },
+          { "text": " est important." }
+        ],
+        "explanation": "Quand l'information remplacée exprime un moment, on peut aussi utiliser « où »."
+      }
     ]
   },
   {
@@ -19,6 +78,37 @@
     "examples": [
       "Mon ami va au musée. J'y vais aussi.",
       "Mon ami n'y va jamais."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Y remplace un lieu",
+        "sourceSentences": [
+          "Mon ami va au musée.",
+          "Je vais aussi au musée."
+        ],
+        "resultParts": [
+          { "text": "J'" },
+          { "text": "y", "role": "pronoun", "label": "lieu" },
+          { "text": " vais aussi." }
+        ],
+        "explanation": "« Au musée » est un complément de lieu. Pour éviter de le répéter, on le remplace par « y »."
+      },
+      {
+        "title": "Y avec la négation",
+        "sourceSentences": [
+          "Mon ami va au musée.",
+          "Mon ami ne va jamais au musée."
+        ],
+        "resultParts": [
+          { "text": "Mon ami " },
+          { "text": "n'", "role": "context", "label": "ne" },
+          { "text": "y", "role": "pronoun", "label": "lieu" },
+          { "text": " va ", "role": "verb", "label": "verbe" },
+          { "text": "jamais", "role": "context", "label": "négation" },
+          { "text": "." }
+        ],
+        "explanation": "Avec « y », la négation se place autour du groupe verbal: n' + y + verbe + jamais."
+      }
     ]
   },
   {
