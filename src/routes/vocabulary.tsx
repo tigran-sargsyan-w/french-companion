@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 import { PageHeader } from "@/components/AppShell";
-import { vocabulary, lessons, type VocabStatus } from "@/data/mockData";
+import { vocabulary, lessons, type VocabStatus } from "@/data";
 
 export const Route = createFileRoute("/vocabulary")({
   component: VocabularyPage,
