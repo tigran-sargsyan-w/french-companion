@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-09-006",
-  "updatedAt": "2026-07-09T20:15:00.000Z",
-  "description": "Vocabulary appearance counts are now computed dynamically from lesson vocabulary files."
+  "version": "2026-07-09-007",
+  "updatedAt": "2026-07-09T20:45:00.000Z",
+  "description": "Vocabulary first-seen lessons and appearance counts are computed dynamically from lesson vocabulary files."
 }
