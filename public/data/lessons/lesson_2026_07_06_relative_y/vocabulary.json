@@ -5,8 +5,7 @@
     "translation": "анкета / опросник",
     "example": "En groupe, on conçoit un nouveau questionnaire.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_situer",
@@ -14,8 +13,7 @@
     "translation": "располагать / определять местоположение",
     "example": "Il faut situer le pays sur la carte.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_faire_deviner",
@@ -23,8 +21,7 @@
     "translation": "дать угадать / заставить угадать",
     "example": "On doit faire deviner un pays aux autres étudiants.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_proposer",
@@ -32,8 +29,7 @@
     "translation": "предлагать",
     "example": "Je propose une activité pour la classe.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_conseiller",
@@ -41,8 +37,7 @@
     "translation": "советовать",
     "example": "Je te conseille de réviser les pronoms relatifs.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_obliger",
@@ -50,8 +45,7 @@
     "translation": "обязывать / заставлять",
     "example": "Le professeur nous oblige à parler français.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_accepter",
@@ -59,8 +53,7 @@
     "translation": "принимать / соглашаться",
     "example": "J'accepte ta proposition.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_refuser",
@@ -68,8 +61,7 @@
     "translation": "отказываться / отказывать",
     "example": "Il refuse de répondre à la question.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_a_l_est_de",
@@ -77,8 +69,7 @@
     "translation": "к востоку от",
     "example": "La Pologne est à l'est de l'Allemagne.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_au_nord_de",
@@ -86,8 +77,7 @@
     "translation": "к северу от",
     "example": "Ce pays est au nord de la République tchèque.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_au_sud_de",
@@ -95,8 +85,7 @@
     "translation": "к югу от",
     "example": "Cette ville est au sud de la France.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_a_cote_de",
@@ -104,8 +93,7 @@
     "translation": "рядом с",
     "example": "Cette ville est à côté de la mer.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   },
   {
     "id": "v_2026_07_06_entre_et",
@@ -113,7 +101,6 @@
     "translation": "между ... и ...",
     "example": "L'Espagne est entre le Portugal et la France.",
     "status": "learning",
-    "firstSeenLessonId": "lesson_2026_07_06_relative_y",
-    "appearances": 1
+    "firstSeenLessonId": "lesson_2026_07_06_relative_y"
   }
 ]
