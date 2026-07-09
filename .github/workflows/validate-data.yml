@@ -1,0 +1,37 @@
+name: Validate Learning Data
+
+on:
+  push:
+    branches:
+      - "**"
+    paths:
+      - "public/data/**"
+      - "scripts/validate-data.mjs"
+      - ".github/workflows/validate-data.yml"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "public/data/**"
+      - "scripts/validate-data.mjs"
+      - ".github/workflows/validate-data.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate JSON content
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Validate learning data
+        run: node scripts/validate-data.mjs
