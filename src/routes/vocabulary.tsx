@@ -90,6 +90,7 @@ function VocabularyPage() {
             .map((lessonId) => lessons.find((lesson) => lesson.id === lessonId)?.title)
             .filter((title): title is string => Boolean(title))
             .join("\n");
+          const firstSeenLabel = first ? `${first.title} · ${first.date}` : "—";
 
           return (
             <article key={v.id} className="card-soft p-5 flex flex-col gap-3">
@@ -107,13 +108,19 @@ function VocabularyPage() {
               <p className="text-sm italic text-foreground/80 border-l-2 border-primary/40 pl-3">
                 « {v.example} »
               </p>
-              <div className="flex items-center justify-between text-xs text-muted-foreground pt-2 border-t border-border">
-                <span className="truncate" title={seenLessonTitles}>
-                  Vu d'abord : {first?.title ?? "—"}
-                </span>
-                <span className="shrink-0" title="Nombre d'apparitions dans les fichiers de vocabulaire">
-                  ×{v.appearances}
-                </span>
+              <div className="grid gap-1 text-xs text-muted-foreground pt-2 border-t border-border">
+                <div className="flex items-center justify-between gap-3">
+                  <span className="shrink-0">Première fois</span>
+                  <span className="truncate text-right" title={seenLessonTitles}>
+                    {firstSeenLabel}
+                  </span>
+                </div>
+                <div className="flex items-center justify-between gap-3">
+                  <span>Occurrences notées</span>
+                  <span className="font-semibold text-foreground" title="Nombre d'apparitions dans les fichiers de vocabulaire">
+                    ×{v.appearances}
+                  </span>
+                </div>
               </div>
             </article>
           );
