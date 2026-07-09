@@ -6,10 +6,11 @@ export interface VocabSourceItem {
   translation: string;
   example: string;
   status: VocabStatus;
-  firstSeenLessonId: string;
 }
 
 export interface VocabWord extends VocabSourceItem {
+  firstSeenLessonId: string;
   appearances: number;
   seenInLessonIds: string[];
+  sourceIds: string[];
 }

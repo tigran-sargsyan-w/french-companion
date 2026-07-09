@@ -34,6 +34,7 @@ public/data/
 - `src/data/index.ts` loads the lesson index, then loads each lesson folder.
 - The loader still returns one normalized `LearningData` object for the UI: `lessons`, `vocabulary`, `grammar`, `mistakes` and `homework`.
 - Vocabulary appearance counts are computed dynamically from all lesson `vocabulary.json` files. Do not add or update `appearances` manually.
+- The first-seen lesson for a word is also computed dynamically from the first lesson file where that word appears. Do not add `firstSeenLessonId` manually.
 - Route components call `useLearningData()` and display loading/error states while JSON is loading.
 
 ## Adding a lesson
