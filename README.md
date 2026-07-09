@@ -35,12 +35,18 @@ Learning content is stored as static JSON files in `public/data/`.
 The main index is `public/data/lessons.json`. Each lesson has its own folder:
 
 ```txt
-public/data/lessons/lesson_2026_07_06_relative_y/
+public/data/lessons/lesson_1_2026_07_06/
   lesson.json
   grammar.json
   vocabulary.json
   homework.json
   mistakes.json
+```
+
+Lesson folders use this naming format:
+
+```txt
+lesson_<number>_<yyyy>_<mm>_<dd>
 ```
 
 To add a new lesson, create a new folder under `public/data/lessons/`, add the five JSON files, then register the folder path in `public/data/lessons.json`. GitHub Actions will rebuild and redeploy the site automatically after push.
