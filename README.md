@@ -49,7 +49,9 @@ Lesson folders use this naming format:
 lesson_<number>_<yyyy>_<mm>_<dd>
 ```
 
-To add a new lesson, create a new folder under `public/data/lessons/`, add the five JSON files, then register the folder path in `public/data/lessons.json`. GitHub Actions will rebuild and redeploy the site automatically after push.
+To add a new lesson, create a new folder under `public/data/lessons/`, add the five JSON files, then register the folder path in `public/data/lessons.json`. Content belongs to the file inside that lesson folder: words go only in `vocabulary.json`, grammar only in `grammar.json`, homework only in `homework.json`, and mistakes only in `mistakes.json`. Do not duplicate vocabulary or grammar IDs in `lesson.json`.
+
+GitHub Actions will rebuild and redeploy the site automatically after push.
 
 ## Routing
 
