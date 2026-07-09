@@ -22,17 +22,20 @@ public/data/
 ## Files
 
 - `public/data/lessons.json` — small lesson index with metadata and a `path` for each lesson folder
-- `lesson.json` — lesson summary, notes, photos and IDs of related content
+- `lesson.json` — lesson summary, notes and photos only
 - `grammar.json` — grammar topics for this lesson only
 - `vocabulary.json` — words and expressions for this lesson only
-- `mistakes.json` — mistakes connected to this lesson
-- `homework.json` — homework tasks for this lesson
+- `mistakes.json` — mistakes connected to this lesson only
+- `homework.json` — homework tasks for this lesson only
 - `public/data/content-version.json` — metadata for the current content snapshot
 
 ## Runtime code
 
 - `src/data/index.ts` loads the lesson index, then loads each lesson folder.
 - The loader still returns one normalized `LearningData` object for the UI: `lessons`, `vocabulary`, `grammar`, `mistakes` and `homework`.
+- Lesson pages infer their related grammar, vocabulary, homework and mistakes directly from the files inside that lesson folder.
+- Do not duplicate `grammarTopicIds`, `vocabIds` or `homeworkIds` in `lesson.json`.
+- Do not add `lessonId` manually to `homework.json` or `mistakes.json`; the loader adds it from the lesson folder at runtime.
 - Vocabulary appearance counts are computed dynamically from all lesson `vocabulary.json` files. Do not add or update `appearances` manually.
 - The first-seen lesson for a word is also computed dynamically from the first lesson file where that word appears. Do not add `firstSeenLessonId` manually.
 - Route components call `useLearningData()` and display loading/error states while JSON is loading.
@@ -59,8 +62,11 @@ Keep the stable lesson `id` inside JSON separate from the folder name. The app l
 
 1. Create a new folder inside `public/data/lessons/`, for example `lesson_2_2026_07_08`.
 2. Add these files inside it: `lesson.json`, `grammar.json`, `vocabulary.json`, `homework.json`, `mistakes.json`.
-3. Add the new lesson to `public/data/lessons.json` with its `path`.
-4. Update `public/data/content-version.json`.
-5. Commit and push. GitHub Actions will rebuild and deploy the site.
+3. Put new words only in that lesson's `vocabulary.json`.
+4. Put new grammar topics only in that lesson's `grammar.json`.
+5. Put homework and mistakes only in that lesson's `homework.json` and `mistakes.json`.
+6. Add the new lesson to `public/data/lessons.json` with its `path`.
+7. Update `public/data/content-version.json`.
+8. Commit and push. GitHub Actions will rebuild and deploy the site.
 
-Keep IDs stable because routes and relationships depend on them.
+Keep IDs stable inside each file because React keys, search and future review features depend on them.
