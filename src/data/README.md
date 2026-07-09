@@ -11,7 +11,7 @@ public/data/
   content-version.json
   lessons.json
   lessons/
-    lesson_2026_07_06_relative_y/
+    lesson_1_2026_07_06/
       lesson.json
       grammar.json
       vocabulary.json
@@ -37,9 +37,27 @@ public/data/
 - The first-seen lesson for a word is also computed dynamically from the first lesson file where that word appears. Do not add `firstSeenLessonId` manually.
 - Route components call `useLearningData()` and display loading/error states while JSON is loading.
 
+## Lesson folder naming
+
+Use this format:
+
+```txt
+lesson_<number>_<yyyy>_<mm>_<dd>
+```
+
+Example:
+
+```txt
+lesson_1_2026_07_06
+lesson_2_2026_07_08
+lesson_3_2026_07_10
+```
+
+Keep the stable lesson `id` inside JSON separate from the folder name. The app loads content through the `path` field in `public/data/lessons.json`.
+
 ## Adding a lesson
 
-1. Create a new folder inside `public/data/lessons/`, for example `lesson_2026_07_08_articles`.
+1. Create a new folder inside `public/data/lessons/`, for example `lesson_2_2026_07_08`.
 2. Add these files inside it: `lesson.json`, `grammar.json`, `vocabulary.json`, `homework.json`, `mistakes.json`.
 3. Add the new lesson to `public/data/lessons.json` with its `path`.
 4. Update `public/data/content-version.json`.
