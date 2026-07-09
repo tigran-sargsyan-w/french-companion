@@ -1,7 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
-import { getGrammar, getVocab, useLearningData } from "@/data";
+import { getGrammarByLesson, getVocabByLesson, useLearningData } from "@/data";
 
 export const Route = createFileRoute("/lessons/")({
   component: LessonsPage,
@@ -69,8 +69,8 @@ function LessonsPage() {
             </h2>
             <div className="grid sm:grid-cols-2 gap-4">
               {items.map((l) => {
-                const vocab = getVocab(data, l.vocabIds);
-                const gram = getGrammar(data, l.grammarTopicIds);
+                const vocab = getVocabByLesson(data, l.id);
+                const gram = getGrammarByLesson(data, l.id);
                 return (
                   <Link
                     key={l.id}
