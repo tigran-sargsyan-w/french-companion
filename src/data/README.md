@@ -40,6 +40,14 @@ public/data/
 - The first-seen lesson for a word is also computed dynamically from the first lesson file where that word appears. Do not add `firstSeenLessonId` manually.
 - Route components call `useLearningData()` and display loading/error states while JSON is loading.
 
+## Automatic validation
+
+`scripts/validate-data.mjs` checks the JSON content structure.
+
+GitHub Actions runs this validator automatically when data files, the validator, or the validation workflow change. The deployment workflow also runs it before building the site.
+
+The validator checks that lesson folders exist, required JSON files are present, JSON is valid, lesson index metadata matches `lesson.json`, IDs are unique, enum values are valid, legacy duplicated fields are not present, and photo files exist when referenced.
+
 ## Lesson folder naming
 
 Use this format:
@@ -67,6 +75,6 @@ Keep the stable lesson `id` inside JSON separate from the folder name. The app l
 5. Put homework and mistakes only in that lesson's `homework.json` and `mistakes.json`.
 6. Add the new lesson to `public/data/lessons.json` with its `path`.
 7. Update `public/data/content-version.json`.
-8. Commit and push. GitHub Actions will rebuild and deploy the site.
+8. Commit and push. GitHub Actions will validate the data, rebuild, and deploy the site.
 
 Keep IDs stable inside each file because React keys, search and future review features depend on them.
