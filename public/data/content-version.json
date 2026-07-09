@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-09-007",
-  "updatedAt": "2026-07-09T20:45:00.000Z",
-  "description": "Vocabulary first-seen lessons and appearance counts are computed dynamically from lesson vocabulary files."
+  "version": "2026-07-09-008",
+  "updatedAt": "2026-07-09T21:20:00.000Z",
+  "description": "Lesson pages now infer grammar, vocabulary, homework and mistakes directly from each lesson folder."
 }
