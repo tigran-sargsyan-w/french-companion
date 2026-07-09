@@ -3,6 +3,7 @@ import { Search, X } from "lucide-react";
 import { useState } from "react";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { VocabularyWordModal, type VocabularyWordModalItem } from "@/components/VocabularyWordModal";
 import { useLearningData, type LearningData, type VocabStatus, type VocabWord } from "@/data";
 
 export const Route = createFileRoute("/vocabulary")({
@@ -20,6 +21,7 @@ const statusStyle: Record<VocabStatus, string> = {
   learning: "bg-[var(--color-mustard)] text-foreground",
   learned: "bg-[var(--color-sage)] text-foreground",
 };
+
 const statusLabel: Record<VocabStatus, string> = {
   new: "Nouveau",
   learning: "En cours",
@@ -32,6 +34,21 @@ function normalizeSearchText(value: string) {
     .replace(/[\u0300-\u036f]/g, "")
     .toLocaleLowerCase("fr-FR")
     .trim();
+}
+
+function normalizeComparableText(value: string) {
+  return normalizeSearchText(value)
+    .replace(/[’']/g, " ")
+    .replace(/\s+/g, " ");
+}
+
+function getWordSearchCandidates(word: VocabWord) {
+  const normalizedWord = normalizeComparableText(word.french);
+  const withoutLeadingArticle = normalizedWord
+    .replace(/^(un|une|le|la|les|des|du|de|d|l)\s+/, "")
+    .trim();
+
+  return Array.from(new Set([normalizedWord, withoutLeadingArticle].filter(Boolean)));
 }
 
 function getLessonLabel(
@@ -50,10 +67,85 @@ function getLessonLabel(
   return `${lessonNumber} · ${lessonMeta.date}`;
 }
 
+function getSourceExamples(
+  word: VocabWord,
+  data: LearningData,
+): VocabularyWordModalItem["sourceExamples"] {
+  return data.lessonBundles.flatMap((bundle) => {
+    const lessonLabel =
+      getLessonLabel(bundle.lesson.id, data.lessonIndex, data.lessons) ?? bundle.lesson.title;
+
+    return bundle.vocabulary
+      .filter((sourceWord) => word.sourceIds.includes(sourceWord.id))
+      .map((sourceWord) => ({
+        id: sourceWord.id,
+        lessonLabel,
+        french: sourceWord.french,
+        translation: sourceWord.translation,
+        example: sourceWord.example,
+        status: sourceWord.status,
+      }));
+  });
+}
+
+function findRelatedMistakes(word: VocabWord, data: LearningData) {
+  const candidates = getWordSearchCandidates(word);
+
+  return data.mistakes.filter((mistake) => {
+    const mistakeText = normalizeComparableText(
+      [mistake.wrong, mistake.correct, mistake.note, mistake.category].join(" "),
+    );
+
+    return candidates.some((candidate) => mistakeText.includes(candidate));
+  });
+}
+
+function findRelatedGrammar(word: VocabWord, data: LearningData) {
+  const candidates = getWordSearchCandidates(word);
+
+  return data.grammar.filter((grammar) => {
+    const grammarText = normalizeComparableText(
+      [
+        grammar.title,
+        grammar.category,
+        grammar.summary,
+        ...grammar.examples,
+        ...(grammar.annotatedExamples ?? []).flatMap((example) => [
+          example.title,
+          example.explanation,
+          example.markup,
+          ...(example.sourceSentences ?? []),
+        ]),
+      ].join(" "),
+    );
+
+    return candidates.some((candidate) => grammarText.includes(candidate));
+  });
+}
+
+function buildVocabularyModalItem(
+  word: VocabWord,
+  data: LearningData,
+  seenLessonLabels: string[],
+  firstSeenLabel: string,
+): VocabularyWordModalItem {
+  return {
+    word,
+    firstSeenLabel,
+    seenLessonLabels,
+    sourceExamples: getSourceExamples(word, data),
+    relatedMistakes: findRelatedMistakes(word, data),
+    relatedGrammar: findRelatedGrammar(word, data),
+  };
+}
+
 function buildVocabularySearchHaystack(
   word: VocabWord,
   seenLessonLabels: string[],
   firstSeenLabel: string,
+  sourceExamples: VocabularyWordModalItem["sourceExamples"],
+  relatedMistakes: LearningData["mistakes"],
+  relatedGrammar: LearningData["grammar"],
 ) {
   return normalizeSearchText(
     [
@@ -64,6 +156,9 @@ function buildVocabularySearchHaystack(
       word.status,
       firstSeenLabel,
       ...seenLessonLabels,
+      ...sourceExamples.flatMap((source) => [source.french, source.translation, source.example, source.lessonLabel]),
+      ...relatedMistakes.flatMap((mistake) => [mistake.wrong, mistake.correct, mistake.note, mistake.category]),
+      ...relatedGrammar.flatMap((grammar) => [grammar.title, grammar.category, grammar.summary, ...grammar.examples]),
     ].join(" "),
   );
 }
@@ -71,6 +166,7 @@ function buildVocabularySearchHaystack(
 function VocabularyPage() {
   const [filter, setFilter] = useState<VocabStatus | "all">("all");
   const [searchQuery, setSearchQuery] = useState("");
+  const [selectedWordId, setSelectedWordId] = useState<string | null>(null);
   const learningDataQuery = useLearningData();
 
   if (learningDataQuery.isPending) {
@@ -99,7 +195,8 @@ function VocabularyPage() {
     );
   }
 
-  const { vocabulary, lessons, lessonIndex } = learningDataQuery.data;
+  const data = learningDataQuery.data;
+  const { vocabulary, lessons, lessonIndex } = data;
   const normalizedSearchQuery = normalizeSearchText(searchQuery);
 
   const vocabularyItems = vocabulary.map((word) => {
@@ -108,13 +205,22 @@ function VocabularyPage() {
       .map((lessonId) => getLessonLabel(lessonId, lessonIndex, lessons))
       .filter((label): label is string => Boolean(label));
     const firstSeenLabel = first ? `Lesson ${first.number ?? ""} · ${first.date}`.trim() : "—";
+    const modalItem = buildVocabularyModalItem(word, data, seenLessonLabels, firstSeenLabel);
 
     return {
       word,
       firstSeenLabel,
       seenLessonLabels,
       seenLessonTitle: seenLessonLabels.join("\n"),
-      searchHaystack: buildVocabularySearchHaystack(word, seenLessonLabels, firstSeenLabel),
+      modalItem,
+      searchHaystack: buildVocabularySearchHaystack(
+        word,
+        seenLessonLabels,
+        firstSeenLabel,
+        modalItem.sourceExamples,
+        modalItem.relatedMistakes,
+        modalItem.relatedGrammar,
+      ),
     };
   });
 
@@ -123,6 +229,10 @@ function VocabularyPage() {
       (filter === "all" || word.status === filter) &&
       (normalizedSearchQuery === "" || searchHaystack.includes(normalizedSearchQuery)),
   );
+
+  const selectedItem = selectedWordId
+    ? vocabularyItems.find(({ word }) => word.id === selectedWordId)?.modalItem
+    : undefined;
 
   const hasActiveFilters = filter !== "all" || normalizedSearchQuery !== "";
   const resultLabel = hasActiveFilters
@@ -201,8 +311,21 @@ function VocabularyPage() {
         </div>
       ) : (
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {filtered.map(({ word, firstSeenLabel, seenLessonTitle }) => (
-            <article key={word.id} className="card-soft p-5 flex flex-col gap-3">
+          {filtered.map(({ word, firstSeenLabel, seenLessonTitle, modalItem }) => (
+            <article
+              key={word.id}
+              role="button"
+              tabIndex={0}
+              aria-label={`Ouvrir les détails du mot ${word.french}`}
+              onClick={() => setSelectedWordId(word.id)}
+              onKeyDown={(event) => {
+                if (event.key === "Enter" || event.key === " ") {
+                  event.preventDefault();
+                  setSelectedWordId(word.id);
+                }
+              }}
+              className="card-soft p-5 flex cursor-pointer flex-col gap-3 transition-all hover:-translate-y-0.5 hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-ring/40"
+            >
               <div className="flex items-start justify-between gap-3">
                 <div className="min-w-0">
                   <div className="font-display text-2xl leading-tight">{word.french}</div>
@@ -214,9 +337,24 @@ function VocabularyPage() {
                   {statusLabel[word.status]}
                 </span>
               </div>
+
               <p className="text-sm italic text-foreground/80 border-l-2 border-primary/40 pl-3">
                 « {word.example} »
               </p>
+
+              <div className="flex flex-wrap gap-2 text-[11px] text-muted-foreground">
+                {modalItem.relatedMistakes.length > 0 && (
+                  <span className="rounded-full bg-secondary px-2 py-1">
+                    ⚠ {modalItem.relatedMistakes.length} erreur(s)
+                  </span>
+                )}
+                {modalItem.relatedGrammar.length > 0 && (
+                  <span className="rounded-full bg-secondary px-2 py-1">
+                    ✦ {modalItem.relatedGrammar.length} grammaire
+                  </span>
+                )}
+              </div>
+
               <div className="grid gap-1 text-xs text-muted-foreground pt-2 border-t border-border">
                 <div className="flex items-center justify-between gap-3">
                   <span className="shrink-0">Première fois</span>
@@ -235,6 +373,8 @@ function VocabularyPage() {
           ))}
         </div>
       )}
+
+      {selectedItem && <VocabularyWordModal item={selectedItem} onClose={() => setSelectedWordId(null)} />}
     </>
   );
 }
