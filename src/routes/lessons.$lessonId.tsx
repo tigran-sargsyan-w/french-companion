@@ -2,7 +2,6 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import {
   AlertCircle,
   ArrowLeft,
-  BookOpen,
   Camera,
   CheckCircle2,
   ClipboardList,
