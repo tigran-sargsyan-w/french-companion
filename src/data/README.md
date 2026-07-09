@@ -4,28 +4,43 @@ The source of truth for learning content is stored as static JSON files in `publ
 
 This folder contains the TypeScript data loader and helper selectors used by the UI.
 
-## Static JSON files
+## Static JSON structure
 
-- `public/data/lessons.json` — lesson metadata, summaries, notes and links to related data
-- `public/data/vocabulary.json` — words and expressions
-- `public/data/grammar.json` — grammar topics
-- `public/data/mistakes.json` — mistakes to review
-- `public/data/homework.json` — homework tasks and their committed status
+```txt
+public/data/
+  content-version.json
+  lessons.json
+  lessons/
+    lesson_2026_07_06_relative_y/
+      lesson.json
+      grammar.json
+      vocabulary.json
+      homework.json
+      mistakes.json
+```
+
+## Files
+
+- `public/data/lessons.json` — small lesson index with metadata and a `path` for each lesson folder
+- `lesson.json` — lesson summary, notes, photos and IDs of related content
+- `grammar.json` — grammar topics for this lesson only
+- `vocabulary.json` — words and expressions for this lesson only
+- `mistakes.json` — mistakes connected to this lesson
+- `homework.json` — homework tasks for this lesson
 - `public/data/content-version.json` — metadata for the current content snapshot
 
 ## Runtime code
 
-- `src/data/index.ts` fetches the JSON files and exposes helper selectors.
+- `src/data/index.ts` loads the lesson index, then loads each lesson folder.
+- The loader still returns one normalized `LearningData` object for the UI: `lessons`, `vocabulary`, `grammar`, `mistakes` and `homework`.
 - Route components call `useLearningData()` and display loading/error states while JSON is loading.
 
 ## Adding a lesson
 
-1. Add new words to `public/data/vocabulary.json`.
-2. Add new grammar topics to `public/data/grammar.json`.
-3. Add homework tasks to `public/data/homework.json`.
-4. Add mistakes to `public/data/mistakes.json` if needed.
-5. Add the lesson itself to `public/data/lessons.json` and connect it with IDs.
-6. Update `public/data/content-version.json`.
-7. Commit and push. GitHub Actions will rebuild and deploy the site.
+1. Create a new folder inside `public/data/lessons/`, for example `lesson_2026_07_08_articles`.
+2. Add these files inside it: `lesson.json`, `grammar.json`, `vocabulary.json`, `homework.json`, `mistakes.json`.
+3. Add the new lesson to `public/data/lessons.json` with its `path`.
+4. Update `public/data/content-version.json`.
+5. Commit and push. GitHub Actions will rebuild and deploy the site.
 
 Keep IDs stable because routes and relationships depend on them.
