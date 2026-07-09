@@ -86,10 +86,10 @@ function VocabularyPage() {
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {filtered.map((v) => {
           const first = lessons.find((l) => l.id === v.firstSeenLessonId);
-          const seenLessons = v.seenInLessonIds
-            .map((lessonId) => lessons.find((lesson) => lesson.id === lessonId))
-            .filter(Boolean);
-          const seenLessonTitles = seenLessons.map((lesson) => lesson.title).join("\n");
+          const seenLessonTitles = v.seenInLessonIds
+            .map((lessonId) => lessons.find((lesson) => lesson.id === lessonId)?.title)
+            .filter((title): title is string => Boolean(title))
+            .join("\n");
 
           return (
             <article key={v.id} className="card-soft p-5 flex flex-col gap-3">
