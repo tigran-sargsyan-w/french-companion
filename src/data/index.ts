@@ -10,6 +10,24 @@ export interface ContentVersion {
   description?: string;
 }
 
+export interface LessonIndexItem {
+  id: string;
+  number?: number;
+  title: string;
+  date: string;
+  level?: string;
+  status?: "done" | "in-progress" | "planned";
+  path: string;
+}
+
+export interface LessonBundle {
+  lesson: Lesson;
+  vocabulary: VocabWord[];
+  grammar: GrammarTopic[];
+  mistakes: Mistake[];
+  homework: HomeworkItem[];
+}
+
 export interface LearningData {
   lessons: Lesson[];
   vocabulary: VocabWord[];
@@ -17,39 +35,62 @@ export interface LearningData {
   mistakes: Mistake[];
   homework: HomeworkItem[];
   contentVersion: ContentVersion;
+  lessonIndex: LessonIndexItem[];
 }
 
-const dataBaseUrl = `${import.meta.env.BASE_URL}data`;
+function getPublicPath(path: string) {
+  const cleanPath = path.replace(/^\/+/, "");
+  return `${import.meta.env.BASE_URL}${cleanPath}`;
+}
 
-async function fetchDataFile<T>(fileName: string): Promise<T> {
-  const response = await fetch(`${dataBaseUrl}/${fileName}`, {
+async function fetchDataFile<T>(path: string): Promise<T> {
+  const response = await fetch(getPublicPath(path), {
     cache: "no-cache",
   });
 
   if (!response.ok) {
-    throw new Error(`Failed to load ${fileName}: ${response.status}`);
+    throw new Error(`Failed to load ${path}: ${response.status}`);
   }
 
   return response.json() as Promise<T>;
 }
 
-export async function loadLearningData(): Promise<LearningData> {
-  const [lessons, vocabulary, grammar, mistakes, homework, contentVersion] = await Promise.all([
-    fetchDataFile<Lesson[]>("lessons.json"),
-    fetchDataFile<VocabWord[]>("vocabulary.json"),
-    fetchDataFile<GrammarTopic[]>("grammar.json"),
-    fetchDataFile<Mistake[]>("mistakes.json"),
-    fetchDataFile<HomeworkItem[]>("homework.json"),
-    fetchDataFile<ContentVersion>("content-version.json"),
+async function loadLessonBundle(indexItem: LessonIndexItem): Promise<LessonBundle> {
+  const basePath = indexItem.path.replace(/\/+$/, "");
+
+  const [lesson, vocabulary, grammar, mistakes, homework] = await Promise.all([
+    fetchDataFile<Lesson>(`${basePath}/lesson.json`),
+    fetchDataFile<VocabWord[]>(`${basePath}/vocabulary.json`),
+    fetchDataFile<GrammarTopic[]>(`${basePath}/grammar.json`),
+    fetchDataFile<Mistake[]>(`${basePath}/mistakes.json`),
+    fetchDataFile<HomeworkItem[]>(`${basePath}/homework.json`),
   ]);
 
   return {
-    lessons,
+    lesson,
     vocabulary,
     grammar,
     mistakes,
     homework,
+  };
+}
+
+export async function loadLearningData(): Promise<LearningData> {
+  const [lessonIndex, contentVersion] = await Promise.all([
+    fetchDataFile<LessonIndexItem[]>("data/lessons.json"),
+    fetchDataFile<ContentVersion>("data/content-version.json"),
+  ]);
+
+  const lessonBundles = await Promise.all(lessonIndex.map(loadLessonBundle));
+
+  return {
+    lessons: lessonBundles.map((bundle) => bundle.lesson),
+    vocabulary: lessonBundles.flatMap((bundle) => bundle.vocabulary),
+    grammar: lessonBundles.flatMap((bundle) => bundle.grammar),
+    mistakes: lessonBundles.flatMap((bundle) => bundle.mistakes),
+    homework: lessonBundles.flatMap((bundle) => bundle.homework),
     contentVersion,
+    lessonIndex,
   };
 }
 
