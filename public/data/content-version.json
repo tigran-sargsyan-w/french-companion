@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-09-004",
-  "updatedAt": "2026-07-09T00:30:00.000Z",
-  "description": "Switched annotated grammar examples to compact markup syntax."
+  "version": "2026-07-09-005",
+  "updatedAt": "2026-07-09T19:30:00.000Z",
+  "description": "Learning content now loads from one folder per lesson."
 }
