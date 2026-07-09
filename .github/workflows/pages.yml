@@ -32,6 +32,9 @@ jobs:
         with:
           node-version: 22
 
+      - name: Validate learning data
+        run: node scripts/validate-data.mjs
+
       - name: Install dependencies
         run: npm install
 
