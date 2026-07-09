@@ -86,6 +86,11 @@ function VocabularyPage() {
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {filtered.map((v) => {
           const first = lessons.find((l) => l.id === v.firstSeenLessonId);
+          const seenLessonTitles = v.seenInLessonIds
+            .map((lessonId) => lessons.find((lesson) => lesson.id === lessonId)?.title)
+            .filter((title): title is string => Boolean(title))
+            .join("\n");
+
           return (
             <article key={v.id} className="card-soft p-5 flex flex-col gap-3">
               <div className="flex items-start justify-between gap-3">
@@ -103,8 +108,12 @@ function VocabularyPage() {
                 « {v.example} »
               </p>
               <div className="flex items-center justify-between text-xs text-muted-foreground pt-2 border-t border-border">
-                <span className="truncate">Vu dans : {first?.title ?? "—"}</span>
-                <span className="shrink-0">×{v.appearances}</span>
+                <span className="truncate" title={seenLessonTitles}>
+                  Vu d'abord : {first?.title ?? "—"}
+                </span>
+                <span className="shrink-0" title="Nombre d'apparitions dans les fichiers de vocabulaire">
+                  ×{v.appearances}
+                </span>
               </div>
             </article>
           );
