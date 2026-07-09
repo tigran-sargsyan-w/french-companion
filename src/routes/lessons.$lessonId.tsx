@@ -14,11 +14,11 @@ import { PageHeader } from "@/components/AppShell";
 import { AnnotatedGrammarExample } from "@/components/AnnotatedGrammarExample";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
 import {
-  getGrammar,
-  getHomework,
+  getGrammarByLesson,
+  getHomeworkByLesson,
   getLesson,
   getMistakesByLesson,
-  getVocab,
+  getVocabByLesson,
   useLearningData,
 } from "@/data";
 
@@ -122,9 +122,9 @@ function LessonDetail() {
   const lessonMeta = data.lessonIndex.find((item) => item.id === lesson.id);
   const lessonNumber = lessonMeta?.number ? `Lesson ${lessonMeta.number}` : "Lesson";
   const level = lessonMeta?.level ?? "—";
-  const vocab = getVocab(data, lesson.vocabIds);
-  const grammar = getGrammar(data, lesson.grammarTopicIds);
-  const homework = getHomework(data, lesson.homeworkIds);
+  const vocab = getVocabByLesson(data, lesson.id);
+  const grammar = getGrammarByLesson(data, lesson.id);
+  const homework = getHomeworkByLesson(data, lesson.id);
   const mistakes = getMistakesByLesson(data, lesson.id);
   const photos = lesson.photos ?? [];
 
