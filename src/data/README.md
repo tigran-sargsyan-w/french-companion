@@ -17,6 +17,8 @@ public/data/
       vocabulary.json
       homework.json
       mistakes.json
+      photos/
+        board-photo.jpg
 ```
 
 ## Files
@@ -27,6 +29,7 @@ public/data/
 - `vocabulary.json` — words and expressions for this lesson only
 - `mistakes.json` — mistakes connected to this lesson only
 - `homework.json` — homework tasks for this lesson only
+- `photos/` — optional lesson documents, board photos or screenshots used by `lesson.json`
 - `public/data/content-version.json` — metadata for the current content snapshot
 
 ## Runtime code
@@ -38,7 +41,38 @@ public/data/
 - Do not add `lessonId` manually to `homework.json` or `mistakes.json`; the loader adds it from the lesson folder at runtime.
 - Vocabulary appearance counts are computed dynamically from all lesson `vocabulary.json` files. Do not add or update `appearances` manually.
 - The first-seen lesson for a word is also computed dynamically from the first lesson file where that word appears. Do not add `firstSeenLessonId` manually.
+- Lesson photo paths are resolved relative to the lesson folder, so `photos/board.jpg` points to `public/data/lessons/<lesson-folder>/photos/board.jpg`.
 - Route components call `useLearningData()` and display loading/error states while JSON is loading.
+
+## Lesson photos
+
+Put lesson-specific images inside that lesson folder, preferably in a `photos/` subfolder:
+
+```txt
+public/data/lessons/lesson_2_2026_07_08/photos/
+  board.jpg
+  textbook-page.webp
+```
+
+Then reference them in `lesson.json`:
+
+```json
+"photos": [
+  {
+    "src": "photos/board.jpg",
+    "caption": "Tableau de révision: passé composé",
+    "alt": "Photo du tableau de cours sur le passé composé"
+  }
+]
+```
+
+Simple string paths are also supported:
+
+```json
+"photos": ["photos/board.jpg"]
+```
+
+The lesson detail page shows a gallery and opens a large preview when a photo is clicked.
 
 ## Automatic validation
 
@@ -70,11 +104,12 @@ Keep the stable lesson `id` inside JSON separate from the folder name. The app l
 
 1. Create a new folder inside `public/data/lessons/`, for example `lesson_2_2026_07_08`.
 2. Add these files inside it: `lesson.json`, `grammar.json`, `vocabulary.json`, `homework.json`, `mistakes.json`.
-3. Put new words only in that lesson's `vocabulary.json`.
-4. Put new grammar topics only in that lesson's `grammar.json`.
-5. Put homework and mistakes only in that lesson's `homework.json` and `mistakes.json`.
-6. Add the new lesson to `public/data/lessons.json` with its `path`.
-7. Update `public/data/content-version.json`.
-8. Commit and push. GitHub Actions will validate the data, rebuild, and deploy the site.
+3. Optionally add lesson images under `photos/` and reference them from `lesson.json`.
+4. Put new words only in that lesson's `vocabulary.json`.
+5. Put new grammar topics only in that lesson's `grammar.json`.
+6. Put homework and mistakes only in that lesson's `homework.json` and `mistakes.json`.
+7. Add the new lesson to `public/data/lessons.json` with its `path`.
+8. Update `public/data/content-version.json`.
+9. Commit and push. GitHub Actions will validate the data, rebuild, and deploy the site.
 
 Keep IDs stable inside each file because React keys, search and future review features depend on them.
