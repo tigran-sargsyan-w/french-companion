@@ -55,7 +55,7 @@ function VocabularyPage() {
     );
   }
 
-  const { vocabulary, lessons } = learningDataQuery.data;
+  const { vocabulary, lessons, lessonIndex } = learningDataQuery.data;
   const filtered = vocabulary.filter((v) => filter === "all" || v.status === filter);
 
   return (
@@ -85,12 +85,22 @@ function VocabularyPage() {
 
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {filtered.map((v) => {
-          const first = lessons.find((l) => l.id === v.firstSeenLessonId);
-          const seenLessonTitles = v.seenInLessonIds
-            .map((lessonId) => lessons.find((lesson) => lesson.id === lessonId)?.title)
-            .filter((title): title is string => Boolean(title))
+          const first = lessonIndex.find((lesson) => lesson.id === v.firstSeenLessonId);
+          const seenLessonLabels = v.seenInLessonIds
+            .map((lessonId) => {
+              const lessonMeta = lessonIndex.find((lesson) => lesson.id === lessonId);
+              const lessonDetails = lessons.find((lesson) => lesson.id === lessonId);
+
+              if (!lessonMeta) {
+                return lessonDetails?.title;
+              }
+
+              const lessonNumber = lessonMeta.number ? `Lesson ${lessonMeta.number}` : "Lesson";
+              return `${lessonNumber} · ${lessonMeta.date}`;
+            })
+            .filter((label): label is string => Boolean(label))
             .join("\n");
-          const firstSeenLabel = first ? `${first.title} · ${first.date}` : "—";
+          const firstSeenLabel = first ? `Lesson ${first.number ?? ""} · ${first.date}`.trim() : "—";
 
           return (
             <article key={v.id} className="card-soft p-5 flex flex-col gap-3">
@@ -111,7 +121,7 @@ function VocabularyPage() {
               <div className="grid gap-1 text-xs text-muted-foreground pt-2 border-t border-border">
                 <div className="flex items-center justify-between gap-3">
                   <span className="shrink-0">Première fois</span>
-                  <span className="truncate text-right" title={seenLessonTitles}>
+                  <span className="truncate text-right" title={seenLessonLabels}>
                     {firstSeenLabel}
                   </span>
                 </div>
