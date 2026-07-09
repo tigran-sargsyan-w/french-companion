@@ -1,8 +1,11 @@
-export interface HomeworkItem {
+export interface HomeworkSourceItem {
   id: string;
-  lessonId: string;
   title: string;
   description: string;
   dueDate: string;
   done: boolean;
+}
+
+export interface HomeworkItem extends HomeworkSourceItem {
+  lessonId: string;
 }
