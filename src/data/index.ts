@@ -108,14 +108,16 @@ function buildVocabularyIndex(lessonBundles: LessonBundle[]): VocabWord[] {
       if (!existingWord) {
         vocabularyByKey.set(key, {
           ...word,
-          firstSeenLessonId: word.firstSeenLessonId || bundle.lesson.id,
+          firstSeenLessonId: bundle.lesson.id,
           appearances: 1,
           seenInLessonIds: [bundle.lesson.id],
+          sourceIds: [word.id],
         });
         continue;
       }
 
       existingWord.appearances += 1;
+      existingWord.sourceIds.push(word.id);
 
       if (!existingWord.seenInLessonIds.includes(bundle.lesson.id)) {
         existingWord.seenInLessonIds.push(bundle.lesson.id);
@@ -158,7 +160,7 @@ export function getLesson(data: LearningData, id: string) {
 }
 
 export function getVocab(data: LearningData, ids: string[]) {
-  return data.vocabulary.filter((word) => ids.includes(word.id));
+  return data.vocabulary.filter((word) => word.sourceIds.some((sourceId) => ids.includes(sourceId)));
 }
 
 export function getGrammar(data: LearningData, ids: string[]) {
