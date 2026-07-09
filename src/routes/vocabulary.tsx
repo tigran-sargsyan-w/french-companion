@@ -1,9 +1,9 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { Search, X } from "lucide-react";
-import { useMemo, useState } from "react";
+import { useState } from "react";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
-import { useLearningData, type VocabStatus, type VocabWord } from "@/data";
+import { useLearningData, type LearningData, type VocabStatus, type VocabWord } from "@/data";
 
 export const Route = createFileRoute("/vocabulary")({
   component: VocabularyPage,
@@ -36,8 +36,8 @@ function normalizeSearchText(value: string) {
 
 function getLessonLabel(
   lessonId: string,
-  lessonIndex: ReturnType<typeof useLearningData>["data"]["lessonIndex"],
-  lessons: ReturnType<typeof useLearningData>["data"]["lessons"],
+  lessonIndex: LearningData["lessonIndex"],
+  lessons: LearningData["lessons"],
 ) {
   const lessonMeta = lessonIndex.find((lesson) => lesson.id === lessonId);
   const lessonDetails = lessons.find((lesson) => lesson.id === lessonId);
@@ -102,25 +102,21 @@ function VocabularyPage() {
   const { vocabulary, lessons, lessonIndex } = learningDataQuery.data;
   const normalizedSearchQuery = normalizeSearchText(searchQuery);
 
-  const vocabularyItems = useMemo(
-    () =>
-      vocabulary.map((word) => {
-        const first = lessonIndex.find((lesson) => lesson.id === word.firstSeenLessonId);
-        const seenLessonLabels = word.seenInLessonIds
-          .map((lessonId) => getLessonLabel(lessonId, lessonIndex, lessons))
-          .filter((label): label is string => Boolean(label));
-        const firstSeenLabel = first ? `Lesson ${first.number ?? ""} · ${first.date}`.trim() : "—";
+  const vocabularyItems = vocabulary.map((word) => {
+    const first = lessonIndex.find((lesson) => lesson.id === word.firstSeenLessonId);
+    const seenLessonLabels = word.seenInLessonIds
+      .map((lessonId) => getLessonLabel(lessonId, lessonIndex, lessons))
+      .filter((label): label is string => Boolean(label));
+    const firstSeenLabel = first ? `Lesson ${first.number ?? ""} · ${first.date}`.trim() : "—";
 
-        return {
-          word,
-          firstSeenLabel,
-          seenLessonLabels,
-          seenLessonTitle: seenLessonLabels.join("\n"),
-          searchHaystack: buildVocabularySearchHaystack(word, seenLessonLabels, firstSeenLabel),
-        };
-      }),
-    [lessonIndex, lessons, vocabulary],
-  );
+    return {
+      word,
+      firstSeenLabel,
+      seenLessonLabels,
+      seenLessonTitle: seenLessonLabels.join("\n"),
+      searchHaystack: buildVocabularySearchHaystack(word, seenLessonLabels, firstSeenLabel),
+    };
+  });
 
   const filtered = vocabularyItems.filter(
     ({ word, searchHaystack }) =>
