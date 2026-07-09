@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-09-005",
-  "updatedAt": "2026-07-09T19:30:00.000Z",
-  "description": "Learning content now loads from one folder per lesson."
+  "version": "2026-07-09-006",
+  "updatedAt": "2026-07-09T20:15:00.000Z",
+  "description": "Vocabulary appearance counts are now computed dynamically from lesson vocabulary files."
 }
