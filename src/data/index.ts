@@ -1,8 +1,26 @@
 import { useQuery } from "@tanstack/react-query";
 
-import type { GrammarTopic, HomeworkItem, Lesson, Mistake, MistakeCategory, VocabStatus, VocabWord } from "@/types";
+import type {
+  GrammarTopic,
+  HomeworkItem,
+  Lesson,
+  Mistake,
+  MistakeCategory,
+  VocabSourceItem,
+  VocabStatus,
+  VocabWord,
+} from "@/types";
 
-export type { GrammarTopic, HomeworkItem, Lesson, Mistake, MistakeCategory, VocabStatus, VocabWord } from "@/types";
+export type {
+  GrammarTopic,
+  HomeworkItem,
+  Lesson,
+  Mistake,
+  MistakeCategory,
+  VocabSourceItem,
+  VocabStatus,
+  VocabWord,
+} from "@/types";
 
 export interface ContentVersion {
   version: string;
@@ -22,7 +40,7 @@ export interface LessonIndexItem {
 
 export interface LessonBundle {
   lesson: Lesson;
-  vocabulary: VocabWord[];
+  vocabulary: VocabSourceItem[];
   grammar: GrammarTopic[];
   mistakes: Mistake[];
   homework: HomeworkItem[];
@@ -43,6 +61,10 @@ function getPublicPath(path: string) {
   return `${import.meta.env.BASE_URL}${cleanPath}`;
 }
 
+function getVocabKey(french: string) {
+  return french.trim().replace(/\s+/g, " ").toLocaleLowerCase("fr-FR");
+}
+
 async function fetchDataFile<T>(path: string): Promise<T> {
   const response = await fetch(getPublicPath(path), {
     cache: "no-cache",
@@ -60,7 +82,7 @@ async function loadLessonBundle(indexItem: LessonIndexItem): Promise<LessonBundl
 
   const [lesson, vocabulary, grammar, mistakes, homework] = await Promise.all([
     fetchDataFile<Lesson>(`${basePath}/lesson.json`),
-    fetchDataFile<VocabWord[]>(`${basePath}/vocabulary.json`),
+    fetchDataFile<VocabSourceItem[]>(`${basePath}/vocabulary.json`),
     fetchDataFile<GrammarTopic[]>(`${basePath}/grammar.json`),
     fetchDataFile<Mistake[]>(`${basePath}/mistakes.json`),
     fetchDataFile<HomeworkItem[]>(`${basePath}/homework.json`),
@@ -75,6 +97,35 @@ async function loadLessonBundle(indexItem: LessonIndexItem): Promise<LessonBundl
   };
 }
 
+function buildVocabularyIndex(lessonBundles: LessonBundle[]): VocabWord[] {
+  const vocabularyByKey = new Map<string, VocabWord>();
+
+  for (const bundle of lessonBundles) {
+    for (const word of bundle.vocabulary) {
+      const key = getVocabKey(word.french);
+      const existingWord = vocabularyByKey.get(key);
+
+      if (!existingWord) {
+        vocabularyByKey.set(key, {
+          ...word,
+          firstSeenLessonId: word.firstSeenLessonId || bundle.lesson.id,
+          appearances: 1,
+          seenInLessonIds: [bundle.lesson.id],
+        });
+        continue;
+      }
+
+      existingWord.appearances += 1;
+
+      if (!existingWord.seenInLessonIds.includes(bundle.lesson.id)) {
+        existingWord.seenInLessonIds.push(bundle.lesson.id);
+      }
+    }
+  }
+
+  return Array.from(vocabularyByKey.values());
+}
+
 export async function loadLearningData(): Promise<LearningData> {
   const [lessonIndex, contentVersion] = await Promise.all([
     fetchDataFile<LessonIndexItem[]>("data/lessons.json"),
@@ -85,7 +136,7 @@ export async function loadLearningData(): Promise<LearningData> {
 
   return {
     lessons: lessonBundles.map((bundle) => bundle.lesson),
-    vocabulary: lessonBundles.flatMap((bundle) => bundle.vocabulary),
+    vocabulary: buildVocabularyIndex(lessonBundles),
     grammar: lessonBundles.flatMap((bundle) => bundle.grammar),
     mistakes: lessonBundles.flatMap((bundle) => bundle.mistakes),
     homework: lessonBundles.flatMap((bundle) => bundle.homework),
