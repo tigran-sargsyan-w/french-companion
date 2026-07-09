@@ -3,9 +3,11 @@ import { useQuery } from "@tanstack/react-query";
 import type {
   GrammarTopic,
   HomeworkItem,
+  HomeworkSourceItem,
   Lesson,
   Mistake,
   MistakeCategory,
+  MistakeSourceItem,
   VocabSourceItem,
   VocabStatus,
   VocabWord,
@@ -14,9 +16,11 @@ import type {
 export type {
   GrammarTopic,
   HomeworkItem,
+  HomeworkSourceItem,
   Lesson,
   Mistake,
   MistakeCategory,
+  MistakeSourceItem,
   VocabSourceItem,
   VocabStatus,
   VocabWord,
@@ -48,6 +52,7 @@ export interface LessonBundle {
 
 export interface LearningData {
   lessons: Lesson[];
+  lessonBundles: LessonBundle[];
   vocabulary: VocabWord[];
   grammar: GrammarTopic[];
   mistakes: Mistake[];
@@ -80,13 +85,23 @@ async function fetchDataFile<T>(path: string): Promise<T> {
 async function loadLessonBundle(indexItem: LessonIndexItem): Promise<LessonBundle> {
   const basePath = indexItem.path.replace(/\/+$/, "");
 
-  const [lesson, vocabulary, grammar, mistakes, homework] = await Promise.all([
+  const [lesson, vocabulary, grammar, mistakesSource, homeworkSource] = await Promise.all([
     fetchDataFile<Lesson>(`${basePath}/lesson.json`),
     fetchDataFile<VocabSourceItem[]>(`${basePath}/vocabulary.json`),
     fetchDataFile<GrammarTopic[]>(`${basePath}/grammar.json`),
-    fetchDataFile<Mistake[]>(`${basePath}/mistakes.json`),
-    fetchDataFile<HomeworkItem[]>(`${basePath}/homework.json`),
+    fetchDataFile<MistakeSourceItem[]>(`${basePath}/mistakes.json`),
+    fetchDataFile<HomeworkSourceItem[]>(`${basePath}/homework.json`),
   ]);
+
+  const mistakes = mistakesSource.map((mistake) => ({
+    ...mistake,
+    lessonId: lesson.id,
+  }));
+
+  const homework = homeworkSource.map((item) => ({
+    ...item,
+    lessonId: lesson.id,
+  }));
 
   return {
     lesson,
@@ -138,6 +153,7 @@ export async function loadLearningData(): Promise<LearningData> {
 
   return {
     lessons: lessonBundles.map((bundle) => bundle.lesson),
+    lessonBundles,
     vocabulary: buildVocabularyIndex(lessonBundles),
     grammar: lessonBundles.flatMap((bundle) => bundle.grammar),
     mistakes: lessonBundles.flatMap((bundle) => bundle.mistakes),
@@ -159,18 +175,38 @@ export function getLesson(data: LearningData, id: string) {
   return data.lessons.find((lesson) => lesson.id === id);
 }
 
-export function getVocab(data: LearningData, ids: string[]) {
-  return data.vocabulary.filter((word) => word.sourceIds.some((sourceId) => ids.includes(sourceId)));
+export function getLessonBundle(data: LearningData, lessonId: string) {
+  return data.lessonBundles.find((bundle) => bundle.lesson.id === lessonId);
 }
 
-export function getGrammar(data: LearningData, ids: string[]) {
-  return data.grammar.filter((topic) => ids.includes(topic.id));
+export function getVocabByLesson(data: LearningData, lessonId: string) {
+  const bundle = getLessonBundle(data, lessonId);
+
+  if (!bundle) {
+    return [];
+  }
+
+  const wordsById = new Map<string, VocabWord>();
+
+  for (const sourceWord of bundle.vocabulary) {
+    const word = data.vocabulary.find((candidate) => candidate.sourceIds.includes(sourceWord.id));
+
+    if (word) {
+      wordsById.set(word.id, word);
+    }
+  }
+
+  return Array.from(wordsById.values());
 }
 
-export function getHomework(data: LearningData, ids: string[]) {
-  return data.homework.filter((item) => ids.includes(item.id));
+export function getGrammarByLesson(data: LearningData, lessonId: string) {
+  return getLessonBundle(data, lessonId)?.grammar ?? [];
+}
+
+export function getHomeworkByLesson(data: LearningData, lessonId: string) {
+  return getLessonBundle(data, lessonId)?.homework ?? [];
 }
 
 export function getMistakesByLesson(data: LearningData, lessonId: string) {
-  return data.mistakes.filter((mistake) => mistake.lessonId === lessonId);
+  return getLessonBundle(data, lessonId)?.mistakes ?? [];
 }
