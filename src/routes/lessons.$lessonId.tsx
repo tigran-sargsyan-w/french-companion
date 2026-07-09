@@ -6,10 +6,12 @@ import {
   CheckCircle2,
   ClipboardList,
   Languages,
+  Maximize2,
   NotebookText,
   Sparkles,
+  X,
 } from "lucide-react";
-import type { ReactNode } from "react";
+import { useState, type ReactNode } from "react";
 import { PageHeader } from "@/components/AppShell";
 import { AnnotatedGrammarExample } from "@/components/AnnotatedGrammarExample";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
@@ -21,6 +23,7 @@ import {
   getVocabByLesson,
   useLearningData,
 } from "@/data";
+import type { LessonPhoto } from "@/types";
 
 export const Route = createFileRoute("/lessons/$lessonId")({
   component: LessonDetail,
@@ -41,6 +44,51 @@ function formatShortDate(date: string) {
     month: "2-digit",
     year: "numeric",
   });
+}
+
+function getPublicAssetPath(path: string) {
+  const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, "");
+  const cleanPath = path.replace(/^\/+/, "");
+  return `${baseUrl}/${cleanPath}`;
+}
+
+function getLessonPhotoSrc(photo: LessonPhoto, lessonFolderPath?: string) {
+  const src = typeof photo === "string" ? photo : photo.src;
+
+  if (/^(https?:|data:|blob:)/.test(src)) {
+    return src;
+  }
+
+  const cleanSrc = src.replace(/^\/+/, "");
+
+  if (cleanSrc.startsWith("data/")) {
+    return getPublicAssetPath(cleanSrc);
+  }
+
+  const cleanLessonFolderPath = lessonFolderPath?.replace(/\/+$/, "");
+  const publicPath = cleanLessonFolderPath ? `${cleanLessonFolderPath}/${cleanSrc}` : cleanSrc;
+
+  return getPublicAssetPath(publicPath);
+}
+
+function getLessonPhotoCaption(photo: LessonPhoto, index: number) {
+  if (typeof photo !== "string" && photo.caption) {
+    return photo.caption;
+  }
+
+  return `Document ${index + 1}`;
+}
+
+function getLessonPhotoAlt(photo: LessonPhoto, index: number) {
+  if (typeof photo !== "string" && photo.alt) {
+    return photo.alt;
+  }
+
+  if (typeof photo !== "string" && photo.caption) {
+    return photo.caption;
+  }
+
+  return `Document de la leçon ${index + 1}`;
 }
 
 function SectionTitle({ icon, title, children }: { icon: ReactNode; title: string; children?: ReactNode }) {
@@ -76,6 +124,7 @@ function EmptyState({ children }: { children: ReactNode }) {
 function LessonDetail() {
   const { lessonId } = Route.useParams();
   const learningDataQuery = useLearningData();
+  const [selectedPhotoIndex, setSelectedPhotoIndex] = useState<number | null>(null);
 
   if (learningDataQuery.isPending) {
     return (
@@ -127,6 +176,12 @@ function LessonDetail() {
   const homework = getHomeworkByLesson(data, lesson.id);
   const mistakes = getMistakesByLesson(data, lesson.id);
   const photos = lesson.photos ?? [];
+  const photoItems = photos.map((photo, index) => ({
+    src: getLessonPhotoSrc(photo, lessonMeta?.path),
+    caption: getLessonPhotoCaption(photo, index),
+    alt: getLessonPhotoAlt(photo, index),
+  }));
+  const selectedPhoto = selectedPhotoIndex !== null ? photoItems[selectedPhotoIndex] : undefined;
 
   return (
     <>
@@ -259,23 +314,85 @@ function LessonDetail() {
 
         <section className="card-soft p-6 lg:col-span-3">
           <SectionTitle icon={<Camera className="h-4 w-4" />} title="Photos & documents" />
-          {photos.length === 0 ? (
+          {photoItems.length === 0 ? (
             <div className="flex flex-col items-center justify-center py-10 rounded-lg border border-dashed border-border text-muted-foreground">
               <Camera className="h-6 w-6 mb-2" />
               <span className="text-xs">Aucune photo pour cette leçon.</span>
             </div>
           ) : (
             <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
-              {photos.map((src: string, i: number) => (
-                <figure key={src} className="rounded-lg border border-border overflow-hidden bg-secondary/30">
-                  <img src={src} alt={`Document ${i + 1}`} className="w-full object-cover" />
-                  <figcaption className="px-3 py-2 text-xs text-muted-foreground">Document {i + 1}</figcaption>
-                </figure>
+              {photoItems.map((photo, index) => (
+                <button
+                  key={`${photo.src}-${index}`}
+                  type="button"
+                  onClick={() => setSelectedPhotoIndex(index)}
+                  className="group rounded-lg border border-border overflow-hidden bg-secondary/30 text-left hover:-translate-y-0.5 hover:shadow-lg transition-all"
+                >
+                  <figure>
+                    <div className="relative h-44 overflow-hidden bg-secondary">
+                      <img
+                        src={photo.src}
+                        alt={photo.alt}
+                        className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                        loading="lazy"
+                      />
+                      <div className="absolute inset-0 grid place-items-center bg-foreground/0 transition-colors group-hover:bg-foreground/20">
+                        <span className="inline-flex items-center gap-1.5 rounded-full bg-card/90 px-3 py-1.5 text-xs font-medium opacity-0 shadow-sm transition-opacity group-hover:opacity-100">
+                          <Maximize2 className="h-3.5 w-3.5" /> Agrandir
+                        </span>
+                      </div>
+                    </div>
+                    <figcaption className="px-3 py-2 text-xs text-muted-foreground line-clamp-2">
+                      {photo.caption}
+                    </figcaption>
+                  </figure>
+                </button>
               ))}
             </div>
           )}
         </section>
       </div>
+
+      {selectedPhoto && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-background/95 p-4 backdrop-blur-sm sm:p-6"
+          role="dialog"
+          aria-modal="true"
+          aria-label={selectedPhoto.caption}
+        >
+          <button
+            type="button"
+            className="absolute inset-0 cursor-default"
+            aria-label="Fermer l'aperçu"
+            onClick={() => setSelectedPhotoIndex(null)}
+          />
+          <div className="relative z-10 w-full max-w-6xl">
+            <div className="mb-3 flex items-center justify-between gap-3">
+              <div className="min-w-0">
+                <div className="font-display text-lg truncate">{selectedPhoto.caption}</div>
+                <div className="text-xs text-muted-foreground">Clique dehors pour fermer et revenir à la leçon.</div>
+              </div>
+              <button
+                type="button"
+                onClick={() => setSelectedPhotoIndex(null)}
+                className="inline-flex shrink-0 items-center gap-2 rounded-lg border border-border bg-card px-3 py-2 text-sm hover:bg-secondary"
+              >
+                <X className="h-4 w-4" /> Fermer
+              </button>
+            </div>
+            <figure className="overflow-hidden rounded-2xl border border-border bg-card shadow-2xl">
+              <img
+                src={selectedPhoto.src}
+                alt={selectedPhoto.alt}
+                className="max-h-[75vh] w-full bg-secondary/30 object-contain"
+              />
+              <figcaption className="border-t border-border px-4 py-3 text-sm text-muted-foreground">
+                {selectedPhoto.caption}
+              </figcaption>
+            </figure>
+          </div>
+        </div>
+      )}
     </>
   );
 }

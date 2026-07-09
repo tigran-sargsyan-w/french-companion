@@ -41,6 +41,8 @@ public/data/lessons/lesson_1_2026_07_06/
   vocabulary.json
   homework.json
   mistakes.json
+  photos/
+    board-photo.jpg
 ```
 
 Lesson folders use this naming format:
@@ -50,6 +52,16 @@ lesson_<number>_<yyyy>_<mm>_<dd>
 ```
 
 To add a new lesson, create a new folder under `public/data/lessons/`, add the five JSON files, then register the folder path in `public/data/lessons.json`. Content belongs to the file inside that lesson folder: words go only in `vocabulary.json`, grammar only in `grammar.json`, homework only in `homework.json`, and mistakes only in `mistakes.json`. Do not duplicate vocabulary or grammar IDs in `lesson.json`.
+
+Lesson photos belong in the lesson folder, preferably under `photos/`. Add them to `lesson.json` as either simple string paths or objects with `src`, `caption`, and `alt`:
+
+```json
+{
+  "src": "photos/board-photo.jpg",
+  "caption": "Tableau de révision: pronoms relatifs",
+  "alt": "Photo du tableau de cours sur les pronoms relatifs"
+}
+```
 
 GitHub Actions will rebuild and redeploy the site automatically after push.
 

@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-09-008",
-  "updatedAt": "2026-07-09T21:20:00.000Z",
-  "description": "Lesson pages now infer grammar, vocabulary, homework and mistakes directly from each lesson folder."
+  "version": "2026-07-09-009",
+  "updatedAt": "2026-07-09T21:50:00.000Z",
+  "description": "Lesson pages now support lesson-specific photo galleries with captions and large preview mode."
 }

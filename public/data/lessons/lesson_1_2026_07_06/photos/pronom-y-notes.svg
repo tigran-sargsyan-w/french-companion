@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Pronom Y et localisation</title>
+  <desc id="desc">A stylized notebook page with notes about the French pronoun y and location expressions.</desc>
+  <rect width="1200" height="800" fill="#f3efe4"/>
+  <rect x="95" y="55" width="1010" height="690" rx="32" fill="#fffdf7" stroke="#d8cdb9" stroke-width="5"/>
+  <line x1="210" y1="55" x2="210" y2="745" stroke="#f0b8aa" stroke-width="4"/>
+  <g stroke="#e7dfd2" stroke-width="3">
+    <line x1="130" y1="180" x2="1070" y2="180"/>
+    <line x1="130" y1="260" x2="1070" y2="260"/>
+    <line x1="130" y1="340" x2="1070" y2="340"/>
+    <line x1="130" y1="420" x2="1070" y2="420"/>
+    <line x1="130" y1="500" x2="1070" y2="500"/>
+    <line x1="130" y1="580" x2="1070" y2="580"/>
+    <line x1="130" y1="660" x2="1070" y2="660"/>
+  </g>
+
+  <text x="250" y="135" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#1d2a44">Pronom Y</text>
+  <text x="250" y="225" font-family="Arial, sans-serif" font-size="34" fill="#1d2a44">Mon ami va au musée.</text>
+  <text x="250" y="305" font-family="Arial, sans-serif" font-size="34" fill="#315da8">J'y vais aussi.</text>
+  <path d="M555 282 C640 240, 740 245, 820 290" fill="none" stroke="#315da8" stroke-width="5" marker-end="url(#arrow)"/>
+  <text x="840" y="300" font-family="Arial, sans-serif" font-size="26" fill="#315da8">au musée → y</text>
+
+  <text x="250" y="410" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1d2a44">Pour situer:</text>
+  <text x="280" y="485" font-family="Arial, sans-serif" font-size="30" fill="#4d8a64">à l'est de · au nord de · au sud de</text>
+  <text x="280" y="565" font-family="Arial, sans-serif" font-size="30" fill="#4d8a64">à côté de · entre ... et ...</text>
+
+  <rect x="790" y="95" width="230" height="88" rx="24" fill="#fff2bd" stroke="#d4a72c" stroke-width="4"/>
+  <text x="818" y="150" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#7a5b00">À revoir</text>
+
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#315da8"/>
+    </marker>
+  </defs>
+</svg>

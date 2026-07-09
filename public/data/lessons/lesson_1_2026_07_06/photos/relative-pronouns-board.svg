@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Pronoms relatifs: qui, que, où</title>
+  <desc id="desc">A stylized course board summarizing the French relative pronouns qui, que and où.</desc>
+  <rect width="1200" height="800" fill="#fbf7ec"/>
+  <rect x="70" y="70" width="1060" height="660" rx="36" fill="#ffffff" stroke="#d9d0bd" stroke-width="6"/>
+  <text x="120" y="150" font-family="Georgia, serif" font-size="58" font-weight="700" fill="#1d2a44">Pronoms relatifs</text>
+  <text x="120" y="205" font-family="Arial, sans-serif" font-size="28" fill="#5c6170">qui · que · où</text>
+
+  <g transform="translate(120 275)">
+    <rect width="300" height="300" rx="28" fill="#eef4ff" stroke="#315da8" stroke-width="4"/>
+    <text x="36" y="70" font-family="Georgia, serif" font-size="54" font-weight="700" fill="#315da8">qui</text>
+    <text x="36" y="122" font-family="Arial, sans-serif" font-size="28" fill="#1d2a44">remplace le sujet</text>
+    <line x1="36" y1="155" x2="264" y2="155" stroke="#315da8" stroke-width="3"/>
+    <text x="36" y="205" font-family="Arial, sans-serif" font-size="24" fill="#1d2a44">Le chat qui est</text>
+    <text x="36" y="238" font-family="Arial, sans-serif" font-size="24" fill="#1d2a44">dans le jardin...</text>
+  </g>
+
+  <g transform="translate(450 275)">
+    <rect width="300" height="300" rx="28" fill="#fff0ec" stroke="#b84b39" stroke-width="4"/>
+    <text x="36" y="70" font-family="Georgia, serif" font-size="54" font-weight="700" fill="#b84b39">que</text>
+    <text x="36" y="122" font-family="Arial, sans-serif" font-size="28" fill="#1d2a44">remplace le COD</text>
+    <line x1="36" y1="155" x2="264" y2="155" stroke="#b84b39" stroke-width="3"/>
+    <text x="36" y="205" font-family="Arial, sans-serif" font-size="24" fill="#1d2a44">Le chat que</text>
+    <text x="36" y="238" font-family="Arial, sans-serif" font-size="24" fill="#1d2a44">je vois...</text>
+  </g>
+
+  <g transform="translate(780 275)">
+    <rect width="300" height="300" rx="28" fill="#edf8f2" stroke="#4d8a64" stroke-width="4"/>
+    <text x="36" y="70" font-family="Georgia, serif" font-size="54" font-weight="700" fill="#4d8a64">où</text>
+    <text x="36" y="122" font-family="Arial, sans-serif" font-size="28" fill="#1d2a44">lieu ou temps</text>
+    <line x1="36" y1="155" x2="264" y2="155" stroke="#4d8a64" stroke-width="3"/>
+    <text x="36" y="205" font-family="Arial, sans-serif" font-size="24" fill="#1d2a44">La ville où</text>
+    <text x="36" y="238" font-family="Arial, sans-serif" font-size="24" fill="#1d2a44">j'habite...</text>
+  </g>
+
+  <text x="120" y="650" font-family="Arial, sans-serif" font-size="30" fill="#5c6170">Astuce: trouve d'abord la fonction du mot répété.</text>
+</svg>
