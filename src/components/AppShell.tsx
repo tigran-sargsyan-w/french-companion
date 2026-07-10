@@ -9,6 +9,7 @@ import {
   ClipboardList,
   Repeat,
 } from "lucide-react";
+import { MarkdownText } from "@/components/MarkdownText";
 
 type NavItem = {
   to: "/" | "/lessons" | "/vocabulary" | "/grammar" | "/mistakes" | "/homework" | "/review";
@@ -118,7 +119,7 @@ export function PageHeader({
 }: {
   eyebrow?: string;
   title: string;
-  description?: string;
+  description?: ReactNode;
   right?: ReactNode;
 }) {
   return (
@@ -129,7 +130,9 @@ export function PageHeader({
         )}
         <h1 className="break-words font-display text-3xl sm:text-4xl">{title}</h1>
         {description && (
-          <p className="text-sm text-muted-foreground mt-2 max-w-xl">{description}</p>
+          <div className="text-sm text-muted-foreground mt-2 max-w-xl">
+            {typeof description === "string" ? <MarkdownText>{description}</MarkdownText> : description}
+          </div>
         )}
       </div>
       {right && <div className="min-w-0 sm:shrink-0">{right}</div>}
