@@ -85,75 +85,75 @@ function Dashboard() {
         description="Un aperçu de ta progression en français cette semaine."
       />
 
-      <section className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
+      <section className="grid min-w-0 grid-cols-1 gap-3 sm:grid-cols-2 sm:gap-4 lg:grid-cols-4">
         {stats.map((s) => {
           const Icon = s.icon;
           return (
             <Link
               key={s.label}
               to={s.to}
-              className="card-soft p-5 flex flex-col justify-between gap-4 hover:-translate-y-0.5 transition-transform"
+              className="card-soft flex min-w-0 flex-col justify-between gap-4 overflow-hidden p-4 transition-transform hover:-translate-y-0.5 sm:p-5"
             >
-              <div className="flex items-start justify-between">
-                <span className={`grid h-10 w-10 place-items-center rounded-xl ${s.tone}`}>
+              <div className="flex min-w-0 items-start justify-between gap-3">
+                <span className={`grid h-10 w-10 shrink-0 place-items-center rounded-xl ${s.tone}`}>
                   <Icon className="h-5 w-5" />
                 </span>
-                <ArrowUpRight className="h-4 w-4 text-muted-foreground" />
+                <ArrowUpRight className="h-4 w-4 shrink-0 text-muted-foreground" />
               </div>
-              <div>
+              <div className="min-w-0">
                 <div className="font-display text-4xl leading-none">{s.value}</div>
-                <div className="mt-2 text-sm font-medium">{s.label}</div>
-                <div className="text-xs text-muted-foreground">{s.hint}</div>
+                <div className="mt-2 break-words text-sm font-medium leading-snug">{s.label}</div>
+                <div className="break-words text-xs text-muted-foreground">{s.hint}</div>
               </div>
             </Link>
           );
         })}
       </section>
 
-      <section className="grid lg:grid-cols-3 gap-4 mt-8">
-        <div className="card-soft p-6 lg:col-span-2">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="font-display text-xl">Leçons récentes</h2>
-            <Link to="/lessons" className="text-sm text-primary hover:underline">
+      <section className="mt-8 grid min-w-0 gap-4 lg:grid-cols-3">
+        <div className="card-soft min-w-0 overflow-hidden p-4 sm:p-6 lg:col-span-2">
+          <div className="mb-4 flex min-w-0 items-center justify-between gap-3">
+            <h2 className="min-w-0 break-words font-display text-xl">Leçons récentes</h2>
+            <Link to="/lessons" className="shrink-0 text-sm text-primary hover:underline">
               Tout voir
             </Link>
           </div>
-          <ul className="divide-y divide-border">
+          <ul className="min-w-0 divide-y divide-border">
             {recent.map((l) => (
-              <li key={l.id}>
+              <li key={l.id} className="min-w-0">
                 <Link
                   to="/lessons/$lessonId"
                   params={{ lessonId: l.id }}
-                  className="flex items-center gap-4 py-3 group"
+                  className="group flex min-w-0 items-center gap-3 py-3 sm:gap-4"
                 >
-                  <div className="grid h-12 w-12 shrink-0 place-items-center rounded-xl bg-secondary text-secondary-foreground font-display">
+                  <div className="grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-secondary text-secondary-foreground font-display sm:h-12 sm:w-12">
                     {new Date(l.date).toLocaleDateString("fr-FR", { day: "2-digit" })}
                   </div>
                   <div className="min-w-0 flex-1">
-                    <div className="font-medium truncate group-hover:text-primary transition-colors">
+                    <div className="truncate font-medium transition-colors group-hover:text-primary">
                       {l.title}
                     </div>
-                    <div className="text-xs text-muted-foreground truncate">{l.summary}</div>
+                    <div className="truncate text-xs text-muted-foreground">{l.summary}</div>
                   </div>
-                  <ArrowUpRight className="h-4 w-4 text-muted-foreground opacity-0 group-hover:opacity-100 transition-opacity" />
+                  <ArrowUpRight className="hidden h-4 w-4 shrink-0 text-muted-foreground opacity-0 transition-opacity group-hover:opacity-100 sm:block" />
                 </Link>
               </li>
             ))}
           </ul>
         </div>
 
-        <div className="card-soft p-6">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="font-display text-xl">En apprentissage</h2>
-            <Link to="/review" className="text-sm text-primary hover:underline">
+        <div className="card-soft min-w-0 overflow-hidden p-4 sm:p-6">
+          <div className="mb-4 flex min-w-0 items-center justify-between gap-3">
+            <h2 className="min-w-0 break-words font-display text-xl">En apprentissage</h2>
+            <Link to="/review" className="shrink-0 text-sm text-primary hover:underline">
               Réviser
             </Link>
           </div>
-          <ul className="space-y-3">
+          <ul className="min-w-0 space-y-3">
             {learning.map((v) => (
-              <li key={v.id} className="flex items-baseline justify-between gap-3">
-                <span className="font-display text-base">{v.french}</span>
-                <span className="text-xs text-muted-foreground truncate">{v.translation}</span>
+              <li key={v.id} className="flex min-w-0 items-baseline justify-between gap-3">
+                <span className="min-w-0 truncate font-display text-base">{v.french}</span>
+                <span className="min-w-0 truncate text-right text-xs text-muted-foreground">{v.translation}</span>
               </li>
             ))}
           </ul>
