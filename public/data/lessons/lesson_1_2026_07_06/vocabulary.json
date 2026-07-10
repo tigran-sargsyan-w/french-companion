@@ -84,6 +84,13 @@
     "status": "learning"
   },
   {
+    "id": "v_2026_07_06_enfance",
+    "french": "l'enfance",
+    "translation": "детство",
+    "example": "Les billes me rappellent mon enfance.",
+    "status": "learning"
+  },
+  {
     "id": "v_2026_07_06_entre_et",
     "french": "entre ... et ...",
     "translation": "между ... и ...",
