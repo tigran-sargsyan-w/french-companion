@@ -1,3 +1,4 @@
+import { MarkdownText } from "@/components/MarkdownText";
 import type { GrammarAnnotatedExample, GrammarExamplePartRole } from "@/types";
 
 const roleClassName: Record<GrammarExamplePartRole, string> = {
@@ -81,7 +82,7 @@ export function AnnotatedGrammarExample({ example }: { example: GrammarAnnotated
               key={sentence}
               className="rounded-md bg-secondary/50 px-3 py-1.5 font-mono text-xs text-muted-foreground"
             >
-              {sentence}
+              <MarkdownText inline>{sentence}</MarkdownText>
             </div>
           ))}
         </div>
@@ -111,7 +112,7 @@ export function AnnotatedGrammarExample({ example }: { example: GrammarAnnotated
         )}
       </div>
 
-      <p className="mt-3 text-xs text-muted-foreground">{example.explanation}</p>
+      <MarkdownText className="mt-3 text-xs text-muted-foreground">{example.explanation}</MarkdownText>
     </div>
   );
 }
