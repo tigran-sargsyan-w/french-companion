@@ -15,7 +15,7 @@
         "title": "Qui remplace le sujet",
         "sourceSentences": [
           "Le chat est noir.",
-          "`Le chat` est dans le jardin."
+          "**`Le chat`** est dans le jardin."
         ],
         "markup": "{{sujet:Le chat}} {{qui:qui}} {{verbe:est}} {{lieu:dans le jardin}} est noir.",
         "explanation": "Dans la deuxième phrase, « le chat » est sujet du verbe « est ». On le remplace donc par le pronom relatif « qui »."
@@ -24,7 +24,7 @@
         "title": "Que remplace le complément d'objet direct",
         "sourceSentences": [
           "Le chat est noir.",
-          "Je vois le chat."
+          "Je vois **`le chat`**."
         ],
         "markup": "Le chat {{que:que}} {{COD:je vois}} est noir.",
         "explanation": "Dans « Je vois le chat », « le chat » est complément d'objet direct du verbe « vois ». On le remplace par « que »."
@@ -33,7 +33,7 @@
         "title": "Où remplace un complément de lieu",
         "sourceSentences": [
           "La ville est grande.",
-          "J'habite cette ville."
+          "J'habite **`cette ville`**."
         ],
         "markup": "La ville {{où:où}} {{lieu:j'habite}} est grande.",
         "explanation": "« Cette ville » indique le lieu où j'habite. Pour éviter la répétition, on utilise le pronom relatif « où »."
