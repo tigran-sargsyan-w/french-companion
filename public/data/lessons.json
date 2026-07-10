@@ -7,5 +7,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_1_2026_07_06"
+  },
+  {
+    "id": "lesson_2_2026_07_07",
+    "number": 2,
+    "title": "La fabrique des souvenirs",
+    "date": "2026-07-07",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_2_2026_07_07"
   }
 ]
