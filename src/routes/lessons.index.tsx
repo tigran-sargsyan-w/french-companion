@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { MarkdownText } from "@/components/MarkdownText";
 import { getGrammarByLesson, getVocabByLesson, useLearningData } from "@/data";
 
 export const Route = createFileRoute("/lessons/")({
@@ -95,7 +96,9 @@ function LessonsPage() {
                         </div>
                       </div>
                     </div>
-                    <p className="text-sm text-muted-foreground line-clamp-2">{l.summary}</p>
+                    <MarkdownText inline className="line-clamp-2 text-sm text-muted-foreground">
+                      {l.summary}
+                    </MarkdownText>
                     <div className="mt-4 flex flex-wrap gap-2 text-xs">
                       <span className="px-2 py-1 rounded-md bg-secondary">
                         {vocab.length} mots
