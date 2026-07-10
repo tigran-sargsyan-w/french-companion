@@ -1,6 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { MarkdownText } from "@/components/MarkdownText";
 import { useLearningData } from "@/data";
 
 export const Route = createFileRoute("/mistakes")({
@@ -71,18 +72,20 @@ function MistakesPage() {
                       <div className="text-[10px] uppercase tracking-wider text-destructive mb-1">
                         Faux
                       </div>
-                      <div className="font-mono text-sm line-through decoration-destructive/50">
+                      <MarkdownText inline className="font-mono text-sm line-through decoration-destructive/50">
                         {m.wrong}
-                      </div>
+                      </MarkdownText>
                     </div>
                     <div className="rounded-lg bg-[var(--color-sage)]/25 border border-[var(--color-sage)]/60 px-3 py-2">
                       <div className="text-[10px] uppercase tracking-wider text-foreground/70 mb-1">
                         Correct
                       </div>
-                      <div className="font-mono text-sm">{m.correct}</div>
+                      <MarkdownText inline className="font-mono text-sm">
+                        {m.correct}
+                      </MarkdownText>
                     </div>
                   </div>
-                  <p className="text-sm text-muted-foreground mt-3">{m.note}</p>
+                  <MarkdownText className="mt-3 text-sm text-muted-foreground">{m.note}</MarkdownText>
                 </article>
               ))}
             </div>
