@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Cours du 7 juillet 2026</title>
+  <desc id="desc">Résumé des activités en classe et du devoir TV5MONDE.</desc>
+  <rect width="1200" height="760" rx="36" fill="#f7f2e8"/>
+  <rect x="45" y="42" width="1110" height="94" rx="22" fill="#17324d"/>
+  <text x="82" y="104" font-family="Arial, sans-serif" font-size="45" font-weight="700" fill="#ffffff">Cours du 7 juillet 2026</text>
+  <text x="70" y="195" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#17324d">Fait en classe</text>
+  <g font-family="Arial, sans-serif" font-size="27" fill="#283846">
+    <text x="82" y="248">• Remue-méninges autour du souvenir</text>
+    <text x="82" y="298">• Défi actuel 3, unité 1, pages 20–21</text>
+    <text x="82" y="348">• Exercices 2–3, page 5 du cahier d’activités</text>
+    <text x="82" y="398">• Extrait du film Amélie Poulain</text>
+    <text x="82" y="448">• Écrire sa madeleine de Proust</text>
+    <text x="82" y="498">• Retrouver le propriétaire d’un souvenir</text>
+  </g>
+  <rect x="60" y="555" width="1080" height="150" rx="24" fill="#e5eef5"/>
+  <text x="90" y="610" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#17324d">Devoir</text>
+  <text x="90" y="657" font-family="Arial, sans-serif" font-size="27" fill="#283846">Activité TV5MONDE « La Nuit américaine d’Angélique »</text>
+  <text x="90" y="692" font-family="Arial, sans-serif" font-size="23" fill="#526575">À faire pour le 8 juillet 2026</text>
+</svg>
