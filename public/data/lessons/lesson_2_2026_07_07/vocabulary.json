@@ -1,0 +1,149 @@
+[
+  {
+    "id": "v_2026_07_07_souvenir",
+    "french": "un souvenir",
+    "translation": "воспоминание",
+    "example": "Cette odeur fait revenir un souvenir d'enfance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_memoire",
+    "french": "la mémoire",
+    "translation": "память",
+    "example": "Les odeurs jouent un rôle important dans la mémoire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_enfance",
+    "french": "l'enfance",
+    "translation": "детство",
+    "example": "Les billes me rappellent mon enfance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_billes",
+    "french": "les billes",
+    "translation": "мраморные или стеклянные шарики для игры",
+    "example": "Quand j'étais enfant, je jouais aux billes avec mes amis.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_chaleureux",
+    "french": "chaleureux / chaleureuse",
+    "translation": "тёплый / душевный / радушный",
+    "example": "Je garde un souvenir chaleureux de cette journée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_madeleine_de_proust",
+    "french": "une madeleine de Proust",
+    "translation": "ощущение или предмет, внезапно вызывающий воспоминание",
+    "example": "L'odeur du pain chaud est ma madeleine de Proust.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_declencheur",
+    "french": "un déclencheur",
+    "translation": "триггер / то, что вызывает реакцию или воспоминание",
+    "example": "Une chanson peut être le déclencheur d'un souvenir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_sens",
+    "french": "les sens",
+    "translation": "чувства / органы чувств",
+    "example": "Nos sens peuvent réveiller des souvenirs anciens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_vue",
+    "french": "la vue",
+    "translation": "зрение",
+    "example": "La vue de cette maison me rappelle mon enfance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_ouie",
+    "french": "l'ouïe",
+    "translation": "слух",
+    "example": "L'ouïe permet de reconnaître une voix familière.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_toucher",
+    "french": "le toucher",
+    "translation": "осязание",
+    "example": "Le toucher de ce tissu me rappelle un vieux manteau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_odorat",
+    "french": "l'odorat",
+    "translation": "обоняние",
+    "example": "L'odorat est fortement lié aux souvenirs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_gout",
+    "french": "le goût",
+    "translation": "вкус",
+    "example": "Le goût de ce gâteau me rappelle ma grand-mère.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_emotions",
+    "french": "les émotions",
+    "translation": "эмоции",
+    "example": "Certains souvenirs provoquent des émotions fortes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_odeur",
+    "french": "une odeur",
+    "translation": "запах",
+    "example": "Je reconnais l'odeur des madeleines.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_relent",
+    "french": "un relent",
+    "translation": "неприятный или затхлый запах",
+    "example": "Un relent de fumée est resté dans la pièce.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_ecouter",
+    "french": "écouter",
+    "translation": "слушать",
+    "example": "J'écoute une chanson qui me rappelle mon enfance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_entendre",
+    "french": "entendre",
+    "translation": "слышать",
+    "example": "J'entends une musique dans la rue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_sentir",
+    "french": "sentir",
+    "translation": "чувствовать / ощущать запах / нюхать",
+    "example": "Je sens l'odeur du café.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_ressentir",
+    "french": "ressentir",
+    "translation": "испытывать чувство или эмоцию",
+    "example": "Je ressens de la joie en pensant à ce souvenir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_07_se_sentir",
+    "french": "se sentir",
+    "translation": "чувствовать себя",
+    "example": "Je me sens heureux quand je pense à mon enfance.",
+    "status": "learning"
+  }
+]
