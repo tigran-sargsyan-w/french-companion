@@ -33,7 +33,7 @@ export function AppShell({ children }: { children: ReactNode }) {
     exact ? pathname === to : pathname === to || pathname.startsWith(to + "/");
 
   return (
-    <div className="min-h-screen bg-background text-foreground">
+    <div className="min-h-screen overflow-x-hidden bg-background text-foreground">
       {/* Desktop sidebar */}
       <aside className="hidden md:flex fixed inset-y-0 left-0 w-64 flex-col border-r border-border bg-card/60 backdrop-blur">
         <div className="px-6 pt-7 pb-5">
@@ -77,27 +77,27 @@ export function AppShell({ children }: { children: ReactNode }) {
       </aside>
 
       {/* Main */}
-      <main className="md:pl-64 pb-24 md:pb-8">
-        <div className="mx-auto max-w-6xl px-4 sm:px-6 pt-6 md:pt-10">{children}</div>
+      <main className="min-w-0 overflow-x-hidden pb-24 md:pl-64 md:pb-8">
+        <div className="mx-auto w-full max-w-6xl min-w-0 px-4 pt-6 sm:px-6 md:pt-10">{children}</div>
       </main>
 
       {/* Mobile bottom nav */}
-      <nav className="md:hidden fixed bottom-0 inset-x-0 z-40 border-t border-border bg-card/95 backdrop-blur">
-        <ul className="grid grid-cols-7">
+      <nav className="fixed inset-x-0 bottom-0 z-40 border-t border-border bg-card/95 backdrop-blur md:hidden">
+        <ul className="grid w-full min-w-0 grid-cols-7">
           {nav.map((item) => {
             const Icon = item.icon;
             const active = isActive(item.to, item.exact);
             return (
-              <li key={item.to}>
+              <li key={item.to} className="min-w-0">
                 <Link
                   to={item.to}
                   className={
-                    "flex flex-col items-center justify-center gap-0.5 py-2 text-[10px] " +
+                    "flex min-w-0 flex-col items-center justify-center gap-0.5 px-0.5 py-2 text-[10px] " +
                     (active ? "text-primary" : "text-muted-foreground")
                   }
                 >
-                  <Icon className="h-5 w-5" />
-                  <span className="truncate max-w-full px-1">{item.label}</span>
+                  <Icon className="h-5 w-5 shrink-0" />
+                  <span className="block w-full truncate text-center leading-tight">{item.label}</span>
                 </Link>
               </li>
             );
@@ -120,17 +120,17 @@ export function PageHeader({
   right?: ReactNode;
 }) {
   return (
-    <header className="grid grid-cols-[minmax(0,1fr)_auto] items-end gap-4 mb-8">
+    <header className="mb-8 grid grid-cols-1 items-end gap-4 sm:grid-cols-[minmax(0,1fr)_auto]">
       <div className="min-w-0">
         {eyebrow && (
           <div className="text-xs uppercase tracking-widest text-primary/80 mb-2">{eyebrow}</div>
         )}
-        <h1 className="font-display text-3xl sm:text-4xl">{title}</h1>
+        <h1 className="break-words font-display text-3xl sm:text-4xl">{title}</h1>
         {description && (
           <p className="text-sm text-muted-foreground mt-2 max-w-xl">{description}</p>
         )}
       </div>
-      {right && <div className="shrink-0">{right}</div>}
+      {right && <div className="min-w-0 sm:shrink-0">{right}</div>}
     </header>
   );
 }
