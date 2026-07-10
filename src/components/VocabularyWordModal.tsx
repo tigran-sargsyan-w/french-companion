@@ -1,5 +1,6 @@
 import { AlertCircle, BookOpen, Sparkles, X } from "lucide-react";
 import { useEffect } from "react";
+import { MarkdownText } from "@/components/MarkdownText";
 import type { LearningData, VocabStatus, VocabWord } from "@/data";
 
 export interface VocabularySourceExample {
@@ -68,7 +69,9 @@ export function VocabularyWordModal({
                 {statusLabel[word.status]}
               </span>
             </div>
-            <p className="mt-1 text-sm text-muted-foreground sm:text-base">{word.translation}</p>
+            <MarkdownText inline className="mt-1 block text-sm text-muted-foreground sm:text-base">
+              {word.translation}
+            </MarkdownText>
           </div>
 
           <button
@@ -115,11 +118,13 @@ export function VocabularyWordModal({
                   </div>
 
                   <div className="font-display text-xl">{source.french}</div>
-                  <div className="text-sm text-muted-foreground">{source.translation}</div>
+                  <MarkdownText inline className="text-sm text-muted-foreground">
+                    {source.translation}
+                  </MarkdownText>
 
-                  <p className="mt-3 border-l-2 border-primary/40 pl-3 text-sm italic text-foreground/80">
-                    « {source.example} »
-                  </p>
+                  <div className="mt-3 border-l-2 border-primary/40 pl-3 text-sm italic text-foreground/80">
+                    « <MarkdownText inline>{source.example}</MarkdownText> »
+                  </div>
                 </article>
               ))}
             </div>
@@ -155,9 +160,13 @@ export function VocabularyWordModal({
                 {relatedMistakes.map((mistake) => (
                   <article key={mistake.id} className="rounded-xl border border-border bg-secondary/30 p-4">
                     <div className="mb-2 text-xs uppercase tracking-wider text-primary/80">{mistake.category}</div>
-                    <div className="text-sm text-muted-foreground line-through">{mistake.wrong}</div>
-                    <div className="mt-1 text-sm font-medium text-foreground">{mistake.correct}</div>
-                    <div className="mt-2 text-xs text-muted-foreground">{mistake.note}</div>
+                    <MarkdownText inline className="text-sm text-muted-foreground line-through">
+                      {mistake.wrong}
+                    </MarkdownText>
+                    <MarkdownText inline className="mt-1 block text-sm font-medium text-foreground">
+                      {mistake.correct}
+                    </MarkdownText>
+                    <MarkdownText className="mt-2 text-xs text-muted-foreground">{mistake.note}</MarkdownText>
                   </article>
                 ))}
               </div>
@@ -180,12 +189,12 @@ export function VocabularyWordModal({
                   <article key={grammar.id} className="rounded-xl border border-border bg-secondary/30 p-4">
                     <div className="mb-2 text-xs uppercase tracking-wider text-primary/80">{grammar.category}</div>
                     <div className="font-medium">{grammar.title}</div>
-                    <div className="mt-1 text-sm text-muted-foreground">{grammar.summary}</div>
+                    <MarkdownText className="mt-1 text-sm text-muted-foreground">{grammar.summary}</MarkdownText>
 
                     {grammar.examples.length > 0 && (
                       <ul className="mt-3 space-y-1 text-xs italic text-foreground/75">
                         {grammar.examples.map((example) => (
-                          <li key={example}>« {example} »</li>
+                          <li key={example}>« <MarkdownText inline>{example}</MarkdownText> »</li>
                         ))}
                       </ul>
                     )}
