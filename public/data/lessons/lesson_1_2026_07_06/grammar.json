@@ -41,7 +41,7 @@
       {
         "title": "Où peut aussi remplacer un complément de temps",
         "sourceSentences": [
-          "Je suis né ce jour-là.",
+          "Je suis né **`ce jour-là`**.",
           "Ce jour est important."
         ],
         "markup": "Le jour {{où:où}} {{temps:je suis né}} est important.",
