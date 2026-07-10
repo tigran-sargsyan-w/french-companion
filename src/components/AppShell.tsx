@@ -13,18 +13,19 @@ import {
 type NavItem = {
   to: "/" | "/lessons" | "/vocabulary" | "/grammar" | "/mistakes" | "/homework" | "/review";
   label: string;
+  mobileLabel: string;
   icon: typeof LayoutDashboard;
   exact?: boolean;
 };
 
 const nav: NavItem[] = [
-  { to: "/", label: "Dashboard", icon: LayoutDashboard, exact: true },
-  { to: "/lessons", label: "Lessons", icon: BookOpen },
-  { to: "/vocabulary", label: "Vocabulary", icon: Languages },
-  { to: "/grammar", label: "Grammar", icon: Sparkles },
-  { to: "/mistakes", label: "Mistakes", icon: AlertCircle },
-  { to: "/homework", label: "Homework", icon: ClipboardList },
-  { to: "/review", label: "Review", icon: Repeat },
+  { to: "/", label: "Accueil", mobileLabel: "Accueil", icon: LayoutDashboard, exact: true },
+  { to: "/lessons", label: "Leçons", mobileLabel: "Leçons", icon: BookOpen },
+  { to: "/vocabulary", label: "Vocabulaire", mobileLabel: "Vocab.", icon: Languages },
+  { to: "/grammar", label: "Grammaire", mobileLabel: "Gramm.", icon: Sparkles },
+  { to: "/mistakes", label: "Fautes", mobileLabel: "Fautes", icon: AlertCircle },
+  { to: "/homework", label: "Devoirs", mobileLabel: "Devoirs", icon: ClipboardList },
+  { to: "/review", label: "Révision", mobileLabel: "Réviser", icon: Repeat },
 ];
 
 export function AppShell({ children }: { children: ReactNode }) {
@@ -91,13 +92,14 @@ export function AppShell({ children }: { children: ReactNode }) {
               <li key={item.to} className="min-w-0">
                 <Link
                   to={item.to}
+                  aria-label={item.label}
                   className={
                     "flex min-w-0 flex-col items-center justify-center gap-0.5 px-0.5 py-2 text-[10px] " +
                     (active ? "text-primary" : "text-muted-foreground")
                   }
                 >
                   <Icon className="h-5 w-5 shrink-0" />
-                  <span className="block w-full truncate text-center leading-tight">{item.label}</span>
+                  <span className="block w-full truncate text-center leading-tight">{item.mobileLabel}</span>
                 </Link>
               </li>
             );
