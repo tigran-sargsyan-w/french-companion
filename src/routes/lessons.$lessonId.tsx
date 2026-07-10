@@ -15,6 +15,7 @@ import { useState, type ReactNode } from "react";
 import { PageHeader } from "@/components/AppShell";
 import { AnnotatedGrammarExample } from "@/components/AnnotatedGrammarExample";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { MarkdownText } from "@/components/MarkdownText";
 import {
   getGrammarByLesson,
   getHomeworkByLesson,
@@ -210,9 +211,9 @@ function LessonDetail() {
         <section className="card-soft p-6 lg:col-span-2">
           <SectionTitle icon={<NotebookText className="h-4 w-4" />} title="Notes de cours" />
           {lesson.notes ? (
-            <div className="rounded-xl border border-border bg-secondary/30 p-4 text-sm leading-relaxed text-foreground/85 whitespace-pre-line">
+            <MarkdownText className="rounded-xl border border-border bg-secondary/30 p-4 text-sm leading-relaxed text-foreground/85">
               {lesson.notes}
-            </div>
+            </MarkdownText>
           ) : (
             <EmptyState>Aucune note pour cette leçon.</EmptyState>
           )}
@@ -233,7 +234,9 @@ function LessonDetail() {
                 </span>
                 <div className="min-w-0">
                   <div className="font-medium">{h.title}</div>
-                  {h.description && <div className="text-sm text-muted-foreground">{h.description}</div>}
+                  {h.description && (
+                    <MarkdownText className="text-sm text-muted-foreground">{h.description}</MarkdownText>
+                  )}
                   {h.dueDate && (
                     <div className="text-xs text-muted-foreground mt-1">À rendre le {formatShortDate(h.dueDate)}</div>
                   )}
@@ -254,13 +257,13 @@ function LessonDetail() {
                   <span className="text-muted-foreground">·</span>
                   <h3 className="font-medium">{g.title}</h3>
                 </div>
-                <div className="text-sm text-muted-foreground">{g.summary}</div>
+                <MarkdownText className="text-sm text-muted-foreground">{g.summary}</MarkdownText>
 
                 {g.examples.length > 0 && (
                   <ul className="mt-3 grid gap-2 sm:grid-cols-2">
                     {g.examples.map((example) => (
                       <li key={example} className="rounded-lg border border-border bg-card/60 px-3 py-2 text-sm italic">
-                        « {example} »
+                        « <MarkdownText inline>{example}</MarkdownText> »
                       </li>
                     ))}
                   </ul>
@@ -288,8 +291,12 @@ function LessonDetail() {
                   <span className="font-display text-lg">{v.french}</span>
                   <span className="text-xs uppercase text-muted-foreground">{v.status}</span>
                 </div>
-                <div className="text-sm text-muted-foreground">{v.translation}</div>
-                <div className="text-xs italic mt-1 text-foreground/70">« {v.example} »</div>
+                <MarkdownText inline className="text-sm text-muted-foreground">
+                  {v.translation}
+                </MarkdownText>
+                <div className="text-xs italic mt-1 text-foreground/70">
+                  « <MarkdownText inline>{v.example}</MarkdownText> »
+                </div>
                 <div className="mt-2 text-[11px] text-muted-foreground">Occurrences notées: ×{v.appearances}</div>
               </div>
             ))}
@@ -303,9 +310,13 @@ function LessonDetail() {
             {mistakes.map((m) => (
               <article key={m.id} className="rounded-lg border border-border bg-secondary/30 p-3">
                 <div className="text-xs uppercase tracking-wider text-primary/80 mb-2">{m.category}</div>
-                <div className="text-sm text-muted-foreground line-through">{m.wrong}</div>
-                <div className="text-sm font-medium text-foreground mt-1">{m.correct}</div>
-                <div className="text-xs text-muted-foreground mt-2">{m.note}</div>
+                <MarkdownText inline className="text-sm text-muted-foreground line-through">
+                  {m.wrong}
+                </MarkdownText>
+                <MarkdownText inline className="mt-1 block text-sm font-medium text-foreground">
+                  {m.correct}
+                </MarkdownText>
+                <MarkdownText className="mt-2 text-xs text-muted-foreground">{m.note}</MarkdownText>
               </article>
             ))}
             {mistakes.length === 0 && <EmptyState>Aucune erreur notée.</EmptyState>}

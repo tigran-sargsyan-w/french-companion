@@ -74,6 +74,50 @@ Simple string paths are also supported:
 
 The lesson detail page shows a gallery and opens a large preview when a photo is clicked.
 
+## Markdown in content fields
+
+Long-form and example text can contain Markdown. The UI renders it consistently on lesson, grammar, vocabulary, homework, mistake and review pages.
+
+Markdown is supported in these content-oriented fields:
+
+- lesson `summary` and `notes`
+- grammar `summary`, `examples`, annotated `explanation` and `sourceSentences`
+- vocabulary `translation` and `example`
+- homework `description`
+- mistake `wrong`, `correct` and `note`
+- page-header descriptions when they come from content
+
+Keep structural fields such as IDs, titles, dates, categories, statuses and file paths as plain text.
+
+Inside JSON strings, use `\n` for a line break and `\n\n` for a new paragraph. Examples:
+
+```json
+{
+  "summary": "**Règle générale**\nLes pays terminés par *-e* sont généralement féminins.\n\n**Exceptions**\n- le Mexique\n- le Belize\n- le Suriname"
+}
+```
+
+Supported syntax includes:
+
+```md
+**texte en gras**
+*texte en italique*
+`élément grammatical`
+~~texte barré~~
+
+- liste à puces
+- deuxième élément
+
+1. première étape
+2. deuxième étape
+
+[Lien externe](https://example.com)
+
+> Remarque importante
+```
+
+GitHub-style tables, headings and fenced code blocks are also supported in long-form fields. Raw HTML is intentionally not rendered.
+
 ## Automatic validation
 
 `scripts/validate-data.mjs` checks the JSON content structure.

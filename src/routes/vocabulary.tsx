@@ -3,6 +3,7 @@ import { Search, X } from "lucide-react";
 import { useState } from "react";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { MarkdownText } from "@/components/MarkdownText";
 import { VocabularyWordModal, type VocabularyWordModalItem } from "@/components/VocabularyWordModal";
 import { useLearningData, type LearningData, type VocabStatus, type VocabWord } from "@/data";
 
@@ -329,7 +330,9 @@ function VocabularyPage() {
               <div className="flex items-start justify-between gap-3">
                 <div className="min-w-0">
                   <div className="font-display text-2xl leading-tight">{word.french}</div>
-                  <div className="text-sm text-muted-foreground">{word.translation}</div>
+                  <MarkdownText inline className="text-sm text-muted-foreground">
+                    {word.translation}
+                  </MarkdownText>
                 </div>
                 <span
                   className={`text-[10px] uppercase tracking-wider px-2 py-1 rounded-full shrink-0 ${statusStyle[word.status]}`}
@@ -338,9 +341,9 @@ function VocabularyPage() {
                 </span>
               </div>
 
-              <p className="text-sm italic text-foreground/80 border-l-2 border-primary/40 pl-3">
-                « {word.example} »
-              </p>
+              <div className="text-sm italic text-foreground/80 border-l-2 border-primary/40 pl-3">
+                « <MarkdownText inline>{word.example}</MarkdownText> »
+              </div>
 
               <div className="flex flex-wrap gap-2 text-[11px] text-muted-foreground">
                 {modalItem.relatedMistakes.length > 0 && (

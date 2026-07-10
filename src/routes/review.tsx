@@ -3,6 +3,7 @@ import { useMemo, useState } from "react";
 import { RotateCw, ChevronLeft, ChevronRight, Check, X } from "lucide-react";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { MarkdownText } from "@/components/MarkdownText";
 import { useLearningData } from "@/data";
 
 export const Route = createFileRoute("/review")({
@@ -128,8 +129,12 @@ function ReviewPage() {
                 <div className="text-xs uppercase tracking-widest text-primary/80 mb-4">
                   Traduction
                 </div>
-                <div className="font-display text-3xl">{current.translation}</div>
-                <p className="text-sm italic text-muted-foreground mt-4">« {current.example} »</p>
+                <MarkdownText inline className="font-display text-3xl">
+                  {current.translation}
+                </MarkdownText>
+                <div className="text-sm italic text-muted-foreground mt-4">
+                  « <MarkdownText inline>{current.example}</MarkdownText> »
+                </div>
               </>
             )}
           </button>

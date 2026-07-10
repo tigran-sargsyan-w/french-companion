@@ -2,6 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { PageHeader } from "@/components/AppShell";
 import { AnnotatedGrammarExample } from "@/components/AnnotatedGrammarExample";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { MarkdownText } from "@/components/MarkdownText";
 import { useLearningData } from "@/data";
 
 export const Route = createFileRoute("/grammar")({
@@ -68,14 +69,14 @@ function GrammarPage() {
                     {g.category}
                   </div>
                   <h3 className="font-display text-xl mt-1">{g.title}</h3>
-                  <p className="text-sm text-muted-foreground mt-2">{g.summary}</p>
+                  <MarkdownText className="mt-2 text-sm text-muted-foreground">{g.summary}</MarkdownText>
                   <ul className="mt-3 space-y-1">
                     {g.examples.map((ex, i) => (
                       <li
                         key={i}
                         className="text-sm font-mono bg-secondary/60 px-3 py-1.5 rounded-md"
                       >
-                        {ex}
+                        <MarkdownText inline>{ex}</MarkdownText>
                       </li>
                     ))}
                   </ul>

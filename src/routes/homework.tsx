@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { MarkdownText } from "@/components/MarkdownText";
 import { useLearningData } from "@/data";
 
 export const Route = createFileRoute("/homework")({
@@ -71,7 +72,7 @@ function HomeworkPage() {
                     />
                     <div className="min-w-0 flex-1">
                       <div className="font-medium">{h.title}</div>
-                      <div className="text-sm text-muted-foreground">{h.description}</div>
+                      <MarkdownText className="text-sm text-muted-foreground">{h.description}</MarkdownText>
                       <div className="text-xs text-muted-foreground mt-2 flex flex-wrap gap-x-3">
                         <span>Dû le {new Date(h.dueDate).toLocaleDateString("fr-FR")}</span>
                         {lesson && (
@@ -111,7 +112,7 @@ function HomeworkPage() {
                 />
                 <div>
                   <div className="font-medium line-through">{h.title}</div>
-                  <div className="text-xs text-muted-foreground">{h.description}</div>
+                  <MarkdownText className="text-xs text-muted-foreground">{h.description}</MarkdownText>
                 </div>
               </li>
             ))}
