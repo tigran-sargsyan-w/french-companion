@@ -2,6 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { BookOpen, Languages, Sparkles, AlertCircle, ArrowUpRight } from "lucide-react";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
+import { MarkdownText } from "@/components/MarkdownText";
 import { useLearningData } from "@/data";
 
 export const Route = createFileRoute("/")({
@@ -133,7 +134,9 @@ function Dashboard() {
                     <div className="truncate font-medium transition-colors group-hover:text-primary">
                       {l.title}
                     </div>
-                    <div className="truncate text-xs text-muted-foreground">{l.summary}</div>
+                    <MarkdownText inline className="block truncate text-xs text-muted-foreground">
+                      {l.summary}
+                    </MarkdownText>
                   </div>
                   <ArrowUpRight className="hidden h-4 w-4 shrink-0 text-muted-foreground opacity-0 transition-opacity group-hover:opacity-100 sm:block" />
                 </Link>
@@ -153,7 +156,9 @@ function Dashboard() {
             {learning.map((v) => (
               <li key={v.id} className="flex min-w-0 items-baseline justify-between gap-3">
                 <span className="min-w-0 truncate font-display text-base">{v.french}</span>
-                <span className="min-w-0 truncate text-right text-xs text-muted-foreground">{v.translation}</span>
+                <MarkdownText inline className="min-w-0 truncate text-right text-xs text-muted-foreground">
+                  {v.translation}
+                </MarkdownText>
               </li>
             ))}
           </ul>
