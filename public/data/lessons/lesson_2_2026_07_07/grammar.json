@@ -1,0 +1,72 @@
+[
+  {
+    "id": "g_2026_07_07_ecouter_entendre",
+    "title": "Écouter et entendre",
+    "category": "Verbs",
+    "summary": "Écouter décrit une action volontaire et attentive; entendre décrit le fait de percevoir un son, parfois sans le vouloir.",
+    "examples": [
+      "J'écoute attentivement cette chanson.",
+      "J'entends de la musique dans la rue."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Écouter: une action volontaire",
+        "markup": "J'{{action volontaire:écoute}} attentivement cette chanson.",
+        "explanation": "La personne choisit de porter son attention sur la chanson.",
+        "sourceSentences": [
+          "Je mets une chanson.",
+          "Je fais attention à la chanson."
+        ]
+      },
+      {
+        "title": "Entendre: percevoir un son",
+        "markup": "J'{{perception:entends}} de la musique dans la rue.",
+        "explanation": "Le son arrive à l'oreille sans que la personne cherche nécessairement à l'écouter.",
+        "sourceSentences": [
+          "Il y a de la musique dans la rue.",
+          "Je perçois cette musique."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_07_sentir_ressentir_se_sentir",
+    "title": "Sentir, ressentir et se sentir",
+    "category": "Verbs",
+    "summary": "Sentir sert notamment à percevoir une odeur ou une sensation; ressentir s'emploie avec une émotion ou une sensation; se sentir est pronominal et décrit l'état d'une personne.",
+    "examples": [
+      "Je sens l'odeur du café.",
+      "Je ressens de la joie.",
+      "Je me sens heureux."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Sentir + nom",
+        "markup": "Je {{perception:sens}} {{nom:l'odeur du café}}.",
+        "explanation": "Sentir peut exprimer la perception d'une odeur ou d'une sensation physique.",
+        "sourceSentences": [
+          "Il y a une odeur de café.",
+          "Je perçois cette odeur."
+        ]
+      },
+      {
+        "title": "Ressentir + nom",
+        "markup": "Je {{émotion:ressens}} {{nom:de la joie}}.",
+        "explanation": "Ressentir est suivi ici d'un nom qui désigne une émotion. « De la » est l'article partitif devant « joie ».",
+        "sourceSentences": [
+          "Ce souvenir provoque de la joie.",
+          "J'éprouve cette émotion."
+        ]
+      },
+      {
+        "title": "Se sentir + adjectif",
+        "markup": "Je {{verbe pronominal:me sens}} {{adjectif:heureux}}.",
+        "explanation": "Se sentir est un verbe pronominal. Il est souvent suivi d'un adjectif qui décrit l'état de la personne.",
+        "sourceSentences": [
+          "Je suis heureux en ce moment.",
+          "Je décris mon état."
+        ]
+      }
+    ]
+  }
+]
