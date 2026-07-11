@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="860" viewBox="0 0 1300 860">
+<rect width="100%" height="100%" fill="#f7f7f2"/>
+<style>
+.title{font:700 44px Arial,sans-serif;fill:#17324d}
+.subtitle{font:600 25px Arial,sans-serif;fill:#2a5d67}
+.body{font:22px Arial,sans-serif;fill:#25313c}
+.small{font:19px Arial,sans-serif;fill:#33404d}
+.label{font:700 20px Arial,sans-serif;fill:#ffffff}
+.example{font:italic 20px Arial,sans-serif;fill:#394b59}
+</style>
+<text x="60" y="70" class="title">Malaise, mal-être et bien-être</text>
+<rect x="60" y="125" width="560" height="210" rx="24" fill="#f4e1df" stroke="#bcc7ca" stroke-width="2"/>
+<text x="84" y="172" class="subtitle">faire un malaise</text>
+<text x="84" y="217" class="body">
+<tspan x="84" dy="0">Avoir un problème physique soudain,</tspan>
+<tspan x="84" dy="35">parfois perdre connaissance.</tspan>
+<tspan x="84" dy="35">Ex. Il a fait un malaise dans le métro.</tspan>
+</text>
+<rect x="680" y="125" width="560" height="210" rx="24" fill="#f5ead7" stroke="#bcc7ca" stroke-width="2"/>
+<text x="704" y="172" class="subtitle">sentir un malaise</text>
+<text x="704" y="217" class="body">
+<tspan x="704" dy="0">Percevoir une gêne ou une tension</tspan>
+<tspan x="704" dy="35">dans une situation.</tspan>
+<tspan x="704" dy="35">Ex. J’ai senti un malaise dans la salle.</tspan>
+</text>
+<rect x="60" y="385" width="560" height="210" rx="24" fill="#e0ecf7" stroke="#bcc7ca" stroke-width="2"/>
+<text x="84" y="432" class="subtitle">se sentir comme un poisson dans l’eau</text>
+<text x="84" y="477" class="body">
+<tspan x="84" dy="0">Être très à l’aise dans un lieu</tspan>
+<tspan x="84" dy="35">ou avec un groupe.</tspan>
+<tspan x="84" dy="35">Ex. Ici, je me sens comme un poisson dans l’eau.</tspan>
+</text>
+<rect x="680" y="385" width="265" height="210" rx="24" fill="#eadff2" stroke="#bcc7ca" stroke-width="2"/>
+<text x="704" y="432" class="subtitle">le mal-être</text>
+<text x="704" y="477" class="body">
+<tspan x="704" dy="0">État durable de</tspan>
+<tspan x="704" dy="35">souffrance ou</tspan>
+<tspan x="704" dy="35">d’inconfort.</tspan>
+</text>
+<rect x="975" y="385" width="265" height="210" rx="24" fill="#dcecdf" stroke="#bcc7ca" stroke-width="2"/>
+<text x="999" y="432" class="subtitle">le bien-être</text>
+<text x="999" y="477" class="body">
+<tspan x="999" dy="0">État agréable,</tspan>
+<tspan x="999" dy="35">équilibre physique</tspan>
+<tspan x="999" dy="35">et mental.</tspan>
+</text>
+<rect x="60" y="650" width="1180" height="130" rx="24" fill="#fff1c9" stroke="#d3bc69" stroke-width="2"/>
+<text x="90" y="700" class="subtitle">Attention au sens</text>
+<text x="90" y="740" class="body">
+<tspan x="90" dy="0">faire un malaise = problème physique</tspan>
+<tspan x="90" dy="35">sentir un malaise = percevoir une gêne dans une situation</tspan>
+</text>
+</svg>

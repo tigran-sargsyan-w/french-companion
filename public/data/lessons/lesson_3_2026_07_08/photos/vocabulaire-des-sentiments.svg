@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1550" viewBox="0 0 1700 1550">
+<rect width="100%" height="100%" fill="#f7f7f2"/>
+<style>
+.title{font:700 44px Arial,sans-serif;fill:#17324d}
+.subtitle{font:600 25px Arial,sans-serif;fill:#2a5d67}
+.body{font:22px Arial,sans-serif;fill:#25313c}
+.small{font:19px Arial,sans-serif;fill:#33404d}
+.label{font:700 20px Arial,sans-serif;fill:#ffffff}
+.example{font:italic 20px Arial,sans-serif;fill:#394b59}
+</style>
+<text x="60" y="70" class="title">Vocabulaire des sentiments</text>
+<rect x="50" y="115" width="500" height="300" rx="22" fill="#e3f2ec" stroke="#c5cdd0" stroke-width="2"/>
+<text x="72" y="157" class="subtitle">Émotions en général</text>
+<text x="72" y="197" class="small">
+<tspan x="72" dy="0">• ressentir de la joie / de la tristesse</tspan>
+<tspan x="72" dy="29">• être ému(e)</tspan>
+<tspan x="72" dy="29">• être touché(e)</tspan>
+<tspan x="72" dy="29">• être bouleversé(e)</tspan>
+</text>
+<rect x="600" y="115" width="500" height="640" rx="22" fill="#f7e3e5" stroke="#c5cdd0" stroke-width="2"/>
+<text x="622" y="157" class="subtitle">La tristesse</text>
+<text x="622" y="197" class="small">
+<tspan x="622" dy="0">• triste</tspan>
+<tspan x="622" dy="29">• accablé(e)</tspan>
+<tspan x="622" dy="29">• malheureux / malheureuse</tspan>
+<tspan x="622" dy="29">• déprimé(e)</tspan>
+<tspan x="622" dy="29">• désespéré(e)</tspan>
+<tspan x="622" dy="29">• démotivé(e)</tspan>
+<tspan x="622" dy="29">• découragé(e)</tspan>
+<tspan x="622" dy="29">• frustré(e)</tspan>
+<tspan x="622" dy="29">• déçu(e)</tspan>
+<tspan x="622" dy="29">• pleurer</tspan>
+<tspan x="622" dy="29">• le malheur</tspan>
+<tspan x="622" dy="29">• le chagrin</tspan>
+<tspan x="622" dy="29">• la souffrance</tspan>
+<tspan x="622" dy="29">• la déception</tspan>
+<tspan x="622" dy="29">• être de mauvaise humeur</tspan>
+<tspan x="622" dy="29">• être de mauvais poil</tspan>
+<tspan x="622" dy="29">• avoir le cafard</tspan>
+<tspan x="622" dy="29">• souffrir</tspan>
+</text>
+<rect x="1150" y="115" width="500" height="360" rx="22" fill="#e2edf8" stroke="#c5cdd0" stroke-width="2"/>
+<text x="1172" y="157" class="subtitle">La peur</text>
+<text x="1172" y="197" class="small">
+<tspan x="1172" dy="0">• stressé(e)</tspan>
+<tspan x="1172" dy="29">• anxieux / anxieuse</tspan>
+<tspan x="1172" dy="29">• inquiet / inquiète</tspan>
+<tspan x="1172" dy="29">• angoissé(e)</tspan>
+<tspan x="1172" dy="29">• effrayé(e)</tspan>
+<tspan x="1172" dy="29">• terrifié(e)</tspan>
+<tspan x="1172" dy="29">• avoir peur</tspan>
+</text>
+<rect x="50" y="470" width="500" height="760" rx="22" fill="#fde7dc" stroke="#c5cdd0" stroke-width="2"/>
+<text x="72" y="512" class="subtitle">La colère</text>
+<text x="72" y="552" class="small">
+<tspan x="72" dy="0">• irrité(e)</tspan>
+<tspan x="72" dy="29">• énervé(e)</tspan>
+<tspan x="72" dy="29">• fâché(e)</tspan>
+<tspan x="72" dy="29">• une crise de nerfs</tspan>
+<tspan x="72" dy="29">• la colère</tspan>
+<tspan x="72" dy="29">• l’irritation</tspan>
+<tspan x="72" dy="29">• la haine</tspan>
+<tspan x="72" dy="29">• crier</tspan>
+<tspan x="72" dy="29">• se disputer</tspan>
+<tspan x="72" dy="29">• insulter</tspan>
+<tspan x="72" dy="29">• donner un coup de poing</tspan>
+<tspan x="72" dy="29">• gifler</tspan>
+<tspan x="72" dy="29">• bouder</tspan>
+<tspan x="72" dy="29">• se fâcher</tspan>
+<tspan x="72" dy="29">• haïr</tspan>
+<tspan x="72" dy="29">• se mettre en colère</tspan>
+<tspan x="72" dy="29">• une scène de ménage</tspan>
+<tspan x="72" dy="29">• J’en ai marre.</tspan>
+<tspan x="72" dy="29">• Ça me prend la tête.</tspan>
+<tspan x="72" dy="29">• Je m’en fiche.</tspan>
+<tspan x="72" dy="29">• être dans une colère noire</tspan>
+</text>
+<rect x="1150" y="520" width="500" height="430" rx="22" fill="#eee4f6" stroke="#c5cdd0" stroke-width="2"/>
+<text x="1172" y="562" class="subtitle">La gêne et la surprise</text>
+<text x="1172" y="602" class="small">
+<tspan x="1172" dy="0">• gêné(e)</tspan>
+<tspan x="1172" dy="29">• dégoûté(e)</tspan>
+<tspan x="1172" dy="29">• choqué(e)</tspan>
+<tspan x="1172" dy="29">• stupéfait(e)</tspan>
+<tspan x="1172" dy="29">• surpris(e)</tspan>
+<tspan x="1172" dy="29">• étonné(e)</tspan>
+<tspan x="1172" dy="29">• Mon œil !</tspan>
+<tspan x="1172" dy="29">• Je ne peux pas le croire !</tspan>
+</text>
+<rect x="600" y="805" width="500" height="650" rx="22" fill="#fff1c8" stroke="#c5cdd0" stroke-width="2"/>
+<text x="622" y="847" class="subtitle">La joie</text>
+<text x="622" y="887" class="small">
+<tspan x="622" dy="0">• souriant(e)</tspan>
+<tspan x="622" dy="29">• heureux / heureuse</tspan>
+<tspan x="622" dy="29">• ravi(e)</tspan>
+<tspan x="622" dy="29">• joyeux / joyeuse</tspan>
+<tspan x="622" dy="29">• satisfait(e)</tspan>
+<tspan x="622" dy="29">• content(e)</tspan>
+<tspan x="622" dy="29">• de bonne humeur</tspan>
+<tspan x="622" dy="29">• excité(e)</tspan>
+<tspan x="622" dy="29">• motivé(e)</tspan>
+<tspan x="622" dy="29">• enthousiaste</tspan>
+<tspan x="622" dy="29">• rire</tspan>
+<tspan x="622" dy="29">• sourire</tspan>
+<tspan x="622" dy="29">• le bonheur</tspan>
+<tspan x="622" dy="29">• la satisfaction</tspan>
+<tspan x="622" dy="29">• sauter de joie</tspan>
+<tspan x="622" dy="29">• être aux anges</tspan>
+</text>
+<rect x="1150" y="1000" width="500" height="455" rx="22" fill="#e7efe2" stroke="#c5cdd0" stroke-width="2"/>
+<text x="1172" y="1042" class="subtitle">L’ennui et autres sentiments</text>
+<text x="1172" y="1082" class="small">
+<tspan x="1172" dy="0">• ennuyé(e)</tspan>
+<tspan x="1172" dy="29">• impatient(e)</tspan>
+<tspan x="1172" dy="29">• jaloux / jalouse</tspan>
+<tspan x="1172" dy="29">• envier</tspan>
+<tspan x="1172" dy="29">• fier / fière</tspan>
+<tspan x="1172" dy="29">• amoureux / amoureuse</tspan>
+<tspan x="1172" dy="29">• indifférent(e)</tspan>
+<tspan x="1172" dy="29">• avoir honte</tspan>
+<tspan x="1172" dy="29">• faire confiance ≠ se méfier</tspan>
+<tspan x="1172" dy="29">• réconforter</tspan>
+<tspan x="1172" dy="29">• la jalousie</tspan>
+<tspan x="1172" dy="29">• la fierté</tspan>
+<tspan x="1172" dy="29">• le respect</tspan>
+<tspan x="1172" dy="29">• l’espoir</tspan>
+<tspan x="1172" dy="29">• la compréhension</tspan>
+<tspan x="1172" dy="29">• garder son sang-froid</tspan>
+<tspan x="1172" dy="29">• se sentir seul(e)</tspan>
+<tspan x="1172" dy="29">• nostalgique</tspan>
+</text>
+<rect x="50" y="1280" width="500" height="175" rx="22" fill="#dfeaf7" stroke="#c5cdd0" stroke-width="2"/>
+<text x="72" y="1325" class="subtitle">Expressions du cours</text>
+<text x="72" y="1368" class="small">
+<tspan x="72" dy="0">• faire un malaise</tspan>
+<tspan x="72" dy="28">• sentir un malaise</tspan>
+<tspan x="72" dy="28">• se sentir comme un poisson dans l’eau</tspan>
+<tspan x="72" dy="28">• le mal-être / le bien-être</tspan>
+<tspan x="72" dy="28">• soudain</tspan>
+</text>
+</svg>

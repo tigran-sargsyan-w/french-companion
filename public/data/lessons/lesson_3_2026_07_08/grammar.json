@@ -1,0 +1,120 @@
+[
+  {
+    "id": "g_2026_07_08_passe_compose_imparfait",
+    "title": "Passé composé et imparfait: emploi et formation",
+    "category": "Tenses",
+    "summary": "Le passé composé exprime surtout une action ponctuelle, achevée ou une succession d'événements. L'imparfait sert à décrire une situation, une habitude ou une action en cours dans le passé. Le passé composé se forme avec avoir ou être au présent + participe passé. L'imparfait se forme avec le radical de nous au présent sans -ons + les terminaisons -ais, -ais, -ait, -ions, -iez, -aient.",
+    "examples": [
+      "Je suis né en 2000.",
+      "Pendant mon enfance, j'ai vécu en Espagne.",
+      "Ce matin, je me suis levé, j'ai déjeuné, puis je suis parti.",
+      "Hier, je t'ai appelé plusieurs fois.",
+      "La police a finalement arrêté les voleurs.",
+      "Hier, je suis allé au cinéma. Le film était bien.",
+      "J'allais à la piscine tous les samedis.",
+      "Je lisais quand tu es arrivé.",
+      "Je ne suis pas venu car j'étais malade."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Passé composé: action ponctuelle",
+        "markup": "Je {{action ponctuelle:suis né}} en 2000.",
+        "explanation": "Le passé composé situe ici un événement précis et achevé dans le passé.",
+        "sourceSentences": [
+          "Ma naissance a eu lieu en 2000.",
+          "L'événement est terminé."
+        ]
+      },
+      {
+        "title": "Passé composé: période limitée",
+        "markup": "Pendant mon enfance, j'{{période terminée:ai vécu}} en Espagne.",
+        "explanation": "La période est présentée comme limitée et terminée.",
+        "sourceSentences": [
+          "J'ai habité en Espagne pendant une partie de mon enfance.",
+          "Cette période est terminée."
+        ]
+      },
+      {
+        "title": "Passé composé: série d'actions",
+        "markup": "Ce matin, je {{action 1:me suis levé}}, j'{{action 2:ai déjeuné}}, puis je {{action 3:suis parti}}.",
+        "explanation": "Le passé composé permet d'enchaîner plusieurs actions achevées.",
+        "sourceSentences": [
+          "Je me suis levé.",
+          "J'ai déjeuné.",
+          "Je suis parti."
+        ]
+      },
+      {
+        "title": "Imparfait: description du contexte",
+        "markup": "Hier, je suis allé au cinéma. Le film {{description:était}} bien.",
+        "explanation": "Le passé composé raconte l'événement; l'imparfait décrit le contexte.",
+        "sourceSentences": [
+          "Je suis allé au cinéma.",
+          "Le film était bien."
+        ]
+      },
+      {
+        "title": "Imparfait: habitude",
+        "markup": "J'{{habitude:allais}} à la piscine tous les samedis.",
+        "explanation": "L'imparfait exprime une action habituelle et répétée dans le passé.",
+        "sourceSentences": [
+          "Cette action se répétait.",
+          "Elle avait lieu tous les samedis."
+        ]
+      },
+      {
+        "title": "Action en cours et événement ponctuel",
+        "markup": "Je {{action en cours:lisais}} quand tu {{événement ponctuel:es arrivé}}.",
+        "explanation": "L'imparfait décrit l'action déjà en cours; le passé composé introduit l'événement qui survient.",
+        "sourceSentences": [
+          "Je lisais.",
+          "Tu es arrivé."
+        ]
+      },
+      {
+        "title": "Imparfait: cause ou explication",
+        "markup": "Je ne suis pas venu car j'{{cause:étais malade}}.",
+        "explanation": "L'imparfait donne la cause ou l'explication de l'action au passé composé.",
+        "sourceSentences": [
+          "Je ne suis pas venu.",
+          "J'étais malade."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_08_passe_compose_avec_etre",
+    "title": "Le passé composé avec être",
+    "category": "Verbs",
+    "summary": "Plusieurs verbes de déplacement ou de changement d'état se conjuguent avec être au passé composé: aller, arriver, entrer, monter, passer, rester, retourner, sortir, descendre, tomber, partir, venir, naître et mourir. Avec être, le participe passé s'accorde en genre et en nombre avec le sujet. Certains de ces verbes peuvent cependant se construire avec avoir lorsqu'ils ont un complément d'objet direct; par exemple: « Elle est sortie » mais « Elle a sorti son téléphone ».",
+    "examples": [
+      "Il est venu de Digne et il est allé à Gap.",
+      "Elle est montée, puis elle est redescendue.",
+      "Ils sont entrés dans la maison et ils sont restés une heure.",
+      "Elle est née en 1998.",
+      "Ils sont partis tôt le matin.",
+      "Elle est sortie à huit heures.",
+      "Elle a sorti son téléphone de son sac."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Accord avec un sujet féminin",
+        "markup": "Elle est {{participe passé féminin:montée}}, puis elle est {{participe passé féminin:redescendue}}.",
+        "explanation": "Avec l'auxiliaire être, on ajoute ici -e parce que le sujet « elle » est féminin singulier.",
+        "sourceSentences": [
+          "Elle monte.",
+          "Elle redescend."
+        ]
+      },
+      {
+        "title": "Accord avec un sujet masculin pluriel",
+        "markup": "Ils sont {{participe passé pluriel:entrés}} dans la maison et ils sont {{participe passé pluriel:restés}} une heure.",
+        "explanation": "On ajoute -s aux participes passés parce que le sujet « ils » est pluriel.",
+        "sourceSentences": [
+          "Ils entrent dans la maison.",
+          "Ils restent une heure."
+        ]
+      }
+    ]
+  }
+]

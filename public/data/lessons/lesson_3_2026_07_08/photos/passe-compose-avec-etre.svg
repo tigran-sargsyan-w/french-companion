@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="920" viewBox="0 0 1400 920">
+<rect width="100%" height="100%" fill="#f7f7f2"/>
+<style>
+.title{font:700 44px Arial,sans-serif;fill:#17324d}
+.subtitle{font:600 25px Arial,sans-serif;fill:#2a5d67}
+.body{font:22px Arial,sans-serif;fill:#25313c}
+.small{font:19px Arial,sans-serif;fill:#33404d}
+.label{font:700 20px Arial,sans-serif;fill:#ffffff}
+.example{font:italic 20px Arial,sans-serif;fill:#394b59}
+</style>
+<text x="60" y="70" class="title">Le passé composé avec « être »</text>
+<path d="M100 750 L260 600 L380 510 L500 330 L650 190 L800 350 L940 480 L1080 610 L1300 750 Z" fill="#d8e7db" stroke="#799687" stroke-width="4"/>
+<rect x="610" y="115" width="150" height="110" rx="10" fill="#f0d7b6" stroke="#8b6b48" stroke-width="3"/>
+<polygon points="600,120 685,60 770,120" fill="#a25e4b"/>
+<text x="632" y="170" class="subtitle">refuge</text>
+<circle cx="110" cy="772" r="10" fill="#d45d4c"/>
+<text x="128" y="770" class="subtitle">venir</text>
+<text x="128" y="802" class="small">Il est venu</text>
+<circle cx="230" cy="622" r="10" fill="#d45d4c"/>
+<text x="248" y="620" class="subtitle">arriver</text>
+<text x="248" y="652" class="small">Il est arrivé</text>
+<circle cx="340" cy="532" r="10" fill="#d45d4c"/>
+<text x="358" y="530" class="subtitle">monter</text>
+<text x="358" y="562" class="small">Il est monté</text>
+<circle cx="465" cy="362" r="10" fill="#d45d4c"/>
+<text x="483" y="360" class="subtitle">entrer</text>
+<text x="483" y="392" class="small">Il est entré</text>
+<circle cx="570" cy="252" r="10" fill="#d45d4c"/>
+<text x="588" y="250" class="subtitle">rester</text>
+<text x="588" y="282" class="small">Il est resté</text>
+<circle cx="770" cy="372" r="10" fill="#d45d4c"/>
+<text x="788" y="370" class="subtitle">sortir</text>
+<text x="788" y="402" class="small">Il est sorti</text>
+<circle cx="890" cy="502" r="10" fill="#d45d4c"/>
+<text x="908" y="500" class="subtitle">descendre</text>
+<text x="908" y="532" class="small">Il est descendu</text>
+<circle cx="1010" cy="632" r="10" fill="#d45d4c"/>
+<text x="1028" y="630" class="subtitle">tomber</text>
+<text x="1028" y="662" class="small">Il est tombé</text>
+<circle cx="1160" cy="772" r="10" fill="#d45d4c"/>
+<text x="1178" y="770" class="subtitle">partir</text>
+<text x="1178" y="802" class="small">Il est parti</text>
+<rect x="90" y="100" width="420" height="185" rx="20" fill="#e7edf8" stroke="#aab8cf" stroke-width="2"/>
+<text x="115" y="145" class="subtitle">Autres verbes fréquents</text>
+<text x="115" y="185" class="body">
+<tspan x="115" dy="0">aller • retourner • passer</tspan>
+<tspan x="115" dy="34">naître • mourir</tspan>
+<tspan x="115" dy="34">redescendre • revenir</tspan>
+</text>
+<rect x="850" y="95" width="460" height="205" rx="20" fill="#fff0c8" stroke="#d3b85e" stroke-width="2"/>
+<text x="875" y="140" class="subtitle">Accord du participe passé</text>
+<text x="875" y="180" class="body">
+<tspan x="875" dy="0">Elle est montée.</tspan>
+<tspan x="875" dy="38">Ils sont partis.</tspan>
+<tspan x="875" dy="38">Elles sont arrivées.</tspan>
+</text>
+<text x="90" y="875" class="small">Avec être, le participe passé s’accorde avec le sujet.</text>
+</svg>
