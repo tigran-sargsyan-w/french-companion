@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1050" viewBox="0 0 1500 1050">
+<rect width="100%" height="100%" fill="#f7f7f2"/>
+<style>
+.title{font:700 44px Arial,sans-serif;fill:#17324d}
+.subtitle{font:600 25px Arial,sans-serif;fill:#2a5d67}
+.body{font:22px Arial,sans-serif;fill:#25313c}
+.small{font:19px Arial,sans-serif;fill:#33404d}
+.label{font:700 20px Arial,sans-serif;fill:#ffffff}
+.example{font:italic 20px Arial,sans-serif;fill:#394b59}
+</style>
+<text x="60" y="70" class="title">Passé composé ou imparfait ?</text>
+<rect x="60" y="120" width="660" height="820" rx="28" fill="#e3edf9" stroke="#9fb5ce" stroke-width="3"/>
+<rect x="780" y="120" width="660" height="820" rx="28" fill="#f6e8da" stroke="#cbb095" stroke-width="3"/>
+<text x="95" y="175" class="subtitle">Passé composé</text>
+<text x="815" y="175" class="subtitle">Imparfait</text>
+<text x="95" y="230" class="body">
+<tspan x="95" dy="0">Action ponctuelle</tspan>
+<tspan x="95" dy="42">Je suis né en 2000.</tspan>
+<tspan x="95" dy="42"></tspan>
+<tspan x="95" dy="42">Période limitée</tspan>
+<tspan x="95" dy="42">Pendant mon enfance, j’ai vécu en Espagne.</tspan>
+<tspan x="95" dy="42"></tspan>
+<tspan x="95" dy="42">Série d’actions</tspan>
+<tspan x="95" dy="42">Je me suis levé, j’ai déjeuné, puis je suis parti.</tspan>
+<tspan x="95" dy="42"></tspan>
+<tspan x="95" dy="42">Répétition comptée</tspan>
+<tspan x="95" dy="42">Hier, je t’ai appelé plusieurs fois.</tspan>
+<tspan x="95" dy="42"></tspan>
+<tspan x="95" dy="42">Résultat / conséquence</tspan>
+<tspan x="95" dy="42">La police a finalement arrêté les voleurs.</tspan>
+</text>
+<text x="815" y="230" class="body">
+<tspan x="815" dy="0">Description du contexte</tspan>
+<tspan x="815" dy="42">Le film était bien.</tspan>
+<tspan x="815" dy="42"></tspan>
+<tspan x="815" dy="42">Habitude</tspan>
+<tspan x="815" dy="42">J’allais à la piscine tous les samedis.</tspan>
+<tspan x="815" dy="42"></tspan>
+<tspan x="815" dy="42">Action en cours</tspan>
+<tspan x="815" dy="42">Je lisais quand tu es arrivé.</tspan>
+<tspan x="815" dy="42"></tspan>
+<tspan x="815" dy="42">Cause ou explication</tspan>
+<tspan x="815" dy="42">Je ne suis pas venu car j’étais malade.</tspan>
+<tspan x="815" dy="42"></tspan>
+<tspan x="815" dy="42">Formation</tspan>
+<tspan x="815" dy="42">radical de « nous » sans -ons +</tspan>
+<tspan x="815" dy="42">-ais, -ais, -ait, -ions, -iez, -aient</tspan>
+</text>
+<rect x="300" y="970" width="900" height="55" rx="18" fill="#dce9df"/>
+<text x="330" y="1007" class="subtitle">Je lisais quand, soudain, j’ai entendu un bruit.</text>
+</svg>

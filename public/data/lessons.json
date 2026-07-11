@@ -16,5 +16,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_2_2026_07_07"
+  },
+  {
+    "id": "lesson_3_2026_07_08",
+    "number": 3,
+    "title": "Origines, émotions et temps du passé",
+    "date": "2026-07-08",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_3_2026_07_08"
   }
 ]

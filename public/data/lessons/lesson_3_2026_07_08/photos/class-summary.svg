@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<rect width="100%" height="100%" fill="#f7f7f2"/>
+<style>
+.title{font:700 44px Arial,sans-serif;fill:#17324d}
+.subtitle{font:600 25px Arial,sans-serif;fill:#2a5d67}
+.body{font:22px Arial,sans-serif;fill:#25313c}
+.small{font:19px Arial,sans-serif;fill:#33404d}
+.label{font:700 20px Arial,sans-serif;fill:#ffffff}
+.example{font:italic 20px Arial,sans-serif;fill:#394b59}
+</style>
+<text x="60" y="70" class="title">Classe du 8 juillet 2026</text>
+<rect x="60" y="120" width="340" height="240" rx="24" fill="#d8ece6" stroke="#b8c5c9" stroke-width="2"/>
+<text x="84" y="172" class="subtitle">1. Origines</text>
+<text x="84" y="216" class="body">
+<tspan x="84" dy="0">Parler de ses origines</tspan>
+<tspan x="84" dy="36">Activités 1 à 5</tspan>
+<tspan x="84" dy="36">Pages 22–23</tspan>
+</text>
+<rect x="430" y="120" width="340" height="240" rx="24" fill="#fde8cc" stroke="#b8c5c9" stroke-width="2"/>
+<text x="454" y="172" class="subtitle">2. Émotions</text>
+<text x="454" y="216" class="body">
+<tspan x="454" dy="0">Exprimer ses émotions</tspan>
+<tspan x="454" dy="36">Activités 6 et 7, page 23</tspan>
+<tspan x="454" dy="36">Élargissement lexical</tspan>
+</text>
+<rect x="800" y="120" width="340" height="240" rx="24" fill="#dce7f8" stroke="#b8c5c9" stroke-width="2"/>
+<text x="824" y="172" class="subtitle">3. Temps du passé</text>
+<text x="824" y="216" class="body">
+<tspan x="824" dy="0">Passé composé vs imparfait</tspan>
+<tspan x="824" dy="36">Utilisation + formation</tspan>
+<tspan x="824" dy="36">Ex. 5 en groupe, ex. 8 seul</tspan>
+</text>
+<rect x="60" y="410" width="1080" height="250" rx="28" fill="#fff4c7" stroke="#d5bf63" stroke-width="2"/>
+<text x="92" y="468" class="subtitle">Devoirs pour le 9 juillet 2026</text>
+<text x="92" y="520" class="body">
+<tspan x="92" dy="0">Cahier d’activités : exercices 8, 9 et 10 page 7</tspan>
+<tspan x="92" dy="38">et exercice 13 page 8.</tspan>
+<tspan x="92" dy="38"></tspan>
+<tspan x="92" dy="38">Demain, Étienne sera en classe.</tspan>
+</text>
+<text x="60" y="760" class="small">Origines • sentiments • passé composé • imparfait</text>
+</svg>
