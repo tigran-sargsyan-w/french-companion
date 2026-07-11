@@ -27,7 +27,7 @@
       },
       {
         "title": "Passé composé: période limitée",
-        "markup": "Pendant mon enfance, j'{{période terminée:ai vécu}} en Espagne.",
+        "markup": "Pendant mon enfance, j'{{période limitée:ai vécu}} en Espagne.",
         "explanation": "La période est présentée comme limitée et terminée.",
         "sourceSentences": [
           "J'ai habité en Espagne pendant une partie de mon enfance.",
@@ -42,6 +42,25 @@
           "Je me suis levé.",
           "J'ai déjeuné.",
           "Je suis parti."
+        ]
+      },
+      {
+        "title": "Passé composé: répétition d'une action punctuelle",
+        "markup": "Hier, j'{{répétition:ai appelé}} toi plusieurs fois.",
+        "explanation": "Le passé composé peut exprimer la répétition d'une action ponctuelle.",
+        "sourceSentences": [
+          "Je t'ai appelé.",
+          "Je t'ai rappelé.",
+          "Je t'ai appelé encore et encore."
+        ]
+      },
+      {
+        "title": "Passé composé: conséquence d'une action",
+        "markup": "Quelque chose s'est passé ... La police a finalement {{conséquence: arrêté}} les voleurs.",
+        "explanation": "Le passé composé peut exprimer la conséquence d'une action.",
+        "sourceSentences": [
+          "Les voleurs ont volé.",
+          "La police les a arrêtés."
         ]
       },
       {
