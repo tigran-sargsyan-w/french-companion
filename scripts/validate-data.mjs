@@ -4,7 +4,6 @@ import process from "node:process";
 
 const rootDir = process.cwd();
 const publicDir = path.join(rootDir, "public");
-
 const requiredLessonFiles = [
   "lesson.json",
   "grammar.json",
@@ -44,8 +43,7 @@ function readJson(publicPath) {
 }
 
 function publicPathExists(publicPath) {
-  const absolutePath = path.join(publicDir, publicPath.replace(/^\/+/, ""));
-  return fs.existsSync(absolutePath);
+  return fs.existsSync(path.join(publicDir, publicPath.replace(/^\/+/, "")));
 }
 
 function isValidDate(value) {
@@ -67,19 +65,6 @@ function requireString(object, field, scope) {
   }
 }
 
-function requireStringArray(object, field, scope) {
-  const value = object[field];
-
-  if (!Array.isArray(value) || value.length === 0) {
-    fail(scope, `field '${field}' must be a non-empty array of strings`);
-    return;
-  }
-
-  if (value.some((item) => typeof item !== "string" || item.trim() === "")) {
-    fail(scope, `field '${field}' must contain only non-empty strings`);
-  }
-}
-
 function requireBoolean(object, field, scope) {
   if (typeof object[field] !== "boolean") {
     fail(scope, `field '${field}' must be a boolean`);
@@ -93,6 +78,33 @@ function requireArray(value, scope) {
   }
 
   return true;
+}
+
+function requireMarkdownBlocks(object, field, scope) {
+  const value = object[field];
+
+  if (!Array.isArray(value) || value.length === 0) {
+    fail(scope, `field '${field}' must be a non-empty array of Markdown blocks`);
+    return;
+  }
+
+  value.forEach((block, blockIndex) => {
+    const blockScope = `${scope}.${field}[${blockIndex}]`;
+
+    if (!Array.isArray(block) || block.length === 0) {
+      fail(blockScope, "must be a non-empty array of Markdown lines");
+      return;
+    }
+
+    if (block.some((line) => typeof line !== "string")) {
+      fail(blockScope, "must contain only strings");
+      return;
+    }
+
+    if (block.every((line) => line.trim() === "")) {
+      fail(blockScope, "must contain at least one non-empty line");
+    }
+  });
 }
 
 function checkUniqueId(id, scope) {
@@ -182,53 +194,6 @@ function validateLessonIndexItem(item, index) {
   return item;
 }
 
-function validateLessonFile(lesson, indexItem, lessonFolderPublicPath) {
-  const scope = `${lessonFolderPublicPath}/lesson.json`;
-
-  if (!isObject(lesson)) {
-    fail(scope, "must be an object");
-    return;
-  }
-
-  for (const legacyField of ["grammarTopicIds", "vocabIds", "homeworkIds"]) {
-    if (legacyField in lesson) {
-      fail(scope, `remove legacy field '${legacyField}'; lesson content is inferred from folder files`);
-    }
-  }
-
-  requireString(lesson, "id", scope);
-  requireString(lesson, "title", scope);
-  requireString(lesson, "date", scope);
-  requireString(lesson, "summary", scope);
-  requireString(lesson, "notes", scope);
-
-  if (!Array.isArray(lesson.photos)) {
-    fail(scope, "field 'photos' must be an array");
-  }
-
-  if (lesson.id !== indexItem.id) {
-    fail(scope, `lesson id '${lesson.id}' must match lessons.json id '${indexItem.id}'`);
-  }
-
-  if (lesson.title !== indexItem.title) {
-    fail(scope, "lesson title must match lessons.json title");
-  }
-
-  if (lesson.date !== indexItem.date) {
-    fail(scope, "lesson date must match lessons.json date");
-  }
-
-  if (!isValidDate(lesson.date)) {
-    fail(scope, "field 'date' must use YYYY-MM-DD and be a real date");
-  }
-
-  if (Array.isArray(lesson.photos)) {
-    lesson.photos.forEach((photo, index) =>
-      validatePhoto(photo, `${scope}.photos[${index}]`, lessonFolderPublicPath),
-    );
-  }
-}
-
 function validatePhoto(photo, scope, lessonFolderPublicPath) {
   const src = typeof photo === "string" ? photo : isObject(photo) ? photo.src : undefined;
 
@@ -256,6 +221,53 @@ function validatePhoto(photo, scope, lessonFolderPublicPath) {
 
   if (!publicPathExists(publicPath)) {
     fail(scope, `photo file '${src}' does not exist`);
+  }
+}
+
+function validateLessonFile(lesson, indexItem, lessonFolderPublicPath) {
+  const scope = `${lessonFolderPublicPath}/lesson.json`;
+
+  if (!isObject(lesson)) {
+    fail(scope, "must be an object");
+    return;
+  }
+
+  for (const legacyField of ["grammarTopicIds", "vocabIds", "homeworkIds"]) {
+    if (legacyField in lesson) {
+      fail(scope, `remove legacy field '${legacyField}'; lesson content is inferred from folder files`);
+    }
+  }
+
+  requireString(lesson, "id", scope);
+  requireString(lesson, "title", scope);
+  requireString(lesson, "date", scope);
+  requireMarkdownBlocks(lesson, "summary", scope);
+  requireString(lesson, "notes", scope);
+
+  if (!Array.isArray(lesson.photos)) {
+    fail(scope, "field 'photos' must be an array");
+  }
+
+  if (lesson.id !== indexItem.id) {
+    fail(scope, `lesson id '${lesson.id}' must match lessons.json id '${indexItem.id}'`);
+  }
+
+  if (lesson.title !== indexItem.title) {
+    fail(scope, "lesson title must match lessons.json title");
+  }
+
+  if (lesson.date !== indexItem.date) {
+    fail(scope, "lesson date must match lessons.json date");
+  }
+
+  if (!isValidDate(lesson.date)) {
+    fail(scope, "field 'date' must use YYYY-MM-DD and be a real date");
+  }
+
+  if (Array.isArray(lesson.photos)) {
+    lesson.photos.forEach((photo, index) =>
+      validatePhoto(photo, `${scope}.photos[${index}]`, lessonFolderPublicPath),
+    );
   }
 }
 
@@ -303,7 +315,7 @@ function validateGrammar(items, lessonFolderPublicPath) {
     checkUniqueId(item.id, itemScope);
     requireString(item, "title", itemScope);
     requireString(item, "category", itemScope);
-    requireStringArray(item, "summary", itemScope);
+    requireMarkdownBlocks(item, "summary", itemScope);
 
     if (!Array.isArray(item.examples) || item.examples.some((example) => typeof example !== "string")) {
       fail(itemScope, "field 'examples' must be an array of strings");
@@ -403,7 +415,6 @@ function validateLessonFolder(indexItem, index) {
 
   for (const fileName of requiredLessonFiles) {
     const filePublicPath = `${lessonFolderPublicPath}/${fileName}`;
-
     if (!publicPathExists(filePublicPath)) {
       fail(`data/lessons.json[${index}]`, `missing ${filePublicPath}`);
     }
@@ -463,11 +474,9 @@ main();
 
 if (errors.length > 0) {
   console.error(`Learning data validation failed with ${errors.length} error(s):`);
-
   for (const error of errors) {
     console.error(`- ${error}`);
   }
-
   process.exit(1);
 }
 

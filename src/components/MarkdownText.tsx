@@ -2,14 +2,44 @@ import ReactMarkdown, { type Components } from "react-markdown";
 import remarkBreaks from "remark-breaks";
 import remarkGfm from "remark-gfm";
 
+export type MarkdownContent = string | string[] | string[][];
+
 interface MarkdownTextProps {
-  children: string | string[];
+  children: MarkdownContent;
   className?: string;
   inline?: boolean;
 }
 
+export function markdownContentToString(content: MarkdownContent) {
+  if (typeof content === "string") {
+    return content;
+  }
+
+  if (content.every(Array.isArray)) {
+    return (content as string[][]).map((block) => block.join("\n")).join("\n\n");
+  }
+
+  return (content as string[]).join("\n\n");
+}
+
+export function isMarkdownContent(value: unknown): value is MarkdownContent {
+  if (typeof value === "string") {
+    return true;
+  }
+
+  if (!Array.isArray(value)) {
+    return false;
+  }
+
+  return value.every(
+    (item) =>
+      typeof item === "string" ||
+      (Array.isArray(item) && item.every((line) => typeof line === "string")),
+  );
+}
+
 export function MarkdownText({ children, className = "", inline = false }: MarkdownTextProps) {
-  const markdown = Array.isArray(children) ? children.join("\n\n") : children;
+  const markdown = markdownContentToString(children);
 
   const components: Components = {
     p: ({ children: paragraphChildren }) =>

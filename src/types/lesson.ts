@@ -10,7 +10,7 @@ export interface Lesson {
   id: string;
   title: string;
   date: string;
-  summary: string;
+  summary: string[][];
   notes: string;
   photos: LessonPhoto[];
 }

@@ -4,8 +4,12 @@
     "title": "Interviewer puis présenter une personne",
     "category": "Questions",
     "summary": [
-      "Pendant l'interview, on pose les questions avec **tu** et la personne répond avec **je**.",
-      "Lors de la présentation devant la classe, on reformule les informations avec **il** ou **elle**."
+      [
+        "Pendant l'interview, on pose les questions avec **tu** et la personne répond avec **je**."
+      ],
+      [
+        "Lors de la présentation devant la classe, on reformule les informations avec **il** ou **elle**."
+      ]
     ],
     "examples": [
       "Quel âge as-tu ?",
@@ -32,8 +36,12 @@
     "title": "Révision: imparfait et passé composé",
     "category": "Tenses",
     "summary": [
-      "L'imparfait exprime notamment une habitude, une durée non précisée, un état, un sentiment, une description ou le contexte d'une action.",
-      "Le passé composé présente des événements ponctuels, terminés ou successifs."
+      [
+        "L'imparfait exprime notamment une habitude, une durée non précisée, un état, un sentiment, une description ou le contexte d'une action."
+      ],
+      [
+        "Le passé composé présente des événements ponctuels, terminés ou successifs."
+      ]
     ],
     "examples": [
       "Je me levais tôt tous les matins.",
@@ -60,9 +68,15 @@
     "title": "Révision du passé composé avec être",
     "category": "Verbs",
     "summary": [
-      "Les verbes pronominaux et plusieurs verbes de mouvement ou de changement d'état se conjuguent avec **être** au passé composé.",
-      "Le participe passé s'accorde alors en genre et en nombre avec le sujet.",
-      "Certains verbes comme `passer`, `monter` et `descendre` peuvent employer **avoir** lorsqu'ils ont un complément d'objet direct."
+      [
+        "Les verbes pronominaux et plusieurs verbes de mouvement ou de changement d'état se conjuguent avec **être** au passé composé."
+      ],
+      [
+        "Le participe passé s'accorde alors en genre et en nombre avec le sujet."
+      ],
+      [
+        "Certains verbes comme `passer`, `monter` et `descendre` peuvent employer **avoir** lorsqu'ils ont un complément d'objet direct."
+      ]
     ],
     "examples": [
       "Elle est arrivée tôt.",
@@ -90,9 +104,15 @@
     "title": "Accord du participe passé avec avoir et un COD",
     "category": "Verbs",
     "summary": [
-      "Avec l'auxiliaire **avoir**, le participe passé ne s'accorde normalement pas avec le sujet.",
-      "Il s'accorde en genre et en nombre avec le **COD** lorsque celui-ci est placé avant le verbe.",
-      "Le COD peut notamment être un pronom personnel ou être représenté par le pronom relatif **que**."
+      [
+        "Avec l'auxiliaire **avoir**, le participe passé ne s'accorde normalement pas avec le sujet."
+      ],
+      [
+        "Il s'accorde en genre et en nombre avec le **COD** lorsque celui-ci est placé avant le verbe."
+      ],
+      [
+        "Le COD peut notamment être un pronom personnel ou être représenté par le pronom relatif **que**."
+      ]
     ],
     "examples": [
       "Elles ont fait des recherches sur leurs origines.",
@@ -140,8 +160,12 @@
     "title": "Exprimer son opinion",
     "category": "Opinions",
     "summary": [
-      "`Je pense que`, `je trouve que` et `je crois que` sont suivis d'une proposition avec un verbe conjugué.",
-      "`À mon avis`, `pour moi` et `selon moi` peuvent être placés au début de la phrase."
+      [
+        "`Je pense que`, `je trouve que` et `je crois que` sont suivis d'une proposition avec un verbe conjugué."
+      ],
+      [
+        "`À mon avis`, `pour moi` et `selon moi` peuvent être placés au début de la phrase."
+      ]
     ],
     "examples": [
       "Je pense que cette tradition est intéressante.",
@@ -158,27 +182,103 @@
     "title": "Genre des noms : reconnaître le masculin et le féminin",
     "category": "Articles",
     "summary": [
-      "**À retenir :** le français possède deux genres grammaticaux : le **masculin** et le **féminin**. Les terminaisons et les groupes de sens donnent souvent de bons indices, mais ce ne sont pas des règles absolues. La méthode la plus sûre consiste à apprendre chaque nom avec son article : **un / le** ou **une / la**.",
-      "### Terminaisons souvent masculines",
-      "| Terminaison | Exemples | Exceptions fréquentes |\n|---|---|---|\n| `-e`, `-é` | le maître, le résumé, le pré | — |\n| `-eur` | le vendeur, le danseur | — |\n| `-ien` | le musicien, le chien | — |\n| `-(i)er` | le boucher, l'ouvrier | — |\n| `-on` | le patron, le baron | la maison, la saison, la chanson, la raison, la façon |\n| `-teur` | le traducteur | — |\n| `-age` | le garage, le voyage, le sauvetage | la cage, l'image, la page, la plage, la nage, la rage |\n| `-al` | le journal, le cheval | — |\n| `-eau` | le bateau, le château, le niveau | l'eau, la peau |\n| `-ent`, `-et` | le segment, le billet, le projet | la jument |\n| `-asme`, `-isme` | le fantasme, le tourisme, le charisme | — |\n| `-in`, `-oir`, `-ail` | le cousin, l'arrosoir, le travail | — |\n| `-ment` | le changement, le gouvernement | — |",
-      "### Terminaisons souvent féminines",
-      "| Terminaison | Exemples | Exceptions fréquentes |\n|---|---|---|\n| `-esse` | la maîtresse, la richesse | — |\n| `-euse` | la vendeuse, la danseuse | — |\n| `-ienne` | la musicienne, la chienne | — |\n| `-(i)ère` | la bouchère, l'ouvrière | — |\n| `-onne` | la patronne, la baronne | — |\n| `-trice` | la traductrice, l'actrice | — |\n| `-ade` | la promenade, la façade | le stade |\n| `-ance`, `-ence` | la différence, l'ambulance, l'essence | le silence |\n| `-sion`, `-ssion`, `-tion`, `-xion` | la décision, la discussion, la nation, la connexion | — |\n| `-ée` | l'arrivée, l'idée | le musée, le lycée, le trophée |\n| `-elle`, `-ette` | la demoiselle, la poussette | — |\n| `-ie` | la géologie, la librairie | l'incendie |\n| `-ine`, `-ise`, `-aille` | la cuisine, la surprise, la trouvaille | — |\n| `-té`, `-ité` | la pitié, la qualité, la confidentialité | le comité, le côté, l'été, le pâté |\n| `-ure` | la culture, la confiture | le murmure |",
-      "### Groupes de mots utiles",
-      "Sont généralement **masculins** :",
-      "- les points cardinaux : **le nord, le sud, l'est, l'ouest** ;\n- les jours, les mois et les saisons : **le lundi, février, l'été** ;\n- les noms d'arbres : **le sapin, le chêne** ;\n- les langues : **le français, l'anglais**.",
-      "Sont généralement **féminins** :",
-      "- les continents : **l'Europe, l'Asie** ;\n- les disciplines : **la médecine, la philosophie, la chimie**.",
-      "### Personnes, animaux et métiers",
-      "Pour les personnes et les animaux, le genre grammatical correspond souvent au genre naturel : **le garçon / la fille**, **le coq / la poule**.",
-      "Certains noms d'animaux ont un genre fixe et peuvent désigner un mâle ou une femelle. On précise alors le sexe avec **mâle** ou **femelle** : **une souris mâle**, **la femelle du crocodile**.",
-      "Certains noms gardent la même forme aux deux genres : **un touriste / une touriste**, **un journaliste / une journaliste**, **un interprète / une interprète**. Pour d'autres métiers, une forme féminine existe ou est de plus en plus utilisée : **un écrivain / une écrivaine**, **un auteur / une auteure**.",
-      "### Pays et régions",
-      "Les noms de pays ou de régions terminés par `-e` sont **souvent féminins** : **la France, l'Allemagne, la Chine, la Bretagne**.",
-      "Ceux qui se terminent par une autre voyelle ou par une consonne sont **souvent masculins** : **le Canada, le Pérou, le Maroc, le Japon, le Portugal**.",
-      "Comme il existe des exceptions, il est préférable d'apprendre le pays avec son article.",
-      "> **Bonne habitude :** note toujours un nouveau nom sous la forme **article + nom**, par exemple `la culture`, `le tourisme`, `une image`, `un voyage`.",
-      "### Ressource complémentaire",
-      "[Le genre des noms : masculin et féminin — Lingolia](https://francais.lingolia.com/fr/grammaire/noms/genre)"
+      [
+        "**À retenir :** le français possède deux genres grammaticaux : le **masculin** et le **féminin**. Les terminaisons et les groupes de sens donnent souvent de bons indices, mais ce ne sont pas des règles absolues. La méthode la plus sûre consiste à apprendre chaque nom avec son article : **un / le** ou **une / la**."
+      ],
+      [
+        "### Terminaisons souvent masculines"
+      ],
+      [
+        "| Terminaison | Exemples | Exceptions fréquentes |",
+        "|---|---|---|",
+        "| `-e`, `-é` | le maître, le résumé, le pré | — |",
+        "| `-eur` | le vendeur, le danseur | — |",
+        "| `-ien` | le musicien, le chien | — |",
+        "| `-(i)er` | le boucher, l'ouvrier | — |",
+        "| `-on` | le patron, le baron | la maison, la saison, la chanson, la raison, la façon |",
+        "| `-teur` | le traducteur | — |",
+        "| `-age` | le garage, le voyage, le sauvetage | la cage, l'image, la page, la plage, la nage, la rage |",
+        "| `-al` | le journal, le cheval | — |",
+        "| `-eau` | le bateau, le château, le niveau | l'eau, la peau |",
+        "| `-ent`, `-et` | le segment, le billet, le projet | la jument |",
+        "| `-asme`, `-isme` | le fantasme, le tourisme, le charisme | — |",
+        "| `-in`, `-oir`, `-ail` | le cousin, l'arrosoir, le travail | — |",
+        "| `-ment` | le changement, le gouvernement | — |"
+      ],
+      [
+        "### Terminaisons souvent féminines"
+      ],
+      [
+        "| Terminaison | Exemples | Exceptions fréquentes |",
+        "|---|---|---|",
+        "| `-esse` | la maîtresse, la richesse | — |",
+        "| `-euse` | la vendeuse, la danseuse | — |",
+        "| `-ienne` | la musicienne, la chienne | — |",
+        "| `-(i)ère` | la bouchère, l'ouvrière | — |",
+        "| `-onne` | la patronne, la baronne | — |",
+        "| `-trice` | la traductrice, l'actrice | — |",
+        "| `-ade` | la promenade, la façade | le stade |",
+        "| `-ance`, `-ence` | la différence, l'ambulance, l'essence | le silence |",
+        "| `-sion`, `-ssion`, `-tion`, `-xion` | la décision, la discussion, la nation, la connexion | — |",
+        "| `-ée` | l'arrivée, l'idée | le musée, le lycée, le trophée |",
+        "| `-elle`, `-ette` | la demoiselle, la poussette | — |",
+        "| `-ie` | la géologie, la librairie | l'incendie |",
+        "| `-ine`, `-ise`, `-aille` | la cuisine, la surprise, la trouvaille | — |",
+        "| `-té`, `-ité` | la pitié, la qualité, la confidentialité | le comité, le côté, l'été, le pâté |",
+        "| `-ure` | la culture, la confiture | le murmure |"
+      ],
+      [
+        "### Groupes de mots utiles"
+      ],
+      [
+        "Sont généralement **masculins** :"
+      ],
+      [
+        "- les points cardinaux : **le nord, le sud, l'est, l'ouest** ;",
+        "- les jours, les mois et les saisons : **le lundi, février, l'été** ;",
+        "- les noms d'arbres : **le sapin, le chêne** ;",
+        "- les langues : **le français, l'anglais**."
+      ],
+      [
+        "Sont généralement **féminins** :"
+      ],
+      [
+        "- les continents : **l'Europe, l'Asie** ;",
+        "- les disciplines : **la médecine, la philosophie, la chimie**."
+      ],
+      [
+        "### Personnes, animaux et métiers"
+      ],
+      [
+        "Pour les personnes et les animaux, le genre grammatical correspond souvent au genre naturel : **le garçon / la fille**, **le coq / la poule**."
+      ],
+      [
+        "Certains noms d'animaux ont un genre fixe et peuvent désigner un mâle ou une femelle. On précise alors le sexe avec **mâle** ou **femelle** : **une souris mâle**, **la femelle du crocodile**."
+      ],
+      [
+        "Certains noms gardent la même forme aux deux genres : **un touriste / une touriste**, **un journaliste / une journaliste**, **un interprète / une interprète**. Pour d'autres métiers, une forme féminine existe ou est de plus en plus utilisée : **un écrivain / une écrivaine**, **un auteur / une auteure**."
+      ],
+      [
+        "### Pays et régions"
+      ],
+      [
+        "Les noms de pays ou de régions terminés par `-e` sont **souvent féminins** : **la France, l'Allemagne, la Chine, la Bretagne**."
+      ],
+      [
+        "Ceux qui se terminent par une autre voyelle ou par une consonne sont **souvent masculins** : **le Canada, le Pérou, le Maroc, le Japon, le Portugal**."
+      ],
+      [
+        "Comme il existe des exceptions, il est préférable d'apprendre le pays avec son article."
+      ],
+      [
+        "> **Bonne habitude :** note toujours un nouveau nom sous la forme **article + nom**, par exemple `la culture`, `le tourisme`, `une image`, `un voyage`."
+      ],
+      [
+        "### Ressource complémentaire"
+      ],
+      [
+        "[Le genre des noms : masculin et féminin — Lingolia](https://francais.lingolia.com/fr/grammaire/noms/genre)"
+      ]
     ],
     "examples": [
       "**Masculin :** le voyage, le journal, le bateau, le tourisme, le travail.",
