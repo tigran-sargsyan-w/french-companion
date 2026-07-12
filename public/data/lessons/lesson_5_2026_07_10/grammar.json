@@ -1,0 +1,141 @@
+[
+  {
+    "id": "g_2026_07_10_imparfait_passe_compose_phonetique",
+    "title": "Temps du passé et phonétique",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Imparfait et passé composé\n",
+        "L'**imparfait** sert notamment à présenter une habitude, une description, un état ou une action en cours dans le passé.\n",
+        "Le **passé composé** présente généralement une action terminée ou un événement ponctuel."
+      ],
+      [
+        "### Féminin du participe passé et prononciation\n",
+        "La marque écrite du féminin n'est pas toujours audible : **aimé** et **aimée** se prononcent de la même manière.\n",
+        "Avec certains participes passés, le féminin rend une consonne finale audible : **pris / prise**, **mis / mise**, **dit / dite**, **écrit / écrite**."
+      ]
+    ],
+    "examples": [
+      "Je lisais quand le téléphone a sonné.",
+      "J'ai aimé cette fête.",
+      "La clé que j'ai prise est sur la table."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Contexte et événement ponctuel",
+        "markup": "Je {{contexte:lisais}} quand le téléphone {{temps:a sonné}}.",
+        "explanation": "L'imparfait présente l'action en cours et le passé composé introduit l'événement ponctuel.",
+        "sourceSentences": [
+          "Je lisais.",
+          "Le téléphone a sonné."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_10_accord_participe_avoir_cod",
+    "title": "Accord du participe passé avec avoir et un COD",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Règle générale\n",
+        "Avec l'auxiliaire **avoir**, le participe passé s'accorde avec le **COD** lorsque celui-ci est placé avant le verbe.\n",
+        "Le COD peut être repris par un pronom personnel comme **le**, **la** ou **les**, ou par le pronom relatif **que**."
+      ],
+      [
+        "### Comparaison\n",
+        "- COD après le verbe : **J'ai aimé cette fête.**",
+        "- COD repris avant le verbe : **Cette fête, je l'ai aimée.**",
+        "- COD représenté par **que** : **C'est cette fête que j'ai aimée.**"
+      ]
+    ],
+    "examples": [
+      "J'ai aimé cette fête.",
+      "Cette fête, je l'ai aimée.",
+      "C'est cette fête que j'ai aimée."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Pronom COD placé avant le verbe",
+        "markup": "Cette fête, je {{COD:l'}}ai {{accord féminin singulier:aimée}}.",
+        "explanation": "Le pronom l' reprend cette fête. Le COD féminin singulier est placé avant le verbe, donc le participe passé prend -e.",
+        "sourceSentences": [
+          "J'ai aimé cette fête.",
+          "Cette fête, je l'ai aimée."
+        ]
+      },
+      {
+        "title": "COD représenté par que",
+        "markup": "C'est cette fête {{que:que}} j'ai {{accord féminin singulier:aimée}}.",
+        "explanation": "Que représente cette fête et se trouve avant le verbe. Le participe passé s'accorde donc au féminin singulier.",
+        "sourceSentences": [
+          "J'ai aimé cette fête.",
+          "C'est cette fête que j'ai aimée."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_10_de_adjectif_nom_pluriel",
+    "title": "De + adjectif + nom au pluriel",
+    "category": "Articles",
+    "summary": [
+      [
+        "### Forme standard\n",
+        "Devant un adjectif placé avant un nom pluriel, l'article indéfini **des** devient généralement **de** : **de jolies photos**.\n",
+        "On utilise **d'** devant une voyelle ou un h muet : **d'excellentes idées**."
+      ],
+      [
+        "### Usage familier\n",
+        "Dans la langue familière, on entend aussi **des jolies photos**. La forme **de jolies photos** reste la forme standard attendue dans un français soigné."
+      ]
+    ],
+    "examples": [
+      "Elle a pris de jolies photos.",
+      "Nous avons eu d'excellentes idées.",
+      "On voit souvent des jolies photos sur les réseaux sociaux."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Article devant l'adjectif",
+        "markup": "Elle a pris {{article:de}} {{adjectif:jolies}} {{nom:photos}}.",
+        "explanation": "L'adjectif jolies est placé avant le nom pluriel photos, donc des devient de dans la forme standard.",
+        "sourceSentences": [
+          "Elle a pris des photos.",
+          "Les photos sont jolies."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_10_rendre_adjectif",
+    "title": "Rendre + adjectif",
+    "category": "Verbs",
+    "summary": [
+      [
+        "La construction **rendre + complément + adjectif** indique qu'une personne ou une chose provoque un état, une émotion ou un changement chez quelqu'un ou quelque chose."
+      ],
+      [
+        "### Construction\n",
+        "**Sujet + rendre + complément + adjectif**\n",
+        "L'adjectif s'accorde avec le complément qu'il décrit : **Cette nouvelle rend Paul heureux** ; **Ces nouvelles rendent Marie heureuse**."
+      ]
+    ],
+    "examples": [
+      "Cette nouvelle me rend heureux.",
+      "La générosité peut rendre les autres heureux.",
+      "Ce bruit me rend nerveux."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "État provoqué",
+        "markup": "Cette nouvelle {{verbe:me rend}} {{état:heureux}}.",
+        "explanation": "La nouvelle provoque chez la personne l'état exprimé par l'adjectif heureux.",
+        "sourceSentences": [
+          "Cette nouvelle agit sur mon état.",
+          "Je suis heureux."
+        ]
+      }
+    ]
+  }
+]
