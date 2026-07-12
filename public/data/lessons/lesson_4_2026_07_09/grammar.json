@@ -1,0 +1,160 @@
+[
+  {
+    "id": "g_2026_07_09_interviewer_presenter",
+    "title": "Interviewer puis présenter une personne",
+    "category": "Questions",
+    "summary": "Pendant l'interview, on pose les questions avec tu et la personne répond avec je. Lors de la présentation devant la classe, on reformule les informations avec il ou elle.",
+    "examples": [
+      "Quel âge as-tu ?",
+      "Quelle est ta profession ?",
+      "Qu'est-ce que tu aimes faire ?",
+      "Pourquoi prends-tu des cours de français ?",
+      "Je vous présente Anna. Elle est étudiante et elle aime voyager.",
+      "Laissez-moi vous présenter Marc. Il habite à Lyon depuis deux ans."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Passage de je à elle",
+        "markup": "Pendant l'interview: « {{première personne:Je}} suis étudiante. » Pendant la présentation: « {{troisième personne:Elle}} est étudiante. »",
+        "explanation": "La personne répond à la première personne, puis l'intervieweur présente ses réponses à la troisième personne.",
+        "sourceSentences": [
+          "Je suis étudiante.",
+          "Elle est étudiante."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_09_imparfait_passe_compose_revision",
+    "title": "Révision: imparfait et passé composé",
+    "category": "Tenses",
+    "summary": "L'imparfait exprime notamment une habitude, une durée non précisée, un état, un sentiment, une description ou le contexte d'une action. Le passé composé présente des événements ponctuels, terminés ou successifs.",
+    "examples": [
+      "Je me levais tôt tous les matins.",
+      "Il pleuvait depuis des heures.",
+      "Je me sentais bien.",
+      "Elle était petite et elle avait les cheveux bruns.",
+      "Je lisais quand le téléphone a sonné.",
+      "Hier, je suis sorti et j'ai rencontré un ami."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Contexte et événement ponctuel",
+        "markup": "Je {{contexte:lisais}} quand le téléphone {{événement ponctuel:a sonné}}.",
+        "explanation": "L'imparfait décrit l'action déjà en cours. Le passé composé introduit l'événement ponctuel.",
+        "sourceSentences": [
+          "Je lisais.",
+          "Le téléphone a sonné."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_09_passe_compose_avec_etre",
+    "title": "Révision du passé composé avec être",
+    "category": "Verbs",
+    "summary": "Les verbes pronominaux et plusieurs verbes de mouvement ou de changement d'état se conjuguent avec être au passé composé. Le participe passé s'accorde alors en genre et en nombre avec le sujet. Certains verbes comme passer, monter et descendre peuvent employer avoir lorsqu'ils ont un complément d'objet direct.",
+    "examples": [
+      "Elle est arrivée tôt.",
+      "Ils sont partis ensemble.",
+      "Elles se sont préparées et elles sont sorties.",
+      "Elle est montée au dernier étage.",
+      "Elle a monté un sac.",
+      "Elle est passée à la fête.",
+      "Elle a passé un bon moment."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Accord avec le sujet",
+        "markup": "Elles se sont {{féminin pluriel:préparées}} et elles sont {{féminin pluriel:sorties}}.",
+        "explanation": "Avec l'auxiliaire être, les participes passés s'accordent ici avec le sujet féminin pluriel elles.",
+        "sourceSentences": [
+          "Elles se sont préparées.",
+          "Elles sont sorties."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_09_accord_participe_avoir_cod",
+    "title": "Accord du participe passé avec avoir et un COD",
+    "category": "Verbs",
+    "summary": "Avec l'auxiliaire avoir, le participe passé ne s'accorde normalement pas avec le sujet. Il s'accorde en genre et en nombre avec le COD lorsque celui-ci est placé avant le verbe. Le COD peut notamment être un pronom personnel ou être représenté par le pronom relatif que.",
+    "examples": [
+      "Elles ont fait des recherches sur leurs origines.",
+      "Ils ont cherché leurs ancêtres et ils les ont retrouvés.",
+      "Les cousines que j'ai retrouvées vivaient en Italie.",
+      "La clé, je l'ai prise.",
+      "C'est la clé que j'ai prise.",
+      "J'ai pris les clés.",
+      "Les clés que j'ai prises sont sur la table.",
+      "Il a écrit une lettre.",
+      "La lettre qu'il a écrite est très longue."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Pronom COD placé avant le verbe",
+        "markup": "Ils ont cherché leurs ancêtres et ils {{COD masculin pluriel:les}} ont {{accord masculin pluriel:retrouvés}}.",
+        "explanation": "Le pronom les remplace leurs ancêtres. Comme le COD masculin pluriel est placé avant le verbe, on ajoute -s au participe passé.",
+        "sourceSentences": [
+          "Ils ont cherché leurs ancêtres.",
+          "Ils ont retrouvé leurs ancêtres."
+        ]
+      },
+      {
+        "title": "Accord avec le pronom relatif que",
+        "markup": "Les cousines {{COD:que}} j'ai {{accord féminin pluriel:retrouvées}} vivaient en Italie.",
+        "explanation": "Que remplace les cousines. Le COD féminin pluriel est placé avant le verbe, donc retrouvées prend -es.",
+        "sourceSentences": [
+          "J'ai retrouvé les cousines.",
+          "Les cousines vivaient en Italie."
+        ]
+      },
+      {
+        "title": "Variation de prononciation au féminin",
+        "markup": "prendre: pris / {{féminin:prise}}; mettre: mis / {{féminin:mise}}; dire: dit / {{féminin:dite}}; écrire: écrit / {{féminin:écrite}}",
+        "explanation": "Pour certains participes passés, l'ajout du féminin rend audible une consonne finale.",
+        "sourceSentences": [
+          "Il a pris la clé.",
+          "La clé qu'il a prise."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_09_exprimer_opinion",
+    "title": "Exprimer son opinion",
+    "category": "Opinions",
+    "summary": "Je pense que, je trouve que et je crois que sont suivis d'une proposition avec un verbe conjugué. À mon avis, pour moi et selon moi peuvent être placés au début de la phrase.",
+    "examples": [
+      "Je pense que cette tradition est intéressante.",
+      "Je trouve que le choix d'un prénom est important.",
+      "Je crois que les traditions ont beaucoup changé.",
+      "À mon avis, ce prénom est original.",
+      "Pour moi, la famille joue un rôle essentiel.",
+      "Selon moi, la générosité contribue au bonheur."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_07_09_genre_noms_terminaisons",
+    "title": "Genre des noms: indices de terminaison",
+    "category": "Articles",
+    "summary": "Certaines terminaisons donnent des indices sur le genre d'un nom, mais elles ne constituent pas des règles absolues. Les noms en -sion, -ssion, -tion, -xion, -ance, -ence, -ine, -ente, -ante et -ette sont souvent féminins. Les noms en -ment, -eau ou -age sont souvent masculins. Parmi les exceptions fréquentes en -age: une image, une page, une plage et la nage. Le mot eau est également féminin.",
+    "examples": [
+      "une décision",
+      "une discussion",
+      "une nation",
+      "une connexion",
+      "une différence",
+      "un changement",
+      "un niveau",
+      "un voyage",
+      "une image",
+      "une page",
+      "une plage",
+      "l'eau"
+    ],
+    "annotatedExamples": []
+  }
+]
