@@ -5,12 +5,8 @@
     "category": "Pronouns",
     "summary": [
       [
-        "**`qui`** remplace le sujet."
-      ],
-      [
-        "**`que`** remplace le complément d'objet direct."
-      ],
-      [
+        "**`qui`** remplace le sujet.\n",
+        "**`que`** remplace le complément d'objet direct.\n",
         "**`où`** remplace un complément de lieu ou de temps."
       ]
     ],
@@ -132,18 +128,15 @@
     "category": "Articles",
     "summary": [
       [
-        "### Pays féminins",
-        "",
+        "### Pays féminins\n",
         "Les noms de pays terminés par *-e* sont généralement féminins. Ils s'empoient avec l'article `la`, ou `l'` devant une voyelle : **la Tunisie, la France, la Suisse, l'Allemagne**."
       ],
       [
-        "### Pays masculins",
-        "",
+        "### Pays masculins\n",
         "Les autres noms de pays sont généralement masculins et s'emploient avec l'article `le` : **le Maroc, le Venezuela, le Brésil**."
       ],
       [
-        "### Exceptions masculines terminées par `-e`",
-        "",
+        "### Exceptions masculines terminées par `-e`\n",
         "- le Cambodge",
         "- le Mexique",
         "- le Mozambique",
@@ -152,8 +145,7 @@
         "- le Suriname"
       ],
       [
-        "### Pays au pluriel",
-        "",
+        "### Pays au pluriel\n",
         "Les noms de pays au pluriel sont toujours précédés de l'article `les` : **les États-Unis, les Émirats arabes unis, les Pays-Bas, les Philippines**."
       ]
     ],
