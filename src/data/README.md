@@ -89,13 +89,18 @@ Markdown is supported in these content-oriented fields:
 
 Keep structural fields such as IDs, titles, dates, categories, statuses and file paths as plain text.
 
-Inside JSON strings, use `\n` for a line break and `\n\n` for a new paragraph. Examples:
+Grammar `summary` is always an array of non-empty Markdown strings. Each array item is an independently editable block; the UI joins the blocks with blank lines before rendering them:
 
 ```json
 {
-  "summary": "**Règle générale**\nLes pays terminés par *-e* sont généralement féminins.\n\n**Exceptions**\n- le Mexique\n- le Belize\n- le Suriname"
+  "summary": [
+    "**Règle générale**\n\nLes pays terminés par *-e* sont généralement féminins.",
+    "### Exceptions\n\n- le Mexique\n- le Belize\n- le Suriname"
+  ]
 }
 ```
+
+For other JSON string fields, use `\n` for a line break and `\n\n` for a new paragraph.
 
 Supported syntax includes:
 

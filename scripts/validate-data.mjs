@@ -4,7 +4,6 @@ import process from "node:process";
 
 const rootDir = process.cwd();
 const publicDir = path.join(rootDir, "public");
-const dataDir = path.join(publicDir, "data");
 
 const requiredLessonFiles = [
   "lesson.json",
@@ -68,6 +67,19 @@ function requireString(object, field, scope) {
   }
 }
 
+function requireStringArray(object, field, scope) {
+  const value = object[field];
+
+  if (!Array.isArray(value) || value.length === 0) {
+    fail(scope, `field '${field}' must be a non-empty array of strings`);
+    return;
+  }
+
+  if (value.some((item) => typeof item !== "string" || item.trim() === "")) {
+    fail(scope, `field '${field}' must contain only non-empty strings`);
+  }
+}
+
 function requireBoolean(object, field, scope) {
   if (typeof object[field] !== "boolean") {
     fail(scope, `field '${field}' must be a boolean`);
@@ -79,6 +91,7 @@ function requireArray(value, scope) {
     fail(scope, "must be an array");
     return false;
   }
+
   return true;
 }
 
@@ -159,6 +172,7 @@ function validateLessonIndexItem(item, index) {
     if (typeof item.number === "number" && isValidDate(item.date)) {
       const expectedFolder = `lesson_${item.number}_${item.date.replaceAll("-", "_")}`;
       const actualFolder = path.basename(item.path);
+
       if (actualFolder !== expectedFolder) {
         fail(scope, `folder name should be '${expectedFolder}' for lesson number/date`);
       }
@@ -209,7 +223,9 @@ function validateLessonFile(lesson, indexItem, lessonFolderPublicPath) {
   }
 
   if (Array.isArray(lesson.photos)) {
-    lesson.photos.forEach((photo, index) => validatePhoto(photo, `${scope}.photos[${index}]`, lessonFolderPublicPath));
+    lesson.photos.forEach((photo, index) =>
+      validatePhoto(photo, `${scope}.photos[${index}]`, lessonFolderPublicPath),
+    );
   }
 }
 
@@ -223,6 +239,10 @@ function validatePhoto(photo, scope, lessonFolderPublicPath) {
 
   if (isObject(photo) && "caption" in photo && typeof photo.caption !== "string") {
     fail(scope, "photo caption must be a string when present");
+  }
+
+  if (isObject(photo) && "alt" in photo && typeof photo.alt !== "string") {
+    fail(scope, "photo alt must be a string when present");
   }
 
   if (/^(https?:|data:|blob:)/.test(src)) {
@@ -245,6 +265,7 @@ function validateVocabulary(items, lessonFolderPublicPath) {
 
   items.forEach((item, index) => {
     const itemScope = `${scope}[${index}]`;
+
     if (!isObject(item)) {
       fail(itemScope, "must be an object");
       return;
@@ -273,6 +294,7 @@ function validateGrammar(items, lessonFolderPublicPath) {
 
   items.forEach((item, index) => {
     const itemScope = `${scope}[${index}]`;
+
     if (!isObject(item)) {
       fail(itemScope, "must be an object");
       return;
@@ -281,7 +303,7 @@ function validateGrammar(items, lessonFolderPublicPath) {
     checkUniqueId(item.id, itemScope);
     requireString(item, "title", itemScope);
     requireString(item, "category", itemScope);
-    requireString(item, "summary", itemScope);
+    requireStringArray(item, "summary", itemScope);
 
     if (!Array.isArray(item.examples) || item.examples.some((example) => typeof example !== "string")) {
       fail(itemScope, "field 'examples' must be an array of strings");
@@ -295,6 +317,7 @@ function validateGrammar(items, lessonFolderPublicPath) {
 
       item.annotatedExamples.forEach((example, exampleIndex) => {
         const exampleScope = `${itemScope}.annotatedExamples[${exampleIndex}]`;
+
         if (!isObject(example)) {
           fail(exampleScope, "must be an object");
           return;
@@ -304,7 +327,10 @@ function validateGrammar(items, lessonFolderPublicPath) {
         requireString(example, "markup", exampleScope);
         requireString(example, "explanation", exampleScope);
 
-        if (!Array.isArray(example.sourceSentences) || example.sourceSentences.some((sentence) => typeof sentence !== "string")) {
+        if (
+          !Array.isArray(example.sourceSentences) ||
+          example.sourceSentences.some((sentence) => typeof sentence !== "string")
+        ) {
           fail(exampleScope, "field 'sourceSentences' must be an array of strings");
         }
       });
@@ -318,6 +344,7 @@ function validateHomework(items, lessonFolderPublicPath) {
 
   items.forEach((item, index) => {
     const itemScope = `${scope}[${index}]`;
+
     if (!isObject(item)) {
       fail(itemScope, "must be an object");
       return;
@@ -345,6 +372,7 @@ function validateMistakes(items, lessonFolderPublicPath) {
 
   items.forEach((item, index) => {
     const itemScope = `${scope}[${index}]`;
+
     if (!isObject(item)) {
       fail(itemScope, "must be an object");
       return;
@@ -375,6 +403,7 @@ function validateLessonFolder(indexItem, index) {
 
   for (const fileName of requiredLessonFiles) {
     const filePublicPath = `${lessonFolderPublicPath}/${fileName}`;
+
     if (!publicPathExists(filePublicPath)) {
       fail(`data/lessons.json[${index}]`, `missing ${filePublicPath}`);
     }
@@ -434,9 +463,11 @@ main();
 
 if (errors.length > 0) {
   console.error(`Learning data validation failed with ${errors.length} error(s):`);
+
   for (const error of errors) {
     console.error(`- ${error}`);
   }
+
   process.exit(1);
 }
 

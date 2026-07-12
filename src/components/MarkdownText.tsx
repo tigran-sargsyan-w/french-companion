@@ -3,12 +3,14 @@ import remarkBreaks from "remark-breaks";
 import remarkGfm from "remark-gfm";
 
 interface MarkdownTextProps {
-  children: string;
+  children: string | string[];
   className?: string;
   inline?: boolean;
 }
 
 export function MarkdownText({ children, className = "", inline = false }: MarkdownTextProps) {
+  const markdown = Array.isArray(children) ? children.join("\n\n") : children;
+
   const components: Components = {
     p: ({ children: paragraphChildren }) =>
       inline ? <span>{paragraphChildren}</span> : <p className="mb-3 last:mb-0">{paragraphChildren}</p>,
@@ -70,7 +72,7 @@ export function MarkdownText({ children, className = "", inline = false }: Markd
 
   const content = (
     <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]} components={components}>
-      {children}
+      {markdown}
     </ReactMarkdown>
   );
 

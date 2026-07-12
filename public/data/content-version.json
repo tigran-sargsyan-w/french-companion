@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-12-002",
-  "updatedAt": "2026-07-12T11:46:14.000Z",
-  "description": "Expand lesson 4 noun gender grammar"
+  "version": "2026-07-12-003",
+  "updatedAt": "2026-07-12T12:15:00.000Z",
+  "description": "Store grammar summaries as editable string arrays"
 }

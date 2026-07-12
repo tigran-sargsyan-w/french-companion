@@ -3,7 +3,10 @@
     "id": "g_2026_07_07_ecouter_entendre",
     "title": "Écouter et entendre",
     "category": "Verbs",
-    "summary": "Écouter décrit une action volontaire et attentive; entendre décrit le fait de percevoir un son, parfois sans le vouloir.",
+    "summary": [
+      "**Écouter** décrit une action volontaire et attentive.",
+      "**Entendre** décrit le fait de percevoir un son, parfois sans le vouloir."
+    ],
     "examples": [
       "J'écoute attentivement cette chanson.",
       "J'entends de la musique dans la rue."
@@ -33,7 +36,11 @@
     "id": "g_2026_07_07_sentir_ressentir_se_sentir",
     "title": "Sentir, ressentir et se sentir",
     "category": "Verbs",
-    "summary": "Sentir sert notamment à percevoir une odeur ou une sensation; ressentir s'emploie avec une émotion ou une sensation; se sentir est pronominal et décrit l'état d'une personne.",
+    "summary": [
+      "**Sentir** sert notamment à percevoir une odeur ou une sensation.",
+      "**Ressentir** s'emploie avec une émotion ou une sensation.",
+      "**Se sentir** est pronominal et décrit l'état d'une personne."
+    ],
     "examples": [
       "Je sens l'odeur du café.",
       "Je ressens de la joie.",
