@@ -34,5 +34,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_4_2026_07_09"
+  },
+  {
+    "id": "lesson_5_2026_07_10",
+    "number": 5,
+    "title": "Temps du passé, accord du participe passé et générations",
+    "date": "2026-07-10",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_5_2026_07_10"
   }
 ]

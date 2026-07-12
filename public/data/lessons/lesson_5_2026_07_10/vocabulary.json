@@ -1,0 +1,86 @@
+[
+  {
+    "id": "v_2026_07_10_bonheur",
+    "french": "le bonheur",
+    "translation": "счастье",
+    "example": "Les relations sociales peuvent contribuer au bonheur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_10_grenier",
+    "french": "le grenier",
+    "translation": "чердак",
+    "example": "Nous avons retrouvé de vieilles photos dans le grenier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_10_interroger",
+    "french": "interroger quelqu'un",
+    "translation": "спрашивать / расспрашивать кого-либо",
+    "example": "La professeure nous a interrogés sur le bonheur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_10_soutien_social",
+    "french": "le soutien social",
+    "translation": "социальная поддержка",
+    "example": "Le soutien social joue un rôle important dans le bien-être.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_10_generosite",
+    "french": "la générosité",
+    "translation": "щедрость",
+    "example": "La générosité peut rendre les autres heureux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_10_arriere_grand_pere",
+    "french": "un arrière-grand-père",
+    "translation": "прадедушка",
+    "example": "Mon arrière-grand-père est le père de mon grand-père.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_10_entre_deux_guerres",
+    "french": "la génération de l'entre-deux-guerres",
+    "translation": "поколение межвоенного периода",
+    "example": "La génération de l'entre-deux-guerres a connu une époque très différente.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_10_baby_boomers",
+    "french": "les baby-boomers",
+    "translation": "беби-бумеры / послевоенное поколение",
+    "example": "Les baby-boomers sont nés pendant la forte hausse des naissances après la guerre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_10_soixante_huitards",
+    "french": "les soixante-huitards",
+    "translation": "поколение или участники событий мая 1968 года",
+    "example": "Les soixante-huitards ont été marqués par les événements de Mai 68.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_10_generation_x",
+    "french": "la génération X / la génération sacrifiée",
+    "translation": "поколение X / «потерянное» поколение",
+    "example": "La génération X se situe entre les baby-boomers et les milléniaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_10_generation_y",
+    "french": "la génération Y / les milléniaux",
+    "translation": "поколение Y / миллениалы",
+    "example": "Les milléniaux ont grandi pendant le développement d'Internet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_10_generation_z",
+    "french": "la génération Z / la Gen Z",
+    "translation": "поколение Z",
+    "example": "La Gen Z a grandi avec les technologies numériques.",
+    "status": "learning"
+  }
+]
