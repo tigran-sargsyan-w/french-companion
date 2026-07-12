@@ -54,7 +54,8 @@ export function MarkdownText({ children, className = "", inline = false }: Markd
         href={href}
         target="_blank"
         rel="noreferrer noopener"
-        className="text-primary underline decoration-primary/40 underline-offset-2 hover:decoration-primary"
+        // className="text-primary underline decoration-primary/40 underline-offset-2 hover:decoration-primary"
+        className="break-words [overflow-wrap:anywhere] text-primary underline decoration-primary/40 underline-offset-2 hover:decoration-primary"
       >
         {linkChildren}
       </a>
