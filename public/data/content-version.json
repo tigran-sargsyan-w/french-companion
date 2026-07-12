@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-12-003",
-  "updatedAt": "2026-07-12T12:15:00.000Z",
-  "description": "Store grammar summaries as editable string arrays"
+  "version": "2026-07-12-004",
+  "updatedAt": "2026-07-12T12:45:00.000Z",
+  "description": "Use block-line arrays for all summaries"
 }

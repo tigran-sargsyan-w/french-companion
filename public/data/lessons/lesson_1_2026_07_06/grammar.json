@@ -4,9 +4,15 @@
     "title": "Pronoms relatifs: qui, que, où",
     "category": "Pronouns",
     "summary": [
-      "**`qui`** remplace le sujet.",
-      "**`que`** remplace le complément d'objet direct.",
-      "**`où`** remplace un complément de lieu ou de temps."
+      [
+        "**`qui`** remplace le sujet."
+      ],
+      [
+        "**`que`** remplace le complément d'objet direct."
+      ],
+      [
+        "**`où`** remplace un complément de lieu ou de temps."
+      ]
     ],
     "examples": [
       "Le chat qui est dans le jardin est noir.",
@@ -58,7 +64,9 @@
     "title": "Pronom Y",
     "category": "Pronouns",
     "summary": [
-      "**`y`** remplace souvent un complément de lieu introduit par `à`, `au`, `aux`, `dans`, `chez`, etc."
+      [
+        "**`y`** remplace souvent un complément de lieu introduit par `à`, `au`, `aux`, `dans`, `chez`, etc."
+      ]
     ],
     "examples": [
       "Mon ami va au musée. J'y vais aussi.",
@@ -90,10 +98,27 @@
     "title": "Situer un lieu",
     "category": "Location",
     "summary": [
-      "**Pour situer un pays ou une ville**, on utilise des expressions de position.",
-      "### Points cardinaux\n\n- `à l'est de`\n- `à l'ouest de`\n- `au nord de`\n- `au sud de`",
-      "### Position relative\n\n- `à côté de / près de`\n- `en face de`\n- `entre ... et ...`",
-      "> Ces expressions sont suivies du lieu utilisé comme point de référence."
+      [
+        "**Pour situer un pays ou une ville**, on utilise des expressions de position."
+      ],
+      [
+        "### Points cardinaux",
+        "",
+        "- `à l'est de`",
+        "- `à l'ouest de`",
+        "- `au nord de`",
+        "- `au sud de`"
+      ],
+      [
+        "### Position relative",
+        "",
+        "- `à côté de / près de`",
+        "- `en face de`",
+        "- `entre ... et ...`"
+      ],
+      [
+        "> Ces expressions sont suivies du lieu utilisé comme point de référence."
+      ]
     ],
     "examples": [
       "Ce pays est à l'est de l'Allemagne et au nord de la République tchèque.",
@@ -106,10 +131,31 @@
     "title": "Genre des pays",
     "category": "Articles",
     "summary": [
-      "### Pays féminins\n\nLes noms de pays terminés par *-e* sont généralement féminins. Ils s'emploient avec l'article `la`, ou `l'` devant une voyelle : **la Tunisie, la France, la Suisse, l'Allemagne**.",
-      "### Pays masculins\n\nLes autres noms de pays sont généralement masculins et s'emploient avec l'article `le` : **le Maroc, le Venezuela, le Brésil**.",
-      "### Exceptions masculines terminées par `-e`\n\n- le Cambodge\n- le Mexique\n- le Mozambique\n- le Zimbabwe\n- le Belize\n- le Suriname",
-      "### Pays au pluriel\n\nLes noms de pays au pluriel sont toujours précédés de l'article `les` : **les États-Unis, les Émirats arabes unis, les Pays-Bas, les Philippines**."
+      [
+        "### Pays féminins",
+        "",
+        "Les noms de pays terminés par *-e* sont généralement féminins. Ils s'empoient avec l'article `la`, ou `l'` devant une voyelle : **la Tunisie, la France, la Suisse, l'Allemagne**."
+      ],
+      [
+        "### Pays masculins",
+        "",
+        "Les autres noms de pays sont généralement masculins et s'emploient avec l'article `le` : **le Maroc, le Venezuela, le Brésil**."
+      ],
+      [
+        "### Exceptions masculines terminées par `-e`",
+        "",
+        "- le Cambodge",
+        "- le Mexique",
+        "- le Mozambique",
+        "- le Zimbabwe",
+        "- le Belize",
+        "- le Suriname"
+      ],
+      [
+        "### Pays au pluriel",
+        "",
+        "Les noms de pays au pluriel sont toujours précédés de l'article `les` : **les États-Unis, les Émirats arabes unis, les Pays-Bas, les Philippines**."
+      ]
     ],
     "examples": [
       "la France",

@@ -89,13 +89,40 @@ Markdown is supported in these content-oriented fields:
 
 Keep structural fields such as IDs, titles, dates, categories, statuses and file paths as plain text.
 
-Grammar `summary` is always an array of non-empty Markdown strings. Each array item is an independently editable block; the UI joins the blocks with blank lines before rendering them:
+### Summary block format
+
+Every lesson and grammar `summary` uses a two-dimensional string array:
+
+- the outer array contains Markdown blocks;
+- each inner array contains the physical Markdown lines of that block;
+- lines inside a block are joined with `\n`;
+- blocks are joined with `\n\n` before rendering;
+- an empty string inside a block creates a blank Markdown line.
+
+This keeps headings, lists and table rows on separate editable JSON lines:
 
 ```json
 {
   "summary": [
-    "**Règle générale**\n\nLes pays terminés par *-e* sont généralement féminins.",
-    "### Exceptions\n\n- le Mexique\n- le Belize\n- le Suriname"
+    [
+      "**Règle générale**",
+      "Les pays terminés par *-e* sont généralement féminins."
+    ],
+    [
+      "### Terminaisons souvent masculines",
+      "",
+      "| Terminaison | Exemples | Exceptions |",
+      "|---|---|---|",
+      "| `-age` | le voyage | une image |",
+      "| `-ment` | le changement | — |"
+    ],
+    [
+      "### Exceptions",
+      "",
+      "- le Mexique",
+      "- le Belize",
+      "- le Suriname"
+    ]
   ]
 }
 ```
@@ -129,7 +156,7 @@ GitHub-style tables, headings and fenced code blocks are also supported in long-
 
 GitHub Actions runs this validator automatically when data files, the validator, or the validation workflow change. The deployment workflow also runs it before building the site.
 
-The validator checks that lesson folders exist, required JSON files are present, JSON is valid, lesson index metadata matches `lesson.json`, IDs are unique, enum values are valid, legacy duplicated fields are not present, and photo files exist when referenced.
+The validator checks that lesson folders exist, required JSON files are present, JSON is valid, lesson index metadata matches `lesson.json`, IDs are unique, enum values are valid, legacy duplicated fields are not present, summary blocks use the required nested-array format, and photo files exist when referenced.
 
 ## Lesson folder naming
 

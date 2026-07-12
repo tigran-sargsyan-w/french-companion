@@ -4,10 +4,26 @@
     "title": "Passé composé et imparfait: emploi et formation",
     "category": "Tenses",
     "summary": [
-      "### Passé composé\n\nIl exprime surtout une action ponctuelle, achevée ou une succession d'événements.",
-      "### Imparfait\n\nIl sert à décrire une situation, une habitude ou une action en cours dans le passé.",
-      "### Formation du passé composé\n\n`avoir` ou `être` au présent + participe passé.",
-      "### Formation de l'imparfait\n\nRadical de **nous** au présent sans `-ons` + `-ais`, `-ais`, `-ait`, `-ions`, `-iez`, `-aient`."
+      [
+        "### Passé composé",
+        "",
+        "Il exprime surtout une action ponctuelle, achevée ou une succession d'événements."
+      ],
+      [
+        "### Imparfait",
+        "",
+        "Il sert à décrire une situation, une habitude ou une action en cours dans le passé."
+      ],
+      [
+        "### Formation du passé composé",
+        "",
+        "`avoir` ou `être` au présent + participe passé."
+      ],
+      [
+        "### Formation de l'imparfait",
+        "",
+        "Radical de **nous** au présent sans `-ons` + `-ais`, `-ais`, `-ait`, `-ions`, `-iez`, `-aient`."
+      ]
     ],
     "examples": [
       "Je suis né en 2000.",
@@ -111,9 +127,15 @@
     "title": "Le passé composé avec être",
     "category": "Verbs",
     "summary": [
-      "Plusieurs verbes de déplacement ou de changement d'état se conjuguent avec **être** au passé composé : `aller`, `arriver`, `entrer`, `monter`, `passer`, `rester`, `retourner`, `sortir`, `descendre`, `tomber`, `partir`, `venir`, `naître` et `mourir`.",
-      "Avec **être**, le participe passé s'accorde en genre et en nombre avec le sujet.",
-      "Certains de ces verbes se construisent avec **avoir** lorsqu'ils ont un complément d'objet direct : **Elle est sortie**, mais **Elle a sorti son téléphone**."
+      [
+        "Plusieurs verbes de déplacement ou de changement d'état se conjuguent avec **être** au passé composé : `aller`, `arriver`, `entrer`, `monter`, `passer`, `rester`, `retourner`, `sortir`, `descendre`, `tomber`, `partir`, `venir`, `naître` et `mourir`."
+      ],
+      [
+        "Avec **être**, le participe passé s'accorde en genre et en nombre avec le sujet."
+      ],
+      [
+        "Certains de ces verbes se construisent avec **avoir** lorsqu'ils ont un complément d'objet direct : **Elle est sortie**, mais **Elle a sorti son téléphone**."
+      ]
     ],
     "examples": [
       "Il est venu de Digne et il est allé à Gap.",
