@@ -186,16 +186,14 @@
         "**À retenir :** le français possède deux genres grammaticaux : le **masculin** et le **féminin**. Les terminaisons et les groupes de sens donnent souvent de bons indices, mais ce ne sont pas des règles absolues. La méthode la plus sûre consiste à apprendre chaque nom avec son article : **un / le** ou **une / la**."
       ],
       [
-        "### Terminaisons souvent masculines"
-      ],
-      [
+        "### Terminaisons souvent masculines\n",
         "| Terminaison | Exemples | Exceptions fréquentes |",
         "|---|---|---|",
         "| `-e`, `-é` | le maître, le résumé, le pré | — |",
         "| `-eur` | le vendeur, le danseur | — |",
         "| `-ien` | le musicien, le chien | — |",
         "| `-(i)er` | le boucher, l'ouvrier | — |",
-        "| `-on` | le patron, le baron | la maison, la saison, la chanson, la raison, la façon |",
+        "| `-on` | le patron, le baron | la boisson, la façon, la liaison, la maison, la raison, la rançon, la saison, la chanson |",
         "| `-teur` | le traducteur | — |",
         "| `-age` | le garage, le voyage, le sauvetage | la cage, l'image, la page, la plage, la nage, la rage |",
         "| `-al` | le journal, le cheval | — |",
@@ -206,9 +204,7 @@
         "| `-ment` | le changement, le gouvernement | — |"
       ],
       [
-        "### Terminaisons souvent féminines"
-      ],
-      [
+        "### Terminaisons souvent féminines\n",
         "| Terminaison | Exemples | Exceptions fréquentes |",
         "|---|---|---|",
         "| `-esse` | la maîtresse, la richesse | — |",
@@ -220,7 +216,7 @@
         "| `-ade` | la promenade, la façade | le stade |",
         "| `-ance`, `-ence` | la différence, l'ambulance, l'essence | le silence |",
         "| `-sion`, `-ssion`, `-tion`, `-xion` | la décision, la discussion, la nation, la connexion | — |",
-        "| `-ée` | l'arrivée, l'idée | le musée, le lycée, le trophée |",
+        "| `-ée` | l'arrivée, l'idée | le musée, le lycée, le trophée, l’apogée, le mausolée |",
         "| `-elle`, `-ette` | la demoiselle, la poussette | — |",
         "| `-ie` | la géologie, la librairie | l'incendie |",
         "| `-ine`, `-ise`, `-aille` | la cuisine, la surprise, la trouvaille | — |",
@@ -231,52 +227,32 @@
         "### Groupes de mots utiles"
       ],
       [
-        "Sont généralement **masculins** :"
-      ],
-      [
+        "Sont généralement **masculins** :\n",
         "- les points cardinaux : **le nord, le sud, l'est, l'ouest** ;",
         "- les jours, les mois et les saisons : **le lundi, février, l'été** ;",
         "- les noms d'arbres : **le sapin, le chêne** ;",
         "- les langues : **le français, l'anglais**."
       ],
       [
-        "Sont généralement **féminins** :"
-      ],
-      [
+        "Sont généralement **féminins** :\n",
         "- les continents : **l'Europe, l'Asie** ;",
         "- les disciplines : **la médecine, la philosophie, la chimie**."
       ],
       [
-        "### Personnes, animaux et métiers"
+        "### Personnes, animaux et métiers\n",
+        "Pour les personnes et les animaux, le genre grammatical correspond souvent au genre naturel : **le garçon / la fille**, **le coq / la poule**.\n",
+        "Certains noms d'animaux ont un genre fixe et peuvent désigner un mâle ou une femelle. On précise alors le sexe avec **mâle** ou **femelle** : **une souris mâle**, **la femelle du crocodile**.\n",
+        "Certains noms gardent la même forme aux deux genres : **un touriste / une touriste**, **un journaliste / une journaliste**, **un interprète / une interprète**. Pour d'autres métiers, une forme féminine existe ou est de plus en plus utilisée : **un écrivain / une écrivaine**, **un auteur / une auteure**.\n"
       ],
       [
-        "Pour les personnes et les animaux, le genre grammatical correspond souvent au genre naturel : **le garçon / la fille**, **le coq / la poule**."
+        "### Pays et régions\n",
+        "Les noms de pays ou de régions terminés par `-e` sont **souvent féminins** : **la France, l'Allemagne, la Chine, la Bretagne**.\n",
+        "Ceux qui se terminent par une autre voyelle ou par une consonne sont **souvent masculins** : **le Canada, le Pérou, le Maroc, le Japon, le Portugal**.\n",
+        "Comme il existe des exceptions, il est préférable d'apprendre le pays avec son article.\n",
+        "> **Bonne habitude :** note toujours un nouveau nom sous la forme **article + nom**, par exemple `la culture`, `le tourisme`, `une image`, `un voyage`.\n"
       ],
       [
-        "Certains noms d'animaux ont un genre fixe et peuvent désigner un mâle ou une femelle. On précise alors le sexe avec **mâle** ou **femelle** : **une souris mâle**, **la femelle du crocodile**."
-      ],
-      [
-        "Certains noms gardent la même forme aux deux genres : **un touriste / une touriste**, **un journaliste / une journaliste**, **un interprète / une interprète**. Pour d'autres métiers, une forme féminine existe ou est de plus en plus utilisée : **un écrivain / une écrivaine**, **un auteur / une auteure**."
-      ],
-      [
-        "### Pays et régions"
-      ],
-      [
-        "Les noms de pays ou de régions terminés par `-e` sont **souvent féminins** : **la France, l'Allemagne, la Chine, la Bretagne**."
-      ],
-      [
-        "Ceux qui se terminent par une autre voyelle ou par une consonne sont **souvent masculins** : **le Canada, le Pérou, le Maroc, le Japon, le Portugal**."
-      ],
-      [
-        "Comme il existe des exceptions, il est préférable d'apprendre le pays avec son article."
-      ],
-      [
-        "> **Bonne habitude :** note toujours un nouveau nom sous la forme **article + nom**, par exemple `la culture`, `le tourisme`, `une image`, `un voyage`."
-      ],
-      [
-        "### Ressource complémentaire"
-      ],
-      [
+        "### Ressource complémentaire\n",
         "[Le genre des noms : masculin et féminin — Lingolia](https://francais.lingolia.com/fr/grammaire/noms/genre)"
       ]
     ],
