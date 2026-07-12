@@ -55,15 +55,15 @@ function HomeworkPage() {
         description={`${pending.length} en cours · ${done.length} terminés`}
       />
 
-      <div className="grid md:grid-cols-2 gap-8">
-        <section>
+      <div className="grid min-w-0 grid-cols-1 gap-8 md:grid-cols-2">
+        <section className="min-w-0">
           <h2 className="font-display text-lg mb-3">En cours</h2>
-          <ul className="space-y-3">
+          <ul className="min-w-0 space-y-3">
             {pending.map((h) => {
               const lesson = lessons.find((l) => l.id === h.lessonId);
               return (
-                <li key={h.id} className="card-soft p-4">
-                  <div className="flex items-start gap-3">
+                <li key={h.id} className="card-soft w-full min-w-0 p-4">
+                  <div className="flex min-w-0 items-start gap-3">
                     <input
                       type="checkbox"
                       checked={h.done}
@@ -96,9 +96,9 @@ function HomeworkPage() {
           </ul>
         </section>
 
-        <section>
-          <h2 className="font-display text-lg mb-3">Terminés</h2>
-          <ul className="space-y-3">
+        <section className="min-w-0">
+          <h2 className="mb-3 font-display text-lg">Terminés</h2>
+          <ul className="min-w-0 space-y-3">
             {done.map((h) => (
               <li
                 key={h.id}
