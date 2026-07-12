@@ -97,7 +97,16 @@
     ],
     "annotatedExamples": [
       {
-        "title": "Article devant l'adjectif",
+        "title": "En Français basique - A1 - A2",
+        "markup": "Elle a pris {{article:des}} {{adjectif:jolies}} {{nom:photos}}.",
+        "explanation": "L'adjectif jolies est placé avant le nom pluriel photos, donc des devient de dans la forme standard.",
+        "sourceSentences": [
+          "Elle a pris des photos.",
+          "Les photos sont jolies."
+        ]
+      },
+      {
+        "title": "En Français formel - B1 - B2",
         "markup": "Elle a pris {{article:de}} {{adjectif:jolies}} {{nom:photos}}.",
         "explanation": "L'adjectif jolies est placé avant le nom pluriel photos, donc des devient de dans la forme standard.",
         "sourceSentences": [
