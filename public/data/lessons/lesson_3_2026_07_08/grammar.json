@@ -5,23 +5,19 @@
     "category": "Tenses",
     "summary": [
       [
-        "### Passé composé",
-        "",
+        "### Passé composé\n",
         "Il exprime surtout une action ponctuelle, achevée ou une succession d'événements."
       ],
       [
-        "### Imparfait",
-        "",
+        "### Imparfait\n",
         "Il sert à décrire une situation, une habitude ou une action en cours dans le passé."
       ],
       [
-        "### Formation du passé composé",
-        "",
+        "### Formation du passé composé\n",
         "`avoir` ou `être` au présent + participe passé."
       ],
       [
-        "### Formation de l'imparfait",
-        "",
+        "### Formation de l'imparfait\n",
         "Radical de **nous** au présent sans `-ons` + `-ais`, `-ais`, `-ait`, `-ions`, `-iez`, `-aient`."
       ]
     ],
@@ -128,12 +124,8 @@
     "category": "Verbs",
     "summary": [
       [
-        "Plusieurs verbes de déplacement ou de changement d'état se conjuguent avec **être** au passé composé : `aller`, `arriver`, `entrer`, `monter`, `passer`, `rester`, `retourner`, `sortir`, `descendre`, `tomber`, `partir`, `venir`, `naître` et `mourir`."
-      ],
-      [
-        "Avec **être**, le participe passé s'accorde en genre et en nombre avec le sujet."
-      ],
-      [
+        "Plusieurs verbes de déplacement ou de changement d'état se conjuguent avec **être** au passé composé : `aller`, `arriver`, `entrer`, `monter`, `passer`, `rester`, `retourner`, `sortir`, `descendre`, `tomber`, `partir`, `venir`, `naître` et `mourir`.\n",
+        "Avec **être**, le participe passé s'accorde en genre et en nombre avec le sujet.\n",
         "Certains de ces verbes se construisent avec **avoir** lorsqu'ils ont un complément d'objet direct : **Elle est sortie**, mais **Elle a sorti son téléphone**."
       ]
     ],
