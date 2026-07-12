@@ -25,5 +25,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_3_2026_07_08"
+  },
+  {
+    "id": "lesson_4_2026_07_09",
+    "number": 4,
+    "title": "Mini-interview, histoires de prénoms et accord du participe passé",
+    "date": "2026-07-09",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_4_2026_07_09"
   }
 ]

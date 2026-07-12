@@ -1,0 +1,142 @@
+[
+  {
+    "id": "v_2026_07_09_interview",
+    "french": "un interview / une interview",
+    "translation": "интервью; во французском допустимы оба рода",
+    "example": "Nous faisons une interview d'une personne de la classe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_interviewer",
+    "french": "interviewer quelqu'un",
+    "translation": "брать у кого-либо интервью",
+    "example": "Je vais interviewer une personne de ma classe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_presenter_quelquun",
+    "french": "présenter quelqu'un",
+    "translation": "представлять кого-либо",
+    "example": "Je voudrais vous présenter une personne de ma classe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_entrevue",
+    "french": "une entrevue",
+    "translation": "встреча / собеседование / интервью",
+    "example": "Le mot interview vient du mot français entrevue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_prenom",
+    "french": "un prénom",
+    "translation": "имя",
+    "example": "Quel est votre prénom ?",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_ancetre",
+    "french": "un ancêtre",
+    "translation": "предок",
+    "example": "Ils ont cherché leurs ancêtres et ils les ont retrouvés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_promenade_balade",
+    "french": "une promenade / une balade",
+    "translation": "прогулка",
+    "example": "Nous avons fait une balade dans le centre de Lyon.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_ballade",
+    "french": "une ballade",
+    "translation": "баллада, музыкальное или поэтическое произведение",
+    "example": "Le chanteur interprète une ballade romantique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_annee_sabbatique",
+    "french": "une année sabbatique",
+    "translation": "годовой перерыв в учёбе или работе / творческий отпуск",
+    "example": "Elle a pris une année sabbatique pour voyager.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_russe",
+    "french": "russe",
+    "translation": "русский / русская",
+    "example": "Elle est russe et elle habite à Lyon.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_roux_rousse",
+    "french": "roux / rousse",
+    "translation": "рыжий / рыжая",
+    "example": "Elle est rousse et elle a les cheveux courts.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_niveau",
+    "french": "un niveau",
+    "translation": "уровень",
+    "example": "Ce cours correspond au niveau B1.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_seuil",
+    "french": "un seuil",
+    "translation": "порог / предел",
+    "example": "Le niveau B1 représente un seuil important dans l'apprentissage d'une langue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_soutien_social",
+    "french": "le soutien social",
+    "translation": "социальная поддержка",
+    "example": "Le soutien social joue un rôle important dans le bien-être.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_generosite",
+    "french": "la générosité",
+    "translation": "щедрость",
+    "example": "La générosité contribue au bonheur des autres.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_mes_proches",
+    "french": "mes proches",
+    "translation": "мои близкие",
+    "example": "Je peux toujours compter sur mes proches.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_sujet_etude",
+    "french": "le sujet d'une étude",
+    "translation": "тема исследования",
+    "example": "Le sujet de l'étude, c'est le bien-être.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_conclusion_etude",
+    "french": "la conclusion d'une étude",
+    "translation": "вывод исследования",
+    "example": "La conclusion de l'étude, c'est que les relations sociales sont importantes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_epoque_romaine",
+    "french": "à l'époque romaine",
+    "translation": "в римскую эпоху",
+    "example": "À l'époque romaine, les prénoms suivaient certaines traditions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_09_moyen_age",
+    "french": "au Moyen Âge",
+    "translation": "в Средние века",
+    "example": "Au Moyen Âge, le choix des prénoms était souvent lié à la religion.",
+    "status": "learning"
+  }
+]
