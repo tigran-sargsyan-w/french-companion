@@ -40,7 +40,8 @@
       [
         "### Règle générale\n",
         "Avec l'auxiliaire **avoir**, le participe passé s'accorde avec le **COD** lorsque celui-ci est placé avant le verbe.\n",
-        "Le COD peut être repris par un pronom personnel comme **le**, **la** ou **les**, ou par le pronom relatif **que**."
+        "Le COD peut être repris par un pronom personnel comme **le**, **la** ou **les**, ou par le pronom relatif **que**.",
+        "Si le COD ets en pluriel, le participe passé prend un **-s** : **Ces nouvelles, je les ai aimées.**"
       ],
       [
         "### Comparaison\n",
@@ -52,7 +53,8 @@
     "examples": [
       "J'ai aimé cette fête.",
       "Cette fête, je l'ai aimée.",
-      "C'est cette fête que j'ai aimée."
+      "C'est cette fête que j'ai aimée.",
+      "Ces nouvelles, je les ai aimées."
     ],
     "annotatedExamples": [
       {
