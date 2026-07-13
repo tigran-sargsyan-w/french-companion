@@ -4,14 +4,14 @@
     "french": "un souvenir",
     "translation": "воспоминание",
     "example": "Cette odeur fait revenir un souvenir d'enfance.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_07_memoire",
     "french": "la mémoire",
     "translation": "память",
     "example": "Les odeurs jouent un rôle important dans la mémoire.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_07_enfance",
@@ -95,7 +95,7 @@
     "french": "les émotions",
     "translation": "эмоции",
     "example": "Certains souvenirs provoquent des émotions fortes.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_07_odeur",
@@ -116,14 +116,14 @@
     "french": "écouter",
     "translation": "слушать",
     "example": "J'écoute une chanson qui me rappelle mon enfance.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_07_entendre",
     "french": "entendre",
     "translation": "слышать",
     "example": "J'entends une musique dans la rue.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_07_sentir",
