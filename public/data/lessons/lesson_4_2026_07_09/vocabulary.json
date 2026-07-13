@@ -4,21 +4,21 @@
     "french": "un interview / une interview",
     "translation": "интервью; во французском допустимы оба рода",
     "example": "Nous faisons une interview d'une personne de la classe.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_09_interviewer",
     "french": "interviewer quelqu'un",
     "translation": "брать у кого-либо интервью",
     "example": "Je vais interviewer une personne de ma classe.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_09_presenter_quelquun",
     "french": "présenter quelqu'un",
     "translation": "представлять кого-либо",
     "example": "Je voudrais vous présenter une personne de ma classe.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_09_entrevue",
@@ -32,7 +32,7 @@
     "french": "un prénom",
     "translation": "имя",
     "example": "Quel est votre prénom ?",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_09_ancetre",
@@ -81,7 +81,7 @@
     "french": "un niveau",
     "translation": "уровень",
     "example": "Ce cours correspond au niveau B1.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_09_seuil",
