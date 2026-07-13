@@ -25,7 +25,7 @@
     "french": "proposer",
     "translation": "предлагать",
     "example": "Je propose une activité pour la classe.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_06_conseiller",
@@ -39,21 +39,21 @@
     "french": "obliger",
     "translation": "обязывать / заставлять",
     "example": "Le professeur nous oblige à parler français.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_06_accepter",
     "french": "accepter",
     "translation": "принимать / соглашаться",
     "example": "J'accepte ta proposition.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_06_refuser",
     "french": "refuser",
     "translation": "отказываться / отказывать",
     "example": "Il refuse de répondre à la question.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_06_a_l_est_de",
@@ -95,6 +95,6 @@
     "french": "entre ... et ...",
     "translation": "между ... и ...",
     "example": "L'Espagne est entre le Portugal et la France.",
-    "status": "learning"
+    "status": "learned"
   }
 ]
