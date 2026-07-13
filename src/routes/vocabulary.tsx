@@ -1,5 +1,5 @@
-import { createFileRoute } from "@tanstack/react-router";
-import { Search, X } from "lucide-react";
+import { Link, createFileRoute } from "@tanstack/react-router";
+import { Printer, Search, X } from "lucide-react";
 import { useState } from "react";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
@@ -242,7 +242,20 @@ function VocabularyPage() {
 
   return (
     <>
-      <PageHeader eyebrow="Mots & expressions" title="Vocabulaire" description={resultLabel} />
+      <PageHeader
+        eyebrow="Mots & expressions"
+        title="Vocabulaire"
+        description={resultLabel}
+        right={
+          <Link
+            to="/vocabulary/unlearned"
+            className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-primary px-4 py-2.5 text-sm font-medium text-primary-foreground shadow-sm transition-colors hover:bg-primary/90 sm:w-auto"
+          >
+            <Printer className="h-4 w-4" />
+            Imprimer les mots non appris
+          </Link>
+        }
+      />
 
       <div className="card-soft p-4 mb-6">
         <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
