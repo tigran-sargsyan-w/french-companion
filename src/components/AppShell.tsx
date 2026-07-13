@@ -31,8 +31,13 @@ const nav: NavItem[] = [
 
 export function AppShell({ children }: { children: ReactNode }) {
   const pathname = useRouterState({ select: (s) => s.location.pathname });
+  const isStandalonePage = pathname === "/vocabulary/unlearned";
   const isActive = (to: string, exact?: boolean) =>
     exact ? pathname === to : pathname === to || pathname.startsWith(to + "/");
+
+  if (isStandalonePage) {
+    return <div className="min-h-screen bg-white text-slate-950">{children}</div>;
+  }
 
   return (
     <div className="min-h-screen overflow-x-hidden bg-background text-foreground">
