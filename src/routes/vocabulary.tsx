@@ -199,6 +199,8 @@ function VocabularyPage() {
   const data = learningDataQuery.data;
   const { vocabulary, lessons, lessonIndex } = data;
   const normalizedSearchQuery = normalizeSearchText(searchQuery);
+  const learnedCount = vocabulary.filter((word) => word.status === "learned").length;
+  const unlearnedCount = vocabulary.length - learnedCount;
 
   const vocabularyItems = vocabulary.map((word) => {
     const first = lessonIndex.find((lesson) => lesson.id === word.firstSeenLessonId);
@@ -245,7 +247,17 @@ function VocabularyPage() {
       <PageHeader
         eyebrow="Mots & expressions"
         title="Vocabulaire"
-        description={resultLabel}
+        description={
+          <div className="space-y-0.5">
+            <div>{resultLabel}</div>
+            <div>
+              {unlearnedCount} {unlearnedCount === 1 ? "mot non appris" : "mots non appris"}.
+            </div>
+            <div>
+              {learnedCount} {learnedCount === 1 ? "mot appris" : "mots appris"}.
+            </div>
+          </div>
+        }
         right={
           <Link
             to="/vocabulary/unlearned"
