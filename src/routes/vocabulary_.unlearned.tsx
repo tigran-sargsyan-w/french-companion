@@ -36,11 +36,18 @@ function UnlearnedVocabularyPage() {
           color: #0f172a;
         }
 
+        .unlearned-vocabulary-toolbar {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 1rem;
+          margin-bottom: 10mm;
+        }
+
         .unlearned-vocabulary-back {
           display: inline-flex;
           align-items: center;
           gap: 0.5rem;
-          margin-bottom: 10mm;
           font-size: 0.875rem;
           font-weight: 600;
           color: #1d4ed8;
@@ -49,6 +56,21 @@ function UnlearnedVocabularyPage() {
 
         .unlearned-vocabulary-back:hover {
           text-decoration: underline;
+        }
+
+        .unlearned-vocabulary-count {
+          display: inline-flex;
+          flex-shrink: 0;
+          align-items: center;
+          justify-content: center;
+          min-width: 4.5rem;
+          padding: 0.4rem 0.75rem;
+          border: 1px solid #cbd5e1;
+          border-radius: 999px;
+          background: #f8fafc;
+          font-size: 0.875rem;
+          font-weight: 700;
+          color: #334155;
         }
 
         .unlearned-vocabulary-list {
@@ -113,10 +135,18 @@ function UnlearnedVocabularyPage() {
         }
       `}</style>
 
-      <Link to="/vocabulary" className="unlearned-vocabulary-back">
-        <ArrowLeft className="h-4 w-4" />
-        Retour au vocabulaire
-      </Link>
+      <div className="unlearned-vocabulary-toolbar">
+        <Link to="/vocabulary" className="unlearned-vocabulary-back">
+          <ArrowLeft className="h-4 w-4" />
+          Retour au vocabulaire
+        </Link>
+
+        {learningDataQuery.isSuccess && (
+          <div className="unlearned-vocabulary-count" aria-label={`${unlearnedWords.length} mots non appris`}>
+            {unlearnedWords.length} {unlearnedWords.length === 1 ? "mot" : "mots"}
+          </div>
+        )}
+      </div>
 
       {learningDataQuery.isPending && <p>Chargement…</p>}
 
