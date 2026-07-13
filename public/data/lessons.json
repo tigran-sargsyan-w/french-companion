@@ -43,5 +43,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_5_2026_07_10"
+  },
+  {
+    "id": "lesson_6_2026_07_13",
+    "number": 6,
+    "title": "Repas, insatisfaction et projets",
+    "date": "2026-07-13",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_6_2026_07_13"
   }
 ]
