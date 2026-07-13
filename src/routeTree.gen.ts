@@ -17,6 +17,7 @@ import { Route as HomeworkRouteImport } from './routes/homework'
 import { Route as GrammarRouteImport } from './routes/grammar'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as LessonsIndexRouteImport } from './routes/lessons.index'
+import { Route as VocabularyUnlearnedRouteImport } from './routes/vocabulary_.unlearned'
 import { Route as LessonsLessonIdRouteImport } from './routes/lessons.$lessonId'
 
 const VocabularyRoute = VocabularyRouteImport.update({
@@ -59,6 +60,11 @@ const LessonsIndexRoute = LessonsIndexRouteImport.update({
   path: '/',
   getParentRoute: () => LessonsRoute,
 } as any)
+const VocabularyUnlearnedRoute = VocabularyUnlearnedRouteImport.update({
+  id: '/vocabulary_/unlearned',
+  path: '/vocabulary/unlearned',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const LessonsLessonIdRoute = LessonsLessonIdRouteImport.update({
   id: '/$lessonId',
   path: '/$lessonId',
@@ -74,6 +80,7 @@ export interface FileRoutesByFullPath {
   '/review': typeof ReviewRoute
   '/vocabulary': typeof VocabularyRoute
   '/lessons/$lessonId': typeof LessonsLessonIdRoute
+  '/vocabulary/unlearned': typeof VocabularyUnlearnedRoute
   '/lessons/': typeof LessonsIndexRoute
 }
 export interface FileRoutesByTo {
@@ -84,6 +91,7 @@ export interface FileRoutesByTo {
   '/review': typeof ReviewRoute
   '/vocabulary': typeof VocabularyRoute
   '/lessons/$lessonId': typeof LessonsLessonIdRoute
+  '/vocabulary/unlearned': typeof VocabularyUnlearnedRoute
   '/lessons': typeof LessonsIndexRoute
 }
 export interface FileRoutesById {
@@ -96,6 +104,7 @@ export interface FileRoutesById {
   '/review': typeof ReviewRoute
   '/vocabulary': typeof VocabularyRoute
   '/lessons/$lessonId': typeof LessonsLessonIdRoute
+  '/vocabulary_/unlearned': typeof VocabularyUnlearnedRoute
   '/lessons/': typeof LessonsIndexRoute
 }
 export interface FileRouteTypes {
@@ -109,6 +118,7 @@ export interface FileRouteTypes {
     | '/review'
     | '/vocabulary'
     | '/lessons/$lessonId'
+    | '/vocabulary/unlearned'
     | '/lessons/'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -119,6 +129,7 @@ export interface FileRouteTypes {
     | '/review'
     | '/vocabulary'
     | '/lessons/$lessonId'
+    | '/vocabulary/unlearned'
     | '/lessons'
   id:
     | '__root__'
@@ -130,6 +141,7 @@ export interface FileRouteTypes {
     | '/review'
     | '/vocabulary'
     | '/lessons/$lessonId'
+    | '/vocabulary_/unlearned'
     | '/lessons/'
   fileRoutesById: FileRoutesById
 }
@@ -141,6 +153,7 @@ export interface RootRouteChildren {
   MistakesRoute: typeof MistakesRoute
   ReviewRoute: typeof ReviewRoute
   VocabularyRoute: typeof VocabularyRoute
+  VocabularyUnlearnedRoute: typeof VocabularyUnlearnedRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -201,6 +214,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof LessonsIndexRouteImport
       parentRoute: typeof LessonsRoute
     }
+    '/vocabulary_/unlearned': {
+      id: '/vocabulary_/unlearned'
+      path: '/vocabulary/unlearned'
+      fullPath: '/vocabulary/unlearned'
+      preLoaderRoute: typeof VocabularyUnlearnedRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/lessons/$lessonId': {
       id: '/lessons/$lessonId'
       path: '/$lessonId'
@@ -232,6 +252,7 @@ const rootRouteChildren: RootRouteChildren = {
   MistakesRoute: MistakesRoute,
   ReviewRoute: ReviewRoute,
   VocabularyRoute: VocabularyRoute,
+  VocabularyUnlearnedRoute: VocabularyUnlearnedRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
