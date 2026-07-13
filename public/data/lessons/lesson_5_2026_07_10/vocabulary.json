@@ -4,7 +4,7 @@
     "french": "le bonheur",
     "translation": "счастье",
     "example": "Les relations sociales peuvent contribuer au bonheur.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_10_grenier",
@@ -81,6 +81,6 @@
     "french": "la génération Z / la Gen Z",
     "translation": "поколение Z",
     "example": "La Gen Z a grandi avec les technologies numériques.",
-    "status": "learning"
+    "status": "learned"
   }
 ]
