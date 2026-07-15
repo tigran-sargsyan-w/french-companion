@@ -1,0 +1,119 @@
+[
+  {
+    "id": "g_2026_07_15_pronoms_en_y",
+    "title": "Pronoms EN et Y : emplois et place",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Le pronom EN\n",
+        "**EN** remplace généralement un complément qui désigne une chose ou une idée et qui est introduit par **de** : **Il parle de ses souvenirs → Il en parle.**\n",
+        "Il remplace aussi un groupe exprimant une quantité précise ou imprécise. La quantité reste dans la phrase : **Elle mange deux pommes → Elle en mange deux** ; **Il a beaucoup d'amis → Il en a beaucoup.**"
+      ],
+      [
+        "### Le pronom Y\n",
+        "**Y** remplace un complément de lieu ou un complément qui désigne une chose et qui est introduit notamment par **à, au, aux, en, chez, dans, sous** ou **sur** : **Je vais à la piscine → J'y vais** ; **Elle s'intéresse à l'espace → Elle s'y intéresse.**\n",
+        "Des verbes fréquents se construisent avec **à** : **penser à, croire à, s'intéresser à, participer à, réfléchir à, s'habituer à**."
+      ],
+      [
+        "### Quand le complément est une personne\n",
+        "Pour une personne, on utilise généralement un pronom tonique : **de lui, d'elle, d'eux, d'elles** après **de**, et **à lui, à elle, à eux, à elles** après **à**.\n",
+        "Exemples : **Elle rêve de Katia → Elle rêve d'elle** ; **Elle s'intéresse à Katia → Elle s'intéresse à elle.**"
+      ],
+      [
+        "### Place de EN et Y\n",
+        "| Construction | Phrase affirmative | Phrase négative |",
+        "|---|---|---|",
+        "| Temps simple | J'en bois. / J'y pense. | Je n'en bois pas. / Je n'y pense pas. |",
+        "| Temps composé | J'en ai bu. / J'y ai pensé. | Je n'en ai pas bu. / Je n'y ai pas pensé. |",
+        "| Verbe + infinitif | J'aime en boire. / Je dois y penser. | Je n'aime pas en boire. / Je ne dois pas y penser. |"
+      ]
+    ],
+    "examples": [
+      "Il parle de ses souvenirs. Il en parle.",
+      "Elle mange deux pommes. Elle en mange deux.",
+      "Je vais à la piscine. J'y vais.",
+      "Elle s'intéresse à l'espace. Elle s'y intéresse.",
+      "Elle rêve de Katia. Elle rêve d'elle."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "EN remplace un complément introduit par de",
+        "markup": "Il {{pronom:en}} {{verbe:parle}}.",
+        "explanation": "**En** reprend le groupe **de ses souvenirs**.",
+        "sourceSentences": [
+          "Il parle **de ses souvenirs**."
+        ]
+      },
+      {
+        "title": "EN reprend le nom, mais la quantité reste",
+        "markup": "Elle {{pronom:en}} {{verbe:mange}} {{quantité:deux}}.",
+        "explanation": "**En** remplace **des pommes**, tandis que le nombre **deux** reste exprimé.",
+        "sourceSentences": [
+          "Elle mange **deux pommes**."
+        ]
+      },
+      {
+        "title": "Y remplace un complément de lieu",
+        "markup": "J'{{y:y}} {{verbe:vais}}.",
+        "explanation": "**Y** reprend le complément de lieu **à la piscine**.",
+        "sourceSentences": [
+          "Je vais **à la piscine**."
+        ]
+      },
+      {
+        "title": "Y reprend une chose introduite par à",
+        "markup": "Elle s'{{y:y}} {{verbe:intéresse}}.",
+        "explanation": "**Y** reprend **à l'espace**, qui désigne ici une chose et non une personne.",
+        "sourceSentences": [
+          "Elle s'intéresse **à l'espace**."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_15_exprimer_opposition",
+    "title": "Exprimer l'opposition",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Expressions principales\n",
+        "| Expression | Emploi | Exemple |",
+        "|---|---|---|",
+        "| **mais** | opposer simplement deux informations | La Terre est habitée, mais Mars ne l'est pas. |",
+        "| **alors que** | mettre en contraste deux faits ou deux situations | La Terre possède une atmosphère respirable, alors que Mars en est dépourvue. |",
+        "| **par contre** | introduire une information contrastée, souvent dans la langue courante | La mission coûte cher. Par contre, elle permet de faire avancer la recherche. |",
+        "| **au contraire** | contredire ou renverser l'idée précédente | Cette mission n'est pas inutile ; au contraire, elle apporte de nouvelles connaissances. |"
+      ],
+      [
+        "### À retenir\n",
+        "**Au contraire** s'utilise souvent après une phrase négative pour affirmer l'idée opposée : **Ce projet n'est pas un échec ; au contraire, c'est une réussite.**"
+      ]
+    ],
+    "examples": [
+      "La Terre est habitée, mais Mars ne l'est pas.",
+      "La conquête spatiale progresse, alors que les conditions restent difficiles.",
+      "Le voyage sera long. Par contre, l'équipage sera bien préparé.",
+      "Ce projet n'est pas un échec ; au contraire, c'est une réussite."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Opposition simple avec mais",
+        "markup": "La Terre est habitée, {{opposition:mais}} Mars ne l'est pas.",
+        "explanation": "**Mais** relie deux informations qui s'opposent.",
+        "sourceSentences": [
+          "La Terre est habitée.",
+          "Mars n'est pas habitée."
+        ]
+      },
+      {
+        "title": "Renversement avec au contraire",
+        "markup": "Ce projet n'est pas un échec ; {{opposition:au contraire}}, c'est une réussite.",
+        "explanation": "**Au contraire** annule l'idée négative précédente et affirme l'idée opposée.",
+        "sourceSentences": [
+          "Ce projet n'est pas un échec.",
+          "C'est une réussite."
+        ]
+      }
+    ]
+  }
+]
