@@ -1,0 +1,128 @@
+[
+  {
+    "id": "v_2026_07_15_essai",
+    "french": "un essai",
+    "translation": "эссе / очерк",
+    "example": "Cet essai présente l'histoire de la bande dessinée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_roman",
+    "french": "un roman",
+    "translation": "роман",
+    "example": "Ce roman imagine la vie sur Mars.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_journal",
+    "french": "un journal",
+    "translation": "газета / журнал",
+    "example": "Le reportage cite un ancien journal pour enfants.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_manuel",
+    "french": "un manuel",
+    "translation": "учебник / руководство",
+    "example": "Nous avons travaillé avec le manuel et le cahier d'activités.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_pourrir",
+    "french": "pourrir",
+    "translation": "гнить / портиться",
+    "example": "Sans protection, le papier peut pourrir avec l'humidité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_bande_dessinee",
+    "french": "la bande dessinée",
+    "translation": "комикс / рисованная история",
+    "example": "Le reportage explique qui a inventé la bande dessinée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_vignette",
+    "french": "une vignette",
+    "translation": "кадр / панель комикса",
+    "example": "Chaque vignette représente une étape de l'histoire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_bulle_de_texte",
+    "french": "une bulle de texte",
+    "translation": "текстовое облачко / реплика в комиксе",
+    "example": "Le personnage parle dans une bulle de texte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_attirer",
+    "french": "attirer",
+    "translation": "привлекать",
+    "example": "Les récits d'anticipation attirent de nombreux lecteurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_etre_attire_par",
+    "french": "être attiré par",
+    "translation": "быть привлечённым / интересоваться чем-либо",
+    "example": "Il est attiré par l'exploration spatiale.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_preserver",
+    "french": "préserver",
+    "translation": "сохранять / оберегать",
+    "example": "Les archives permettent de préserver les premiers journaux illustrés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_conquete",
+    "french": "la conquête",
+    "translation": "завоевание / освоение",
+    "example": "La conquête de Mars nourrit l'imaginaire collectif.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_conquerir",
+    "french": "conquérir",
+    "translation": "завоёвывать / осваивать",
+    "example": "L'humanité rêve depuis longtemps de conquérir l'espace.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_rever_de",
+    "french": "rêver de",
+    "translation": "мечтать о",
+    "example": "Beaucoup de personnes rêvent de voyager dans l'espace.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_vulgarisation",
+    "french": "la vulgarisation",
+    "translation": "популяризация / доступное изложение",
+    "example": "Cette vidéo de vulgarisation explique l'origine de la bande dessinée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_imaginaire",
+    "french": "l'imaginaire",
+    "translation": "воображение / мир образов",
+    "example": "Mars occupe une place importante dans l'imaginaire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_reussite",
+    "french": "la réussite",
+    "translation": "успех / удачное завершение",
+    "example": "La réussite d'une mission dépend d'une préparation précise.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_15_anticipation",
+    "french": "l'anticipation",
+    "translation": "предвидение / фантастика о будущем",
+    "example": "Ce roman d'anticipation décrit une colonie sur Mars.",
+    "status": "learning"
+  }
+]
