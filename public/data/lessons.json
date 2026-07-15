@@ -52,5 +52,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_6_2026_07_13"
+  },
+  {
+    "id": "lesson_7_2026_07_15",
+    "number": 7,
+    "title": "Bande dessinée, Mars, pronoms EN/Y et opposition",
+    "date": "2026-07-15",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_7_2026_07_15"
   }
 ]
