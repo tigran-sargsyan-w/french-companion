@@ -1,0 +1,109 @@
+[
+  {
+    "id": "g_2026_07_16_subjonctif_present_conseil",
+    "title": "Subjonctif présent : nécessité, conseil et obligation",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Donner un conseil\n",
+        "| Construction | Exemple | Nuance |",
+        "|---|---|---|",
+        "| Impératif | **Fais un effort !** | Direct et personnel ; peut paraître brusque. |",
+        "| `devoir + infinitif` | **Vous devez faire un effort.** | Personnel et direct ; le sujet est exprimé. |",
+        "| `il faut + infinitif` | **Il faut faire un effort.** | Impersonnel et général. |",
+        "| `il faut que + subjonctif` | **Il faut que vous fassiez un effort.** | Personnel, subjectif et souvent plus poli. |"
+      ],
+      [
+        "### Formation du subjonctif présent\n",
+        "Pour de nombreux verbes, on part de la forme **ils / elles** au présent de l'indicatif, on retire **-ent**, puis on ajoute **-e, -es, -e, -ions, -iez, -ent**.\n",
+        "Les terminaisons de **nous** et **vous**, **-ions** et **-iez**, sont identiques à celles de l'imparfait."
+      ],
+      [
+        "### Exemple avec parler\n",
+        "| Personne | Forme |",
+        "|---|---|",
+        "| je | que je parle |",
+        "| tu | que tu parles |",
+        "| il / elle / on | qu'il / elle / on parle |",
+        "| nous | que nous parlions |",
+        "| vous | que vous parliez |",
+        "| ils / elles | qu'ils / elles parlent |"
+      ],
+      [
+        "### Emploi avec il faut que\n",
+        "**Il faut que + subjonctif** exprime une nécessité, une recommandation, un conseil ou une obligation : **Il faut que tu assistes au défilé.**\n",
+        "**Il ne faut pas que + subjonctif** exprime un conseil négatif ou une interdiction : **Il ne faut pas que vous arriviez en retard.**"
+      ],
+      [
+        "### Autres emplois présentés en cours\n",
+        "Le subjonctif peut aussi apparaître après des expressions de doute ou d'incertitude, de souhait, de possibilité ou d'impossibilité, de but et de sentiment.\n",
+        "La structure contient généralement un élément introducteur, **que**, un sujet et un verbe au subjonctif."
+      ]
+    ],
+    "examples": [
+      "Il faut que tu fasses un effort.",
+      "Il faut que nous parlions français chaque jour.",
+      "Il ne faut pas que vous arriviez en retard.",
+      "Je voudrais que tu viennes.",
+      "Ils prennent le bus. Il faut que je prenne le bus."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Conseil avec il faut que",
+        "markup": "Il faut que {{sujet:tu}} {{verbe:fasses}} un effort.",
+        "explanation": "Après **il faut que**, le verbe **faire** est au subjonctif présent.",
+        "sourceSentences": [
+          "Tu dois faire un effort."
+        ]
+      },
+      {
+        "title": "Conseil négatif avec il ne faut pas que",
+        "markup": "Il ne faut pas que {{sujet:vous}} {{verbe:arriviez}} en retard.",
+        "explanation": "Après **il ne faut pas que**, le verbe **arriver** est au subjonctif présent.",
+        "sourceSentences": [
+          "Vous ne devez pas arriver en retard."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_16_prepositions_a_de",
+    "title": "Prépositions À et DE",
+    "category": "Prepositions",
+    "summary": [
+      [
+        "### Tendance générale\n",
+        "**À** peut introduire une destination, une orientation, un objectif, un usage ou le complément exigé par certains verbes : **aller à La Réunion**, **servir à apprendre**, **s'intéresser à la culture**.\n",
+        "**De / d'** peut introduire une origine, une provenance, un contenu, une possession ou le complément exigé par certains verbes : **revenir de La Réunion**, **parler de ses traditions**, **rêver d'un voyage**."
+      ],
+      [
+        "### Point important\n",
+        "Ces sens donnent des repères, mais ne constituent pas une règle universelle. Il faut aussi apprendre la construction de chaque verbe ou expression : **participer à**, **parler de**, **avoir besoin de**."
+      ]
+    ],
+    "examples": [
+      "Je vais à La Réunion.",
+      "Ce projet sert à découvrir l'île.",
+      "Je reviens de La Réunion.",
+      "Nous parlons de ses traditions."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_07_16_ca_cela",
+    "title": "Ça et cela",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Registre de langue\n",
+        "**Ça** et **cela** sont deux pronoms démonstratifs de même sens.\n",
+        "**Ça** est très fréquent à l'oral et dans la langue courante, tandis que **cela** est généralement plus soutenu et plus fréquent à l'écrit."
+      ]
+    ],
+    "examples": [
+      "Ça m'intéresse beaucoup.",
+      "Cela permet de mieux comprendre la culture de l'île."
+    ],
+    "annotatedExamples": []
+  }
+]

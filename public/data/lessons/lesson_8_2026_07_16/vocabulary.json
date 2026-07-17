@@ -1,0 +1,65 @@
+[
+  {
+    "id": "v_2026_07_16_char_fleuri",
+    "french": "un char fleuri",
+    "translation": "украшенная цветами повозка / платформа",
+    "example": "Un char fleuri participe au défilé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_16_bouche",
+    "french": "une bouche",
+    "translation": "рот",
+    "example": "Il ouvre la bouche pour parler.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_16_faire_le_jeune",
+    "french": "faire le jeûne",
+    "translation": "поститься / соблюдать пост",
+    "example": "Certaines personnes font le jeûne pour des raisons religieuses.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_16_tenue",
+    "french": "une tenue",
+    "translation": "одежда / наряд",
+    "example": "Il faut porter une tenue correcte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_16_conte",
+    "french": "un conte",
+    "translation": "сказка / рассказ",
+    "example": "Ce conte raconte une ancienne légende de l'île.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_16_bruler",
+    "french": "brûler",
+    "translation": "гореть / сжигать",
+    "example": "Le bois brûle rapidement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_16_departement_outre_mer",
+    "french": "un département d'outre-mer",
+    "translation": "заморский департамент",
+    "example": "La Réunion est un département français d'outre-mer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_16_influence_culturelle",
+    "french": "une influence culturelle",
+    "translation": "культурное влияние",
+    "example": "L'île possède plusieurs influences culturelles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_16_tradition_religieuse",
+    "french": "une tradition religieuse",
+    "translation": "религиозная традиция",
+    "example": "La vidéo présente plusieurs traditions religieuses de La Réunion.",
+    "status": "learning"
+  }
+]
