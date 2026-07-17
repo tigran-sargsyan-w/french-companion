@@ -1,7 +1,7 @@
 [
   {"id":"v_2026_07_17_billet","french":"un billet","translation":"билет","example":"J'achète un billet de train pour Lyon.","status":"learning"},
   {"id":"v_2026_07_17_ticket","french":"un ticket","translation":"билет / талон / квитанция","example":"Je valide mon ticket de métro avant d'entrer.","status":"learning"},
-  {"id":"v_2026_07_17_oie","french":"une oie","translation":"гусь","example":"L'oie vit dans la ferme.","status":"learning"},
+  {"id":"v_2026_07_17_oie","french":"une oie","translation":"гусь(օյ)","example":"L'oie vit dans la ferme.","status":"learning"},
   {"id":"v_2026_07_17_canard","french":"un canard","translation":"утка","example":"Le canard nage dans l'eau.","status":"learning"},
   {"id":"v_2026_07_17_gavage","french":"le gavage","translation":"насильственное откармливание","example":"L'article parle du gavage des animaux.","status":"learning"},
   {"id":"v_2026_07_17_gaver","french":"gaver","translation":"насильно откармливать","example":"Certaines personnes refusent de gaver les animaux.","status":"learning"},
@@ -20,7 +20,7 @@
   {"id":"v_2026_07_17_culpabiliser","french":"culpabiliser","translation":"вызывать чувство вины / заставлять чувствовать себя виноватым","example":"Le commentaire cherche à culpabiliser les consommateurs.","status":"learning"},
   {"id":"v_2026_07_17_avoir_mauvaise_conscience","french":"avoir mauvaise conscience","translation":"испытывать угрызения совести","example":"Après cela, il a mauvaise conscience.","status":"learning"},
   {"id":"v_2026_07_17_renoncer_a","french":"renoncer à","translation":"отказаться от","example":"Elle veut renoncer à cette habitude.","status":"learning"},
-  {"id":"v_2026_07_17_ca_me_saoule","french":"Ça me saoule !","translation":"Меня это достало!","example":"Ça me saoule d'entendre toujours la même excuse !","status":"learning"},
+  {"id":"v_2026_07_17_ca_me_saoule","french":"Ça me saoule !","translation":"Меня это достало!(սա մ սուլ)","example":"Ça me saoule d'entendre toujours la même excuse !","status":"learning"},
   {"id":"v_2026_07_17_jen_ai_assez","french":"J'en ai assez !","translation":"С меня хватит!","example":"J'en ai assez de cette discussion.","status":"learning"},
   {"id":"v_2026_07_17_jen_ai_marre","french":"J'en ai marre !","translation":"Мне надоело!","example":"J'en ai marre d'attendre.","status":"learning"}
 ]
