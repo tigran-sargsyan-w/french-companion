@@ -70,5 +70,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_8_2026_07_16"
+  },
+  {
+    "id": "lesson_9_2026_07_17",
+    "number": 9,
+    "title": "Subjonctif présent, adjectifs et débat sur le gavage",
+    "date": "2026-07-17",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_9_2026_07_17"
   }
 ]

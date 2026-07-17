@@ -1,0 +1,104 @@
+[
+  {
+    "id": "g_2026_07_17_subjonctif_present_formation",
+    "title": "Subjonctif présent : formation, formes irrégulières et emploi",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Formation générale\n",
+        "Le subjonctif présent se forme avec la base verbale de la 3e personne du pluriel du présent de l'indicatif et les terminaisons **-e, -es, -e, -ions, -iez, -ent**.\n",
+        "Les formes de **nous** et **vous** prennent les terminaisons **-ions** et **-iez**, identiques à l'imparfait.\n",
+        "Un verbe au subjonctif est normalement introduit par **que / qu'**."
+      ],
+      [
+        "### Exemples de formation\n",
+        "| Verbe | je | nous | vous | ils / elles |",
+        "|---|---|---|---|---|",
+        "| **parler** | que je parle | que nous parlions | que vous parliez | qu'ils / elles parlent |",
+        "| **partir** | que je parte | que nous partions | que vous partiez | qu'ils / elles partent |",
+        "| **voir** | que je voie | que nous voyions | que vous voyiez | qu'ils / elles voient |",
+        "| **prendre** | que je prenne | que nous prenions | que vous preniez | qu'ils / elles prennent |"
+      ],
+      [
+        "### Verbes irréguliers vus dans les supports\n",
+        "| Verbe | je | nous | vous | ils / elles |",
+        "|---|---|---|---|---|",
+        "| **avoir** | que j'aie | que nous ayons | que vous ayez | qu'ils / elles aient |",
+        "| **être** | que je sois | que nous soyons | que vous soyez | qu'ils / elles soient |",
+        "| **faire** | que je fasse | que nous fassions | que vous fassiez | qu'ils / elles fassent |",
+        "| **aller** | que j'aille | que nous allions | que vous alliez | qu'ils / elles aillent |",
+        "| **pouvoir** | que je puisse | que nous puissions | que vous puissiez | qu'ils / elles puissent |",
+        "| **vouloir** | que je veuille | que nous voulions | que vous vouliez | qu'ils / elles veuillent |",
+        "| **savoir** | que je sache | que nous sachions | que vous sachiez | qu'ils / elles sachent |",
+        "| **venir** | que je vienne | que nous venions | que vous veniez | qu'ils / elles viennent |"
+      ],
+      [
+        "### Emplois vus en cours\n",
+        "- **il faut que + subjonctif** : nécessité, recommandation, conseil ou obligation ;",
+        "- **il ne faut pas que + subjonctif** : conseil négatif, interdiction ou non-nécessité ;",
+        "- autres emplois mentionnés : le doute, le souhait, la possibilité, le but et les sentiments."
+      ],
+      [
+        "### Prononciation\n",
+        "Un exercice de prononciation comparait des formes proches de **avoir** et **aller** au subjonctif : **que j'aie / que j'aille**, **que tu aies / que tu ailles**, **qu'on ait / qu'on aille**, **que nous ayons / que nous allions**, **que vous ayez / que vous alliez**, **qu'ils aient / qu'ils aillent**, **qu'elles aient / qu'elles aillent**."
+      ]
+    ],
+    "examples": [
+      "Il faut que tu assistes au défilé.",
+      "Il ne faut pas que vous manquiez le Nouvel An chinois !",
+      "Je voudrais qu'il vienne.",
+      "Je ne pense pas qu'il ait raison.",
+      "Il faut que nous soyons à l'heure."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Conseil avec il faut que",
+        "markup": "Il faut que {{sujet:tu}} {{verbe:assistes}} au défilé.",
+        "explanation": "Après **il faut que**, on emploie le subjonctif pour exprimer un conseil, une nécessité ou une obligation.",
+        "sourceSentences": [
+          "Tu dois assister au défilé."
+        ]
+      },
+      {
+        "title": "Interdiction avec il ne faut pas que",
+        "markup": "Il ne faut pas que {{sujet:vous}} {{verbe:manquiez}} le Nouvel An chinois !",
+        "explanation": "Après **il ne faut pas que**, on emploie le subjonctif pour exprimer un conseil négatif ou une interdiction.",
+        "sourceSentences": [
+          "Vous ne devez pas manquer le Nouvel An chinois."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_17_place_ordre_adjectifs",
+    "title": "Place et ordre de certains adjectifs",
+    "category": "Adjectives",
+    "summary": [
+      [
+        "### Adjectifs souvent placés avant le nom\n",
+        "- **beau / bel / belle**, **joli** ;",
+        "- **nouveau / nouvel / nouvelle** ;",
+        "- **petit**, **grand**, **gros** ;",
+        "- **jeune**, **vieux / vieil / vieille** ;",
+        "- **bon**, **mauvais** ;",
+        "- **dernier**, **premier**."
+      ],
+      [
+        "### Ordre de plusieurs adjectifs\n",
+        "Quand plusieurs adjectifs apparaissent, certains adjectifs fréquents restent avant le nom, tandis que d'autres se placent après.\n",
+        "Exemples vus : **de jolies chaussures italiennes** et **de jolis petits chats blancs**."
+      ],
+      [
+        "### Des → de devant un adjectif au pluriel\n",
+        "Devant un nom pluriel précédé d'un adjectif, **des** devient souvent **de** : **des chats** → **de jolis petits chats blancs**."
+      ]
+    ],
+    "examples": [
+      "de jolies chaussures italiennes",
+      "de jolis petits chats blancs",
+      "un vieil ami",
+      "un nouveau projet"
+    ],
+    "annotatedExamples": []
+  }
+]
