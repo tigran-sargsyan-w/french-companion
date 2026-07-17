@@ -61,5 +61,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_7_2026_07_15"
+  },
+  {
+    "id": "lesson_8_2026_07_16",
+    "number": 8,
+    "title": "La Réunion, conseils et subjonctif présent",
+    "date": "2026-07-16",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_8_2026_07_16"
   }
 ]
