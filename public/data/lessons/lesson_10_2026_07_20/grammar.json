@@ -13,7 +13,11 @@
         "| Élément mis en relief | Construction | Rôle du pronom relatif |",
         "|---|---|---|",
         "| Sujet | **c'est / ce sont + élément + qui + verbe** | **qui** reprend le sujet |",
-        "| Complément | **c'est / ce sont + élément + que + sujet + verbe** | **que** reprend le complément |"
+        "| Complément | **c'est / ce sont + élément + que + sujet + verbe** | **que** reprend le complément (COD) |"
+      ],
+      [
+        "Если заменяется ***sujet*** → **qui**\n",
+        "Если заменяется ***COD*** → **que**"
       ],
       [
         "### Exemples de transformation\n",
