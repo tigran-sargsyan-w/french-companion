@@ -1,0 +1,100 @@
+[
+  {
+    "id": "v_2026_07_20_regretter",
+    "french": "regretter",
+    "translation": "сожалеть",
+    "example": "Elle regrette de ne pas avoir écouté le conseil.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_conte",
+    "french": "un conte",
+    "translation": "сказка",
+    "example": "Cendrillon est un conte très connu.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_jeter_au_sort",
+    "french": "jeter au sort",
+    "translation": "тянуть жребий / выбирать по жребию",
+    "example": "Nous allons jeter au sort le nom du premier joueur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_cendrillon",
+    "french": "Cendrillon",
+    "translation": "Золушка",
+    "example": "Cendrillon perd sa pantoufle au bal.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_cendre",
+    "french": "la cendre",
+    "translation": "пепел / зола",
+    "example": "Le feu s'est éteint et il ne reste que de la cendre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_brouillon",
+    "french": "un brouillon",
+    "translation": "черновик",
+    "example": "J'écris d'abord mes idées au brouillon.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_vieillesse",
+    "french": "la vieillesse",
+    "translation": "старость",
+    "example": "Le conte parle du passage du temps et de la vieillesse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_refuge",
+    "french": "un refuge",
+    "translation": "убежище",
+    "example": "La forêt devient un refuge pour le personnage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_piege",
+    "french": "un piège",
+    "translation": "ловушка",
+    "example": "Le héros évite le piège tendu par la sorcière.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_enfermement",
+    "french": "l'enfermement",
+    "translation": "заточение / лишение свободы",
+    "example": "L'enfermement de l'héroïne est au centre du récit.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_desir",
+    "french": "le désir",
+    "translation": "желание",
+    "example": "Son plus grand désir est de retrouver sa liberté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_jalousie",
+    "french": "la jalousie",
+    "translation": "ревность / зависть",
+    "example": "La jalousie de la reine provoque le conflit.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_histoires_a_dormir_debout",
+    "french": "des histoires à dormir debout",
+    "translation": "небылицы / совершенно неправдоподобные истории",
+    "example": "Il raconte des histoires à dormir debout.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_20_prejuge",
+    "french": "un préjugé",
+    "translation": "предубеждение / предрассудок",
+    "example": "Ce conte remet en question certains préjugés.",
+    "status": "learning"
+  }
+]
