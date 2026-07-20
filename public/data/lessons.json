@@ -79,5 +79,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_9_2026_07_17"
+  },
+  {
+    "id": "lesson_10_2026_07_20",
+    "number": 10,
+    "title": "Mise en relief, sentiments et contes",
+    "date": "2026-07-20",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_10_2026_07_20"
   }
 ]
