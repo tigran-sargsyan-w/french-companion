@@ -1,0 +1,124 @@
+[
+  {
+    "id": "g_2026_07_20_mise_en_relief",
+    "title": "La mise en relief avec c'est / ce sont",
+    "category": "Emphasis",
+    "summary": [
+      [
+        "### Principe\n",
+        "La mise en relief sert à mettre en évidence un élément de la phrase, à l'oral comme à l'écrit."
+      ],
+      [
+        "### Construction avec qui et que\n",
+        "| Élément mis en relief | Construction | Rôle du pronom relatif |",
+        "|---|---|---|",
+        "| Sujet | **c'est / ce sont + élément + qui + verbe** | **qui** reprend le sujet |",
+        "| Complément | **c'est / ce sont + élément + que + sujet + verbe** | **que** reprend le complément (COD) |"
+      ],
+      [
+        "Если заменяется ***sujet*** → **qui**\n",
+        "Если заменяется ***COD*** → **que**"
+      ],
+      [
+        "### Exemples de transformation\n",
+        "- **Le livre est sur la table.** → **C'est le livre qui est sur la table.**",
+        "- **Les livres sont sur la table.** → **Ce sont les livres qui sont sur la table.**",
+        "- **Je préfère le chocolat.** → **C'est le chocolat que je préfère.**",
+        "- **Je suis intéressé par ce livre.** → **C'est par ce livre que je suis intéressé.**"
+      ],
+      [
+        "### Compléments de lieu et de temps\n",
+        "Un lieu ou un moment peut également être mis en relief avec **c'est + complément + que**.\n",
+        "- **C'est à Noël qu'on décore le sapin.**",
+        "- **C'est à Paris que j'ai fêté Noël.**"
+      ],
+      [
+        "### Pronoms toniques\n",
+        "Dans une mise en relief, les pronoms personnels sujets ou compléments prennent leur forme tonique.\n",
+        "- **Je t'aime.** → **C'est toi que j'aime.**",
+        "- **Il fait la cuisine.** → **C'est lui qui fait la cuisine.**"
+      ],
+      [
+        "### Activités Wordwall utilisées en classe\n",
+        "- [Mise en relief – pronoms](https://wordwall.net/resource/10688929/mise-en-relief-pronoms)",
+        "- [La mise en relief – roue des questions](https://wordwall.net/pt/resource/105702370/la-mise-en-relief-roue-des-questions)"
+      ]
+    ],
+    "examples": [
+      "Ce sont mes parents qui organisent le repas de Noël.",
+      "C'est une tradition que les enfants adorent.",
+      "C'est le livre qui est sur la table.",
+      "Ce sont les livres qui sont sur la table.",
+      "C'est le chocolat que je préfère.",
+      "C'est par ce livre que je suis intéressé.",
+      "C'est à Noël qu'on décore le sapin.",
+      "C'est à Paris que j'ai fêté Noël."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Mise en relief du sujet",
+        "markup": "C'est {{sujet:le livre}} {{qui:qui}} {{verbe:est}} sur la table.",
+        "explanation": "**Qui** reprend **le livre**, qui est le sujet du verbe **est**.",
+        "sourceSentences": [
+          "Le livre est sur la table."
+        ]
+      },
+      {
+        "title": "Mise en relief d'un sujet pluriel",
+        "markup": "Ce sont {{sujet:les livres}} {{qui:qui}} {{verbe:sont}} sur la table.",
+        "explanation": "On utilise **ce sont** avec un élément pluriel, puis **qui** parce que **les livres** est le sujet.",
+        "sourceSentences": [
+          "Les livres sont sur la table."
+        ]
+      },
+      {
+        "title": "Mise en relief du COD",
+        "markup": "C'est {{COD:le chocolat}} {{que:que}} je préfère.",
+        "explanation": "**Que** reprend **le chocolat**, complément d'objet direct du verbe **préfère**.",
+        "sourceSentences": [
+          "Je préfère le chocolat."
+        ]
+      },
+      {
+        "title": "Mise en relief d'un complément prépositionnel",
+        "markup": "C'est {{contexte:par ce livre}} {{que:que}} je suis intéressé.",
+        "explanation": "Le complément introduit par **par** est placé après **c'est**, puis la proposition est introduite par **que**.",
+        "sourceSentences": [
+          "Je suis intéressé par ce livre."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_20_exprimer_sentiments_emotions",
+    "title": "Exprimer des sentiments et des émotions",
+    "category": "Emotions",
+    "summary": [
+      [
+        "### Constructions principales\n",
+        "| Construction | Emploi | Exemple |",
+        "|---|---|---|",
+        "| **quel / quelle + nom (+ de + infinitif)** | exprimer une réaction forte | **Quelle joie de te revoir !** |",
+        "| **être + adjectif (+ de + nom ou infinitif)** | nommer directement un sentiment | **Je suis triste de partir.** |",
+        "| **ça me rend + adjectif (+ de + infinitif)** | présenter l'effet d'une situation | **Ça me rend heureux de raconter ce conte.** |",
+        "| **ça m'énerve / ça me saoule (+ de + infinitif)** | exprimer l'agacement | **Ça m'énerve d'attendre.** |"
+      ],
+      [
+        "### À retenir\n",
+        "- **quel** s'accorde avec un nom masculin et **quelle** avec un nom féminin ;",
+        "- après un adjectif ou une expression de réaction, on peut préciser la cause avec **de + nom** ou **de + infinitif** ;",
+        "- **ça me saoule** appartient au registre familier."
+      ]
+    ],
+    "examples": [
+      "Quel bonheur de retrouver ses amis !",
+      "Quelle joie de te revoir !",
+      "Je suis heureux de cette nouvelle.",
+      "Je suis triste de quitter mes amis.",
+      "Ça me rend heureux de raconter ce conte.",
+      "Ça m'énerve d'attendre.",
+      "Ça me saoule de répéter toujours la même chose."
+    ],
+    "annotatedExamples": []
+  }
+]
