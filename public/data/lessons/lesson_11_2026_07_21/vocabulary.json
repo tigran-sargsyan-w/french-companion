@@ -1,0 +1,93 @@
+[
+  {
+    "id": "v_2026_07_21_cercueil",
+    "french": "un cercueil",
+    "translation": "гроб",
+    "example": "Dans le conte, les personnages découvrent un cercueil mystérieux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_dattes",
+    "french": "des dattes",
+    "translation": "финики",
+    "example": "Le chameau transporte des sacs remplis de dattes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_coffre_en_or",
+    "french": "un coffre en or",
+    "translation": "золотой сундук / сундук из золота",
+    "example": "Le héros trouve un coffre en or au fond de la grotte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_chameau",
+    "french": "un chameau",
+    "translation": "верблюд",
+    "example": "Le voyageur traverse le désert à dos de chameau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_nain",
+    "french": "un nain",
+    "translation": "карлик",
+    "example": "Un nain aide l'héroïne à retrouver son chemin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_paix",
+    "french": "la paix",
+    "translation": "мир / спокойствие",
+    "example": "À la fin du récit, la paix revient dans le royaume.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_benefique",
+    "french": "bénéfique",
+    "translation": "благотворный / полезный",
+    "example": "Cette rencontre a un effet bénéfique sur le personnage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_malefique",
+    "french": "maléfique",
+    "translation": "зловредный / несущий зло",
+    "example": "Une créature maléfique menace le village.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_ombre",
+    "french": "une ombre",
+    "translation": "тень",
+    "example": "Une ombre apparaît derrière la porte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_sensibiliser",
+    "french": "sensibiliser",
+    "translation": "привлекать внимание к проблеме / повышать осведомлённость",
+    "example": "Ce récit cherche à sensibiliser le public à la différence.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_enseigner",
+    "french": "enseigner",
+    "translation": "обучать / преподавать",
+    "example": "Les contes peuvent enseigner une leçon aux enfants.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_reussite",
+    "french": "la réussite",
+    "translation": "успех / удачное завершение",
+    "example": "La réussite de la mission dépend du courage des personnages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_21_recit",
+    "french": "un récit",
+    "translation": "рассказ / повествование",
+    "example": "Les indicateurs temporels donnent une structure chronologique au récit.",
+    "status": "learning"
+  }
+]
