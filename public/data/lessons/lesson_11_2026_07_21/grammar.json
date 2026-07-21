@@ -1,0 +1,57 @@
+[
+  {
+    "id": "g_2026_07_21_indicateurs_temporels",
+    "title": "Les indicateurs temporels dans un récit",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Fonction\n",
+        "Les indicateurs temporels donnent une structure chronologique au récit. Leur forme change selon le point de repère temporel adopté par la personne qui parle."
+      ],
+      [
+        "### Changement du point de repère\n",
+        "| Point de repère actuel | Point de repère dans le passé ou le futur |",
+        "|---|---|",
+        "| **la semaine dernière** | **la semaine d'avant / la semaine précédente** |",
+        "| **avant-hier** | **deux jours avant / l'avant-veille** |",
+        "| **hier** | **la veille / le jour d'avant** |",
+        "| **aujourd'hui** | **ce jour-là** |",
+        "| **demain** | **le lendemain / le jour d'après** |",
+        "| **après-demain** | **deux jours plus tard / deux jours après / le surlendemain** |",
+        "| **la semaine prochaine** | **la semaine suivante** |",
+        "| **pendant ce temps** | **pendant ce temps-là** |",
+        "| **à ce moment** | **à ce moment-là** |"
+      ],
+      [
+        "### À retenir\n",
+        "Dans un récit rapporté depuis un autre moment, on ne conserve pas toujours les repères liés au présent du locuteur. On choisit une expression cohérente avec le nouveau point de repère."
+      ]
+    ],
+    "examples": [
+      "Il a expliqué que la veille, il avait rencontré un nain.",
+      "Elle a annoncé que le lendemain, elle partirait avec le chameau.",
+      "Ce jour-là, une ombre maléfique est apparue.",
+      "Deux jours plus tard, la paix est revenue dans le royaume."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Du présent du locuteur au récit au passé",
+        "markup": "Il a dit : « Je pars {{temps:demain}}. » → Il a dit qu'il partirait {{temps:le lendemain}}.",
+        "explanation": "Quand le point de repère se déplace dans le passé, **demain** devient **le lendemain**.",
+        "sourceSentences": [
+          "Il a dit : « Je pars demain. »",
+          "Il a dit qu'il partirait le lendemain."
+        ]
+      },
+      {
+        "title": "Situer un événement antérieur",
+        "markup": "Elle a raconté que {{temps:la veille}}, elle avait trouvé un coffre en or.",
+        "explanation": "**La veille** situe l'événement un jour avant le point de repère du récit.",
+        "sourceSentences": [
+          "Hier, elle a trouvé un coffre en or.",
+          "Elle a raconté que la veille, elle avait trouvé un coffre en or."
+        ]
+      }
+    ]
+  }
+]
