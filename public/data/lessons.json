@@ -88,5 +88,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_10_2026_07_20"
+  },
+  {
+    "id": "lesson_11_2026_07_21",
+    "number": 11,
+    "title": "Indicateurs temporels, Poteline et création d'un conte",
+    "date": "2026-07-21",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_11_2026_07_21"
   }
 ]
