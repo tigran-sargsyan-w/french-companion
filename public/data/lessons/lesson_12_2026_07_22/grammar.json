@@ -1,0 +1,134 @@
+[
+  {
+    "id": "g_2026_07_22_pronoms_cod_coi",
+    "title": "Pronoms compléments : COD et COI",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Identifier le complément\n",
+        "- Le **COD** est directement relié au verbe et répond généralement aux questions **qui ?** ou **quoi ?** ;",
+        "- le **COI** est introduit par une préposition, notamment **à**, et peut répondre à la question **à qui ?**."
+      ],
+      [
+        "### Formes des pronoms\n",
+        "| Fonction | Pronoms |",
+        "|---|---|",
+        "| **COD** | me / m', te / t', le / l', la / l', nous, vous, les |",
+        "| **COI avec une personne** | me / m', te / t', lui, nous, vous, leur |"
+      ],
+      [
+        "### Points importants\n",
+        "- **le**, **la** et **les** remplacent un COD ;",
+        "- **lui** remplace une personne masculine ou féminine au singulier ;",
+        "- **leur** remplace plusieurs personnes ;",
+        "- **me**, **te**, **nous** et **vous** peuvent être COD ou COI selon la construction du verbe."
+      ],
+      [
+        "### Place du pronom\n",
+        "- Avec un verbe conjugué, le pronom se place avant le verbe : **Il m'emmène à la gare.** ;",
+        "- avec un verbe conjugué suivi d'un infinitif, le pronom se place devant l'infinitif dont il dépend : **Je peux le manger.** ;",
+        "- à l'impératif affirmatif, le pronom se place après le verbe avec un trait d'union : **Mange-le. Appelle-moi.** ;",
+        "- à l'impératif négatif, le pronom se place avant le verbe : **Ne le mange pas. Ne m'appelle pas.**"
+      ]
+    ],
+    "examples": [
+      "Il m'emmène à la gare.",
+      "Il m'offre des fleurs.",
+      "Je peux le manger.",
+      "Je ne peux pas le manger.",
+      "Mange-le.",
+      "Ne le mange pas.",
+      "Appelle-moi.",
+      "Ne m'appelle pas."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Remplacer un COD",
+        "markup": "Je peux manger {{COD:le croissant}}. → Je peux {{COD:le}} manger.",
+        "explanation": "Le groupe **le croissant** est COD du verbe **manger**. Le pronom **le** se place donc devant l'infinitif.",
+        "sourceSentences": [
+          "Je peux manger le croissant.",
+          "Je peux le manger."
+        ]
+      },
+      {
+        "title": "Remplacer un COI",
+        "markup": "Il offre des fleurs {{COI:à Marie}}. → Il {{COI:lui}} offre des fleurs.",
+        "explanation": "Avec **offrir quelque chose à quelqu'un**, la personne est un COI. **À Marie** devient **lui**.",
+        "sourceSentences": [
+          "Il offre des fleurs à Marie.",
+          "Il lui offre des fleurs."
+        ]
+      },
+      {
+        "title": "Impératif négatif",
+        "markup": "{{négation:Ne}} {{COD:le}} {{verbe:mange}} {{négation:pas}}.",
+        "explanation": "À l'impératif négatif, le pronom complément revient avant le verbe.",
+        "sourceSentences": [
+          "Mange le croissant.",
+          "Mange-le.",
+          "Ne le mange pas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_22_pronoms_toniques_prepositions",
+    "title": "Pronoms toniques après une préposition",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Formes des pronoms toniques\n",
+        "| Pronom sujet | Pronom tonique |",
+        "|---|---|",
+        "| je | moi |",
+        "| tu | toi |",
+        "| il | lui |",
+        "| elle | elle |",
+        "| nous | nous |",
+        "| vous | vous |",
+        "| ils | eux |",
+        "| elles | elles |"
+      ],
+      [
+        "### Après une préposition\n",
+        "On emploie un pronom tonique après une préposition conservée, par exemple **à**, **de**, **pour**, **contre**, **sans**, **avec**, **chez**, **sur**, **devant** ou **derrière** : **avec eux**, **chez moi**, **contre lui**, **de toi**."
+      ],
+      [
+        "### COI ou pronom tonique avec à ?\n",
+        "- Avec certains verbes de communication, **à + personne** est remplacé par un pronom COI : **Elle téléphone à ses parents → Elle leur téléphone.** ;",
+        "- avec les constructions qui conservent la préposition, on utilise **à + pronom tonique** : **Je pense à toi**, **Il s'intéresse à elle** ;",
+        "- il faut donc apprendre la construction du verbe et vérifier si la préposition disparaît ou reste dans la phrase."
+      ]
+    ],
+    "examples": [
+      "Elle me parle de ses problèmes.",
+      "Je leur téléphone souvent.",
+      "Je pense à toi.",
+      "La famille compte sur lui.",
+      "Je suis chez moi.",
+      "Il ne faut pas s'approcher de lui.",
+      "Je me méfie d'eux."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Pronom COI",
+        "markup": "Elle téléphone {{COI:à ses parents}}. → Elle {{pronom:leur}} téléphone.",
+        "explanation": "Avec **téléphoner à quelqu'un**, le groupe introduit par **à** peut être remplacé par le pronom COI **leur**.",
+        "sourceSentences": [
+          "Elle téléphone à ses parents.",
+          "Elle leur téléphone."
+        ]
+      },
+      {
+        "title": "Pronom tonique après à",
+        "markup": "Je pense {{pronom tonique:à toi}}.",
+        "explanation": "Avec **penser à quelqu'un**, la préposition **à** reste présente et elle est suivie du pronom tonique **toi**.",
+        "sourceSentences": [
+          "Je pense à mon ami.",
+          "Je pense à lui."
+        ]
+      }
+    ]
+  }
+]

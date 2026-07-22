@@ -1,0 +1,51 @@
+[
+  {
+    "id": "v_2026_07_22_griot",
+    "french": "un griot",
+    "translation": "гриот / традиционный сказитель и певец",
+    "example": "Le griot transmet l'histoire du village par ses récits.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_22_detruire",
+    "french": "détruire",
+    "translation": "разрушать / уничтожать",
+    "example": "La guerre peut détruire des villages entiers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_22_sorciere",
+    "french": "une sorcière",
+    "translation": "ведьма",
+    "example": "Dans le conte, une sorcière habite près du village.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_22_guerir",
+    "french": "guérir",
+    "translation": "лечить / вылечить",
+    "example": "Ce remède peut guérir le malade.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_22_mentir",
+    "french": "mentir",
+    "translation": "лгать / врать",
+    "example": "Il ne faut pas mentir à ses amis.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_22_eloquence",
+    "french": "l'éloquence",
+    "translation": "красноречие",
+    "example": "L'éloquence du griot captive son public.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_22_lier",
+    "french": "lier",
+    "translation": "связывать",
+    "example": "Ce récit lie le passé au présent.",
+    "status": "learning"
+  }
+]
