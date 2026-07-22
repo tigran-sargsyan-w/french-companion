@@ -97,5 +97,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_11_2026_07_21"
+  },
+  {
+    "id": "lesson_12_2026_07_22",
+    "number": 12,
+    "title": "Les griots, pronoms COD/COI et pronoms toniques",
+    "date": "2026-07-22",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_12_2026_07_22"
   }
 ]
