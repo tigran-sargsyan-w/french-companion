@@ -95,16 +95,46 @@
         "On emploie un pronom tonique après une préposition conservée, par exemple **à**, **de**, **pour**, **contre**, **sans**, **avec**, **chez**, **sur**, **devant** ou **derrière** : **avec eux**, **chez moi**, **contre lui**, **de toi**."
       ],
       [
-        "### COI ou pronom tonique avec à ?\n",
-        "- Avec certains verbes de communication, **à + personne** est remplacé par un pronom COI : **Elle téléphone à ses parents → Elle leur téléphone.** ;",
-        "- avec les constructions qui conservent la préposition, on utilise **à + pronom tonique** : **Je pense à toi**, **Il s'intéresse à elle** ;",
-        "- il faut donc apprendre la construction du verbe et vérifier si la préposition disparaît ou reste dans la phrase."
+        "### Verbes d'interaction : pronom COI\n",
+        "Avec les verbes suivis de **à + personne** qui expriment une idée d'interaction ou de communication, on remplace la personne par un pronom COI : **me, te, lui, nous, vous, leur**.\n",
+        "Constructions vues en cours :\n",
+        "- **dire quelque chose à quelqu'un** ;",
+        "- **téléphoner à quelqu'un** ;",
+        "- **parler de quelque chose à quelqu'un** ;",
+        "- **expliquer quelque chose à quelqu'un**.\n",
+        "Exemples : **Elle me parle de ses problèmes.** — **Je leur téléphone souvent.**"
+      ],
+      [
+        "### Verbes qui conservent la préposition à\n",
+        "Avec certains autres verbes suivis de **à + personne**, la préposition **à** reste présente et on emploie un pronom tonique : **moi, toi, lui, elle, nous, vous, eux, elles**.\n",
+        "Constructions vues en cours : **penser à quelqu'un**, **s'intéresser à quelqu'un**, **être à quelqu'un**.\n",
+        "Exemples : **Je pense à toi.** — **Elle s'intéresse à lui.** — **Ce livre est à elle.**"
+      ],
+      [
+        "### À quoi ? → y\n",
+        "Quand le complément introduit par **à** désigne une chose, une idée ou une situation, il est généralement remplacé par le pronom **y** dans les constructions étudiées.\n",
+        "- **Je pense à mon avenir. → J'y pense.** ;",
+        "- **Elle s'intéresse à ce projet. → Elle s'y intéresse.**\n",
+        "**À retenir :** pour une personne, la question **à qui ?** ne suffit pas à choisir le pronom : selon le verbe, on utilise un pronom COI ou **à + pronom tonique**. Pour une chose répondant à **à quoi ?**, on utilise généralement **y**."
+      ],
+      [
+        "### Comparaison\n",
+        "| Construction | Remplacement | Exemple |",
+        "|---|---|---|",
+        "| verbe d'interaction + **à une personne** | pronom COI | **Je téléphone à Marie. → Je lui téléphone.** |",
+        "| verbe qui conserve **à** + personne | **à + pronom tonique** | **Je pense à Marie. → Je pense à elle.** |",
+        "| verbe + **à une chose** | **y** | **Je pense à ce problème. → J'y pense.** |"
       ]
     ],
     "examples": [
       "Elle me parle de ses problèmes.",
       "Je leur téléphone souvent.",
+      "Le professeur lui explique la règle.",
       "Je pense à toi.",
+      "Elle s'intéresse à lui.",
+      "Ce livre est à elle.",
+      "J'y pense souvent.",
+      "Elle s'y intéresse beaucoup.",
       "La famille compte sur lui.",
       "Je suis chez moi.",
       "Il ne faut pas s'approcher de lui.",
@@ -112,9 +142,9 @@
     ],
     "annotatedExamples": [
       {
-        "title": "Pronom COI",
+        "title": "Pronom COI avec un verbe d'interaction",
         "markup": "Elle téléphone {{COI:à ses parents}}. → Elle {{pronom:leur}} téléphone.",
-        "explanation": "Avec **téléphoner à quelqu'un**, le groupe introduit par **à** peut être remplacé par le pronom COI **leur**.",
+        "explanation": "Avec **téléphoner à quelqu'un**, le groupe introduit par **à** est remplacé par le pronom COI **leur**.",
         "sourceSentences": [
           "Elle téléphone à ses parents.",
           "Elle leur téléphone."
@@ -127,6 +157,15 @@
         "sourceSentences": [
           "Je pense à mon ami.",
           "Je pense à lui."
+        ]
+      },
+      {
+        "title": "Remplacer à + chose par y",
+        "markup": "Je pense {{à quoi ?:à ce problème}}. → J'{{y:y}} pense.",
+        "explanation": "Le groupe **à ce problème** désigne une chose et répond à la question **à quoi ?**. Dans cette construction, il est remplacé par **y**.",
+        "sourceSentences": [
+          "Je pense à ce problème.",
+          "J'y pense."
         ]
       }
     ]
