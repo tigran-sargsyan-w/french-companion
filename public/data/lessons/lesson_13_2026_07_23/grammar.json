@@ -132,44 +132,5 @@
       "Nous vivons au XXIe siècle."
     ],
     "annotatedExamples": []
-  },
-  {
-    "id": "g_2026_07_23_origines_vocabulaire_francais",
-    "title": "Origines de mots français",
-    "category": "Vocabulary",
-    "summary": [
-      [
-        "### Un vocabulaire issu de plusieurs langues\n",
-        "Le français s'est enrichi au contact de différents peuples et de différentes langues. Les mots étudiés ont été classés selon leur origine principale."
-      ],
-      [
-        "### Mots d'origine gauloise\n",
-        "**ambassade, bataille, boucherie, chemin, cheval, crème, dune, environnement, habiller, habit, jambe, minerai, sapin**"
-      ],
-      [
-        "### Mots d'origine latine\n",
-        "**agenda, alibi, calendrier, consensus, droit, écriture, littérature, médias, province, république, science, ville**"
-      ],
-      [
-        "### Mots d'origine grecque\n",
-        "**astronomie, biologie, boutique, démocratie, école, géographie, mathématiques, naviguer, pharmacie, philosophie, téléphone**"
-      ],
-      [
-        "### Mots d'origine francique ou germanique\n",
-        "**blanc, bleu, bourg, flèche, frais, gagner, garçon, guerre, hache, haricot, jardin**"
-      ],
-      [
-        "### Mots d'origine arabe\n",
-        "**alcool, algèbre, artichaut, bougie, chiffre, chimie, alchimie, coton, hasard, magasin, orange, sucre, zéro**"
-      ]
-    ],
-    "examples": [
-      "Le mot **cheval** est présenté comme un mot d'origine gauloise.",
-      "Le mot **écriture** est présenté comme un mot d'origine latine.",
-      "Le mot **philosophie** est présenté comme un mot d'origine grecque.",
-      "Le mot **guerre** est présenté comme un mot d'origine germanique.",
-      "Le mot **algèbre** est présenté comme un mot d'origine arabe."
-    ],
-    "annotatedExamples": []
   }
 ]
