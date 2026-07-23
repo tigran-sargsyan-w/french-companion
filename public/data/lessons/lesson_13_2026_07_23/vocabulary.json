@@ -11,7 +11,7 @@
     "french": "une origine",
     "translation": "происхождение / исток",
     "example": "La langue française possède des origines multiples.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_evolution",
@@ -25,14 +25,14 @@
     "french": "un siècle",
     "translation": "век / столетие",
     "example": "L'imprimerie s'est développée en Europe au XVIe siècle.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_chiffre_romain",
     "french": "un chiffre romain",
     "translation": "римская цифра",
     "example": "On utilise un chiffre romain pour écrire le numéro d'un siècle.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_antiquite",
@@ -60,7 +60,7 @@
     "french": "un échange",
     "translation": "обмен / взаимодействие",
     "example": "Les échanges entre les peuples ont enrichi le vocabulaire français.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_gaulois",
