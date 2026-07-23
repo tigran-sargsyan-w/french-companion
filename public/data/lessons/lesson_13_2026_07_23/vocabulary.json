@@ -221,7 +221,7 @@
     "french": "une ambassade",
     "translation": "посольство",
     "example": "L'ambassade se trouve près du centre-ville.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_bataille",
@@ -235,28 +235,28 @@
     "french": "une boucherie",
     "translation": "мясная лавка / мясной магазин",
     "example": "J'achète de la viande à la boucherie.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_chemin",
     "french": "un chemin",
     "translation": "путь / тропинка / дорога",
     "example": "Nous suivons un chemin à travers la forêt.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_cheval",
     "french": "un cheval",
     "translation": "лошадь",
     "example": "Le cheval court dans le pré.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_creme",
     "french": "une crème",
     "translation": "крем / сливки",
     "example": "Elle prépare une soupe avec de la crème.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_dune",
@@ -270,7 +270,7 @@
     "french": "un environnement",
     "translation": "окружающая среда / окружение",
     "example": "Il faut protéger l'environnement.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_habiller",
@@ -291,7 +291,7 @@
     "french": "une jambe",
     "translation": "нога",
     "example": "Il s'est blessé à la jambe.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_minerai",
@@ -305,7 +305,7 @@
     "french": "un sapin",
     "translation": "ель / пихта",
     "example": "Un grand sapin pousse devant la maison.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_agenda",
@@ -319,14 +319,14 @@
     "french": "un alibi",
     "translation": "алиби",
     "example": "Le suspect affirme avoir un alibi.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_calendrier",
     "french": "un calendrier",
     "translation": "календарь",
     "example": "La date est indiquée sur le calendrier.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_consensus",
@@ -340,21 +340,21 @@
     "french": "le droit",
     "translation": "право / законодательство",
     "example": "Elle étudie le droit à l'université.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_ecriture",
     "french": "l'écriture",
     "translation": "письмо / письменность / почерк",
     "example": "L'écriture de ce manuscrit est difficile à lire.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_litterature",
     "french": "la littérature",
     "translation": "литература",
     "example": "Il aime la littérature française.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_medias",
@@ -368,77 +368,77 @@
     "french": "une province",
     "translation": "провинция / область",
     "example": "Cette ville se trouve dans une province historique.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_republique",
     "french": "une république",
     "translation": "республика",
     "example": "La France est une république.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_science",
     "french": "la science",
     "translation": "наука",
     "example": "La science permet de mieux comprendre le monde.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_ville",
     "french": "une ville",
     "translation": "город",
     "example": "Lyon est une grande ville française.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_astronomie",
     "french": "l'astronomie",
     "translation": "астрономия",
     "example": "L'astronomie étudie les astres et l'Univers.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_biologie",
     "french": "la biologie",
     "translation": "биология",
     "example": "La biologie étudie les êtres vivants.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_boutique",
     "french": "une boutique",
     "translation": "магазин / лавка",
     "example": "Cette boutique vend des produits locaux.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_democratie",
     "french": "la démocratie",
     "translation": "демократия",
     "example": "La démocratie repose sur la participation des citoyens.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_ecole",
     "french": "une école",
     "translation": "школа",
     "example": "Les enfants vont à l'école le matin.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_geographie",
     "french": "la géographie",
     "translation": "география",
     "example": "La géographie étudie les territoires et les populations.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_mathematiques",
     "french": "les mathématiques",
     "translation": "математика",
     "example": "Les mathématiques sont utiles dans de nombreux métiers.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_naviguer",
@@ -452,35 +452,35 @@
     "french": "une pharmacie",
     "translation": "аптека",
     "example": "Je vais à la pharmacie acheter un médicament.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_philosophie",
     "french": "la philosophie",
     "translation": "философия",
     "example": "La philosophie pose des questions sur l'existence et la connaissance.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_telephone",
     "french": "un téléphone",
     "translation": "телефон",
     "example": "Mon téléphone n'a plus de batterie.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_blanc",
     "french": "blanc / blanche",
     "translation": "белый / белая",
     "example": "Il porte une chemise blanche.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_bleu",
     "french": "bleu / bleue",
     "translation": "синий / голубой",
     "example": "Le ciel est bleu aujourd'hui.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_bourg",
@@ -501,28 +501,28 @@
     "french": "frais / fraîche",
     "translation": "свежий / свежая / прохладный",
     "example": "Nous achetons du pain frais chaque matin.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_gagner",
     "french": "gagner",
     "translation": "выигрывать / зарабатывать",
     "example": "Elle espère gagner le concours.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_garcon",
     "french": "un garçon",
     "translation": "мальчик / парень",
     "example": "Le garçon joue dans le jardin.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_guerre",
     "french": "une guerre",
     "translation": "война",
     "example": "La guerre a profondément changé le pays.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_hache",
@@ -536,21 +536,21 @@
     "french": "un haricot",
     "translation": "фасоль / боб",
     "example": "Nous cultivons des haricots dans le jardin.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_jardin",
     "french": "un jardin",
     "translation": "сад",
     "example": "Ils passent l'après-midi dans le jardin.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_alcool",
     "french": "l'alcool",
     "translation": "алкоголь / спирт",
     "example": "Cette boisson ne contient pas d'alcool.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_algebre",
@@ -571,14 +571,14 @@
     "french": "une bougie",
     "translation": "свеча",
     "example": "Elle allume une bougie sur la table.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_chiffre",
     "french": "un chiffre",
     "translation": "цифра / числовой показатель",
     "example": "Le chiffre zéro est essentiel dans notre système de numération.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_chimie",
@@ -599,7 +599,7 @@
     "french": "le coton",
     "translation": "хлопок",
     "example": "Cette chemise est fabriquée en coton.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_hasard",
@@ -613,27 +613,27 @@
     "french": "un magasin",
     "translation": "магазин",
     "example": "Le magasin ferme à dix-neuf heures.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_orange",
     "french": "une orange",
     "translation": "апельсин",
     "example": "Elle mange une orange au petit-déjeuner.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_sucre",
     "french": "le sucre",
     "translation": "сахар",
     "example": "Je prends mon café sans sucre.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_23_zero",
     "french": "zéro",
     "translation": "ноль",
     "example": "Le résultat de l'opération est zéro.",
-    "status": "learning"
+    "status": "learned"
   }
 ]
