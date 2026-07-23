@@ -1,1 +1,639 @@
-[{"id":"v_2026_07_23_fleuve","french":"un fleuve","translation":"река, впадающая в море / крупная река","example":"Le français est présenté comme un fleuve alimenté par plusieurs langues.","status":"learning"},{"id":"v_2026_07_23_origine","french":"une origine","translation":"происхождение / исток","example":"La langue française possède des origines multiples.","status":"learned"},{"id":"v_2026_07_23_evolution","french":"une évolution","translation":"эволюция / развитие","example":"L'évolution du français s'est poursuivie pendant plusieurs siècles.","status":"learning"},{"id":"v_2026_07_23_siecle","french":"un siècle","translation":"век / столетие","example":"L'imprimerie s'est développée en Europe au XVIe siècle.","status":"learned"},{"id":"v_2026_07_23_chiffre_romain","french":"un chiffre romain","translation":"римская цифра","example":"On utilise un chiffre romain pour écrire le numéro d'un siècle.","status":"learned"},{"id":"v_2026_07_23_antiquite","french":"l'Antiquité","translation":"Античность / древний мир","example":"Dans l'Antiquité, plusieurs peuples échangeaient autour de la Méditerranée.","status":"learning"},{"id":"v_2026_07_23_avant_jc","french":"avant Jésus-Christ (av. J.-C.)","translation":"до Рождества Христова / до нашей эры","example":"Des Grecs se sont installés dans la région au VIIe siècle av. J.-C.","status":"learning"},{"id":"v_2026_07_23_imprimerie","french":"l'imprimerie","translation":"книгопечатание / типографское дело","example":"Le développement de l'imprimerie a influencé l'écriture du français.","status":"learning"},{"id":"v_2026_07_23_echange","french":"un échange","translation":"обмен / взаимодействие","example":"Les échanges entre les peuples ont enrichi le vocabulaire français.","status":"learned"},{"id":"v_2026_07_23_gaulois","french":"un Gaulois / une Gauloise","translation":"галл / галльская женщина","example":"Les Gaulois étaient un peuple celte installé sur le territoire de la Gaule.","status":"learning"},{"id":"v_2026_07_23_peuple_celte","french":"un peuple celte","translation":"кельтский народ","example":"Les Gaulois formaient un ensemble de peuples celtes.","status":"learning"},{"id":"v_2026_07_23_accent_aigu","french":"un accent aigu","translation":"акут / знак острого ударения (é)","example":"Le mot **école** commence par un e avec un accent aigu.","status":"learning"},{"id":"v_2026_07_23_accent_grave","french":"un accent grave","translation":"гравис / знак обратного ударения (è, à, ù)","example":"Le mot **père** contient un e avec un accent grave.","status":"learning"},{"id":"v_2026_07_23_accent_circonflexe","french":"un accent circonflexe","translation":"циркумфлекс / знак ^","example":"Le mot **forêt** contient un accent circonflexe.","status":"learning"},{"id":"v_2026_07_23_trema","french":"un tréma","translation":"трема / диерезис (ë, ï, ü)","example":"Le tréma indique que deux voyelles se prononcent séparément dans **Noël**.","status":"learning"},{"id":"v_2026_07_23_cedille","french":"une cédille","translation":"седиль / знак под буквой c (ç)","example":"La cédille permet de prononcer **ç** comme le son [s] dans **garçon**.","status":"learning"},{"id":"v_2026_07_23_du_coup","french":"du coup","translation":"в результате / поэтому / и тогда","example":"Il a oublié son livre ; du coup, il a travaillé avec son voisin.","status":"learning"},{"id":"v_2026_07_23_inne","french":"inné / innée","translation":"врождённый / врождённая","example":"Chez le griot, certains talents sont présentés comme innés.","status":"learning"},{"id":"v_2026_07_23_mediateur","french":"un médiateur / une médiatrice","translation":"посредник / посредница","example":"Le médiateur aide les deux groupes à régler leur conflit.","status":"learning"},{"id":"v_2026_07_23_caste","french":"une caste","translation":"каста / наследственная социальная группа","example":"Dans certaines sociétés, le statut social se transmet au sein d'une caste.","status":"learning"},{"id":"v_2026_07_23_veillee","french":"une veillée","translation":"вечерние посиделки / вечернее собрание","example":"Pendant la veillée, le griot raconte l'histoire du village.","status":"learning"},{"id":"v_2026_07_23_genealogiste","french":"un généalogiste / une généalogiste","translation":"генеалог / специалист по истории семей","example":"Le généalogiste recherche l'origine et l'histoire des familles.","status":"learning"},{"id":"v_2026_07_23_lors_d_un_enterrement","french":"lors d'un enterrement","translation":"во время похорон","example":"Le griot peut prendre la parole lors d'un enterrement.","status":"learning"},{"id":"v_2026_07_23_de_maniere_elogieuse","french":"de manière élogieuse","translation":"в хвалебной форме / с похвалой","example":"Elle a présenté le travail de son équipe de manière élogieuse.","status":"learning"},{"id":"v_2026_07_23_se_confier_a","french":"se confier à quelqu'un","translation":"довериться кому-либо / поделиться сокровенным","example":"Les habitants se confient au griot parce qu'ils lui font confiance.","status":"learning"},{"id":"v_2026_07_23_sage_conseil","french":"un sage conseil","translation":"мудрый совет","example":"Le vieillard lui a donné un sage conseil.","status":"learning"},{"id":"v_2026_07_23_conter","french":"conter","translation":"рассказывать истории / повествовать","example":"Le griot sait conter les histoires de son peuple.","status":"learning"},{"id":"v_2026_07_23_vieillard","french":"un vieillard","translation":"старик / пожилой мужчина","example":"Dans la citation, un vieillard est comparé à une bibliothèque.","status":"learning"},{"id":"v_2026_07_23_bruler","french":"brûler","translation":"гореть / сжигать","example":"Quand une bibliothèque brûle, une grande quantité de savoir disparaît.","status":"learning"},{"id":"v_2026_07_23_funerailles","french":"les funérailles","translation":"похороны / погребальная церемония","example":"La famille s'est réunie pour les funérailles.","status":"learning"},{"id":"v_2026_07_23_lien","french":"un lien","translation":"связь / взаимосвязь","example":"Le groupe cherche le lien entre Aya Nakamura et les griots.","status":"learning"},{"id":"v_2026_07_23_ambassade","french":"une ambassade","translation":"посольство","example":"L'ambassade se trouve près du centre-ville.","status":"learning"},{"id":"v_2026_07_23_bataille","french":"une bataille","translation":"битва / сражение","example":"Cette bataille a marqué l'histoire de la région.","status":"learning"},{"id":"v_2026_07_23_boucherie","french":"une boucherie","translation":"мясная лавка / мясной магазин","example":"J'achète de la viande à la boucherie.","status":"learning"},{"id":"v_2026_07_23_chemin","french":"un chemin","translation":"путь / тропинка / дорога","example":"Nous suivons un chemin à travers la forêt.","status":"learning"},{"id":"v_2026_07_23_cheval","french":"un cheval","translation":"лошадь","example":"Le cheval court dans le pré.","status":"learning"},{"id":"v_2026_07_23_creme","french":"une crème","translation":"крем / сливки","example":"Elle prépare une soupe avec de la crème.","status":"learning"},{"id":"v_2026_07_23_dune","french":"une dune","translation":"дюна / песчаный холм","example":"Le vent déplace le sable de la dune.","status":"learning"},{"id":"v_2026_07_23_environnement","french":"un environnement","translation":"окружающая среда / окружение","example":"Il faut protéger l'environnement.","status":"learning"},{"id":"v_2026_07_23_habiller","french":"habiller","translation":"одевать кого-либо","example":"Elle habille son enfant avant de sortir.","status":"learning"},{"id":"v_2026_07_23_habit","french":"un habit","translation":"одежда / одеяние","example":"Cet habit traditionnel est porté pendant la fête.","status":"learning"},{"id":"v_2026_07_23_jambe","french":"une jambe","translation":"нога","example":"Il s'est blessé à la jambe.","status":"learning"},{"id":"v_2026_07_23_minerai","french":"un minerai","translation":"руда / минералосодержащая порода","example":"On extrait le métal à partir du minerai.","status":"learning"},{"id":"v_2026_07_23_sapin","french":"un sapin","translation":"ель / пихта","example":"Un grand sapin pousse devant la maison.","status":"learning"},{"id":"v_2026_07_23_agenda","french":"un agenda","translation":"ежедневник / расписание","example":"Je note le rendez-vous dans mon agenda.","status":"learning"},{"id":"v_2026_07_23_alibi","french":"un alibi","translation":"алиби","example":"Le suspect affirme avoir un alibi.","status":"learning"},{"id":"v_2026_07_23_calendrier","french":"un calendrier","translation":"календарь","example":"La date est indiquée sur le calendrier.","status":"learning"},{"id":"v_2026_07_23_consensus","french":"un consensus","translation":"консенсус / общее согласие","example":"Le groupe cherche un consensus avant de décider.","status":"learning"},{"id":"v_2026_07_23_droit","french":"le droit","translation":"право / законодательство","example":"Elle étudie le droit à l'université.","status":"learning"},{"id":"v_2026_07_23_ecriture","french":"l'écriture","translation":"письмо / письменность / почерк","example":"L'écriture de ce manuscrit est difficile à lire.","status":"learning"},{"id":"v_2026_07_23_litterature","french":"la littérature","translation":"литература","example":"Il aime la littérature française.","status":"learning"},{"id":"v_2026_07_23_medias","french":"les médias","translation":"средства массовой информации","example":"Les médias ont annoncé la nouvelle.","status":"learning"},{"id":"v_2026_07_23_province","french":"une province","translation":"провинция / область","example":"Cette ville se trouve dans une province historique.","status":"learning"},{"id":"v_2026_07_23_republique","french":"une république","translation":"республика","example":"La France est une république.","status":"learning"},{"id":"v_2026_07_23_science","french":"la science","translation":"наука","example":"La science permet de mieux comprendre le monde.","status":"learning"},{"id":"v_2026_07_23_ville","french":"une ville","translation":"город","example":"Lyon est une grande ville française.","status":"learning"},{"id":"v_2026_07_23_astronomie","french":"l'astronomie","translation":"астрономия","example":"L'astronomie étudie les astres et l'Univers.","status":"learning"},{"id":"v_2026_07_23_biologie","french":"la biologie","translation":"биология","example":"La biologie étudie les êtres vivants.","status":"learning"},{"id":"v_2026_07_23_boutique","french":"une boutique","translation":"магазин / лавка","example":"Cette boutique vend des produits locaux.","status":"learning"},{"id":"v_2026_07_23_democratie","french":"la démocratie","translation":"демократия","example":"La démocratie repose sur la participation des citoyens.","status":"learning"},{"id":"v_2026_07_23_ecole","french":"une école","translation":"школа","example":"Les enfants vont à l'école le matin.","status":"learning"},{"id":"v_2026_07_23_geographie","french":"la géographie","translation":"география","example":"La géographie étudie les territoires et les populations.","status":"learning"},{"id":"v_2026_07_23_mathematiques","french":"les mathématiques","translation":"математика","example":"Les mathématiques sont utiles dans de nombreux métiers.","status":"learning"},{"id":"v_2026_07_23_naviguer","french":"naviguer","translation":"плавать на судне / осуществлять навигацию","example":"Ils naviguent le long de la côte.","status":"learning"},{"id":"v_2026_07_23_pharmacie","french":"une pharmacie","translation":"аптека","example":"Je vais à la pharmacie acheter un médicament.","status":"learning"},{"id":"v_2026_07_23_philosophie","french":"la philosophie","translation":"философия","example":"La philosophie pose des questions sur l'existence et la connaissance.","status":"learning"},{"id":"v_2026_07_23_telephone","french":"un téléphone","translation":"телефон","example":"Mon téléphone n'a plus de batterie.","status":"learning"},{"id":"v_2026_07_23_blanc","french":"blanc / blanche","translation":"белый / белая","example":"Il porte une chemise blanche.","status":"learning"},{"id":"v_2026_07_23_bleu","french":"bleu / bleue","translation":"синий / голубой","example":"Le ciel est bleu aujourd'hui.","status":"learning"},{"id":"v_2026_07_23_bourg","french":"un bourg","translation":"небольшой город / посёлок","example":"Ce bourg médiéval attire de nombreux visiteurs.","status":"learning"},{"id":"v_2026_07_23_fleche","french":"une flèche","translation":"стрела / указательная стрелка","example":"La flèche indique la direction de la sortie.","status":"learning"},{"id":"v_2026_07_23_frais","french":"frais / fraîche","translation":"свежий / свежая / прохладный","example":"Nous achetons du pain frais chaque matin.","status":"learning"},{"id":"v_2026_07_23_gagner","french":"gagner","translation":"выигрывать / зарабатывать","example":"Elle espère gagner le concours.","status":"learning"},{"id":"v_2026_07_23_garcon","french":"un garçon","translation":"мальчик / парень","example":"Le garçon joue dans le jardin.","status":"learning"},{"id":"v_2026_07_23_guerre","french":"une guerre","translation":"война","example":"La guerre a profondément changé le pays.","status":"learning"},{"id":"v_2026_07_23_hache","french":"une hache","translation":"топор","example":"Le bûcheron coupe du bois avec une hache.","status":"learning"},{"id":"v_2026_07_23_haricot","french":"un haricot","translation":"фасоль / боб","example":"Nous cultivons des haricots dans le jardin.","status":"learning"},{"id":"v_2026_07_23_jardin","french":"un jardin","translation":"сад","example":"Ils passent l'après-midi dans le jardin.","status":"learning"},{"id":"v_2026_07_23_alcool","french":"l'alcool","translation":"алкоголь / спирт","example":"Cette boisson ne contient pas d'alcool.","status":"learning"},{"id":"v_2026_07_23_algebre","french":"l'algèbre","translation":"алгебра","example":"L'algèbre utilise des lettres pour représenter des nombres.","status":"learning"},{"id":"v_2026_07_23_artichaut","french":"un artichaut","translation":"артишок","example":"L'artichaut est un légume très apprécié dans cette région.","status":"learning"},{"id":"v_2026_07_23_bougie","french":"une bougie","translation":"свеча","example":"Elle allume une bougie sur la table.","status":"learning"},{"id":"v_2026_07_23_chiffre","french":"un chiffre","translation":"цифра / числовой показатель","example":"Le chiffre zéro est essentiel dans notre système de numération.","status":"learning"},{"id":"v_2026_07_23_chimie","french":"la chimie","translation":"химия","example":"La chimie étudie la composition et les transformations de la matière.","status":"learning"},{"id":"v_2026_07_23_alchimie","french":"l'alchimie","translation":"алхимия","example":"L'alchimie a précédé certains développements de la chimie.","status":"learning"},{"id":"v_2026_07_23_coton","french":"le coton","translation":"хлопок","example":"Cette chemise est fabriquée en coton.","status":"learning"},{"id":"v_2026_07_23_hasard","french":"le hasard","translation":"случай / случайность","example":"Nous nous sommes rencontrés par hasard.","status":"learning"},{"id":"v_2026_07_23_magasin","french":"un magasin","translation":"магазин","example":"Le magasin ferme à dix-neuf heures.","status":"learning"},{"id":"v_2026_07_23_orange","french":"une orange","translation":"апельсин","example":"Elle mange une orange au petit-déjeuner.","status":"learning"},{"id":"v_2026_07_23_sucre","french":"le sucre","translation":"сахар","example":"Je prends mon café sans sucre.","status":"learning"},{"id":"v_2026_07_23_zero","french":"zéro","translation":"ноль","example":"Le résultat de l'opération est zéro.","status":"learning"}]
+[
+  {
+    "id": "v_2026_07_23_fleuve",
+    "french": "un fleuve",
+    "translation": "река, впадающая в море / крупная река",
+    "example": "Le français est présenté comme un fleuve alimenté par plusieurs langues.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_origine",
+    "french": "une origine",
+    "translation": "происхождение / исток",
+    "example": "La langue française possède des origines multiples.",
+    "status": "learned"
+  },
+  {
+    "id": "v_2026_07_23_evolution",
+    "french": "une évolution",
+    "translation": "эволюция / развитие",
+    "example": "L'évolution du français s'est poursuivie pendant plusieurs siècles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_siecle",
+    "french": "un siècle",
+    "translation": "век / столетие",
+    "example": "L'imprimerie s'est développée en Europe au XVIe siècle.",
+    "status": "learned"
+  },
+  {
+    "id": "v_2026_07_23_chiffre_romain",
+    "french": "un chiffre romain",
+    "translation": "римская цифра",
+    "example": "On utilise un chiffre romain pour écrire le numéro d'un siècle.",
+    "status": "learned"
+  },
+  {
+    "id": "v_2026_07_23_antiquite",
+    "french": "l'Antiquité",
+    "translation": "Античность / древний мир",
+    "example": "Dans l'Antiquité, plusieurs peuples échangeaient autour de la Méditerranée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_avant_jc",
+    "french": "avant Jésus-Christ (av. J.-C.)",
+    "translation": "до Рождества Христова / до нашей эры",
+    "example": "Des Grecs se sont installés dans la région au VIIe siècle av. J.-C.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_imprimerie",
+    "french": "l'imprimerie",
+    "translation": "книгопечатание / типографское дело",
+    "example": "Le développement de l'imprimerie a influencé l'écriture du français.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_echange",
+    "french": "un échange",
+    "translation": "обмен / взаимодействие",
+    "example": "Les échanges entre les peuples ont enrichi le vocabulaire français.",
+    "status": "learned"
+  },
+  {
+    "id": "v_2026_07_23_gaulois",
+    "french": "un Gaulois / une Gauloise",
+    "translation": "галл / галльская женщина",
+    "example": "Les Gaulois étaient un peuple celte installé sur le territoire de la Gaule.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_peuple_celte",
+    "french": "un peuple celte",
+    "translation": "кельтский народ",
+    "example": "Les Gaulois formaient un ensemble de peuples celtes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_accent_aigu",
+    "french": "un accent aigu",
+    "translation": "акут / знак острого ударения (é)",
+    "example": "Le mot **école** commence par un e avec un accent aigu.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_accent_grave",
+    "french": "un accent grave",
+    "translation": "гравис / знак обратного ударения (è, à, ù)",
+    "example": "Le mot **père** contient un e avec un accent grave.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_accent_circonflexe",
+    "french": "un accent circonflexe",
+    "translation": "циркумфлекс / знак ^",
+    "example": "Le mot **forêt** contient un accent circonflexe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_trema",
+    "french": "un tréma",
+    "translation": "трема / диерезис (ë, ï, ü)",
+    "example": "Le tréma indique que deux voyelles se prononcent séparément dans **Noël**.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_cedille",
+    "french": "une cédille",
+    "translation": "седиль / знак под буквой c (ç)",
+    "example": "La cédille permet de prononcer **ç** comme le son [s] dans **garçon**.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_du_coup",
+    "french": "du coup",
+    "translation": "в результате / поэтому / и тогда",
+    "example": "Il a oublié son livre ; du coup, il a travaillé avec son voisin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_inne",
+    "french": "inné / innée",
+    "translation": "врождённый / врождённая",
+    "example": "Chez le griot, certains talents sont présentés comme innés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_mediateur",
+    "french": "un médiateur / une médiatrice",
+    "translation": "посредник / посредница",
+    "example": "Le médiateur aide les deux groupes à régler leur conflit.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_caste",
+    "french": "une caste",
+    "translation": "каста / наследственная социальная группа",
+    "example": "Dans certaines sociétés, le statut social se transmet au sein d'une caste.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_veillee",
+    "french": "une veillée",
+    "translation": "вечерние посиделки / вечернее собрание",
+    "example": "Pendant la veillée, le griot raconte l'histoire du village.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_genealogiste",
+    "french": "un généalogiste / une généalogiste",
+    "translation": "генеалог / специалист по истории семей",
+    "example": "Le généalogiste recherche l'origine et l'histoire des familles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_lors_d_un_enterrement",
+    "french": "lors d'un enterrement",
+    "translation": "во время похорон",
+    "example": "Le griot peut prendre la parole lors d'un enterrement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_de_maniere_elogieuse",
+    "french": "de manière élogieuse",
+    "translation": "в хвалебной форме / с похвалой",
+    "example": "Elle a présenté le travail de son équipe de manière élogieuse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_se_confier_a",
+    "french": "se confier à quelqu'un",
+    "translation": "довериться кому-либо / поделиться сокровенным",
+    "example": "Les habitants se confient au griot parce qu'ils lui font confiance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_sage_conseil",
+    "french": "un sage conseil",
+    "translation": "мудрый совет",
+    "example": "Le vieillard lui a donné un sage conseil.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_conter",
+    "french": "conter",
+    "translation": "рассказывать истории / повествовать",
+    "example": "Le griot sait conter les histoires de son peuple.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_vieillard",
+    "french": "un vieillard",
+    "translation": "старик / пожилой мужчина",
+    "example": "Dans la citation, un vieillard est comparé à une bibliothèque.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_bruler",
+    "french": "brûler",
+    "translation": "гореть / сжигать",
+    "example": "Quand une bibliothèque brûle, une grande quantité de savoir disparaît.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_funerailles",
+    "french": "les funérailles",
+    "translation": "похороны / погребальная церемония",
+    "example": "La famille s'est réunie pour les funérailles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_lien",
+    "french": "un lien",
+    "translation": "связь / взаимосвязь",
+    "example": "Le groupe cherche le lien entre Aya Nakamura et les griots.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_ambassade",
+    "french": "une ambassade",
+    "translation": "посольство",
+    "example": "L'ambassade se trouve près du centre-ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_bataille",
+    "french": "une bataille",
+    "translation": "битва / сражение",
+    "example": "Cette bataille a marqué l'histoire de la région.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_boucherie",
+    "french": "une boucherie",
+    "translation": "мясная лавка / мясной магазин",
+    "example": "J'achète de la viande à la boucherie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_chemin",
+    "french": "un chemin",
+    "translation": "путь / тропинка / дорога",
+    "example": "Nous suivons un chemin à travers la forêt.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_cheval",
+    "french": "un cheval",
+    "translation": "лошадь",
+    "example": "Le cheval court dans le pré.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_creme",
+    "french": "une crème",
+    "translation": "крем / сливки",
+    "example": "Elle prépare une soupe avec de la crème.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_dune",
+    "french": "une dune",
+    "translation": "дюна / песчаный холм",
+    "example": "Le vent déplace le sable de la dune.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_environnement",
+    "french": "un environnement",
+    "translation": "окружающая среда / окружение",
+    "example": "Il faut protéger l'environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_habiller",
+    "french": "habiller",
+    "translation": "одевать кого-либо",
+    "example": "Elle habille son enfant avant de sortir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_habit",
+    "french": "un habit",
+    "translation": "одежда / одеяние",
+    "example": "Cet habit traditionnel est porté pendant la fête.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_jambe",
+    "french": "une jambe",
+    "translation": "нога",
+    "example": "Il s'est blessé à la jambe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_minerai",
+    "french": "un minerai",
+    "translation": "руда / минералосодержащая порода",
+    "example": "On extrait le métal à partir du minerai.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_sapin",
+    "french": "un sapin",
+    "translation": "ель / пихта",
+    "example": "Un grand sapin pousse devant la maison.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_agenda",
+    "french": "un agenda",
+    "translation": "ежедневник / расписание",
+    "example": "Je note le rendez-vous dans mon agenda.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_alibi",
+    "french": "un alibi",
+    "translation": "алиби",
+    "example": "Le suspect affirme avoir un alibi.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_calendrier",
+    "french": "un calendrier",
+    "translation": "календарь",
+    "example": "La date est indiquée sur le calendrier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_consensus",
+    "french": "un consensus",
+    "translation": "консенсус / общее согласие",
+    "example": "Le groupe cherche un consensus avant de décider.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_droit",
+    "french": "le droit",
+    "translation": "право / законодательство",
+    "example": "Elle étudie le droit à l'université.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_ecriture",
+    "french": "l'écriture",
+    "translation": "письмо / письменность / почерк",
+    "example": "L'écriture de ce manuscrit est difficile à lire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_litterature",
+    "french": "la littérature",
+    "translation": "литература",
+    "example": "Il aime la littérature française.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_medias",
+    "french": "les médias",
+    "translation": "средства массовой информации",
+    "example": "Les médias ont annoncé la nouvelle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_province",
+    "french": "une province",
+    "translation": "провинция / область",
+    "example": "Cette ville se trouve dans une province historique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_republique",
+    "french": "une république",
+    "translation": "республика",
+    "example": "La France est une république.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_science",
+    "french": "la science",
+    "translation": "наука",
+    "example": "La science permet de mieux comprendre le monde.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_ville",
+    "french": "une ville",
+    "translation": "город",
+    "example": "Lyon est une grande ville française.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_astronomie",
+    "french": "l'astronomie",
+    "translation": "астрономия",
+    "example": "L'astronomie étudie les astres et l'Univers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_biologie",
+    "french": "la biologie",
+    "translation": "биология",
+    "example": "La biologie étudie les êtres vivants.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_boutique",
+    "french": "une boutique",
+    "translation": "магазин / лавка",
+    "example": "Cette boutique vend des produits locaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_democratie",
+    "french": "la démocratie",
+    "translation": "демократия",
+    "example": "La démocratie repose sur la participation des citoyens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_ecole",
+    "french": "une école",
+    "translation": "школа",
+    "example": "Les enfants vont à l'école le matin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_geographie",
+    "french": "la géographie",
+    "translation": "география",
+    "example": "La géographie étudie les territoires et les populations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_mathematiques",
+    "french": "les mathématiques",
+    "translation": "математика",
+    "example": "Les mathématiques sont utiles dans de nombreux métiers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_naviguer",
+    "french": "naviguer",
+    "translation": "плавать на судне / осуществлять навигацию",
+    "example": "Ils naviguent le long de la côte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_pharmacie",
+    "french": "une pharmacie",
+    "translation": "аптека",
+    "example": "Je vais à la pharmacie acheter un médicament.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_philosophie",
+    "french": "la philosophie",
+    "translation": "философия",
+    "example": "La philosophie pose des questions sur l'existence et la connaissance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_telephone",
+    "french": "un téléphone",
+    "translation": "телефон",
+    "example": "Mon téléphone n'a plus de batterie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_blanc",
+    "french": "blanc / blanche",
+    "translation": "белый / белая",
+    "example": "Il porte une chemise blanche.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_bleu",
+    "french": "bleu / bleue",
+    "translation": "синий / голубой",
+    "example": "Le ciel est bleu aujourd'hui.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_bourg",
+    "french": "un bourg",
+    "translation": "небольшой город / посёлок",
+    "example": "Ce bourg médiéval attire de nombreux visiteurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_fleche",
+    "french": "une flèche",
+    "translation": "стрела / указательная стрелка",
+    "example": "La flèche indique la direction de la sortie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_frais",
+    "french": "frais / fraîche",
+    "translation": "свежий / свежая / прохладный",
+    "example": "Nous achetons du pain frais chaque matin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_gagner",
+    "french": "gagner",
+    "translation": "выигрывать / зарабатывать",
+    "example": "Elle espère gagner le concours.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_garcon",
+    "french": "un garçon",
+    "translation": "мальчик / парень",
+    "example": "Le garçon joue dans le jardin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_guerre",
+    "french": "une guerre",
+    "translation": "война",
+    "example": "La guerre a profondément changé le pays.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_hache",
+    "french": "une hache",
+    "translation": "топор",
+    "example": "Le bûcheron coupe du bois avec une hache.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_haricot",
+    "french": "un haricot",
+    "translation": "фасоль / боб",
+    "example": "Nous cultivons des haricots dans le jardin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_jardin",
+    "french": "un jardin",
+    "translation": "сад",
+    "example": "Ils passent l'après-midi dans le jardin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_alcool",
+    "french": "l'alcool",
+    "translation": "алкоголь / спирт",
+    "example": "Cette boisson ne contient pas d'alcool.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_algebre",
+    "french": "l'algèbre",
+    "translation": "алгебра",
+    "example": "L'algèbre utilise des lettres pour représenter des nombres.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_artichaut",
+    "french": "un artichaut",
+    "translation": "артишок",
+    "example": "L'artichaut est un légume très apprécié dans cette région.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_bougie",
+    "french": "une bougie",
+    "translation": "свеча",
+    "example": "Elle allume une bougie sur la table.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_chiffre",
+    "french": "un chiffre",
+    "translation": "цифра / числовой показатель",
+    "example": "Le chiffre zéro est essentiel dans notre système de numération.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_chimie",
+    "french": "la chimie",
+    "translation": "химия",
+    "example": "La chimie étudie la composition et les transformations de la matière.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_alchimie",
+    "french": "l'alchimie",
+    "translation": "алхимия",
+    "example": "L'alchimie a précédé certains développements de la chimie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_coton",
+    "french": "le coton",
+    "translation": "хлопок",
+    "example": "Cette chemise est fabriquée en coton.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_hasard",
+    "french": "le hasard",
+    "translation": "случай / случайность",
+    "example": "Nous nous sommes rencontrés par hasard.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_magasin",
+    "french": "un magasin",
+    "translation": "магазин",
+    "example": "Le magasin ferme à dix-neuf heures.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_orange",
+    "french": "une orange",
+    "translation": "апельсин",
+    "example": "Elle mange une orange au petit-déjeuner.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_sucre",
+    "french": "le sucre",
+    "translation": "сахар",
+    "example": "Je prends mon café sans sucre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_zero",
+    "french": "zéro",
+    "translation": "ноль",
+    "example": "Le résultat de l'opération est zéro.",
+    "status": "learning"
+  }
+]
