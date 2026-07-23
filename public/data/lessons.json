@@ -106,5 +106,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_12_2026_07_22"
+  },
+  {
+    "id": "lesson_13_2026_07_23",
+    "number": 13,
+    "title": "Relation aux langues, synthèse des pronoms et histoire du français",
+    "date": "2026-07-23",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_13_2026_07_23"
   }
 ]
