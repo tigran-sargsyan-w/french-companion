@@ -15,6 +15,20 @@
         "| **Tonique** | moi, toi, lui, elle, nous, vous, eux, elles | sert à insister, peut être employé seul ou après une préposition |"
       ],
       [
+        "### Les cinq types de pronoms personnels\n",
+        "| Sujet Pronom + verbe | Réfléchi: sujet + pronom + verbe | COD: sujet + pronom + verbe | COI: sujet + pronom + verbe | Tonique: 1. pronom sans verbe 2. verbe avec préposition + pronom |",
+        "|---|---|---|---|---|",
+        "|JE/J'|ME/M'|ME/M'|ME/M'|MOI|",
+        "|TU|TE/T'|TE/T'|TE/T'|TOI|",
+        "|IL|SE/S'|LE/L'|LUI|LUI|",
+        "|ELLE|SE/S'|LA/L'|LUI|ELLE|",
+        "|ON|SE/S'|NOUS/LES|NOUS/LES|NOUS/EUX/ELLES|",
+        "|NOUS|NOUS|NOUS|NOUS|NOUS|",
+        "|VOUS|VOUS|VOUS|VOUS|VOUS|",
+        "|ILS|SE/S'|LES|LEUR|EUX|",
+        "|ELLES|SE/S'|LES|LEUR|ELLES|"
+      ],
+      [
         "### Pronoms COD\n",
         "Le COD répond généralement aux questions **qui ?** ou **quoi ?** et complète directement le verbe, sans préposition. Les pronoms **le**, **la**, **l'** et **les** peuvent remplacer des personnes ou des choses.\n",
         "Exemples : **Je connais cette personne. → Je la connais.** — **Je prends les livres. → Je les prends.**"
