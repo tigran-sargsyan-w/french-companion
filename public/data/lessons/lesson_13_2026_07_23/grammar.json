@@ -1,0 +1,175 @@
+[
+  {
+    "id": "g_2026_07_23_synthese_pronoms_personnels",
+    "title": "Synthèse des pronoms personnels",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Les cinq types de pronoms personnels\n",
+        "| Type | Formes principales | Fonction |",
+        "|---|---|---|",
+        "| **Sujet** | je / j', tu, il, elle, on, nous, vous, ils, elles | accompagne le verbe et indique qui fait l'action |",
+        "| **Réfléchi** | me / m', te / t', se / s', nous, vous, se / s' | renvoie au sujet d'un verbe pronominal |",
+        "| **COD** | me / m', te / t', le / l', la / l', nous, vous, les | remplace un complément directement relié au verbe |",
+        "| **COI** | me / m', te / t', lui, nous, vous, leur | remplace une personne introduite par **à** avec certains verbes |",
+        "| **Tonique** | moi, toi, lui, elle, nous, vous, eux, elles | sert à insister, peut être employé seul ou après une préposition |"
+      ],
+      [
+        "### Pronoms COD\n",
+        "Le COD répond généralement aux questions **qui ?** ou **quoi ?** et complète directement le verbe, sans préposition. Les pronoms **le**, **la**, **l'** et **les** peuvent remplacer des personnes ou des choses.\n",
+        "Exemples : **Je connais cette personne. → Je la connais.** — **Je prends les livres. → Je les prends.**"
+      ],
+      [
+        "### Pronoms COI\n",
+        "Avec certains verbes construits avec **à + personne**, le complément répond à la question **à qui ?** et peut être remplacé par **me, te, lui, nous, vous, leur**. **Lui** remplace une personne au singulier, masculine ou féminine, et **leur** plusieurs personnes. Ces pronoms peuvent aussi renvoyer à certains animaux.\n",
+        "Constructions revues en classe :\n",
+        "- **parler à quelqu'un**, **dire quelque chose à quelqu'un**, **demander à quelqu'un**, **répondre à quelqu'un**, **raconter quelque chose à quelqu'un** et **expliquer quelque chose à quelqu'un** ;",
+        "- **donner quelque chose à quelqu'un**, **offrir quelque chose à quelqu'un** et **acheter quelque chose à quelqu'un** ;",
+        "- **plaire à quelqu'un**, **sourire à quelqu'un** et **faire confiance à quelqu'un**.\n",
+        "Exemples : **Je lui réponds.** — **Nous leur racontons une histoire.**"
+      ],
+      [
+        "### Pronoms toniques\n",
+        "On emploie un pronom tonique pour insister sur une personne, dans une réponse sans verbe ou après une préposition conservée.\n",
+        "- Pour insister : **Moi, j'aime apprendre les langues.** ;",
+        "- sans verbe : **Et toi ?** ;",
+        "- après une préposition : **avec elle**, **pour eux**, **chez moi**, **à lui**.\n",
+        "**Attention :** dans **Dis-lui !**, **lui** est un pronom COI placé après l'impératif affirmatif. Sa forme est identique à celle du pronom tonique, mais sa fonction est différente."
+      ],
+      [
+        "### Place des pronoms compléments\n",
+        "- Devant un verbe conjugué : **Je la présente à la classe.** ;",
+        "- devant l'infinitif dont ils dépendent : **Je vais lui parler.** ;",
+        "- après l'impératif affirmatif avec un trait d'union : **Présente-la. Dis-lui.** ;",
+        "- devant l'impératif négatif : **Ne la présente pas. Ne lui dis pas.**"
+      ],
+      [
+        "### COI ou préposition + pronom tonique ?\n",
+        "Le choix dépend de la construction du verbe. Avec **parler à quelqu'un**, la préposition disparaît devant le pronom COI : **Je parle à Marie. → Je lui parle.** Avec un verbe qui conserve sa préposition, on emploie un pronom tonique : **Je pense à Marie. → Je pense à elle.**"
+      ]
+    ],
+    "examples": [
+      "Je parle français.",
+      "Elle se présente.",
+      "Je la comprends.",
+      "Je lui réponds.",
+      "Nous leur racontons une histoire.",
+      "Moi, j'aime apprendre les langues.",
+      "Je travaille avec elle.",
+      "Je pense à lui.",
+      "Présente-la à la classe.",
+      "Ne lui dis pas la réponse."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Remplacer un COD",
+        "markup": "Je présente {{COD:Marie}} à la classe. → Je {{COD:la}} présente à la classe.",
+        "explanation": "Le groupe **Marie** est le COD du verbe **présenter**. Il est remplacé par le pronom **la**, placé avant le verbe.",
+        "sourceSentences": [
+          "Je présente Marie à la classe.",
+          "Je la présente à la classe."
+        ]
+      },
+      {
+        "title": "Remplacer un COI",
+        "markup": "Je parle {{COI:à Marie}}. → Je {{COI:lui}} parle.",
+        "explanation": "Avec **parler à quelqu'un**, la personne est remplacée par le pronom COI **lui**.",
+        "sourceSentences": [
+          "Je parle à Marie.",
+          "Je lui parle."
+        ]
+      },
+      {
+        "title": "Employer un pronom tonique",
+        "markup": "Je travaille {{pronom tonique:avec elle}}.",
+        "explanation": "Après la préposition **avec**, on conserve la préposition et on emploie le pronom tonique **elle**.",
+        "sourceSentences": [
+          "Je travaille avec Marie.",
+          "Je travaille avec elle."
+        ]
+      },
+      {
+        "title": "Impératif affirmatif avec un COI",
+        "markup": "{{verbe:Dis}}-{{COI:lui}} la vérité !",
+        "explanation": "À l'impératif affirmatif, le pronom COI se place après le verbe avec un trait d'union.",
+        "sourceSentences": [
+          "Tu dis la vérité à Paul.",
+          "Dis-lui la vérité !"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_23_chiffres_romains_siecles",
+    "title": "Chiffres romains et expression des siècles",
+    "category": "Dates",
+    "summary": [
+      [
+        "### Chiffres romains de I à XXI\n",
+        "| 1 à 7 | 8 à 14 | 15 à 21 |",
+        "|---|---|---|",
+        "| I = 1 | VIII = 8 | XV = 15 |",
+        "| II = 2 | IX = 9 | XVI = 16 |",
+        "| III = 3 | X = 10 | XVII = 17 |",
+        "| IV = 4 | XI = 11 | XVIII = 18 |",
+        "| V = 5 | XII = 12 | XIX = 19 |",
+        "| VI = 6 | XIII = 13 | XX = 20 |",
+        "| VII = 7 | XIV = 14 | XXI = 21 |"
+      ],
+      [
+        "### Écrire et lire un siècle\n",
+        "Pour indiquer un siècle, on écrit normalement le nombre en chiffres romains suivi de **e** : **VIIe siècle**, **XVIe siècle**, **XXIe siècle**. À l'oral, on emploie un nombre ordinal : **le septième siècle**, **le seizième siècle**, **le vingt-et-unième siècle**.\n",
+        "Le **XVIe siècle** correspond aux années **1501 à 1600**."
+      ],
+      [
+        "### Dates avant notre ère\n",
+        "Pour une date antérieure à la naissance de Jésus-Christ, on utilise l'abréviation **av. J.-C.** : **au VIIe siècle av. J.-C.**"
+      ]
+    ],
+    "examples": [
+      "Au VIIe siècle av. J.-C., des Grecs se sont installés sur la côte méditerranéenne.",
+      "Au XVIe siècle, l'imprimerie s'est développée en Europe.",
+      "Nous vivons au XXIe siècle."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_07_23_origines_vocabulaire_francais",
+    "title": "Origines de mots français",
+    "category": "Vocabulary",
+    "summary": [
+      [
+        "### Un vocabulaire issu de plusieurs langues\n",
+        "Le français s'est enrichi au contact de différents peuples et de différentes langues. Les mots étudiés ont été classés selon leur origine principale."
+      ],
+      [
+        "### Mots d'origine gauloise\n",
+        "**ambassade, bataille, boucherie, chemin, cheval, crème, dune, environnement, habiller, habit, jambe, minerai, sapin**"
+      ],
+      [
+        "### Mots d'origine latine\n",
+        "**agenda, alibi, calendrier, consensus, droit, écriture, littérature, médias, province, république, science, ville**"
+      ],
+      [
+        "### Mots d'origine grecque\n",
+        "**astronomie, biologie, boutique, démocratie, école, géographie, mathématiques, naviguer, pharmacie, philosophie, téléphone**"
+      ],
+      [
+        "### Mots d'origine francique ou germanique\n",
+        "**blanc, bleu, bourg, flèche, frais, gagner, garçon, guerre, hache, haricot, jardin**"
+      ],
+      [
+        "### Mots d'origine arabe\n",
+        "**alcool, algèbre, artichaut, bougie, chiffre, chimie, alchimie, coton, hasard, magasin, orange, sucre, zéro**"
+      ]
+    ],
+    "examples": [
+      "Le mot **cheval** est présenté comme un mot d'origine gauloise.",
+      "Le mot **écriture** est présenté comme un mot d'origine latine.",
+      "Le mot **philosophie** est présenté comme un mot d'origine grecque.",
+      "Le mot **guerre** est présenté comme un mot d'origine germanique.",
+      "Le mot **algèbre** est présenté comme un mot d'origine arabe."
+    ],
+    "annotatedExamples": []
+  }
+]
