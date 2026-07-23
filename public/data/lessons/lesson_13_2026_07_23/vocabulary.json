@@ -1,0 +1,219 @@
+[
+  {
+    "id": "v_2026_07_23_fleuve",
+    "french": "un fleuve",
+    "translation": "река, впадающая в море / крупная река",
+    "example": "Le français est présenté comme un fleuve alimenté par plusieurs langues.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_origine",
+    "french": "une origine",
+    "translation": "происхождение / исток",
+    "example": "La langue française possède des origines multiples.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_evolution",
+    "french": "une évolution",
+    "translation": "эволюция / развитие",
+    "example": "L'évolution du français s'est poursuivie pendant plusieurs siècles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_siecle",
+    "french": "un siècle",
+    "translation": "век / столетие",
+    "example": "L'imprimerie s'est développée en Europe au XVIe siècle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_chiffre_romain",
+    "french": "un chiffre romain",
+    "translation": "римская цифра",
+    "example": "On utilise un chiffre romain pour écrire le numéro d'un siècle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_antiquite",
+    "french": "l'Antiquité",
+    "translation": "Античность / древний мир",
+    "example": "Dans l'Antiquité, plusieurs peuples échangeaient autour de la Méditerranée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_avant_jc",
+    "french": "avant Jésus-Christ (av. J.-C.)",
+    "translation": "до Рождества Христова / до нашей эры",
+    "example": "Des Grecs se sont installés dans la région au VIIe siècle av. J.-C.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_imprimerie",
+    "french": "l'imprimerie",
+    "translation": "книгопечатание / типографское дело",
+    "example": "Le développement de l'imprimerie a influencé l'écriture du français.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_echange",
+    "french": "un échange",
+    "translation": "обмен / взаимодействие",
+    "example": "Les échanges entre les peuples ont enrichi le vocabulaire français.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_gaulois",
+    "french": "un Gaulois / une Gauloise",
+    "translation": "галл / галльская женщина",
+    "example": "Les Gaulois étaient un peuple celte installé sur le territoire de la Gaule.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_peuple_celte",
+    "french": "un peuple celte",
+    "translation": "кельтский народ",
+    "example": "Les Gaulois formaient un ensemble de peuples celtes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_accent_aigu",
+    "french": "un accent aigu",
+    "translation": "акут / знак острого ударения (é)",
+    "example": "Le mot **école** commence par un e avec un accent aigu.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_accent_grave",
+    "french": "un accent grave",
+    "translation": "гравис / знак обратного ударения (è, à, ù)",
+    "example": "Le mot **père** contient un e avec un accent grave.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_accent_circonflexe",
+    "french": "un accent circonflexe",
+    "translation": "циркумфлекс / знак ^",
+    "example": "Le mot **forêt** contient un accent circonflexe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_trema",
+    "french": "un tréma",
+    "translation": "трема / диерезис (ë, ï, ü)",
+    "example": "Le tréma indique que deux voyelles se prononcent séparément dans **Noël**.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_cedille",
+    "french": "une cédille",
+    "translation": "седиль / знак под буквой c (ç)",
+    "example": "La cédille permet de prononcer **ç** comme le son [s] dans **garçon**.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_du_coup",
+    "french": "du coup",
+    "translation": "в результате / поэтому / и тогда",
+    "example": "Il a oublié son livre ; du coup, il a travaillé avec son voisin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_inne",
+    "french": "inné / innée",
+    "translation": "врождённый / врождённая",
+    "example": "Chez le griot, certains talents sont présentés comme innés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_mediateur",
+    "french": "un médiateur / une médiatrice",
+    "translation": "посредник / посредница",
+    "example": "Le médiateur aide les deux groupes à régler leur conflit.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_caste",
+    "french": "une caste",
+    "translation": "каста / наследственная социальная группа",
+    "example": "Dans certaines sociétés, le statut social se transmet au sein d'une caste.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_veillee",
+    "french": "une veillée",
+    "translation": "вечерние посиделки / вечернее собрание",
+    "example": "Pendant la veillée, le griot raconte l'histoire du village.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_genealogiste",
+    "french": "un généalogiste / une généalogiste",
+    "translation": "генеалог / специалист по истории семей",
+    "example": "Le généalogiste recherche l'origine et l'histoire des familles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_lors_d_un_enterrement",
+    "french": "lors d'un enterrement",
+    "translation": "во время похорон",
+    "example": "Le griot peut prendre la parole lors d'un enterrement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_de_maniere_elogieuse",
+    "french": "de manière élogieuse",
+    "translation": "в хвалебной форме / с похвалой",
+    "example": "Elle a présenté le travail de son équipe de manière élogieuse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_se_confier_a",
+    "french": "se confier à quelqu'un",
+    "translation": "довериться кому-либо / поделиться сокровенным",
+    "example": "Les habitants se confient au griot parce qu'ils lui font confiance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_sage_conseil",
+    "french": "un sage conseil",
+    "translation": "мудрый совет",
+    "example": "Le vieillard lui a donné un sage conseil.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_conter",
+    "french": "conter",
+    "translation": "рассказывать истории / повествовать",
+    "example": "Le griot sait conter les histoires de son peuple.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_vieillard",
+    "french": "un vieillard",
+    "translation": "старик / пожилой мужчина",
+    "example": "Dans la citation, un vieillard est comparé à une bibliothèque.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_bruler",
+    "french": "brûler",
+    "translation": "гореть / сжигать",
+    "example": "Quand une bibliothèque brûle, une grande quantité de savoir disparaît.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_funerailles",
+    "french": "les funérailles",
+    "translation": "похороны / погребальная церемония",
+    "example": "La famille s'est réunie pour les funérailles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_23_lien",
+    "french": "un lien",
+    "translation": "связь / взаимосвязь",
+    "example": "Le groupe cherche le lien entre Aya Nakamura et les griots.",
+    "status": "learning"
+  }
+]
