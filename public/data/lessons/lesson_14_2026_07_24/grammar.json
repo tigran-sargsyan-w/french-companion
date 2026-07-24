@@ -1,0 +1,181 @@
+[
+  {
+    "id": "g_2026_07_24_pronoms_relatifs_composes",
+    "title": "Pronoms relatifs composés",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Formes et accord\n",
+        "Le pronom relatif composé reprend un nom et s'accorde avec lui en genre et en nombre.\n",
+        "| | Masculin | Féminin |",
+        "|---|---|---|",
+        "| **Singulier** | lequel | laquelle |",
+        "| **Pluriel** | lesquels | lesquelles |"
+      ],
+      [
+        "### Emploi après une préposition\n",
+        "On utilise généralement **lequel, laquelle, lesquels, lesquelles** après une préposition comme **pour, sans, sur, avec, dans** ou **grâce à**. Le pronom complète le nom repris dans la proposition relative.\n",
+        "Exemple : **Les sujets sur lesquels je travaille sont très complexes.** Le pronom **lesquels** reprend le nom masculin pluriel **sujets**."
+      ],
+      [
+        "### Contractions avec la préposition à\n",
+        "| Forme de base | Forme avec `à` |",
+        "|---|---|",
+        "| lequel | auquel |",
+        "| laquelle | à laquelle |",
+        "| lesquels | auxquels |",
+        "| lesquelles | auxquelles |"
+      ],
+      [
+        "### Contractions avec la préposition de\n",
+        "| Forme de base | Forme avec `de` |",
+        "|---|---|",
+        "| lequel | duquel |",
+        "| laquelle | de laquelle |",
+        "| lesquels | desquels |",
+        "| lesquelles | desquelles |"
+      ],
+      [
+        "### Avec une personne\n",
+        "Après une préposition, on emploie généralement **qui** pour reprendre une personne : **C'est la personne avec qui je vis.** La forme **avec laquelle** est également possible, mais elle est plus formelle."
+      ]
+    ],
+    "examples": [
+      "Le latin est une langue sans laquelle 80 % des mots français n'existeraient pas.",
+      "Les sujets sur lesquels je travaille sont très complexes.",
+      "Le film auquel je pense parle de l'Antiquité.",
+      "Le village à côté duquel j'habite est très joli.",
+      "C'est la personne avec qui je vis."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Accorder le pronom avec le nom",
+        "markup": "{{nom:Les sujets}} {{préposition:sur}} {{pronom relatif:lesquels}} je travaille sont très complexes.",
+        "explanation": "**Lesquels** reprend **les sujets**, un nom masculin pluriel, et suit la préposition **sur**.",
+        "sourceSentences": [
+          "Je travaille sur ces sujets.",
+          "Ces sujets sont très complexes."
+        ]
+      },
+      {
+        "title": "Contracter à + lequel",
+        "markup": "Le film {{pronom relatif:auquel}} je pense parle de l'Antiquité.",
+        "explanation": "Le verbe **penser à** impose la préposition **à**. **À + lequel** se contracte en **auquel**.",
+        "sourceSentences": [
+          "Je pense à ce film.",
+          "Ce film parle de l'Antiquité."
+        ]
+      },
+      {
+        "title": "Contracter de + lequel",
+        "markup": "Le village à côté {{pronom relatif:duquel}} j'habite est très joli.",
+        "explanation": "La locution **à côté de** conserve **de**. **De + lequel** se contracte en **duquel**.",
+        "sourceSentences": [
+          "J'habite à côté de ce village.",
+          "Ce village est très joli."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_24_opinion_indicatif_subjonctif",
+    "title": "Exprimer une opinion : indicatif ou subjonctif",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Marqueurs d'opinion\n",
+        "Pour annoncer son point de vue sans employer un verbe d'opinion, on peut utiliser : **pour moi**, **à mon avis**, **d'après moi**, **selon moi** et **en ce qui me concerne**."
+      ],
+      [
+        "### Verbes et expressions d'opinion\n",
+        "Les constructions travaillées sont : **je pense que**, **je trouve que**, **je crois que**, **il me semble que** et **j'ai l'impression que**. Dans le document du cours, elles sont présentées d'une opinion plus certaine vers une opinion moins certaine."
+      ],
+      [
+        "### Forme affirmative : indicatif\n",
+        "À la forme affirmative, le verbe ou l'expression d'opinion est suivi de **que** et d'un verbe à l'indicatif : **Je trouve que l'espéranto est une belle langue.**"
+      ],
+      [
+        "### Formes négative et interrogative : subjonctif\n",
+        "Selon la règle travaillée en classe, à la forme négative ou interrogative, le verbe d'opinion est suivi de **que** et d'un verbe au subjonctif : **Je ne trouve pas que l'espéranto soit une belle langue.** — **Trouvez-vous que l'espéranto soit une belle langue ?**"
+      ]
+    ],
+    "examples": [
+      "Pour moi, l'étude des langues anciennes reste utile.",
+      "À mon avis, le latin aide à comprendre l'origine de nombreux mots.",
+      "Je trouve que l'espéranto est une belle langue.",
+      "Je ne trouve pas que l'espéranto soit une belle langue.",
+      "Trouvez-vous que l'espéranto soit une belle langue ?"
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Opinion affirmative",
+        "markup": "Je {{opinion:trouve que}} l'espéranto {{temps:est}} une belle langue.",
+        "explanation": "À la forme affirmative, **trouver que** introduit ici un verbe à l'indicatif.",
+        "sourceSentences": [
+          "Je trouve que l'espéranto est une belle langue."
+        ]
+      },
+      {
+        "title": "Opinion négative",
+        "markup": "Je {{négation:ne}} trouve {{négation:pas}} que l'espéranto {{temps:soit}} une belle langue.",
+        "explanation": "Dans la règle étudiée en classe, la négation entraîne ici l'emploi du subjonctif **soit**.",
+        "sourceSentences": [
+          "Je ne trouve pas que l'espéranto soit une belle langue."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_24_exprimer_interet_passion",
+    "title": "Exprimer un intérêt ou une passion",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Quelque chose intéresse ou passionne une personne\n",
+        "Avec **intéresser** et **passionner**, la chose est le sujet et la personne est le COD : **L'histoire des langues me passionne.** — **La mythologie l'intéresse.**\n",
+        "Les pronoms COD possibles sont **me / m'**, **te / t'**, **le / l'**, **la / l'**, **nous**, **vous** et **les**."
+      ],
+      [
+        "### Constructions avec une personne comme sujet\n",
+        "- **s'intéresser à quelque chose** ;",
+        "- **se passionner pour quelque chose** ;",
+        "- **être passionné / passionnée par quelque chose** ;",
+        "- **être un passionné / une passionnée de quelque chose** ;",
+        "- **être fan de**, **être fou / folle de**, **être amateur / amatrice de**."
+      ],
+      [
+        "### Passionné par ou un passionné de ?\n",
+        "**Être passionné par** emploie l'adjectif **passionné** et décrit l'intérêt ressenti : **Tu es passionné par l'histoire.**\n",
+        "**Être un passionné de** emploie le nom **un passionné / une passionnée** et présente la personne comme un grand amateur du domaine : **Tu es un passionné d'histoire.**"
+      ]
+    ],
+    "examples": [
+      "L'histoire des langues me passionne.",
+      "La mythologie l'intéresse.",
+      "Je m'intéresse à l'origine des mots.",
+      "Elle se passionne pour le latin.",
+      "Tu es passionné par l'histoire.",
+      "Tu es un passionné d'histoire."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "La chose est le sujet",
+        "markup": "{{sujet:L'histoire des langues}} {{COD:me}} {{verbe:passionne}}.",
+        "explanation": "La chose qui provoque l'intérêt est le sujet. La personne intéressée est remplacée par le pronom COD **me**.",
+        "sourceSentences": [
+          "L'histoire des langues passionne Paul.",
+          "L'histoire des langues me passionne."
+        ]
+      },
+      {
+        "title": "Adjectif ou nom",
+        "markup": "Tu es {{adjectif:passionné}} par l'histoire. → Tu es {{nom:un passionné}} d'histoire.",
+        "explanation": "La première phrase décrit un état avec un adjectif ; la seconde désigne la personne comme un grand amateur avec un nom.",
+        "sourceSentences": [
+          "Tu es passionné par l'histoire.",
+          "Tu es un passionné d'histoire."
+        ]
+      }
+    ]
+  }
+]
