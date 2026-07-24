@@ -115,5 +115,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_13_2026_07_23"
+  },
+  {
+    "id": "lesson_14_2026_07_24",
+    "number": 14,
+    "title": "Langues mortes, opinion et pronoms relatifs composés",
+    "date": "2026-07-24",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_14_2026_07_24"
   }
 ]
