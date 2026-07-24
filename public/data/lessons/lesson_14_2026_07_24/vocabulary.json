@@ -1,0 +1,219 @@
+[
+  {
+    "id": "v_2026_07_24_y_a_pas_moyen",
+    "french": "Y a pas moyen !",
+    "translation": "не получится! / без вариантов! / забудь об этом!",
+    "example": "Y a pas moyen de terminer tous ces exercices en cinq minutes !",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_etre_anime_par",
+    "french": "être animé / animée par",
+    "translation": "проводиться / вестись кем-либо; быть движимым чем-либо",
+    "example": "La discussion est animée par la professeure.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_a_peu_pres",
+    "french": "à peu près",
+    "translation": "примерно / приблизительно / более или менее",
+    "example": "Il y avait à peu près vingt personnes dans la salle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_eviter",
+    "french": "éviter",
+    "translation": "избегать",
+    "example": "Il faut éviter de confondre les arts et un lézard.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_pas_mal_de",
+    "french": "pas mal de / plein de",
+    "translation": "довольно много / множество",
+    "example": "Il existe pas mal de raisons d'apprendre une langue ancienne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_arts",
+    "french": "les arts",
+    "translation": "искусства / виды искусства",
+    "example": "Les arts occupent une place importante dans la culture.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_lezard",
+    "french": "un lézard",
+    "translation": "ящерица",
+    "example": "Un lézard se chauffe au soleil sur le mur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_but",
+    "french": "un but",
+    "translation": "цель",
+    "example": "Le but du tract est de convaincre les élèves.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_attirer",
+    "french": "attirer",
+    "translation": "привлекать",
+    "example": "Le titre cherche à attirer l'attention des lecteurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_appartenir_a",
+    "french": "appartenir à",
+    "translation": "принадлежать кому-либо или чему-либо / быть частью",
+    "example": "Ce mot appartient au vocabulaire juridique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_en_quatrieme",
+    "french": "être en quatrième (4e)",
+    "translation": "учиться в классе quatrième, на третьем году французского collège, обычно в 13–14 лет",
+    "example": "Ma sœur est en quatrième et elle a treize ans.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_facultatif",
+    "french": "facultatif / facultative",
+    "translation": "необязательный / факультативный",
+    "example": "Dans cet établissement, l'étude du latin est facultative.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_orthographe",
+    "french": "l'orthographe",
+    "translation": "правописание / орфография",
+    "example": "Je vérifie l'orthographe des mots avant de rendre mon texte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_juridique",
+    "french": "juridique",
+    "translation": "юридический / правовой",
+    "example": "Ce document utilise plusieurs termes juridiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_mythologie",
+    "french": "la mythologie",
+    "translation": "мифология / совокупность основополагающих легенд культуры",
+    "example": "La mythologie grecque raconte les histoires des dieux et des héros.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_tract",
+    "french": "un tract",
+    "translation": "листовка / агитационный листок",
+    "example": "Les élèves lisent un tract sur l'enseignement des langues anciennes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_s_adresser_a",
+    "french": "s'adresser à quelqu'un",
+    "translation": "обращаться к кому-либо / быть предназначенным для кого-либо",
+    "example": "Ce tract s'adresse aux élèves du collège et à leurs parents.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_objectif",
+    "french": "un objectif",
+    "translation": "цель / задача / намерение",
+    "example": "L'objectif de l'activité est d'exprimer une opinion argumentée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_langue_etrangere",
+    "french": "une langue étrangère",
+    "translation": "иностранный язык",
+    "example": "Apprendre une langue étrangère permet de communiquer avec de nouvelles personnes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_langue_ancienne",
+    "french": "une langue ancienne",
+    "translation": "древний язык",
+    "example": "Le latin est une langue ancienne étudiée dans certains collèges.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_langue_morte",
+    "french": "une langue morte",
+    "translation": "мёртвый язык, который больше не используется как родной",
+    "example": "Une langue morte peut encore être étudiée pour comprendre l'histoire et la culture.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_enseignement",
+    "french": "l'enseignement",
+    "translation": "обучение / преподавание / учебный предмет",
+    "example": "L'enseignement des langues anciennes reste facultatif dans de nombreux établissements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_passionner_quelqu_un",
+    "french": "passionner quelqu'un",
+    "translation": "увлекать кого-либо / вызывать сильный интерес",
+    "example": "L'histoire des langues me passionne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_interesser_quelqu_un",
+    "french": "intéresser quelqu'un",
+    "translation": "интересовать кого-либо",
+    "example": "La mythologie l'intéresse beaucoup.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_s_interesser_a",
+    "french": "s'intéresser à quelque chose",
+    "translation": "интересоваться чем-либо",
+    "example": "Je m'intéresse à l'origine des mots français.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_se_passionner_pour",
+    "french": "se passionner pour quelque chose",
+    "translation": "увлечься чем-либо / страстно интересоваться",
+    "example": "Elle se passionne pour les langues anciennes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_etre_passionne_par",
+    "french": "être passionné / passionnée par",
+    "translation": "быть увлечённым чем-либо",
+    "example": "Tu es passionné par l'histoire de la langue française.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_etre_un_passionne_de",
+    "french": "être un passionné / une passionnée de",
+    "translation": "быть энтузиастом / большим любителем чего-либо",
+    "example": "Il est un passionné de linguistique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_etre_fan_de",
+    "french": "être fan de",
+    "translation": "быть поклонником / очень любить",
+    "example": "Je suis fan de littérature antique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_etre_fou_de",
+    "french": "être fou / folle de",
+    "translation": "обожать / быть без ума от",
+    "example": "Elle est folle de mythologie grecque.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_24_etre_amateur_de",
+    "french": "être amateur / amatrice de",
+    "translation": "быть любителем / ценителем чего-либо",
+    "example": "Nous sommes amateurs de langues et de cultures étrangères.",
+    "status": "learning"
+  }
+]
