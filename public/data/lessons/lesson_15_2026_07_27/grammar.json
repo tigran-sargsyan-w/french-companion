@@ -1,0 +1,35 @@
+[
+  {
+    "id": "g_2026_07_27_revision_subjonctif_present",
+    "title": "Révision du subjonctif présent",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Formation\n",
+        "Pour de nombreux verbes, on part de la forme **ils / elles** au présent de l'indicatif, on retire **-ent**, puis on ajoute **-e, -es, -e, -ions, -iez, -ent**."
+      ],
+      [
+        "### Emploi dans un débat\n",
+        "Le subjonctif permet notamment de présenter une action comme nécessaire, souhaitée ou proposée après une structure suivie de **que**.\n",
+        "- **il faut que + subjonctif** : exprimer une nécessité ;",
+        "- **je veux que + subjonctif** : exprimer une volonté ;",
+        "- **je propose que + subjonctif** : présenter une proposition avec un sujet exprimé."
+      ]
+    ],
+    "examples": [
+      "Il faut que le gouvernement améliore les transports en commun.",
+      "Je veux que les villes plantent davantage d'arbres.",
+      "Je propose que nous développions les produits locaux."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Exprimer une nécessité",
+        "markup": "Il faut que {{sujet:le gouvernement}} {{verbe:améliore}} les transports en commun.",
+        "explanation": "Après **il faut que**, le verbe **améliorer** est au subjonctif présent.",
+        "sourceSentences": [
+          "Le gouvernement doit améliorer les transports en commun."
+        ]
+      }
+    ]
+  }
+]
