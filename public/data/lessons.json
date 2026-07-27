@@ -124,5 +124,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_14_2026_07_24"
+  },
+  {
+    "id": "lesson_15_2026_07_27",
+    "number": 15,
+    "title": "Espéranto, débat politique et révision du subjonctif",
+    "date": "2026-07-27",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_15_2026_07_27"
   }
 ]
