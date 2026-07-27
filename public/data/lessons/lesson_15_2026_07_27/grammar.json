@@ -31,5 +31,60 @@
         ]
       }
     ]
+  },
+  {
+    "id": "g_2026_07_27_opinion_indicatif_subjonctif",
+    "title": "Les verbes d'opinion : indicatif ou subjonctif",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Verbes et expressions d'opinion\n",
+        "Les verbes et expressions comme **penser**, **croire**, **trouver**, **avoir l'impression**, **être sûr / sûre** et **être certain / certaine** introduisent le point de vue personnel de la personne qui parle."
+      ],
+      [
+        "### Forme affirmative : indicatif\n",
+        "À la forme affirmative, le verbe d'opinion est suivi de **que + indicatif**. La personne présente son opinion comme une information qu'elle considère vraie ou probable.\n",
+        "**Je trouve que l'espéranto est une belle langue.**"
+      ],
+      [
+        "### Formes négative et interrogative : subjonctif\n",
+        "Dans la règle travaillée dans le document du cours, à la forme négative ou interrogative, le verbe d'opinion est suivi de **que + subjonctif**. La proposition est alors présentée avec davantage de doute ou de mise à distance.\n",
+        "**Je ne trouve pas que l'espéranto soit une belle langue.**\n",
+        "**Trouvez-vous que l'espéranto soit une belle langue ?**"
+      ]
+    ],
+    "examples": [
+      "Je crois que cette solution est efficace.",
+      "Je ne crois pas que cette solution soit efficace.",
+      "Pensez-vous que le gouvernement puisse résoudre ce problème ?",
+      "Je suis certain que ce projet est utile.",
+      "Je ne suis pas certain que ce projet soit utile."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Opinion affirmative",
+        "markup": "Je {{opinion:trouve que}} l'espéranto {{mode:est}} une belle langue.",
+        "explanation": "À la forme affirmative, **trouver que** est suivi ici de l'indicatif **est**.",
+        "sourceSentences": [
+          "Je trouve que l'espéranto est une belle langue."
+        ]
+      },
+      {
+        "title": "Opinion négative",
+        "markup": "Je {{négation:ne}} trouve {{négation:pas}} que l'espéranto {{mode:soit}} une belle langue.",
+        "explanation": "Dans la règle étudiée, la forme négative conduit ici au subjonctif **soit**.",
+        "sourceSentences": [
+          "Je ne trouve pas que l'espéranto soit une belle langue."
+        ]
+      },
+      {
+        "title": "Opinion interrogative",
+        "markup": "{{question:Trouvez-vous que}} l'espéranto {{mode:soit}} une belle langue ?",
+        "explanation": "Dans la question, le verbe de la proposition introduite par **que** est au subjonctif : **soit**.",
+        "sourceSentences": [
+          "Trouvez-vous que l'espéranto soit une belle langue ?"
+        ]
+      }
+    ]
   }
 ]
