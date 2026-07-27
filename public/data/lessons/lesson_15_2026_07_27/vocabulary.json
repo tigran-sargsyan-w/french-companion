@@ -1,0 +1,58 @@
+[
+  {
+    "id": "v_2026_07_27_locuteur",
+    "french": "un locuteur / une locutrice",
+    "translation": "говорящий; пользователь или носитель языка",
+    "example": "L'espéranto compte des locuteurs dans de nombreux pays.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_27_lutter_contre",
+    "french": "lutter contre",
+    "translation": "бороться с; противостоять",
+    "example": "Le gouvernement doit lutter contre le chômage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_27_octogone",
+    "french": "l'octogone",
+    "translation": "восьмиугольник; октагон",
+    "example": "Un octogone possède huit côtés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_27_autochtone",
+    "french": "un autochtone / une autochtone",
+    "translation": "коренной житель / представитель коренного населения",
+    "example": "Les peuples autochtones défendent leurs langues et leurs traditions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_27_dapres_moi",
+    "french": "d'après moi",
+    "translation": "по-моему; по моему мнению",
+    "example": "D'après moi, il faut améliorer les transports en commun.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_27_selon_moi",
+    "french": "selon moi",
+    "translation": "по-моему; по моему мнению",
+    "example": "Selon moi, cette solution est la plus efficace.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_27_bazar",
+    "french": "le bazar",
+    "translation": "беспорядок; бардак; базар",
+    "example": "Quel bazar dans cette salle après le débat !",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_27_bordel",
+    "french": "le bordel",
+    "translation": "бардак; полный беспорядок (разговорное, грубое)",
+    "example": "C'est le bordel dans ce bureau.",
+    "status": "learning"
+  }
+]
