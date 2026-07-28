@@ -133,5 +133,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_15_2026_07_27"
+  },
+  {
+    "id": "lesson_16_2026_07_28",
+    "number": 16,
+    "title": "Langues, apprentissage et disparition",
+    "date": "2026-07-28",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_16_2026_07_28"
   }
 ]
