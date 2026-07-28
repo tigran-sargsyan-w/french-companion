@@ -1,0 +1,107 @@
+[
+  {
+    "id": "v_2026_07_28_binome",
+    "french": "un binôme",
+    "translation": "пара / напарник",
+    "example": "Nous faisons l'exercice en binôme.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_pejoratif",
+    "french": "péjoratif / péjorative",
+    "translation": "уничижительный / пейоративный",
+    "example": "Ce mot peut avoir un sens péjoratif selon le contexte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_rageux",
+    "french": "rageux / rageuse",
+    "translation": "злобный / завистливый; хейтерский",
+    "example": "Sur internet, certains commentaires sont vraiment rageux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_en_gros",
+    "french": "en gros",
+    "translation": "в общем / грубо говоря",
+    "example": "En gros, beaucoup de langues disparaissent peu à peu.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_promouvoir",
+    "french": "promouvoir",
+    "translation": "продвигать / поощрять",
+    "example": "Il faut promouvoir les langues régionales.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_apprentissage",
+    "french": "l'apprentissage",
+    "translation": "изучение / обучение",
+    "example": "L'apprentissage d'une langue demande du temps.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_patrimoine",
+    "french": "le patrimoine",
+    "translation": "наследие",
+    "example": "La langue fait partie du patrimoine culturel.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_occasion",
+    "french": "une occasion",
+    "translation": "возможность / случай",
+    "example": "C'est une bonne occasion de pratiquer le français.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_delicat",
+    "french": "délicat / délicate",
+    "translation": "деликатный / непростой",
+    "example": "La disparition des langues est un sujet délicat.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_defendre",
+    "french": "défendre",
+    "translation": "защищать / отстаивать",
+    "example": "Certaines associations veulent défendre les langues minoritaires.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_inquietant",
+    "french": "inquiétant / inquiétante",
+    "translation": "тревожный / вызывающий беспокойство",
+    "example": "La disparition de certaines langues est inquiétante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_la_plupart",
+    "french": "la plupart de",
+    "translation": "большинство",
+    "example": "La plupart des gens utilisent plusieurs langues au quotidien.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_espoir",
+    "french": "un espoir",
+    "translation": "надежда",
+    "example": "Il y a encore un espoir de transmettre ces langues aux jeunes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_notamment",
+    "french": "notamment",
+    "translation": "в частности / особенно",
+    "example": "Nous avons parlé de plusieurs langues régionales, notamment du breton.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_28_de_plus_en_plus",
+    "french": "de plus en plus",
+    "translation": "всё больше и больше",
+    "example": "De plus en plus de personnes apprennent plusieurs langues.",
+    "status": "learning"
+  }
+]
