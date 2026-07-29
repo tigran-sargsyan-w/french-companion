@@ -1,0 +1,156 @@
+[
+  {
+    "id": "v_2026_07_29_lianes",
+    "french": "des lianes",
+    "translation": "лианы",
+    "example": "Des lianes poussent dans cette forêt tropicale.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_bilingue",
+    "french": "bilingue",
+    "translation": "двуязычный",
+    "example": "Elle est bilingue français-arménien.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_plurilingue",
+    "french": "plurilingue",
+    "translation": "многоязычный",
+    "example": "La Suisse est un pays plurilingue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_promouvoir",
+    "french": "promouvoir",
+    "translation": "продвигать / поддерживать",
+    "example": "Cette association cherche à promouvoir les langues régionales.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_matricer",
+    "french": "matricer",
+    "translation": "формировать по шаблону / задавать структуру",
+    "example": "Le système scolaire peut matricer certaines habitudes linguistiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_prendre_conscience",
+    "french": "prendre conscience",
+    "translation": "осознавать",
+    "example": "Il faut prendre conscience de la richesse des langues régionales.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_transmettre",
+    "french": "transmettre",
+    "translation": "передавать",
+    "example": "Les familles transmettent parfois leur langue aux enfants.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_compter",
+    "french": "compter",
+    "translation": "насчитывать / считать",
+    "example": "Cette langue compte encore plusieurs milliers de locuteurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_commune",
+    "french": "une commune",
+    "translation": "коммуна / муниципалитет",
+    "example": "Cette commune protège son patrimoine linguistique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_locuteur",
+    "french": "un locuteur / une locutrice",
+    "translation": "носитель языка / говорящий",
+    "example": "Chaque locuteur possède son propre accent.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_linguistique",
+    "french": "linguistique",
+    "translation": "лингвистический",
+    "example": "La diversité linguistique est une richesse culturelle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_proteger",
+    "french": "protéger",
+    "translation": "защищать",
+    "example": "Il est important de protéger les langues menacées.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_morceau",
+    "french": "un morceau",
+    "translation": "кусок / фрагмент",
+    "example": "Il écoute un morceau de musique en breton.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_morceau_de_pain",
+    "french": "un morceau de pain",
+    "translation": "кусок хлеба",
+    "example": "Il prend un morceau de pain avec son repas.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_vogue",
+    "french": "la vogue",
+    "translation": "ярмарка с аттракционами / народный праздник (Лион)",
+    "example": "Nous allons à la vogue ce week-end.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_gone",
+    "french": "un gone",
+    "translation": "ребёнок / мальчишка (Лион)",
+    "example": "Quand il était gone, il jouait souvent dans cette rue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_cagnard",
+    "french": "le cagnard",
+    "translation": "палящий зной / солнцепёк",
+    "example": "Ils restent à l'ombre à cause du cagnard.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_etre_en_caisse",
+    "french": "être en caisse",
+    "translation": "быть больным / плохо себя чувствовать (региональное)",
+    "example": "Je reste chez moi parce que je suis en caisse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_il_s_agit_de",
+    "french": "il s’agit de",
+    "translation": "речь идёт о",
+    "example": "Il s'agit d'un reportage sur les accents régionaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_elevage",
+    "french": "l’élevage",
+    "translation": "животноводство / разведение животных",
+    "example": "L'élevage occupe une place importante dans cette région.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_exploitation",
+    "french": "une exploitation",
+    "translation": "хозяйство / предприятие / эксплуатация",
+    "example": "Elle travaille dans une exploitation agricole.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_29_exploiter",
+    "french": "exploiter",
+    "translation": "эксплуатировать / разрабатывать / использовать",
+    "example": "Cette famille exploite une ferme depuis plusieurs générations.",
+    "status": "learning"
+  }
+]

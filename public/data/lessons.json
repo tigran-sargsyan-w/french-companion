@@ -142,5 +142,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_16_2026_07_28"
+  },
+  {
+    "id": "lesson_17_2026_07_29",
+    "number": 17,
+    "title": "Accents régionaux, langues régionales et prononciation de « plus »",
+    "date": "2026-07-29",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_17_2026_07_29"
   }
 ]

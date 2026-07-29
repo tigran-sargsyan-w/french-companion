@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g_2026_07_29_prononciation_plus",
+    "title": "Prononciation de « plus »",
+    "category": "Pronunciation",
+    "summary": [
+      [
+        "### Quantité : **plus** se prononce `[plys]`\n",
+        "Quand **plus** exprime une `quantité` supplémentaire ou signifie « davantage », le **s** final se prononce.",
+        "- Il mange **plus**.",
+        "- Il y a **plus** d'écoles."
+      ],
+      [
+        "### Comparatif devant un adjectif ou un adverbe : `[ply]`\n",
+        "Quand **plus** exprime une `qualité` ou",
+        "devant un adjectif ou un adverbe, **plus** se prononce généralement sans le **s** final.",
+        "- Il est **plus dynamique**.",
+        "- Il mange **plus volontiers**."
+      ],
+      [
+        "### Négation **ne… plus** : `[ply]`\n",
+        "Dans la négation **ne… plus**, qui signifie qu'une situation a cessé, le **s** final ne se prononce pas.",
+        "- Il n'y a **plus** d'écoles."
+      ],
+      [
+        "**À retenir :** une liaison peut modifier la réalisation devant un mot commençant par une voyelle, mais les exemples du cours opposaient surtout `[plys]` pour la quantité et `[ply]` pour la comparaison ou la négation."
+      ]
+    ],
+    "examples": [
+      "Il mange plus.",
+      "Il y a plus d'écoles.",
+      "Il est plus dynamique.",
+      "Il mange plus volontiers.",
+      "Il n'y a plus d'écoles."
+    ],
+    "annotatedExamples": []
+  }
+]
