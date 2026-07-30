@@ -62,8 +62,8 @@
     "annotatedExamples": [
       {
         "title": "Propre avant le nom",
-        "markup": "C’est {{adjectif:mon propre}} {{nom:appartement}}.",
-        "explanation": "Avant le nom, **propre** insiste sur l’idée de possession personnelle.",
+        "markup": "mon {{adjectif:propre}} {{nom:appartement}}.",
+        "explanation": "Моя собственная квартира. \nAvant le nom, **propre** insiste sur l’idée de possession personnelle.",
         "sourceSentences": [
           "Cet appartement m’appartient.",
           "C’est mon propre appartement."
@@ -71,8 +71,8 @@
       },
       {
         "title": "Propre après le nom",
-        "markup": "Mon {{nom:appartement}} est {{adjectif:propre}}.",
-        "explanation": "Après le nom ou avec le verbe **être**, **propre** signifie « qui n’est pas sale ».",
+        "markup": "mon {{nom:appartement}} {{adjectif:propre}}.",
+        "explanation": "Моя чистая квартира. \nAprès le nom ou avec le verbe **être**, **propre** signifie « qui n’est pas sale ».",
         "sourceSentences": [
           "Mon appartement n’est pas sale.",
           "Mon appartement est propre."
