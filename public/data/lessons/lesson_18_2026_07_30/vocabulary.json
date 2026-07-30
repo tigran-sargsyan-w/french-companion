@@ -63,6 +63,13 @@
     "status": "learning"
   },
   {
+    "id": "v_2026_07_30_héritage",
+    "french": "l’héritage",
+    "translation": "наследие; достояние",
+    "example": "Une langue fait partie de l’héritage culturel d’un peuple.",
+    "status": "learning"
+  },
+  {
     "id": "v_2026_07_30_des_centaines_de",
     "french": "des centaines de",
     "translation": "сотни",
@@ -93,7 +100,7 @@
   {
     "id": "v_2026_07_30_moitie",
     "french": "la moitié",
-    "translation": "половина",
+    "translation": "половина(մոատիէ)",
     "example": "La moitié des participants apprend le français depuis plus d’un an.",
     "status": "learning"
   },
