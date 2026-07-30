@@ -1,0 +1,128 @@
+[
+  {
+    "id": "v_2026_07_30_brouillard",
+    "french": "le brouillard",
+    "translation": "туман",
+    "example": "Le brouillard réduit la visibilité sur la route.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_brume",
+    "french": "la brume",
+    "translation": "дымка; лёгкий туман",
+    "example": "Une légère brume couvre la vallée ce matin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_autochtone",
+    "french": "un autochtone / une autochtone",
+    "translation": "коренной житель / представитель коренного населения",
+    "example": "Les peuples autochtones protègent leurs langues et leurs traditions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_indigene",
+    "french": "indigène",
+    "translation": "коренной; местный",
+    "example": "Cette langue est parlée par une population indigène.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_aborigene",
+    "french": "un Aborigène / une Aborigène",
+    "translation": "абориген / представитель коренного населения Австралии",
+    "example": "Les Aborigènes d’Australie possèdent un riche patrimoine culturel.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_premiere_nation",
+    "french": "une Première Nation",
+    "translation": "коренной народ Канады; первая нация",
+    "example": "Cette Première Nation souhaite retranscrire sa langue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_apparaitre",
+    "french": "apparaître",
+    "translation": "появляться; казаться",
+    "example": "De nouvelles difficultés peuvent apparaître pendant l’apprentissage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_retranscrire",
+    "french": "retranscrire",
+    "translation": "переписывать; записывать; транскрибировать",
+    "example": "Les chercheurs retranscrivent les témoignages enregistrés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_patrimoine",
+    "french": "le patrimoine",
+    "translation": "наследие; достояние",
+    "example": "Une langue fait partie du patrimoine culturel d’un peuple.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_des_centaines_de",
+    "french": "des centaines de",
+    "translation": "сотни",
+    "example": "Des centaines de langues sont menacées de disparition.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_declin",
+    "french": "le déclin",
+    "translation": "упадок; спад; сокращение",
+    "example": "Le déclin d’une langue peut s’accélérer en quelques générations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_facon",
+    "french": "la façon",
+    "translation": "способ; манера",
+    "example": "Chacun a sa propre façon d’apprendre une langue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_decennie",
+    "french": "une décennie",
+    "translation": "десятилетие",
+    "example": "La situation a beaucoup changé en une décennie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_moitie",
+    "french": "la moitié",
+    "translation": "половина",
+    "example": "La moitié des participants apprend le français depuis plus d’un an.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_megafeu",
+    "french": "un mégafeu",
+    "translation": "мегапожар; чрезвычайно крупный лесной пожар",
+    "example": "Un mégafeu peut détruire des milliers d’hectares.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_sondage",
+    "french": "un sondage",
+    "translation": "опрос",
+    "example": "Nous avons répondu à un sondage sur l’apprentissage du français.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_apprentissage",
+    "french": "l’apprentissage",
+    "translation": "обучение; изучение; процесс освоения",
+    "example": "L’apprentissage d’une langue demande du temps et de la pratique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_30_but",
+    "french": "le but",
+    "translation": "цель",
+    "example": "Le but de cette enquête est de mieux comprendre les besoins des apprenants.",
+    "status": "learning"
+  }
+]
