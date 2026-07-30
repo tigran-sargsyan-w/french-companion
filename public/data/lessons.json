@@ -151,5 +151,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_17_2026_07_29"
+  },
+  {
+    "id": "lesson_18_2026_07_30",
+    "number": 18,
+    "title": "Les indéfinis et l’apprentissage du français",
+    "date": "2026-07-30",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_18_2026_07_30"
   }
 ]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "g_2026_07_30_indefinis_quantite",
+    "title": "Les indéfinis et les expressions de quantité",
+    "category": "Articles",
+    "summary": [
+      [
+        "### Quantité nulle\n",
+        "- **aucun / aucune + nom singulier** s’emploie généralement dans une phrase négative.",
+        "Exemple : *Il ne parle aucune langue étrangère.*"
+      ],
+      [
+        "### Petite quantité\n",
+        "- **quelques + nom pluriel** indique un nombre limité ;",
+        "- **certains / certaines + nom pluriel** désigne une partie d’un ensemble sans la préciser ;",
+        "- **déterminant + autre / autres + nom** ajoute ou distingue un élément.",
+        "Exemples : *Il existe quelques langues régionales.* — *Certaines langues sont difficiles à apprendre.* — *Je voudrais parler une autre langue.*"
+      ],
+      [
+        "### Quantité importante ou majorité\n",
+        "- **plusieurs + nom pluriel** indique une quantité supérieure à deux sans nombre précis ;",
+        "- **la plupart de + nom pluriel** désigne la majorité ; le verbe est normalement au pluriel ;",
+        "- **la moitié de + nom** désigne une part égale à cinquante pour cent.",
+        "Exemples : *Je parle plusieurs langues.* — *La plupart de mes amis sont anglais.* — *La moitié des participants apprend le français depuis plus d’un an.*"
+      ],
+      [
+        "### Totalité\n",
+        "- **tout / toute / tous / toutes + déterminant + nom** s’accorde avec le nom ;",
+        "- **chaque + nom singulier** considère les éléments un par un.",
+        "Exemples : *Toutes les langues sont importantes.* — *Chaque langue est importante.*"
+      ]
+    ],
+    "examples": [
+      "Il ne parle aucune langue étrangère.",
+      "Il existe quelques langues régionales dans mon pays.",
+      "Certaines langues sont très difficiles à apprendre.",
+      "Je voudrais parler une autre langue étrangère.",
+      "Je parle plusieurs langues.",
+      "La plupart de mes amis sont anglais.",
+      "Toutes les langues sont importantes.",
+      "Chaque langue est importante.",
+      "La moitié des participants apprend le français depuis plus d’un an."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_07_30_position_propre",
+    "title": "La position de l’adjectif « propre »",
+    "category": "Adjectives",
+    "summary": [
+      [
+        "### Deux sens selon la position\n",
+        "- **propre placé avant le nom** signifie « personnel » ou « qui appartient à la personne » ;",
+        "- **propre placé après le nom** signifie « nettoyé », « hygiénique » ou « qui n’est pas sale ».",
+        "Compare : **mon propre appartement** = mon appartement personnel ; **mon appartement propre** = mon appartement qui n’est pas sale."
+      ]
+    ],
+    "examples": [
+      "C’est mon propre appartement.",
+      "Mon appartement est propre."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Propre avant le nom",
+        "markup": "mon {{adjectif:propre}} {{nom:appartement}}.",
+        "explanation": "Моя собственная квартира. \nAvant le nom, **propre** insiste sur l’idée de possession personnelle.",
+        "sourceSentences": [
+          "Cet appartement m’appartient.",
+          "C’est mon propre appartement."
+        ]
+      },
+      {
+        "title": "Propre après le nom",
+        "markup": "mon {{nom:appartement}} {{adjectif:propre}}.",
+        "explanation": "Моя чистая квартира. \nAprès le nom ou avec le verbe **être**, **propre** signifie « qui n’est pas sale ».",
+        "sourceSentences": [
+          "Mon appartement n’est pas sale.",
+          "Mon appartement est propre."
+        ]
+      }
+    ]
+  }
+]
