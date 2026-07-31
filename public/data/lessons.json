@@ -160,5 +160,14 @@
     "level": "B1",
     "status": "done",
     "path": "data/lessons/lesson_18_2026_07_30"
+  },
+  {
+    "id": "lesson_19_2026_07_31",
+    "number": 19,
+    "title": "Évolution du français, féminisation du langage et hypothèse imaginaire",
+    "date": "2026-07-31",
+    "level": "B1",
+    "status": "done",
+    "path": "data/lessons/lesson_19_2026_07_31"
   }
 ]
