@@ -1,0 +1,219 @@
+[
+  {
+    "id": "v_2026_07_31_apparemment",
+    "french": "apparemment",
+    "translation": "по-видимому / видимо",
+    "example": "Apparemment, ce mot est devenu très courant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_en_apparence",
+    "french": "en apparence",
+    "translation": "на вид / по внешнему впечатлению",
+    "example": "En apparence, cette règle semble simple.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_dico",
+    "french": "un dico",
+    "translation": "словарь, разг.",
+    "example": "Je vérifie ce néologisme dans un dico.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_argot",
+    "french": "l’argot",
+    "translation": "сленг / арго",
+    "example": "Certains mots d’argot entrent ensuite dans les dictionnaires.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_jargon",
+    "french": "un jargon",
+    "translation": "жаргон / профессиональная лексика",
+    "example": "Chaque métier possède son propre jargon.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_anglicisme",
+    "french": "un anglicisme",
+    "translation": "англицизм",
+    "example": "Le mot « smartphone » est un anglicisme.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_franglais",
+    "french": "le franglais",
+    "translation": "франгле, смесь французского и английского",
+    "example": "Le franglais est fréquent dans le vocabulaire professionnel.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_neologisme",
+    "french": "un néologisme",
+    "translation": "неологизм",
+    "example": "Un néologisme est un mot nouveau ou un nouveau sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_mot_valise",
+    "french": "un mot-valise",
+    "translation": "слово-бумажник, слово из частей нескольких слов",
+    "example": "« Gratte-ciel » est présenté comme un mot composé, tandis que certains néologismes sont des mots-valises.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_sigle",
+    "french": "un sigle",
+    "translation": "буквенная аббревиатура",
+    "example": "SNCF est un sigle prononcé lettre par lettre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_acronyme",
+    "french": "un acronyme",
+    "translation": "акроним",
+    "example": "Un acronyme se prononce comme un seul mot.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_abreviation",
+    "french": "une abréviation",
+    "translation": "сокращение",
+    "example": "« Dico » est une abréviation de « dictionnaire ».",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_hashtag",
+    "french": "un hashtag / un mot-dièse",
+    "translation": "хештег",
+    "example": "Ce hashtag accompagne une campagne sur les réseaux sociaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_tchater",
+    "french": "tchater",
+    "translation": "общаться в чате",
+    "example": "Ils aiment tchater avec leurs amis le soir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_gratte_ciel",
+    "french": "un gratte-ciel",
+    "translation": "небоскрёб",
+    "example": "Ce gratte-ciel domine toute la ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_arc_en_ciel",
+    "french": "un arc-en-ciel",
+    "translation": "радуга",
+    "example": "Un arc-en-ciel est apparu après la pluie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_autoapprentissage",
+    "french": "l’autoapprentissage",
+    "translation": "самообучение",
+    "example": "L’autoapprentissage demande beaucoup de régularité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_jaloux",
+    "french": "jaloux / jalouse",
+    "translation": "ревнивый / ревнивая",
+    "example": "Il devient jaloux quand son ami parle avec quelqu’un d’autre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_s_ennuyer",
+    "french": "s’ennuyer",
+    "translation": "скучать",
+    "example": "Je m’ennuie quand je n’ai rien à faire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_ecoanxiete",
+    "french": "l’écoanxiété",
+    "translation": "эко-тревожность",
+    "example": "L’écoanxiété est liée aux inquiétudes provoquées par le dérèglement climatique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_flex_office",
+    "french": "le flex office",
+    "translation": "офис без закреплённых рабочих мест",
+    "example": "Dans un flex office, les salariés changent souvent de bureau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_ghoster",
+    "french": "ghoster",
+    "translation": "внезапно прекратить общение и исчезнуть",
+    "example": "Il a cessé de répondre et a complètement ghosté son ami.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_iel",
+    "french": "iel",
+    "translation": "гендерно-нейтральное местоимение третьего лица",
+    "example": "Iel est parfois utilisé pour ne pas préciser le genre d’une personne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_localisme",
+    "french": "le localisme",
+    "translation": "ориентация на местное производство и потребление",
+    "example": "Le localisme encourage une production proche des consommateurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_malaisant",
+    "french": "malaisant / malaisante",
+    "translation": "неловкий / вызывающий дискомфорт",
+    "example": "Cette remarque a créé une situation très malaisante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_megenrer",
+    "french": "mégenrer",
+    "translation": "обозначить человека не тем гендером",
+    "example": "Il faut éviter de mégenrer une personne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_non_binaire",
+    "french": "non-binaire",
+    "translation": "небинарный / небинарная",
+    "example": "Une personne non-binaire ne se définit pas uniquement comme homme ou femme.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_sobriete",
+    "french": "la sobriété",
+    "translation": "умеренность / сокращение потребления ресурсов",
+    "example": "La sobriété énergétique vise à réduire la consommation d’énergie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_spoiler",
+    "french": "spoiler",
+    "translation": "раскрыть сюжет или концовку",
+    "example": "Ne me spoile pas la fin de la série !",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_stalker",
+    "french": "stalker",
+    "translation": "навязчиво следить за кем-либо в интернете",
+    "example": "Il passe son temps à stalker les profils de ses anciens camarades.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_07_31_velorution",
+    "french": "la vélorution",
+    "translation": "велосипедная революция / рост роли велосипеда в городе",
+    "example": "La vélorution transforme progressivement les déplacements urbains.",
+    "status": "learning"
+  }
+]

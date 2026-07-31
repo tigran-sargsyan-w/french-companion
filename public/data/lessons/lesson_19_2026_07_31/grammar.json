@@ -1,0 +1,118 @@
+[
+  {
+    "id": "g_2026_07_31_conditionnel_present",
+    "title": "Formation du conditionnel présent",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Construction\n",
+        "Le conditionnel présent se forme avec la **base du futur simple** et les **terminaisons de l’imparfait**.\n",
+        "| Personne | Terminaison | Exemple avec `parler` |",
+        "|---|---|---|",
+        "| je | `-ais` | je parlerais |",
+        "| tu | `-ais` | tu parlerais |",
+        "| il / elle / on | `-ait` | il parlerait |",
+        "| nous | `-ions` | nous parlerions |",
+        "| vous | `-iez` | vous parleriez |",
+        "| ils / elles | `-aient` | ils parleraient |"
+      ],
+      [
+        "### Base des verbes réguliers\n",
+        "- Pour les verbes en `-er` et en `-ir`, on garde généralement l’infinitif : **parler → parler-**, **finir → finir-** ;",
+        "- pour les verbes en `-re`, on enlève le `e` final : **prendre → prendr-**, **croire → croir-**, **mettre → mettr-**."
+      ],
+      [
+        "### Bases irrégulières vues en classe\n",
+        "| Infinitif | Base | Exemple |",
+        "|---|---|---|",
+        "| être | `ser-` | je serais |",
+        "| avoir | `aur-` | j’aurais |",
+        "| aller | `ir-` | j’irais |",
+        "| faire | `fer-` | je ferais |",
+        "| pouvoir | `pourr-` | je pourrais |",
+        "| devoir | `devr-` | je devrais |",
+        "| vouloir | `voudr-` | je voudrais |",
+        "| savoir | `saur-` | je saurais |",
+        "| venir | `viendr-` | je viendrais |",
+        "| voir | `verr-` | je verrais |",
+        "| envoyer | `enverr-` | j’enverrais |"
+      ]
+    ],
+    "examples": [
+      "Je voudrais apprendre plus de vocabulaire.",
+      "Nous pourrions proposer un nouveau mot.",
+      "Elle serait professeure de français."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_07_31_hypothese_imaginaire",
+    "title": "Hypothèse imaginaire : si + imparfait et conditionnel",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Structure\n",
+        "Pour exprimer une hypothèse imaginaire ou peu probable dans le présent, on utilise **si + imparfait**, puis le **conditionnel présent**.\n",
+        "Dans cette structure, l’imparfait n’exprime pas une action passée : il présente la condition imaginaire. Le conditionnel exprime le résultat imaginé."
+      ],
+      [
+        "### Schéma\n",
+        "- **Si + imparfait** : annonce de l’hypothèse ;",
+        "- **conditionnel présent** : résultat imaginaire."
+      ],
+      [
+        "### Attention\n",
+        "On ne met pas le conditionnel directement après **si** dans cette structure : **Si j’étais…, je serais…**, et non *Si je serais…*."
+      ]
+    ],
+    "examples": [
+      "Si j’étais un animal, je serais un renard.",
+      "Si tout le monde parlait la même langue, il y aurait moins de problèmes de communication.",
+      "Si j’avais plus de temps, j’apprendrais une autre langue."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Hypothèse et résultat imaginaires",
+        "markup": "{{contexte:Si j’étais un animal}}, {{temps:je serais un renard}}.",
+        "explanation": "La proposition introduite par **si** est à l’imparfait, tandis que le résultat imaginaire est au conditionnel présent.",
+        "sourceSentences": [
+          "Si j’étais un animal,",
+          "je serais un renard."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_07_31_feminisation_metiers",
+    "title": "Féminisation des noms de métiers et de fonctions",
+    "category": "Vocabulary",
+    "summary": [
+      [
+        "### Principe général\n",
+        "La féminisation consiste à employer des formes féminines pour les métiers, les titres et les fonctions occupés par des femmes. Certaines formes sont largement établies, tandis que plusieurs variantes peuvent coexister selon l’usage."
+      ],
+      [
+        "### Formes étudiées\n",
+        "| Masculin | Féminin courant | Autre forme rencontrée |",
+        "|---|---|---|",
+        "| un auteur | une auteure | une autrice |",
+        "| un professeur | une professeure | — |",
+        "| un ambassadeur | une ambassadrice | — |",
+        "| un ingénieur | une ingénieure | — |",
+        "| un médecin | une médecin | — |",
+        "| un maire | une maire | Madame la maire |",
+        "| un premier ministre | une première ministre | Madame la Première ministre |"
+      ],
+      [
+        "### À retenir\n",
+        "Le choix d’une forme peut dépendre de l’usage, du contexte et de la préférence de la personne concernée."
+      ]
+    ],
+    "examples": [
+      "Cette auteure a créé plusieurs néologismes.",
+      "Elle est ingénieure dans une entreprise lyonnaise.",
+      "La Première ministre a présenté son projet."
+    ],
+    "annotatedExamples": []
+  }
+]
