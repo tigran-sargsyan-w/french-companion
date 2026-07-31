@@ -5,7 +5,7 @@ import { DataErrorState, DataLoadingState } from "@/components/DataState";
 import { MarkdownText } from "@/components/MarkdownText";
 import { getGrammarByLesson, getVocabByLesson, useLearningData } from "@/data";
 
-const CLASS_LEVEL_FILTERS = ["all", "B1N1", "B1N2", "B1N3", "B2N1"] as const;
+const CLASS_LEVEL_FILTERS = ["all", "B1N1", "B1N2", "B1N3"] as const;
 type ClassLevelFilter = (typeof CLASS_LEVEL_FILTERS)[number];
 
 export const Route = createFileRoute("/lessons/")({
