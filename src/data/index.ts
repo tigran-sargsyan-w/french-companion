@@ -38,6 +38,7 @@ export interface LessonIndexItem {
   title: string;
   date: string;
   level?: string;
+  classLevel?: string;
   status?: "done" | "in-progress" | "planned";
   path: string;
 }
