@@ -1,0 +1,240 @@
+[
+  {
+    "id": "v_2026_08_03_scene",
+    "french": "une scène",
+    "translation": "сцена",
+    "example": "Les comédiens montent sur scène à vingt heures.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_planches",
+    "french": "les planches",
+    "translation": "театральная сцена / подмостки",
+    "example": "Cette actrice rêve de remonter sur les planches.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_acrobate",
+    "french": "un acrobate / une acrobate",
+    "translation": "акробат / акробатка",
+    "example": "L’acrobate réalise un numéro impressionnant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_numero",
+    "french": "un numéro",
+    "translation": "номер / выступление",
+    "example": "Le jongleur présente un nouveau numéro.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_bete",
+    "french": "une bête",
+    "translation": "зверь / животное",
+    "example": "Autrefois, certains cirques présentaient des bêtes sauvages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_monde_spectacle",
+    "french": "le monde du spectacle",
+    "translation": "мир шоу-бизнеса / сценического искусства",
+    "example": "Elle travaille dans le monde du spectacle depuis dix ans.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_cirque",
+    "french": "le cirque",
+    "translation": "цирк",
+    "example": "Le cirque propose des spectacles pour toute la famille.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_concert",
+    "french": "un concert",
+    "translation": "концерт",
+    "example": "Nous allons assister à un concert samedi soir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_cabaret",
+    "french": "un cabaret",
+    "translation": "кабаре",
+    "example": "Ce cabaret présente des spectacles de danse et d’humour.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_theatre",
+    "french": "le théâtre",
+    "translation": "театр",
+    "example": "Le festival d’Aurillac accueille de nombreuses compagnies de théâtre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_danse",
+    "french": "la danse",
+    "translation": "танец / танцевальное искусство",
+    "example": "Cette salle programme aussi des spectacles de danse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_ballet",
+    "french": "un ballet",
+    "translation": "балет",
+    "example": "Nous avons vu un ballet classique à l’opéra.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_spectacle_humour",
+    "french": "un spectacle d’humour",
+    "translation": "юмористическое шоу",
+    "example": "Ce spectacle d’humour a attiré beaucoup de spectateurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_festival",
+    "french": "un festival",
+    "translation": "фестиваль",
+    "example": "J’ai présenté un festival important de mon pays.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_comedien",
+    "french": "un comédien / une comédienne",
+    "translation": "актёр / актриса",
+    "example": "Les comédiens interprètent plusieurs personnages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_jouer_role",
+    "french": "jouer un rôle",
+    "translation": "играть роль",
+    "example": "Il joue le rôle principal dans cette pièce.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_interpreter_role",
+    "french": "interpréter un rôle",
+    "translation": "исполнять роль",
+    "example": "Elle interprète un rôle difficile avec beaucoup d’émotion.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_humoriste",
+    "french": "un humoriste / une humoriste",
+    "translation": "юморист / юмористка",
+    "example": "L’humoriste parle de la vie quotidienne dans son spectacle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_surtitrer",
+    "french": "surtitrer",
+    "translation": "снабжать спектакль надсценными субтитрами",
+    "example": "La pièce est surtitrée en anglais.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_bavarder",
+    "french": "bavarder",
+    "translation": "болтать",
+    "example": "Les spectateurs bavardent avant le début du spectacle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_kiosque",
+    "french": "un kiosque",
+    "translation": "киоск",
+    "example": "Les musiciens jouent sous le kiosque du parc.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_pointu",
+    "french": "pointu / pointue",
+    "translation": "острый / заострённый; специализированный",
+    "example": "Le spectacle aborde un sujet assez pointu.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_conteur",
+    "french": "un conteur / une conteuse",
+    "translation": "рассказчик / рассказчица",
+    "example": "Le conteur captive le public avec une histoire traditionnelle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_jongleur",
+    "french": "un jongleur / une jongleuse",
+    "translation": "жонглёр / жонглёрка",
+    "example": "Le jongleur lance cinq balles en même temps.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_marionnettiste",
+    "french": "un marionnettiste / une marionnettiste",
+    "translation": "кукловод",
+    "example": "Le marionnettiste donne vie à ses personnages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_mime",
+    "french": "un mime / une mime",
+    "translation": "мим",
+    "example": "Le mime raconte une histoire sans parler.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_cracheur_feu",
+    "french": "un cracheur de feu / une cracheuse de feu",
+    "translation": "пожиратель огня / артист, выдувающий огонь",
+    "example": "Le cracheur de feu se produit dans la rue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_cheville",
+    "french": "une cheville",
+    "translation": "лодыжка",
+    "example": "L’acrobate s’est blessé à la cheville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_fanfare",
+    "french": "une fanfare",
+    "translation": "духовой оркестр",
+    "example": "La fanfare défile dans les rues avec de la musique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_siester",
+    "french": "siester / faire la sieste",
+    "translation": "дремать / отдыхать после обеда",
+    "example": "Après le déjeuner, certains festivaliers font la sieste.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_contemporain",
+    "french": "contemporain / contemporaine",
+    "translation": "современный",
+    "example": "Cette salle est spécialisée dans la danse contemporaine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_classique",
+    "french": "classique",
+    "translation": "классический",
+    "example": "Le programme mélange musique classique et création contemporaine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_sappeler",
+    "french": "s’appeler",
+    "translation": "называться",
+    "example": "Le festival s’appelle Les Nuits de Fourvière.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_03_sintituler",
+    "french": "s’intituler",
+    "translation": "называться / иметь название",
+    "example": "Le spectacle s’intitule Le Voyage imaginaire.",
+    "status": "learning"
+  }
+]
