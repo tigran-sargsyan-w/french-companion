@@ -188,5 +188,15 @@
     "classLevel": "B1N1",
     "status": "done",
     "path": "data/lessons/b1n1/lesson_19_2026_07_31"
+  },
+  {
+    "id": "lesson_20_2026_08_03",
+    "number": 20,
+    "title": "Spectacle vivant, sorties culturelles et festivals",
+    "date": "2026-08-03",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_20_2026_08_03"
   }
 ]
