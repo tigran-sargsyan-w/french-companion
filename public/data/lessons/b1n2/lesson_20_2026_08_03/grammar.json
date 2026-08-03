@@ -1,0 +1,25 @@
+[
+  {
+    "id": "g_2026_08_03_nom_spectacle",
+    "title": "Nommer un spectacle ou un événement",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### S’appeler et s’intituler\n",
+        "- **s’appeler** est le verbe le plus général pour indiquer le nom d’une personne, d’un lieu, d’un événement ou d’une œuvre ;",
+        "- **s’intituler** s’emploie surtout pour donner le titre d’une œuvre, d’un spectacle, d’un livre, d’un film ou d’un événement."
+      ],
+      [
+        "### Présenter le style d’un spectacle\n",
+        "On peut préciser qu’un spectacle est **classique** ou **contemporain** selon son style, son époque ou sa mise en scène."
+      ]
+    ],
+    "examples": [
+      "Le festival s’appelle Les Nuits de Fourvière.",
+      "Le spectacle s’intitule Le Voyage imaginaire.",
+      "Cette compagnie présente une création contemporaine.",
+      "Nous avons assisté à un ballet classique."
+    ],
+    "annotatedExamples": []
+  }
+]
