@@ -198,5 +198,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_20_2026_08_03"
+  },
+  {
+    "id": "lesson_21_2026_08_04",
+    "number": 21,
+    "title": "Cirque, mouvements du corps et participe présent",
+    "date": "2026-08-04",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_21_2026_08_04"
   }
 ]
