@@ -1,0 +1,30 @@
+[
+  {
+    "id": "v_2026_08_04_hauteur",
+    "french": "la hauteur",
+    "translation": "высота",
+    "example": "À cette hauteur, la vue sur la ville est impressionnante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_04_vertige",
+    "french": "le vertige",
+    "translation": "головокружение / боязнь высоты",
+    "example": "J’ai le vertige quand je regarde en bas depuis un endroit élevé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_04_evoluer",
+    "french": "évoluer",
+    "translation": "развиваться / меняться",
+    "example": "Le cirque a beaucoup évolué au fil du temps.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_04_se_reinventer",
+    "french": "se réinventer",
+    "translation": "переосмысливать себя / обновляться",
+    "example": "Pour attirer un nouveau public, le cirque doit se réinventer.",
+    "status": "learning"
+  }
+]
