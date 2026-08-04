@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g_2026_08_04_participe_present",
+    "title": "Le participe présent",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Formation\n",
+        "On forme généralement le participe présent à partir de la forme **nous** du présent : on retire **-ons** et on ajoute **-ant**.",
+        "| Présent avec nous | Participe présent |",
+        "|---|---|",
+        "| nous combinons | combinant |",
+        "| nous nourrissons | nourrissant |",
+        "| nous avançons | avançant |"
+      ],
+      [
+        "### Formes irrégulières\n",
+        "Trois verbes ont une forme irrégulière :",
+        "- **être → étant** ;",
+        "- **avoir → ayant** ;",
+        "- **savoir → sachant**."
+      ],
+      [
+        "### Emploi\n",
+        "Le participe présent est **invariable**. Il exprime une action liée au même sujet que le verbe principal.",
+        "Il peut notamment remplacer une proposition relative introduite par **qui** : **une technique qui combine la danse et le théâtre → une technique combinant la danse et le théâtre**.",
+        "Sa forme ne change pas selon le temps du verbe principal : **c’est / c’était / ce sera une technique combinant plusieurs arts**."
+      ],
+      [
+        "### Négation et verbes pronominaux\n",
+        "La négation encadre le participe présent : **ne combinant pas**, **ne connaissant pas**.",
+        "Avec un verbe pronominal, le pronom réfléchi correspond au sujet : **me levant**, **te levant**, **se levant**, **nous levant**, **vous levant**, **se levant**."
+      ]
+    ],
+    "examples": [
+      "C’est une technique combinant la danse et le théâtre.",
+      "Ne connaissant pas la ville, elle avait besoin d’un plan.",
+      "Se levant rapidement, il a quitté la pièce.",
+      "Les péniches avançaient lentement, descendant la Seine avec leur chargement."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Remplacement d’une proposition relative",
+        "markup": "C’est une technique {{participe présent:combinant}} la danse et le théâtre.",
+        "explanation": "**Combinant** remplace ici **qui combine** et se rapporte au même sujet, **une technique**.",
+        "sourceSentences": [
+          "C’est une technique qui combine la danse et le théâtre.",
+          "C’est une technique combinant la danse et le théâtre."
+        ]
+      },
+      {
+        "title": "Forme négative",
+        "markup": "{{négation:Ne}} {{participe présent:connaissant}} {{négation:pas}} la ville, elle avait besoin d’un plan.",
+        "explanation": "À la forme négative, **ne** et **pas** entourent le participe présent.",
+        "sourceSentences": [
+          "Elle ne connaissait pas la ville.",
+          "Ne connaissant pas la ville, elle avait besoin d’un plan."
+        ]
+      }
+    ]
+  }
+]
