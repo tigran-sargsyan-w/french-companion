@@ -208,5 +208,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_21_2026_08_04"
+  },
+  {
+    "id": "lesson_22_2026_08_05",
+    "number": 22,
+    "title": "Angèle, musique et pronom relatif « dont »",
+    "date": "2026-08-05",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_22_2026_08_05"
   }
 ]
