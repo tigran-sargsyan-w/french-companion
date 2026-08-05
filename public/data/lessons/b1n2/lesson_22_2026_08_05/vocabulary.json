@@ -1,0 +1,44 @@
+[
+  {
+    "id": "v_2026_08_05_jouer_instrument",
+    "french": "jouer d’un instrument",
+    "translation": "играть на музыкальном инструменте",
+    "example": "Elle joue de cet instrument depuis qu’elle est petite.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_05_enchainer_concerts",
+    "french": "enchaîner les concerts",
+    "translation": "давать концерты один за другим",
+    "example": "Depuis le succès de son album, elle enchaîne les concerts.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_05_album",
+    "french": "un album",
+    "translation": "альбом",
+    "example": "Son nouvel album connaît un grand succès.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_05_billet_concert",
+    "french": "un billet de concert",
+    "translation": "билет на концерт",
+    "example": "Les billets de ses concerts se vendent très vite.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_05_etre_fier_de",
+    "french": "être fier / fière de",
+    "translation": "гордиться кем-либо / чем-либо",
+    "example": "Elle est très fière de cet album.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_05_se_souvenir_de",
+    "french": "se souvenir de",
+    "translation": "помнить кого-либо / что-либо, вспоминать",
+    "example": "Je me souviendrai longtemps de ce spectacle.",
+    "status": "learning"
+  }
+]
