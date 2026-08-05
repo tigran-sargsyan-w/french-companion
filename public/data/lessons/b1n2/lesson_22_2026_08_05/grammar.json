@@ -1,0 +1,82 @@
+[
+  {
+    "id": "g_2026_08_05_pronom_relatif_dont",
+    "title": "Le pronom relatif « dont »",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Règle générale\n",
+        "Le pronom relatif **dont** remplace un mot ou un groupe de mots introduit par **de**, **du**, **de la** ou **des**.",
+        "Il relie deux propositions et donne une information complémentaire sur l’antécédent."
+      ],
+      [
+        "### Complément d’un verbe construit avec `de`\n",
+        "Quand le verbe de la proposition relative se construit avec **de**, on emploie **dont**.",
+        "- **jouer de** : Elle joue de cet instrument. → L’instrument **dont** elle joue est le piano.",
+        "- **se souvenir de** : Je me souviendrai de ce spectacle. → C’est un spectacle **dont** je me souviendrai longtemps.",
+        "- **avoir besoin de** : J’ai besoin de cette chose. → La seule chose **dont** j’ai besoin, c’est de dormir."
+      ],
+      [
+        "### Complément d’un adjectif construit avec `de`\n",
+        "**Dont** peut reprendre le complément d’un adjectif suivi de **de**.",
+        "- Elle est fière de cet album. → L’album **dont** elle est fière est *Nonante-Cinq*.",
+        "- Elle est fière du spectacle. → Elle a fait un spectacle **dont** elle est très fière."
+      ],
+      [
+        "### Complément d’un nom\n",
+        "**Dont** peut aussi reprendre un complément du nom construit avec **de**.",
+        "- Les billets de ses concerts se vendent vite. → Elle enchaîne les concerts **dont** les billets se vendent vite.",
+        "- Le métier de mon ami est acrobate. → J’ai un ami **dont** le métier est acrobate de cirque."
+      ],
+      [
+        "### Révision des pronoms relatifs simples\n",
+        "| Pronom | Fonction | Structure fréquente |",
+        "|---|---|---|",
+        "| **qui** | reprend le sujet | qui + verbe |",
+        "| **que** | reprend le complément d’objet direct | que + sujet + verbe |",
+        "| **où** | reprend un lieu ou un moment | où + sujet + verbe |",
+        "| **dont** | reprend un complément introduit par `de` | dont + sujet + verbe |"
+      ],
+      [
+        "### Verbes et expressions fréquents suivis de `de`\n",
+        "Parmi les constructions courantes : **avoir besoin de**, **avoir peur de**, **avoir envie de**, **parler de**, **se servir de**, **s’occuper de**, **être fier de**, **être responsable de**, **douter de**, **rêver de**, **se souvenir de** et **jouer de**."
+      ]
+    ],
+    "examples": [
+      "Le piano est l’instrument dont elle joue depuis qu’elle est petite.",
+      "Le meilleur album dont elle est fière est Nonante-Cinq.",
+      "Elle enchaîne les concerts dont les billets se vendent vite.",
+      "J’ai vu un spectacle de cirque magnifique dont je me souviendrai longtemps.",
+      "J’ai un ami dont le métier est acrobate de cirque."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Complément d’un verbe",
+        "markup": "Le piano est l’instrument {{dont:dont}} elle {{verbe:joue}} depuis qu’elle est petite.",
+        "explanation": "**Dont** remplace **de cet instrument**, complément du verbe **jouer de**.",
+        "sourceSentences": [
+          "Le piano est un instrument.",
+          "Elle joue de cet instrument depuis qu’elle est petite."
+        ]
+      },
+      {
+        "title": "Complément d’un adjectif",
+        "markup": "Elle a fait un spectacle {{dont:dont}} elle est très {{adjectif:fière}}.",
+        "explanation": "**Dont** remplace **du spectacle**, complément de l’adjectif **fière de**.",
+        "sourceSentences": [
+          "Elle a fait un spectacle.",
+          "Elle est très fière du spectacle."
+        ]
+      },
+      {
+        "title": "Complément d’un nom",
+        "markup": "J’ai un ami {{dont:dont}} {{nom:le métier}} est acrobate de cirque.",
+        "explanation": "**Dont** exprime ici le lien entre **un ami** et **le métier de mon ami**.",
+        "sourceSentences": [
+          "J’ai un ami.",
+          "Le métier de mon ami est acrobate de cirque."
+        ]
+      }
+    ]
+  }
+]
