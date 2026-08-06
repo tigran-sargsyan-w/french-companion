@@ -42,6 +42,13 @@
     "status": "learning"
   },
   {
+    "id": "v_2026_08_06_confronter",
+    "french": "confronter",
+    "translation": "противостоять / столкнуться с",
+    "example": "Il doit confronter un adversaire dangereux.",
+    "status": "learning"
+  },
+  {
     "id": "v_2026_08_06_intrigue",
     "french": "une intrigue",
     "translation": "сюжет / интрига",
@@ -112,6 +119,27 @@
     "status": "learning"
   },
   {
+    "id": "v_2026_08_06_oeil_pour_oeil",
+    "french": "œil pour œil, dent pour dent",
+    "translation": "око за око, зуб за зуб",
+    "example": "Il pense que c’est une question d’œil pour œil.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_la_vengeance_est_un_plat",
+    "french": "la vengeance est un plat qui se mange froid",
+    "translation": "месть — это блюдо, которое подают холодным",
+    "example": "Il croit que la vengeance est un plat qui se mange froid.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_victime",
+    "french": "une victime",
+    "translation": "жертва",
+    "example": "Il est la victime d’un complot.",
+    "status": "learning"
+  },
+  {
     "id": "v_2026_08_06_marin",
     "french": "un marin",
     "translation": "моряк",
@@ -126,15 +154,22 @@
     "status": "learning"
   },
   {
+    "id": "v_2026_08_06_comploter",
+    "french": "comploter",
+    "translation": "организовать заговор",
+    "example": "Il est accusé de comploter contre le roi.",
+    "status": "learning"
+  },
+  {
     "id": "v_2026_08_06_trahison",
-    "french": "la trahison",
+    "french": "la trahison[թղաիզո]",
     "translation": "предательство",
     "example": "La trahison de son ami bouleverse sa vie.",
     "status": "learning"
   },
   {
     "id": "v_2026_08_06_trahir",
-    "french": "trahir",
+    "french": "trahir[թղաիղ]",
     "translation": "предавать",
     "example": "Il découvre que ses proches l’ont trahi.",
     "status": "learning"
@@ -147,6 +182,13 @@
     "status": "learning"
   },
   {
+    "id": "v_2026_08_06_amitie",
+    "french": "l’amitié",
+    "translation": "дружба",
+    "example": "Le film met en lumière l’amitié entre les personnages.",
+    "status": "learning"
+  },
+  {
     "id": "v_2026_08_06_mise_en_scene",
     "french": "la mise en scène",
     "translation": "постановка",
@@ -156,8 +198,15 @@
   {
     "id": "v_2026_08_06_decors",
     "french": "les décors",
-    "translation": "декорации",
+    "translation": "декорации - в театре или кино",
     "example": "Les décors du film sont impressionnants.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_decoration",
+    "french": "la décoration",
+    "translation": "декорация",
+    "example": "La décoration de la maison est remarquable.",
     "status": "learning"
   },
   {
@@ -172,6 +221,13 @@
     "french": "caricatural",
     "translation": "карикатурный / чрезмерно упрощённый",
     "example": "Le méchant paraît parfois trop caricatural.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_ridicule",
+    "french": "ridicule",
+    "translation": "нелепый / насмешка ",
+    "example": "Le film est un ridicule.",
     "status": "learning"
   },
   {
@@ -196,9 +252,65 @@
     "status": "learning"
   },
   {
+    "id": "v_2026_08_06_paix",
+    "french": "la paix[պէ]",
+    "translation": "мир",
+    "example": "Le film traite du thème de la paix.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_transmettre",
+    "french": "transmettre",
+    "translation": "передавать",
+    "example": "Il transmet le message à son collègue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_malgre",
+    "french": "malgré",
+    "translation": "несмотря на",
+    "example": "Malgré les difficultés, il continue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_maigre",
+    "french": "maigre",
+    "translation": "худой",
+    "example": "Il est maigre depuis qu’il a arrêté de fumer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_maigrir",
+    "french": "maigrir",
+    "translation": "похудеть",
+    "example": "Il maigrit à cause de son régime.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_deprimer",
+    "french": "deprimer",
+    "translation": "подавленный",
+    "example": "Il est deprimé depuis la perte de son emploi.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_fier",
+    "french": "fier",
+    "translation": "гордый",
+    "example": "Il est fier de ses accomplissements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_honte",
+    "french": "la honte",
+    "translation": "стыд",
+    "example": "Il a honte de ses actes.",
+    "status": "learning"
+  },
+  {
     "id": "v_2026_08_06_euphemisme",
     "french": "un euphémisme",
-    "translation": "эвфемизм",
+    "translation": "эвфемизм - смягчающее выражение",
     "example": "Dire qu’il est seulement déçu est un euphémisme.",
     "status": "learning"
   }
