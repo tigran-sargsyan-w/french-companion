@@ -1,0 +1,205 @@
+[
+  {
+    "id": "v_2026_08_06_cape",
+    "french": "une cape",
+    "translation": "плащ",
+    "example": "Le héros porte une cape noire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_epee",
+    "french": "une épée",
+    "translation": "шпага / меч",
+    "example": "Il se défend avec une épée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_se_battre",
+    "french": "se battre",
+    "translation": "драться / сражаться",
+    "example": "Les deux hommes se battent pour défendre leur honneur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_lutter",
+    "french": "lutter",
+    "translation": "бороться",
+    "example": "Il lutte contre ses ennemis.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_combattre",
+    "french": "combattre",
+    "translation": "сражаться / бороться",
+    "example": "Le héros combat l’injustice.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_affronter",
+    "french": "affronter",
+    "translation": "противостоять / столкнуться с",
+    "example": "Il doit affronter un adversaire dangereux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_intrigue",
+    "french": "une intrigue",
+    "translation": "сюжет / интрига",
+    "example": "L’intrigue du film est pleine de surprises.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_rebondissement",
+    "french": "un rebondissement",
+    "translation": "неожиданный поворот сюжета",
+    "example": "Le dernier rebondissement change toute l’histoire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_triomphe",
+    "french": "un triomphe",
+    "translation": "триумф",
+    "example": "Le film a connu un véritable triomphe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_honneur",
+    "french": "l’honneur",
+    "translation": "честь",
+    "example": "Il veut défendre son honneur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_defendre",
+    "french": "défendre",
+    "translation": "защищать",
+    "example": "Elle défend sa famille contre ses ennemis.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_se_fiancer",
+    "french": "se fiancer",
+    "translation": "обручиться",
+    "example": "Ils décident de se fiancer avant son départ.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_se_evader",
+    "french": "s’évader",
+    "translation": "сбежать",
+    "example": "Le prisonnier réussit à s’évader.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_sechapper",
+    "french": "s’échapper",
+    "translation": "ускользнуть / сбежать",
+    "example": "Il profite de la nuit pour s’échapper.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_senfuir",
+    "french": "s’enfuir",
+    "translation": "убежать",
+    "example": "Les complices s’enfuient à cheval.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_se_venger",
+    "french": "se venger",
+    "translation": "отомстить",
+    "example": "Il revient des années plus tard pour se venger.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_marin",
+    "french": "un marin",
+    "translation": "моряк",
+    "example": "Le personnage principal est un jeune marin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_complot",
+    "french": "un complot",
+    "translation": "заговор",
+    "example": "Il est victime d’un complot politique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_trahison",
+    "french": "la trahison",
+    "translation": "предательство",
+    "example": "La trahison de son ami bouleverse sa vie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_trahir",
+    "french": "trahir",
+    "translation": "предавать",
+    "example": "Il découvre que ses proches l’ont trahi.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_camaraderie",
+    "french": "la camaraderie",
+    "translation": "товарищество",
+    "example": "La camaraderie unit les membres de l’équipage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_mise_en_scene",
+    "french": "la mise en scène",
+    "translation": "постановка",
+    "example": "La mise en scène rend les combats spectaculaires.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_decors",
+    "french": "les décors",
+    "translation": "декорации",
+    "example": "Les décors du film sont impressionnants.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_personnage",
+    "french": "un personnage",
+    "translation": "персонаж",
+    "example": "Ce personnage devient de plus en plus mystérieux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_caricatural",
+    "french": "caricatural",
+    "translation": "карикатурный / чрезмерно упрощённый",
+    "example": "Le méchant paraît parfois trop caricatural.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_stereotype",
+    "french": "stéréotypé",
+    "translation": "стереотипный",
+    "example": "Certains personnages sont assez stéréotypés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_bande_annonce",
+    "french": "une bande-annonce",
+    "translation": "трейлер",
+    "example": "Nous avons regardé la bande-annonce du film.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_casting_bancable",
+    "french": "un casting bancable",
+    "translation": "коммерчески привлекательный актёрский состав",
+    "example": "Le producteur compte sur un casting bancable.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_06_euphemisme",
+    "french": "un euphémisme",
+    "translation": "эвфемизм",
+    "example": "Dire qu’il est seulement déçu est un euphémisme.",
+    "status": "learning"
+  }
+]
