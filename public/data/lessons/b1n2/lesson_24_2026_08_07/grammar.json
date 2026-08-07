@@ -1,0 +1,39 @@
+[
+  {
+    "id": "g_2026_08_07_plus_que_parfait",
+    "title": "Le plus-que-parfait",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Formation\n",
+        "Le plus-que-parfait se forme avec **avoir** ou **être** à l’imparfait + le participe passé du verbe.",
+        "Exemples : **j’avais vu**, **nous avions terminé**, **elle était partie**."
+      ],
+      [
+        "### Utilisation\n",
+        "On utilise le plus-que-parfait pour parler d’une action accomplie **avant une autre action ou un autre moment dans le passé**.",
+        "Il permet donc de marquer l’antériorité dans un récit au passé."
+      ],
+      [
+        "### Avec être\n",
+        "Avec les verbes conjugués avec **être**, le participe passé s’accorde avec le sujet : **elle était partie**, **ils étaient arrivés**."
+      ]
+    ],
+    "examples": [
+      "Quand le film a commencé, nous avions déjà lu le synopsis.",
+      "Avant de devenir célèbre, elle avait déjà joué dans plusieurs productions.",
+      "Quand il est revenu, ses amis étaient déjà partis."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Une action antérieure dans le passé",
+        "markup": "Quand le film {{temps\:a commencé}}, nous {{contexte\:avions déjà lu}} le synopsis.",
+        "explanation": "**Avions déjà lu** est au plus-que-parfait : cette action a eu lieu avant le début du film.",
+        "sourceSentences": [
+          "Nous avions déjà lu le synopsis.",
+          "Le film a commencé."
+        ]
+      }
+    ]
+  }
+]
