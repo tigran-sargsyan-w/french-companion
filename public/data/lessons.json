@@ -228,5 +228,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_23_2026_08_06"
+  },
+  {
+    "id": "lesson_24_2026_08_07",
+    "number": 24,
+    "title": "Cinéma, Eva Green et plus-que-parfait",
+    "date": "2026-08-07",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_24_2026_08_07"
   }
 ]
