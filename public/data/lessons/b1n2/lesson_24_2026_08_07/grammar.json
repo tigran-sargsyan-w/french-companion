@@ -27,7 +27,7 @@
     "annotatedExamples": [
       {
         "title": "Une action antérieure dans le passé",
-        "markup": "Quand le film {{temps\:a commencé}}, nous {{contexte\:avions déjà lu}} le synopsis.",
+        "markup": "Quand le film {{temps\\:a commencé}}, nous {{contexte\\:avions déjà lu}} le synopsis.",
         "explanation": "**Avions déjà lu** est au plus-que-parfait : cette action a eu lieu avant le début du film.",
         "sourceSentences": [
           "Nous avions déjà lu le synopsis.",
