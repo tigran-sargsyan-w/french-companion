@@ -1,0 +1,114 @@
+[
+  {
+    "id": "v_2026_08_07_ellipse",
+    "french": "une ellipse",
+    "translation": "эллипсис / пропуск промежутка времени",
+    "example": "Le film utilise une ellipse pour passer directement dix ans plus tard.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_dix_ans_apres",
+    "french": "dix ans après",
+    "translation": "десять лет спустя",
+    "example": "Dix ans après, les personnages se retrouvent par hasard.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_plus_tard",
+    "french": "plus tard",
+    "translation": "позже / спустя некоторое время",
+    "example": "Plus tard, elle découvre la vérité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_se_mefier",
+    "french": "se méfier de",
+    "translation": "остерегаться / не доверять",
+    "example": "Le personnage commence à se méfier de son voisin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_innocent",
+    "french": "innocent / innocente",
+    "translation": "невиновный / невиновная",
+    "example": "Il affirme qu’il est innocent.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_punir",
+    "french": "punir",
+    "translation": "наказывать",
+    "example": "Le juge décide de punir le coupable.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_punition",
+    "french": "la punition",
+    "translation": "наказание",
+    "example": "La punition paraît trop sévère.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_parmi",
+    "french": "parmi",
+    "translation": "среди",
+    "example": "Choisis un film parmi la liste proposée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_emouvant",
+    "french": "émouvant / émouvante",
+    "translation": "трогательный / трогательная",
+    "example": "La dernière scène du film est très émouvante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_montage",
+    "french": "le montage",
+    "translation": "монтаж",
+    "example": "Le montage donne beaucoup de rythme au film.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_monter_un_film",
+    "french": "monter un film",
+    "translation": "монтировать фильм",
+    "example": "Il faut plusieurs semaines pour monter ce film.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_monteur",
+    "french": "un monteur / une monteuse",
+    "translation": "монтажёр / монтажёрка",
+    "example": "La monteuse travaille avec le réalisateur sur le rythme des scènes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_producteur",
+    "french": "un producteur / une productrice",
+    "translation": "продюсер / продюсерка",
+    "example": "La productrice finance une partie du film.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_excentrique",
+    "french": "excentrique",
+    "translation": "эксцентричный / эксцентричная",
+    "example": "Le personnage principal a un comportement excentrique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_ecrivain",
+    "french": "un écrivain / une écrivaine",
+    "translation": "писатель / писательница",
+    "example": "Cette écrivaine a adapté son propre roman pour le cinéma.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_07_boucle_temporelle_infinie",
+    "french": "une boucle temporelle infinie",
+    "translation": "бесконечная временная петля",
+    "example": "Le héros est prisonnier d’une boucle temporelle infinie.",
+    "status": "learning"
+  }
+]
