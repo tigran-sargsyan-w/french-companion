@@ -1,0 +1,30 @@
+[
+  {
+    "id": "v_2026_08_10_remettre",
+    "french": "remettre",
+    "translation": "положить / поставить обратно; вернуть",
+    "example": "Je remets le livre à sa place.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_10_pince_a_linge",
+    "french": "une pince à linge",
+    "translation": "прищепка",
+    "example": "J’accroche le linge avec des pinces à linge.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_10_reussir",
+    "french": "réussir",
+    "translation": "добиться успеха / суметь",
+    "example": "Elle a réussi à terminer son travail à temps.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_10_brancher",
+    "french": "brancher",
+    "translation": "подключать / включать в сеть",
+    "example": "Il faut brancher le câble avant d’allumer l’appareil.",
+    "status": "learning"
+  }
+]
