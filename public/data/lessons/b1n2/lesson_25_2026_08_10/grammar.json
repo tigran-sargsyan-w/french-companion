@@ -1,0 +1,54 @@
+[
+  {
+    "id": "g_2026_08_10_gerondif_simultaneite",
+    "title": "Le gérondif et l’expression de la simultanéité",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Formation\n",
+        "Le gérondif se forme avec **en + participe présent**.",
+        "Le gérondif est **invariable**.",
+        "Il peut être précédé de **tout** : **tout en lisant**."
+      ],
+      [
+        "### Exprimer la simultanéité\n",
+        "Quand deux actions ont lieu en même temps, elles sont simultanées. Le cours présente plusieurs moyens de l’exprimer :",
+        "- le **gérondif** : *Elle mange (tout) en lisant.*",
+        "- **en même temps** : *Il étudie et en même temps il travaille.*",
+        "- **à la fois** : *Il est à la fois acteur, danseur, chanteur et acrobate.*",
+        "- **pendant que + indicatif** : *Élisabeth va à la piscine pendant que son mari cuisine.*"
+      ],
+      [
+        "### Exprimer une cause\n",
+        "Dans l’exemple du cours, le gérondif exprime aussi une relation de cause : **Je me suis cassé la jambe en tombant dans les escaliers.**",
+        "Cette idée peut être reformulée avec **car** : **Je me suis cassé la jambe car je suis tombé dans les escaliers.**"
+      ]
+    ],
+    "examples": [
+      "Elle mange tout en lisant.",
+      "Il étudie et en même temps il travaille.",
+      "Élisabeth va à la piscine pendant que son mari cuisine.",
+      "Je me suis cassé la jambe en tombant dans les escaliers."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Deux actions simultanées",
+        "markup": "Elle mange {{gérondif\\:en lisant}}.",
+        "explanation": "Le gérondif **en lisant** présente une action qui se déroule en même temps que l’action principale.",
+        "sourceSentences": [
+          "Elle mange.",
+          "Elle lit."
+        ]
+      },
+      {
+        "title": "Une relation de cause",
+        "markup": "Je me suis cassé la jambe {{cause\\:en tombant dans les escaliers}}.",
+        "explanation": "Dans cet exemple du cours, **en tombant dans les escaliers** indique la cause de l’action principale.",
+        "sourceSentences": [
+          "Je me suis cassé la jambe.",
+          "Je suis tombé dans les escaliers."
+        ]
+      }
+    ]
+  }
+]
