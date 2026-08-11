@@ -248,5 +248,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_25_2026_08_10"
+  },
+  {
+    "id": "lesson_26_2026_08_11",
+    "number": 26,
+    "title": "Antériorité, postériorité et infinitif passé",
+    "date": "2026-08-11",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_26_2026_08_11"
   }
 ]
