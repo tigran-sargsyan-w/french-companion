@@ -1,0 +1,86 @@
+[
+  {
+    "id": "g_2026_08_11_anteriorite_posteriorite_infinitif_passe",
+    "title": "Exprimer l’antériorité et la postériorité",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Avant : exprimer l’antériorité\n",
+        "On utilise **avant** pour situer une action ou un événement avant un autre moment.",
+        "- **avant + nom / date** : *Avant 2020, j’allais souvent au cinéma.*",
+        "- **avant + phrase** : *Avant, je détestais le théâtre.*",
+        "- **avant de + infinitif présent** quand les deux verbes ont le même sujet : *Avant de partir en vacances, Tigran prépare sa valise.*"
+      ],
+      [
+        "### Après : exprimer la postériorité\n",
+        "On utilise **après** pour situer une action ou un événement après un autre moment.",
+        "- **après + nom / date** : *Après mon travail, j’aime sortir avec mes amis.*",
+        "- **après + phrase** : *On boit un verre et après on va au cinéma.*",
+        "- **après + infinitif passé** quand les deux verbes ont le même sujet : *Après avoir préparé sa valise, Tigran part en vacances.*"
+      ],
+      [
+        "### Formation de l’infinitif passé\n",
+        "L’infinitif passé se forme avec **avoir** ou **être** à l’infinitif + le **participe passé** du verbe d’action.",
+        "- **avoir préparé** ;",
+        "- **avoir pu manger** ;",
+        "- **être sorti / sortie** ;",
+        "- **nous être lavés / lavées**."
+      ],
+      [
+        "### Choisir entre avoir et être\n",
+        "Certains verbes peuvent se construire avec **avoir** lorsqu’ils ont un complément d’objet direct, et avec **être** lorsqu’ils expriment ici un déplacement ou un changement de position sans COD.",
+        "| Avec avoir | Avec être |",
+        "|---|---|",
+        "| J’ai passé **un examen**. | Je suis passé **à l’école**. |",
+        "| J’ai sorti **le chien**. | Je suis sorti **en ville**. |",
+        "| J’ai monté **le meuble IKEA**. | Je suis monté **sur la colline**. |",
+        "| J’ai descendu **la valise**. | Je suis descendu **dans le Sud**. |"
+      ],
+      [
+        "### Verbes pronominaux\n",
+        "Avec un verbe pronominal à l’infinitif passé, le pronom réfléchi se place avant **être** : **Après nous être lavés, nous nous sommes habillés.**"
+      ],
+      [
+        "### Négation et infinitif\n",
+        "Avec un infinitif présent ou passé, les éléments de négation se placent avant l’infinitif : **ne pas manger**, **ne pas avoir mangé**."
+      ]
+    ],
+    "examples": [
+      "Avant de partir en vacances, Tigran prépare sa valise.",
+      "Après avoir préparé sa valise, Tigran part en vacances.",
+      "Après être sortie en ville, Katia a regardé un film.",
+      "Après nous être lavés, nous nous sommes habillés.",
+      "Je suis sorti en ville.",
+      "J’ai sorti le chien."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Avant de : même sujet",
+        "markup": "{{temps\\:Avant de}} {{verbe\\:partir}} en vacances, {{sujet\\:Tigran}} prépare sa valise.",
+        "explanation": "**Avant de + infinitif présent** est utilisé ici parce que **Tigran** est le sujet logique des deux actions.",
+        "sourceSentences": [
+          "Tigran prépare sa valise.",
+          "Tigran part en vacances."
+        ]
+      },
+      {
+        "title": "Après : infinitif passé",
+        "markup": "{{temps\\:Après}} {{verbe\\:avoir préparé}} sa valise, {{sujet\\:Tigran}} part en vacances.",
+        "explanation": "L’infinitif passé **avoir préparé** indique que cette action est terminée avant l’action principale **part**.",
+        "sourceSentences": [
+          "Tigran prépare sa valise.",
+          "Tigran part en vacances."
+        ]
+      },
+      {
+        "title": "Verbe pronominal à l’infinitif passé",
+        "markup": "Après {{pronom\\:nous}} {{verbe\\:être lavés}}, nous nous sommes habillés.",
+        "explanation": "Avec un verbe pronominal, le pronom réfléchi précède **être** dans l’infinitif passé : **nous être lavés**.",
+        "sourceSentences": [
+          "Nous nous sommes lavés.",
+          "Nous nous sommes habillés."
+        ]
+      }
+    ]
+  }
+]
