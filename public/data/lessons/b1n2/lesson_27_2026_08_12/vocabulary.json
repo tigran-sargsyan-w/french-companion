@@ -1,0 +1,485 @@
+[
+  {
+    "id": "v_2026_08_12_telephone_portable",
+    "french": "un téléphone portable / un smartphone",
+    "translation": "мобильный телефон / смартфон",
+    "example": "J’utilise mon smartphone pour appeler mes amis.",
+    "status": "learned"
+  },
+  {
+    "id": "v_2026_08_12_ecran_tactile",
+    "french": "un écran tactile",
+    "translation": "сенсорный экран",
+    "example": "L’écran tactile de mon téléphone est cassé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_touche_clavier",
+    "french": "une touche / un clavier",
+    "translation": "кнопка / клавиатура",
+    "example": "J’écris le message avec le clavier du téléphone.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_chargeur",
+    "french": "un chargeur",
+    "translation": "зарядное устройство",
+    "example": "J’ai oublié mon chargeur à la maison.",
+    "status": "learned"
+  },
+  {
+    "id": "v_2026_08_12_ecouteurs",
+    "french": "des écouteurs",
+    "translation": "наушники",
+    "example": "J’écoute un podcast avec mes écouteurs.",
+    "status": "learned"
+  },
+  {
+    "id": "v_2026_08_12_batterie",
+    "french": "une batterie",
+    "translation": "аккумулятор / батарея",
+    "example": "La batterie de mon téléphone est presque vide.",
+    "status": "learned"
+  },
+  {
+    "id": "v_2026_08_12_application",
+    "french": "une application",
+    "translation": "приложение",
+    "example": "Cette application fonctionne sans connexion Internet.",
+    "status": "learned"
+  },
+  {
+    "id": "v_2026_08_12_reseau",
+    "french": "un réseau",
+    "translation": "сеть / мобильная связь",
+    "example": "Je n’ai pas de réseau dans le métro.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_ecran_de_veille",
+    "french": "un écran de veille",
+    "translation": "экран блокировки / заставка",
+    "example": "J’ai changé l’image de mon écran de veille.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_fond_ecran",
+    "french": "un fond d’écran",
+    "translation": "обои / фон экрана",
+    "example": "J’ai mis une photo comme fond d’écran.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_combine",
+    "french": "un combiné",
+    "translation": "телефонная трубка",
+    "example": "Il décroche le combiné pour répondre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_telephoner",
+    "french": "téléphoner à / passer un coup de fil / appeler quelqu’un",
+    "translation": "звонить кому-либо",
+    "example": "Je vais passer un coup de fil à ma sœur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_decrocher_raccrocher",
+    "french": "décrocher / raccrocher",
+    "translation": "снять трубку / ответить; повесить трубку",
+    "example": "Elle décroche, parle quelques minutes puis raccroche.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_composer_numero",
+    "french": "composer le numéro",
+    "translation": "набрать номер",
+    "example": "Compose le numéro qui est affiché à l’écran.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_correspondant",
+    "french": "un correspondant",
+    "translation": "собеседник по телефону / абонент",
+    "example": "Mon correspondant ne m’entend pas bien.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_repondeur",
+    "french": "un répondeur / tomber sur le répondeur",
+    "translation": "автоответчик / попасть на автоответчик",
+    "example": "Je suis tombé sur son répondeur et j’ai laissé un message.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_raccrocher_au_nez",
+    "french": "raccrocher au nez de quelqu’un",
+    "translation": "бросить трубку во время разговора",
+    "example": "Il s’est énervé et m’a raccroché au nez.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_etre_pendu_telephone",
+    "french": "être pendu au téléphone / passer sa vie au téléphone",
+    "translation": "постоянно висеть на телефоне",
+    "example": "Il est toujours pendu au téléphone.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_joindre_rejoindre",
+    "french": "joindre quelqu’un / rejoindre quelqu’un",
+    "translation": "связаться с кем-либо / присоединиться к кому-либо, встретить",
+    "example": "Je n’arrive pas à joindre Paul par téléphone, mais je vais le rejoindre au café.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_ligne_derangement",
+    "french": "la ligne est en dérangement",
+    "translation": "линия неисправна",
+    "example": "Je ne peux pas appeler : la ligne est en dérangement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_friture",
+    "french": "il y a de la friture",
+    "translation": "помехи на линии",
+    "example": "Il y a de la friture, je t’entends très mal.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_sonner_occupe",
+    "french": "ça sonne occupé",
+    "translation": "занято",
+    "example": "J’ai appelé plusieurs fois, mais ça sonne occupé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_injoignable",
+    "french": "être injoignable",
+    "translation": "быть недоступным для связи",
+    "example": "Il est injoignable depuis ce matin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_facture_salee",
+    "french": "une facture téléphonique salée",
+    "translation": "очень большой счёт за телефон",
+    "example": "Après le voyage, j’ai reçu une facture téléphonique salée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_hors_forfait",
+    "french": "être hors-forfait / dépasser son forfait",
+    "translation": "превысить тарифный пакет",
+    "example": "J’ai dépassé mon forfait de données mobiles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_crier_hurler_gueuler",
+    "french": "crier / hurler / gueuler",
+    "translation": "кричать / орать",
+    "example": "Il ne faut pas gueuler pour se faire comprendre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_begayer_bafouiller",
+    "french": "bégayer / bafouiller",
+    "translation": "заикаться / говорить сбивчиво",
+    "example": "Quand il est stressé, il commence à bafouiller.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_articuler",
+    "french": "articuler",
+    "translation": "чётко произносить",
+    "example": "Articule bien pour que tout le monde te comprenne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_chuchoter_murmurer",
+    "french": "parler à voix basse / chuchoter / murmurer",
+    "translation": "говорить тихо / шептать",
+    "example": "Ils chuchotent pour ne pas déranger les autres.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_marmonner",
+    "french": "marmonner",
+    "translation": "бормотать под нос / говорить невнятно",
+    "example": "Il marmonne constamment.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_radoter_rabacher",
+    "french": "radoter / rabâcher",
+    "translation": "повторять одно и то же",
+    "example": "Il rabâche toujours la même histoire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_entamer_conversation",
+    "french": "engager / entamer la conversation",
+    "translation": "начать разговор",
+    "example": "Elle a entamé la conversation avec son voisin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_bavarder_papoter",
+    "french": "parler / discuter / bavarder / papoter / causer",
+    "translation": "разговаривать / болтать",
+    "example": "Nous avons papoté pendant toute la pause.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_convaincre_persuader",
+    "french": "convaincre / persuader",
+    "translation": "убеждать",
+    "example": "Elle essaie de me convaincre de désinstaller l’application.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_debattre",
+    "french": "débattre",
+    "translation": "дискутировать / обсуждать",
+    "example": "Nous avons débattu des avantages du smartphone.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_mettre_au_courant",
+    "french": "mettre quelqu’un au courant",
+    "translation": "держать кого-либо в курсе / сообщить",
+    "example": "Tiens-moi au courant de la situation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_prendre_parole",
+    "french": "prendre la parole / intervenir",
+    "translation": "взять слово / выступить",
+    "example": "Elle a pris la parole pour donner son avis.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_couper_parole",
+    "french": "interrompre quelqu’un / couper la parole à quelqu’un",
+    "translation": "перебить кого-либо",
+    "example": "Évite de couper la parole aux autres.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_se_disputer",
+    "french": "se disputer / s’engueuler",
+    "translation": "ссориться / ругаться",
+    "example": "Ils se sont disputés à cause d’un malentendu.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_dialogue_sourds",
+    "french": "un dialogue de sourds",
+    "translation": "разговор глухих; разговор без взаимопонимания",
+    "example": "La discussion est devenue un véritable dialogue de sourds.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_se_plaindre",
+    "french": "râler / se plaindre",
+    "translation": "ворчать / жаловаться",
+    "example": "Il se plaint souvent de la qualité du réseau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_sous_entendu",
+    "french": "un sous-entendu / insinuer",
+    "translation": "намёк / намекать",
+    "example": "Je n’aime pas les sous-entendus : parle clairement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_se_taire",
+    "french": "se taire",
+    "translation": "молчать / замолчать",
+    "example": "Il s’est tu pour écouter les autres.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_commerage",
+    "french": "un commérage / des ragots / des potins",
+    "translation": "сплетня / слухи",
+    "example": "Je préfère éviter les ragots au travail.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_monologuer",
+    "french": "monologuer / parler seul",
+    "translation": "говорить монологом / говорить одному",
+    "example": "Il monologue depuis dix minutes sans laisser les autres répondre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_se_vanter",
+    "french": "se vanter",
+    "translation": "хвастаться",
+    "example": "Il se vante toujours de ses réussites.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_bavard",
+    "french": "être bavard / volubile / un moulin à paroles / une pipelette",
+    "translation": "быть разговорчивым / болтуном",
+    "example": "Mon voisin est un vrai moulin à paroles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_bagout",
+    "french": "avoir du bagout / avoir la langue bien pendue",
+    "translation": "быть бойким на язык / красноречивым",
+    "example": "Elle a du bagout et parle facilement avec tout le monde.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_franc_direct",
+    "french": "être franc / sincère / direct / honnête / parler sans détour",
+    "translation": "быть откровенным / искренним / прямым / честным",
+    "example": "Il est très direct et parle sans détour.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_baratineur",
+    "french": "un baratineur / un beau parleur",
+    "translation": "болтун / краснобай",
+    "example": "Méfie-toi de ce beau parleur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_eloquent",
+    "french": "être éloquent / s’exprimer avec aisance",
+    "translation": "быть красноречивым / легко выражаться",
+    "example": "Elle s’exprime avec aisance devant un public.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_persuasif",
+    "french": "être persuasif / convaincant",
+    "translation": "быть убедительным",
+    "example": "Son argument était très convaincant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_taciturne",
+    "french": "être muet / silencieux / timide / réservé / taciturne / introverti",
+    "translation": "быть молчаливым / тихим / застенчивым / сдержанным / замкнутым",
+    "example": "Il est plutôt réservé et parle peu en groupe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_tenir_parole",
+    "french": "tenir sa parole / n’avoir qu’une parole",
+    "translation": "держать слово",
+    "example": "Il a promis de venir et il tient toujours sa parole.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_malentendu",
+    "french": "un malentendu",
+    "translation": "недоразумение/недопонимание(более негативное значение, чем quiproquo)",
+    "example": "Tout est parti d’un simple malentendu.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_quiproquo",
+    "french": "un quiproquo",
+    "translation": "недопонимание",
+    "example": "Tout est parti d’un simple quiproquo.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_parler_pluie_beau_temps",
+    "french": "parler de la pluie et du beau temps",
+    "translation": "вести светскую беседу ни о чём",
+    "example": "En attendant le bus, nous avons parlé de la pluie et du beau temps.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_appeler_chat_chat",
+    "french": "appeler un chat un chat",
+    "translation": "называть вещи своими именами",
+    "example": "Il préfère appeler un chat un chat.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_puis",
+    "french": "puis",
+    "translation": "затем / потом",
+    "example": "Je termine mon travail, puis je rentre chez moi.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_visioconference",
+    "french": "une visioconférence",
+    "translation": "видеоконференция",
+    "example": "Nous avons une visioconférence avec l’équipe demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_leche_vitrine",
+    "french": "faire du lèche-vitrine",
+    "translation": "рассматривать витрины / ходить по магазинам без покупок",
+    "example": "Le samedi, j’aime faire du lèche-vitrine en ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_chiner",
+    "french": "chiner",
+    "translation": "искать интересные вещи на барахолках / в антикварных магазинах",
+    "example": "Elle aime chiner dans les brocantes le dimanche.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_eteindre_allumer",
+    "french": "éteindre / allumer",
+    "translation": "выключать / включать",
+    "example": "Éteins ton téléphone avant le spectacle et rallume-le après.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_mensonge",
+    "french": "un mensonge",
+    "translation": "ложь",
+    "example": "Il a reconnu que son histoire était un mensonge.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_agenda",
+    "french": "un agenda",
+    "translation": "ежедневник / календарь",
+    "example": "Je note mes rendez-vous dans mon agenda.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_pellicule",
+    "french": "une pellicule",
+    "translation": "фотоплёнка",
+    "example": "Cet ancien appareil photo fonctionne avec une pellicule.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_developper",
+    "french": "développer",
+    "translation": "развивать; проявлять фотоплёнку",
+    "example": "Avant le numérique, on faisait développer les photos en laboratoire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_diversite",
+    "french": "la diversité",
+    "translation": "разнообразие",
+    "example": "La diversité des usages du smartphone est impressionnante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_maraudes_sociales",
+    "french": "les maraudes sociales",
+    "translation": "социальные выезды для помощи людям на улице",
+    "example": "Des bénévoles participent à des maraudes sociales pour aider les personnes sans-abri.",
+    "status": "learning"
+  }
+]
