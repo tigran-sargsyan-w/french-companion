@@ -4,7 +4,7 @@
     "french": "un téléphone portable / un smartphone",
     "translation": "мобильный телефон / смартфон",
     "example": "J’utilise mon smartphone pour appeler mes amis.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_12_ecran_tactile",
@@ -25,28 +25,28 @@
     "french": "un chargeur",
     "translation": "зарядное устройство",
     "example": "J’ai oublié mon chargeur à la maison.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_12_ecouteurs",
     "french": "des écouteurs",
     "translation": "наушники",
     "example": "J’écoute un podcast avec mes écouteurs.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_12_batterie",
     "french": "une batterie",
     "translation": "аккумулятор / батарея",
     "example": "La batterie de mon téléphone est presque vide.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_12_application",
     "french": "une application",
     "translation": "приложение",
     "example": "Cette application fonctionne sans connexion Internet.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_12_reseau",
@@ -203,6 +203,13 @@
     "status": "learning"
   },
   {
+    "id": "v_2026_08_12_marmonner",
+    "french": "marmonner",
+    "translation": "бормотать под нос / говорить невнятно",
+    "example": "Il marmonne constamment.",
+    "status": "learning"
+  },
+  {
     "id": "v_2026_08_12_radoter_rabacher",
     "french": "radoter / rabâcher",
     "translation": "повторять одно и то же",
@@ -295,7 +302,7 @@
   },
   {
     "id": "v_2026_08_12_commerage",
-    "french": "un commérage / des ragots",
+    "french": "un commérage / des ragots / des potins",
     "translation": "сплетня / слухи",
     "example": "Je préfère éviter les ragots au travail.",
     "status": "learning"
@@ -373,8 +380,15 @@
   {
     "id": "v_2026_08_12_malentendu",
     "french": "un malentendu",
-    "translation": "недоразумение",
+    "translation": "недоразумение/недопонимание(более негативное значение, чем quiproquo)",
     "example": "Tout est parti d’un simple malentendu.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_12_quiproquo",
+    "french": "un quiproquo",
+    "translation": "недопонимание",
+    "example": "Tout est parti d’un simple quiproquo.",
     "status": "learning"
   },
   {
