@@ -258,5 +258,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_26_2026_08_11"
+  },
+  {
+    "id": "lesson_27_2026_08_12",
+    "number": 27,
+    "title": "Smartphone, téléphone et communication",
+    "date": "2026-08-12",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_27_2026_08_12"
   }
 ]
