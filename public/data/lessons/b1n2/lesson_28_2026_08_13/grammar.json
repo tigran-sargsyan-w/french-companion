@@ -1,0 +1,64 @@
+[
+  {
+    "id": "g_2026_08_13_concession",
+    "title": "Exprimer la concession",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Principe\n",
+        "La concession met en relation deux faits qui semblent contradictoires ou opposés."
+      ],
+      [
+        "### Constructions principales\n",
+        "- **même si + indicatif** : introduit un fait réel ou envisagé qui ne change pas le résultat ;",
+        "- **bien que + subjonctif** : introduit un fait reconnu malgré lequel la proposition principale reste vraie ;",
+        "- **malgré + nom / pronom** : exprime la concession sans proposition verbale."
+      ],
+      [
+        "### Adverbes de concession\n",
+        "- **pourtant**, **cependant**, **néanmoins** peuvent relier deux phrases ou deux idées contradictoires ;",
+        "- **quand même** se place généralement après le verbe et apparaît souvent dans une phrase introduite par **mais**."
+      ]
+    ],
+    "examples": [
+      "Même si les Français sont hyperconnectés, certains ont des difficultés avec le numérique.",
+      "Bien qu'Internet rende le quotidien plus facile, il exclut les personnes qui ne sont pas autonomes en ligne.",
+      "Malgré mes efforts, je ne sais pas bien utiliser les applis de mon téléphone.",
+      "J'ai beaucoup d'applis. Pourtant, j'en utilise peu.",
+      "L'accès à Internet semble facile, mais des personnes ont quand même besoin d'aide."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_08_13_rappel_subjonctif_present",
+    "title": "Rappel : formation du subjonctif présent",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Formation générale\n",
+        "Pour **je, tu, il/elle/on, ils/elles**, on part généralement de la forme **ils/elles** du présent de l'indicatif, on retire **-ent**, puis on ajoute les terminaisons **-e, -es, -e, -ent**."
+      ],
+      [
+        "### Nous et vous\n",
+        "Pour **nous** et **vous**, les formes correspondent souvent à celles de l'imparfait : **-ions** et **-iez**."
+      ],
+      [
+        "### Exemple avec boire\n",
+        "| Personne | Subjonctif présent |",
+        "|---|---|",
+        "| que je | boive |",
+        "| que tu | boives |",
+        "| qu'il / elle / on | boive |",
+        "| que nous | buvions |",
+        "| que vous | buviez |",
+        "| qu'ils / elles | boivent |"
+      ]
+    ],
+    "examples": [
+      "Il faut que je boive davantage d'eau.",
+      "Bien que nous buvions peu de café, nous en achetons régulièrement.",
+      "Je préfère que vous buviez de l'eau."
+    ],
+    "annotatedExamples": []
+  }
+]
