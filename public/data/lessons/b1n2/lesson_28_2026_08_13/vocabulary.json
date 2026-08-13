@@ -21,6 +21,104 @@
     "status": "learning"
   },
   {
+    "id": "v_2026_08_13_enervement",
+    "french": "de l'énervement",
+    "translation": "раздражение, нервозность",
+    "example": "L'énervement peut survenir lorsqu'on est constamment connecté et qu'on ne parvient pas à se déconnecter.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_colere",
+    "french": "de la colère",
+    "translation": "гнев, злость",
+    "example": "La colère peut survenir lorsqu'on est constamment connecté et qu'on ne parvient pas à se déconnecter.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_illetyrisme",
+    "french": "de l'illettrisme numérique",
+    "translation": "цифровая неграмотность",
+    "example": "L'illettrisme numérique peut empêcher certaines personnes d'accéder facilement aux services en ligne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_malgre",
+    "french": "malgré",
+    "translation": "несмотря на",
+    "example": "Malgré les efforts pour réduire l'illettrisme numérique, certaines personnes restent exclues.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_lucratif",
+    "french": "lucratif",
+    "translation": "прибыльный",
+    "example": "Un projet lucratif peut attirer des investisseurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_caritatif",
+    "french": "caritatif",
+    "translation": "благотворительный",
+    "example": "Un projet caritatif peut aider les personnes dans le besoin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_concession",
+    "french": "concession",
+    "translation": "концессия / уступка",
+    "example": "Une concession peut être accordée pour l'utilisation d'un territoire ou d'une ressource.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_nuancer",
+    "french": "nuancer",
+    "translation": "уточнять, ослаблять",
+    "example": "Il faut nuancer les affirmations pour éviter les malentendus.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_obstacle",
+    "french": "obstacle",
+    "translation": "препятствие",
+    "example": "L'obstacle peut être un manque de ressources ou une barrière technique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_amical",
+    "french": "amical",
+    "translation": "дружелюбный, приятный",
+    "example": "Un environnement amical favorise le bien-être des utilisateurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_meme_si",
+    "french": "même si",
+    "translation": "даже если / хотя",
+    "example": "Même si beaucoup de personnes sont hyperconnectées, certaines ont encore des difficultés avec le numérique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_bien_que",
+    "french": "bien que",
+    "translation": "хотя / несмотря на то что",
+    "example": "Bien que beaucoup de personnes soient hyperconnectées, certaines ont encore des difficultés avec le numérique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_quand_meme",
+    "french": "quand même",
+    "translation": "тем не менее",
+    "example": "Quand même, beaucoup de personnes sont hyperconnectées.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_pourtant_cependant_neanmoins",
+    "french": "pourtant / cependant / néanmoins",
+    "translation": "тем не менее / всё же / однако",
+    "example": "Pourtant, beaucoup de personnes sont hyperconnectées.",
+    "status": "learning"
+  },
+  {
     "id": "v_2026_08_13_exclure",
     "french": "exclure",
     "translation": "исключать",
