@@ -268,5 +268,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_27_2026_08_12"
+  },
+  {
+    "id": "lesson_28_2026_08_13",
+    "number": 28,
+    "title": "Inégalité numérique et expression de la concession",
+    "date": "2026-08-13",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_28_2026_08_13"
   }
 ]

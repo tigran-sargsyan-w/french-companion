@@ -1,0 +1,30 @@
+[
+  {
+    "id": "v_2026_08_13_inegalite_numerique",
+    "french": "une inégalité numérique",
+    "translation": "цифровое неравенство",
+    "example": "L'inégalité numérique peut empêcher certaines personnes d'accéder facilement aux services en ligne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_hyperconnecte",
+    "french": "être hyperconnecté(e)",
+    "translation": "быть постоянно подключённым к цифровым сервисам",
+    "example": "Même si beaucoup de personnes sont hyperconnectées, certaines ont encore des difficultés avec le numérique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_autonome_en_ligne",
+    "french": "être autonome en ligne",
+    "translation": "самостоятельно пользоваться онлайн-сервисами",
+    "example": "Certaines personnes ne sont pas encore autonomes en ligne et ont besoin d'aide.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_13_exclure",
+    "french": "exclure",
+    "translation": "исключать",
+    "example": "Le numérique peut exclure les personnes qui ne maîtrisent pas les outils en ligne.",
+    "status": "learning"
+  }
+]
