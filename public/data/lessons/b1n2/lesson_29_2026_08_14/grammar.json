@@ -1,0 +1,108 @@
+[
+  {
+    "id": "g_2026_08_14_stresse_stressant",
+    "title": "Stressé(e) ou stressant(e)",
+    "category": "Adjectives",
+    "summary": [
+      [
+        "### Différence de sens\n",
+        "- **être stressé(e)** décrit la personne qui ressent du stress ;",
+        "- **être stressant(e)** décrit une personne, une situation ou une chose qui provoque du stress.",
+        "On retrouve la même opposition dans d'autres paires comme **fatigué / fatigant** ou **intéressé / intéressant**."
+      ]
+    ],
+    "examples": [
+      "Je suis stressé avant l'examen.",
+      "Cet examen est stressant."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "La personne ressent l'émotion",
+        "markup": "Je suis {{adjectif:stressé}} avant l'examen.",
+        "explanation": "**Stressé** décrit l'état ou l'émotion ressentie par la personne.",
+        "sourceSentences": [
+          "Je ressens du stress.",
+          "Je suis stressé avant l'examen."
+        ]
+      },
+      {
+        "title": "La situation provoque l'émotion",
+        "markup": "Cet examen est {{adjectif:stressant}}.",
+        "explanation": "**Stressant** décrit ce qui provoque le stress.",
+        "sourceSentences": [
+          "Cet examen provoque du stress.",
+          "Cet examen est stressant."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_08_14_pronoms_indefinis",
+    "title": "Les pronoms indéfinis",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Adjectif indéfini ou pronom indéfini ?\n",
+        "Un **adjectif indéfini** accompagne un nom : **quelques personnes**, **chaque personne**, **certains élèves**.",
+        "Un **pronom indéfini** remplace le nom et s'emploie seul comme sujet ou complément : **quelques-uns**, **chacun**, **certains**."
+      ],
+      [
+        "### Quantité nulle\n",
+        "- **personne** s'emploie pour parler d'individus ;",
+        "- **rien** s'emploie pour parler de choses ou d'idées ;",
+        "- **aucun / aucune** représente zéro élément et reste au singulier.",
+        "Dans les emplois étudiés en cours, ces formes apparaissent dans des phrases négatives : *Je ne connais personne.* — *Il ne dit rien.* — *Aucun ne m'intéresse.*"
+      ],
+      [
+        "### Quantité indéterminée ou petite quantité\n",
+        "- **quelqu'un** désigne une personne non identifiée ;",
+        "- **quelque chose** désigne un objet ou une idée non précisés ;",
+        "- **quelques-uns / quelques-unes** désigne un petit nombre d'éléments ;",
+        "- **certains / certaines** désigne une partie d'un groupe ;",
+        "- **les uns / les unes — les autres** permet d'opposer ou de répartir les membres d'un groupe."
+      ],
+      [
+        "### Quantité importante et majorité\n",
+        "- **plusieurs** indique un nombre important mais non précisé ;",
+        "- **la plupart** désigne presque la totalité d'un groupe."
+      ],
+      [
+        "### Totalité\n",
+        "- **chacun / chacune** considère tous les membres d'un groupe un par un et reste au singulier ;",
+        "- **tout** peut représenter une totalité envisagée dans son ensemble ;",
+        "- **tous / toutes** remplace un groupe au pluriel."
+      ],
+      [
+        "### Tableau récapitulatif\n",
+        "| Avec un nom | Employé seul comme pronom |",
+        "|---|---|",
+        "| aucun / aucune | aucun / aucune |",
+        "| — | personne |",
+        "| — | rien |",
+        "| chaque | chacun / chacune |",
+        "| certains / certaines | certains / certaines |",
+        "| quelques | quelques-uns / quelques-unes |",
+        "| — | quelqu'un / quelque chose |",
+        "| plusieurs | plusieurs |",
+        "| tout / tous / toutes | tout / tous / toutes |"
+      ]
+    ],
+    "examples": [
+      "Je ne connais personne.",
+      "Personne n'est arrivé.",
+      "Il ne dit rien.",
+      "Rien n'est facile dans la grammaire.",
+      "Parmi ces livres, aucun ne m'intéresse.",
+      "Quelqu'un a appelé ce matin.",
+      "J'ai beaucoup d'applis ; quelques-unes sont très utiles.",
+      "Dans ma famille, certains n'ont pas Internet.",
+      "Les uns parlent anglais, les autres parlent allemand.",
+      "Des applis, j'en ai plusieurs.",
+      "J'ai beaucoup d'applis ; la plupart sont utiles.",
+      "J'ai beaucoup d'applis ; toutes sont utiles.",
+      "Tout est parfait.",
+      "Chacun est libre de ses choix."
+    ],
+    "annotatedExamples": []
+  }
+]
