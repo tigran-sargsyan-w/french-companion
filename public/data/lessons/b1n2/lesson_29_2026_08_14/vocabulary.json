@@ -1,0 +1,100 @@
+[
+  {
+    "id": "v_2026_08_14_la_une",
+    "french": "la une",
+    "translation": "первая полоса / обложка",
+    "example": "Cette photo a fait la une de plusieurs journaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_narcissisme",
+    "french": "le narcissisme",
+    "translation": "нарциссизм",
+    "example": "Le texte pose la question du narcissisme lié aux selfies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_narcissique",
+    "french": "narcissique",
+    "translation": "нарциссический / самовлюблённый",
+    "example": "Ce comportement peut sembler narcissique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_egocentrisme",
+    "french": "l'égocentrisme",
+    "translation": "эгоцентризм",
+    "example": "L'égocentrisme consiste à tout ramener à soi.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_egocentrique",
+    "french": "égocentrique",
+    "translation": "эгоцентричный",
+    "example": "Une personne égocentrique pense surtout à elle-même.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_faire_le_buzz",
+    "french": "faire le buzz",
+    "translation": "вызвать шумиху / стать вирусным",
+    "example": "Sa publication a fait le buzz sur les réseaux sociaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_clin_d_oeil",
+    "french": "un clin d'œil",
+    "translation": "подмигивание / намёк",
+    "example": "Le réalisateur fait un clin d'œil à un vieux film.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_attirer",
+    "french": "attirer",
+    "translation": "привлекать",
+    "example": "Cette image attire immédiatement l'attention.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_deception",
+    "french": "une déception",
+    "translation": "разочарование",
+    "example": "Le résultat a été une grande déception.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_perturbe",
+    "french": "perturbé(e)",
+    "translation": "расстроенный / нарушенный / нестабильный",
+    "example": "Il semble perturbé par ce qui vient de se passer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_anormal",
+    "french": "anormal(e)",
+    "translation": "ненормальный / необычный",
+    "example": "Ce comportement lui paraît anormal.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_stresse",
+    "french": "stressé(e)",
+    "translation": "испытывающий стресс / напряжённый",
+    "example": "Je suis stressé avant un examen important.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_stressant",
+    "french": "stressant(e)",
+    "translation": "вызывающий стресс / напряжённый",
+    "example": "Un examen peut être très stressant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_14_a_tes_souhaits",
+    "french": "À tes souhaits !",
+    "translation": "Будь здоров! / Будь здорова!",
+    "example": "— Atchoum ! — À tes souhaits !",
+    "status": "learning"
+  }
+]

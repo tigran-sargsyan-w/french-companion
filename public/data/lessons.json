@@ -278,5 +278,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_28_2026_08_13"
+  },
+  {
+    "id": "lesson_29_2026_08_14",
+    "number": 29,
+    "title": "Concession, selfies et pronoms indéfinis",
+    "date": "2026-08-14",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_29_2026_08_14"
   }
 ]
