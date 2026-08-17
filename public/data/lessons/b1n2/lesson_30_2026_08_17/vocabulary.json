@@ -1,0 +1,114 @@
+[
+  {
+    "id": "v_2026_08_17_ordures",
+    "french": "des ordures",
+    "translation": "мусор / бытовые отходы",
+    "example": "Il faut jeter les ordures dans la bonne poubelle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_maladroit",
+    "french": "maladroit(e)",
+    "translation": "неуклюжий / неловкий",
+    "example": "Je suis parfois maladroit quand je suis stressé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_ordonne",
+    "french": "ordonné(e)",
+    "translation": "организованный / аккуратный",
+    "example": "Elle est très ordonnée et range toujours ses affaires.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_ampoule",
+    "french": "une ampoule",
+    "translation": "лампочка",
+    "example": "Il faut changer l’ampoule de la lampe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_genereux",
+    "french": "généreux / généreuse",
+    "translation": "щедрый / щедрая",
+    "example": "C’est une personne généreuse qui aime aider les autres.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_radin",
+    "french": "radin(e)",
+    "translation": "скупой / жадный",
+    "example": "Il est un peu radin et n’aime pas dépenser son argent.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_suivre",
+    "french": "suivre",
+    "translation": "следить / подписываться / следовать",
+    "example": "Je suis plusieurs créateurs sur les réseaux sociaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_il_suffit_de",
+    "french": "il suffit de + infinitif",
+    "translation": "достаточно что-либо сделать",
+    "example": "Il suffit de cliquer sur ce bouton pour suivre le compte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_douter",
+    "french": "douter",
+    "translation": "сомневаться",
+    "example": "Je doute de la fiabilité de cette information.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_doute",
+    "french": "un doute",
+    "translation": "сомнение",
+    "example": "J’ai un doute sur l’origine de cette publication.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_fil_actualite",
+    "french": "un fil d’actualité",
+    "translation": "новостная лента",
+    "example": "Je consulte mon fil d’actualité le matin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_etre_addict",
+    "french": "être addict(e)",
+    "translation": "быть зависимым / зависимой",
+    "example": "Certaines personnes sont addicts aux réseaux sociaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_addiction",
+    "french": "une addiction",
+    "translation": "зависимость",
+    "example": "L’addiction aux écrans peut modifier les habitudes quotidiennes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_habitude",
+    "french": "une habitude",
+    "translation": "привычка",
+    "example": "Regarder son téléphone au réveil est une habitude courante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_micro_trottoir",
+    "french": "un micro-trottoir",
+    "translation": "уличный опрос",
+    "example": "Le journaliste réalise un micro-trottoir sur les usages d’Internet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_17_contenu",
+    "french": "un contenu",
+    "translation": "контент / содержимое",
+    "example": "Ce réseau social propose beaucoup de contenu vidéo.",
+    "status": "learning"
+  }
+]
