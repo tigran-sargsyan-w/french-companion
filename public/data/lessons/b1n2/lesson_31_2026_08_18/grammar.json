@@ -1,0 +1,89 @@
+[
+  {
+    "id": "g_2026_08_18_exprimer_but",
+    "title": "Exprimer le but",
+    "category": "Prepositions",
+    "summary": [
+      [
+        "### Avec le même sujet\n",
+        "- **pour + infinitif** exprime un but de manière courante ;",
+        "- **afin de + infinitif** exprime le même rapport dans un registre plus soutenu."
+      ],
+      [
+        "### Avec des sujets différents\n",
+        "- **pour que + subjonctif** s’emploie lorsque les deux verbes ont des sujets différents ;",
+        "- **afin que + subjonctif** fonctionne de la même manière dans un registre plus soutenu."
+      ]
+    ],
+    "examples": [
+      "Il fait des vidéos sur YouTube pour expliquer les maths.",
+      "Elle parle des sciences sur YouTube afin de partager sa passion.",
+      "Elle poste des vidéos pour que les sciences soient accessibles aux jeunes.",
+      "Les youtubeurs font des vidéos dynamiques afin que les jeunes aient envie de les regarder."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Même sujet",
+        "markup": "Il fait des vidéos sur YouTube {{but:pour}} {{verbe:expliquer}} les maths.",
+        "explanation": "Le sujet de **fait** et de **expliquer** est le même : on utilise **pour + infinitif**.",
+        "sourceSentences": [
+          "Il fait des vidéos sur YouTube pour expliquer les maths."
+        ]
+      },
+      {
+        "title": "Sujets différents",
+        "markup": "Elle poste des vidéos {{but:pour que}} les sciences {{verbe:soient}} accessibles aux jeunes.",
+        "explanation": "Les sujets sont différents : **elle** poste les vidéos et **les sciences** doivent être accessibles. On utilise donc **pour que + subjonctif**.",
+        "sourceSentences": [
+          "Elle poste des vidéos pour que les sciences soient accessibles aux jeunes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_08_18_opinion_subjonctif",
+    "title": "Exprimer une opinion avec le subjonctif",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Structures travaillées\n",
+        "Pour exprimer une réaction ou une appréciation, on peut utiliser un **adjectif** ou un **adverbe**, suivi de **que + subjonctif**.\n",
+        "- **c’est + adjectif / adverbe + que + subjonctif** ;",
+        "- **je trouve ça + adjectif / adverbe + que + subjonctif** ;",
+        "- **ça me rend + adjectif + que + subjonctif**."
+      ]
+    ],
+    "examples": [
+      "C’est super que les jeunes apprennent grâce à YouTube.",
+      "Je trouve ça formidable que les gens aient envie d’apprendre sur YouTube.",
+      "Ça me rend triste que des gens soient victimes d’arnaques."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Réaction personnelle",
+        "markup": "Je trouve ça {{opinion:formidable}} que les gens {{verbe:aient}} envie d’apprendre sur YouTube.",
+        "explanation": "Après cette structure d’appréciation introduite par **que**, le verbe **avoir** est au subjonctif : **aient**.",
+        "sourceSentences": [
+          "Je trouve ça formidable que les gens aient envie d’apprendre sur YouTube."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_08_18_pourquoi_pour_quoi",
+    "title": "Pourquoi et pour quoi",
+    "category": "Questions",
+    "summary": [
+      [
+        "### Distinction\n",
+        "- **pourquoi** signifie **pour quelle raison ?** et sert à demander la cause ;",
+        "- **pour quoi** signifie **pour quelle chose ? / dans quel but ?** lorsque **pour** garde son sens propre devant **quoi**."
+      ]
+    ],
+    "examples": [
+      "Pourquoi apprends-tu le français ?",
+      "Pour quoi utilises-tu cette plateforme ?"
+    ],
+    "annotatedExamples": []
+  }
+]
