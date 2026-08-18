@@ -1,0 +1,128 @@
+[
+  {
+    "id": "v_2026_08_18_chaine",
+    "french": "une chaîne",
+    "translation": "канал (например, на YouTube)",
+    "example": "Elle publie chaque semaine une nouvelle vidéo sur sa chaîne YouTube.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_canal",
+    "french": "un canal",
+    "translation": "канал (например, в Telegram)",
+    "example": "Le professeur partage les informations sur un canal Telegram.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_cartonner",
+    "french": "cartonner",
+    "translation": "иметь большой успех / быть хитом",
+    "example": "Sa dernière vidéo a cartonné sur Internet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_cauchemar",
+    "french": "un cauchemar",
+    "translation": "кошмар",
+    "example": "Perdre toutes ses données peut devenir un vrai cauchemar.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_emerveillement",
+    "french": "l’émerveillement",
+    "translation": "восхищение / изумление",
+    "example": "Cette découverte provoque l’émerveillement des visiteurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_attirer",
+    "french": "attirer",
+    "translation": "привлекать",
+    "example": "Un bon titre peut attirer de nouveaux internautes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_attirant",
+    "french": "attirant(e)",
+    "translation": "привлекательный / привлекательная",
+    "example": "La présentation de cette plateforme est très attirante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_captiver",
+    "french": "captiver",
+    "translation": "увлекать / захватывать внимание",
+    "example": "Cette vidéo réussit à captiver le public dès les premières secondes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_captivant",
+    "french": "captivant(e)",
+    "translation": "увлекательный / захватывающий",
+    "example": "Le documentaire est court mais captivant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_internaute",
+    "french": "un / une internaute",
+    "translation": "пользователь / пользовательница Интернета",
+    "example": "Chaque internaute doit vérifier la source d’une information.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_mal_percu",
+    "french": "mal perçu(e)",
+    "translation": "плохо воспринимаемый / воспринимаемая",
+    "example": "Ce type de publicité est parfois mal perçu par les internautes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_communaute",
+    "french": "une communauté",
+    "translation": "сообщество",
+    "example": "Cette chaîne rassemble une grande communauté en ligne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_piraterie",
+    "french": "la piraterie",
+    "translation": "пиратство",
+    "example": "La piraterie numérique pose des problèmes aux créateurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_piratage",
+    "french": "le piratage",
+    "translation": "взлом / нелегальное копирование",
+    "example": "Le piratage d’un compte peut avoir de graves conséquences.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_sdf",
+    "french": "un SDF / une SDF (sans domicile fixe)",
+    "translation": "бездомный / бездомная; человек без постоянного места жительства",
+    "example": "L’association aide des personnes sans domicile fixe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_chercheur",
+    "french": "un chercheur / une chercheuse",
+    "translation": "исследователь / исследовательница",
+    "example": "Cette chercheuse étudie les usages du numérique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_savant",
+    "french": "un savant / une savante",
+    "translation": "учёный / учёная; эрудит",
+    "example": "Ce savant a consacré sa vie à la recherche.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_18_epreuve",
+    "french": "une épreuve",
+    "translation": "испытание / экзамен / трудность",
+    "example": "Cet examen est une épreuve importante pour les étudiants.",
+    "status": "learning"
+  }
+]
