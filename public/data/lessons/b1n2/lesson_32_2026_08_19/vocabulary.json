@@ -1,0 +1,86 @@
+[
+  {
+    "id": "v_2026_08_19_rediger",
+    "french": "rédiger",
+    "translation": "составлять / писать (в более формальном стиле)",
+    "example": "Je dois rédiger un message clair pour expliquer le problème.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_19_se_mefier",
+    "french": "se méfier de",
+    "translation": "остерегаться / не доверять",
+    "example": "Il faut se méfier des messages qui demandent un mot de passe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_19_renseignement",
+    "french": "un renseignement",
+    "translation": "сведения / информация",
+    "example": "Ne donnez pas de renseignements personnels à un site inconnu.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_19_proteger",
+    "french": "protéger",
+    "translation": "защищать",
+    "example": "Un mot de passe complexe permet de protéger ses données.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_19_suffisamment",
+    "french": "suffisamment",
+    "translation": "достаточно",
+    "example": "Ce mot de passe n’est pas suffisamment long.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_19_vigilance",
+    "french": "la vigilance",
+    "translation": "бдительность",
+    "example": "La protection des données demande de la vigilance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_19_faire_preuve_de",
+    "french": "faire preuve de",
+    "translation": "проявлять / демонстрировать",
+    "example": "Il faut faire preuve de vigilance sur Internet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_19_frauduleux",
+    "french": "frauduleux / frauduleuse",
+    "translation": "мошеннический / мошенническая",
+    "example": "J’ai reçu un message frauduleux qui demandait mes coordonnées bancaires.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_19_arnaquer",
+    "french": "arnaquer",
+    "translation": "обманывать / мошеннически выманивать деньги",
+    "example": "Des escrocs essaient parfois d’arnaquer les internautes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_19_arnaque",
+    "french": "une arnaque",
+    "translation": "мошенничество / обман",
+    "example": "Ce faux message est une arnaque.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_19_arnaqueur",
+    "french": "un arnaqueur / une arnaqueuse",
+    "translation": "мошенник / мошенница",
+    "example": "L’arnaqueur essaie d’obtenir des informations personnelles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_19_gourde",
+    "french": "une gourde",
+    "translation": "многоразовая бутылка / фляга для воды",
+    "example": "J’emporte toujours une gourde avec moi.",
+    "status": "learning"
+  }
+]
