@@ -1,0 +1,128 @@
+[
+  {
+    "id": "g_2026_08_19_revision_subjonctif_present",
+    "title": "Révision du subjonctif présent",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Formation générale\n",
+        "Pour beaucoup de verbes, on part de la forme **ils / elles** au présent de l’indicatif, on retire **-ent**, puis on ajoute les terminaisons du subjonctif : **-e, -es, -e, -ions, -iez, -ent**."
+      ],
+      [
+        "### Radical de nous et vous\n",
+        "Lorsque **nous** et **vous** ont au présent de l’indicatif un radical différent de celui de **ils / elles**, cette différence est conservée au subjonctif : **ils prennent → que je prenne**, mais **nous prenons → que nous prenions**."
+      ],
+      [
+        "### Orthographe de certains verbes\n",
+        "- Les verbes en **-ier** gardent les deux **i** avec **nous** et **vous** : **que nous reliions** ;",
+        "- avec certains verbes en **-yer**, il faut également faire attention à la forme de **nous / vous** : **que nous envoyions** ;",
+        "- à la 3e personne du singulier, les verbes se terminent généralement par **-e** au subjonctif, sauf notamment **être → soit** et **avoir → ait** ;",
+        "- ne pas confondre **j’ai** (indicatif présent) et **que j’aie** (subjonctif présent)."
+      ],
+      [
+        "### Verbes irréguliers révisés\n",
+        "| Verbe | je | tu | il / elle | nous | vous | ils / elles |",
+        "|---|---|---|---|---|---|---|",
+        "| être | sois | sois | soit | soyons | soyez | soient |",
+        "| avoir | aie | aies | ait | ayons | ayez | aient |",
+        "| aller | aille | ailles | aille | allions | alliez | aillent |",
+        "| faire | fasse | fasses | fasse | fassions | fassiez | fassent |",
+        "| pouvoir | puisse | puisses | puisse | puissions | puissiez | puissent |",
+        "| savoir | sache | saches | sache | sachions | sachiez | sachent |",
+        "| vouloir | veuille | veuilles | veuille | voulions | vouliez | veuillent |"
+      ],
+      [
+        "### Expressions suivies du subjonctif\n",
+        "La fiche de révision rappelle notamment l’emploi du subjonctif après des expressions de volonté, de souhait, de doute, de sentiment, de nécessité ou de jugement : **vouloir que**, **souhaiter que**, **douter que**, **être content que**, **il faut que**, **il est important que**, **il est essentiel que**, **proposer que**, **refuser que**, etc."
+      ]
+    ],
+    "examples": [
+      "Il faut que tu parles plus lentement.",
+      "Je souhaite que nous finissions le travail aujourd’hui.",
+      "Il est important que vous veniez à l’heure.",
+      "Bien qu’il ait peu de temps, il nous aide.",
+      "Il faut que les élèves choisissent un sujet simple."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Nécessité avec il faut que",
+        "markup": "Il faut que {{sujet:tu}} {{verbe:parles}} plus lentement.",
+        "explanation": "Après **il faut que**, le verbe est au subjonctif présent.",
+        "sourceSentences": [
+          "Il faut que tu parles plus lentement."
+        ]
+      },
+      {
+        "title": "Concession avec bien que",
+        "markup": "Bien qu’{{sujet:il}} {{verbe:ait}} peu de temps, il nous aide.",
+        "explanation": "**Bien que** introduit ici un verbe au subjonctif : **ait**.",
+        "sourceSentences": [
+          "Bien qu’il ait peu de temps, il nous aide."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_08_19_pronoms_possessifs",
+    "title": "Les pronoms possessifs",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Règle\n",
+        "Les pronoms possessifs remplacent un nom et expriment une idée d’appartenance. Ils s’accordent en **genre** et en **nombre** avec le nom qu’ils remplacent, et non avec la personne qui possède l’objet."
+      ],
+      [
+        "### Formes\n",
+        "| Possesseur | Masculin singulier | Féminin singulier | Masculin pluriel | Féminin pluriel |",
+        "|---|---|---|---|---|",
+        "| je | le mien | la mienne | les miens | les miennes |",
+        "| tu | le tien | la tienne | les tiens | les tiennes |",
+        "| il / elle | le sien | la sienne | les siens | les siennes |",
+        "| nous | le nôtre | la nôtre | les nôtres | les nôtres |",
+        "| vous | le vôtre | la vôtre | les vôtres | les vôtres |",
+        "| ils / elles | le leur | la leur | les leurs | les leurs |"
+      ],
+      [
+        "### À retenir\n",
+        "Le pronom possessif est précédé d’un article défini : **le, la, les**. Exemple du manuel : **C’est mon ordinateur, ce n’est pas le tien.**"
+      ]
+    ],
+    "examples": [
+      "Mon ordinateur est ici ; le tien est dans ton sac.",
+      "Mes données sont protégées, mais les siennes ne le sont pas.",
+      "Notre mot de passe est différent du vôtre."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Remplacer un nom",
+        "markup": "C’est mon ordinateur, ce n’est pas {{pronom:le tien}}.",
+        "explanation": "**Le tien** remplace **ton ordinateur**. Le pronom est masculin singulier parce que **ordinateur** est masculin singulier.",
+        "sourceSentences": [
+          "C’est mon ordinateur.",
+          "Ce n’est pas ton ordinateur."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_08_19_les_des",
+    "title": "Les et des avec un nom pluriel",
+    "category": "Articles",
+    "summary": [
+      [
+        "### Différence essentielle\n",
+        "- **les + nom pluriel** s’emploie lorsqu’on parle d’un ensemble identifié par le contexte ou d’une catégorie prise dans son ensemble ;",
+        "- **des + nom pluriel** est l’article indéfini pluriel et peut correspondre à **certains / quelques** éléments d’un ensemble."
+      ],
+      [
+        "### Avec profs\n",
+        "**Les profs** peut désigner les professeurs dont on parle déjà ou les professeurs en général. **Des profs** signifie qu’on parle de certains professeurs, sans les identifier tous."
+      ]
+    ],
+    "examples": [
+      "Les profs de cette classe nous ont donné un exercice.",
+      "Des profs utilisent cette méthode, mais pas tous."
+    ],
+    "annotatedExamples": []
+  }
+]

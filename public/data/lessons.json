@@ -308,5 +308,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_31_2026_08_18"
+  },
+  {
+    "id": "lesson_32_2026_08_19",
+    "number": 32,
+    "title": "Protection des données, pronoms possessifs et révision du subjonctif",
+    "date": "2026-08-19",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_32_2026_08_19"
   }
 ]
