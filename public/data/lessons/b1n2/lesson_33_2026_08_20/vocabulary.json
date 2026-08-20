@@ -1,0 +1,163 @@
+[
+  {
+    "id": "v_2026_08_20_raccourci",
+    "french": "un raccourci",
+    "translation": "сокращение / короткий путь",
+    "example": "Ce raccourci permet d'aller plus vite.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_voie_ferree",
+    "french": "une voie ferrée",
+    "translation": "железнодорожный путь",
+    "example": "Une voie ferrée traverse la région.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_detenir",
+    "french": "détenir",
+    "translation": "владеть / обладать",
+    "example": "Un grand groupe peut détenir plusieurs médias.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_censure",
+    "french": "la censure",
+    "translation": "цензура",
+    "example": "La censure peut limiter la liberté de la presse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_domaine",
+    "french": "un domaine",
+    "translation": "область / сфера",
+    "example": "Les médias travaillent dans différents domaines.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_etoile",
+    "french": "une étoile",
+    "translation": "звезда",
+    "example": "Le système attribue cinq étoiles à cette source.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_fiabilite",
+    "french": "la fiabilité",
+    "translation": "надёжность",
+    "example": "Il faut vérifier la fiabilité d'une information.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_fiable",
+    "french": "fiable",
+    "translation": "надёжный",
+    "example": "Cette source semble fiable.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_faible",
+    "french": "faible",
+    "translation": "слабый / низкий",
+    "example": "Le niveau de confiance est faible.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_favorable",
+    "french": "favorable",
+    "translation": "благоприятный / положительный",
+    "example": "Le journaliste a reçu un avis favorable.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_tiers",
+    "french": "un tiers de quelque chose",
+    "translation": "треть чего-либо",
+    "example": "Un tiers des personnes interrogées lit encore la presse papier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_quart",
+    "french": "un quart de quelque chose",
+    "translation": "четверть чего-либо",
+    "example": "Un quart des lecteurs consulte ce journal chaque jour.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_porter_interet",
+    "french": "porter de l'intérêt à quelque chose",
+    "translation": "проявлять интерес к чему-либо",
+    "example": "Les lecteurs portent de l'intérêt aux sujets internationaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_avoir_interet",
+    "french": "avoir un intérêt à quelque chose",
+    "translation": "иметь интерес / выгоду в чём-либо",
+    "example": "Une entreprise peut avoir un intérêt à contrôler son image dans les médias.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_moyen_information",
+    "french": "un moyen d'information",
+    "translation": "средство информации",
+    "example": "La radio reste un moyen d'information important.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_presse_papier",
+    "french": "la presse papier",
+    "translation": "печатная пресса",
+    "example": "Certaines personnes lisent encore la presse papier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_sinformer",
+    "french": "s'informer",
+    "translation": "получать информацию / узнавать новости",
+    "example": "Beaucoup de gens s'informent sur Internet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_suivre_actualite",
+    "french": "suivre l'actualité",
+    "translation": "следить за текущими событиями",
+    "example": "Je suis l'actualité tous les jours.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_se_tenir_informe",
+    "french": "se tenir informé",
+    "translation": "быть в курсе",
+    "example": "Il écoute la radio pour se tenir informé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_suivre_nouvelles",
+    "french": "suivre les nouvelles",
+    "translation": "следить за новостями",
+    "example": "Mes parents suivent les nouvelles à la télévision.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_journal_plus_lu",
+    "french": "le journal le plus lu",
+    "translation": "самая читаемая газета",
+    "example": "Quel est le journal le plus lu dans ton pays ?",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_liberte_presse",
+    "french": "la liberté de la presse",
+    "translation": "свобода прессы",
+    "example": "La liberté de la presse doit être protégée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_20_menacer",
+    "french": "menacer",
+    "translation": "угрожать",
+    "example": "Dans certains pays, des journalistes sont menacés.",
+    "status": "learning"
+  }
+]
