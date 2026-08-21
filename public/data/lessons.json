@@ -328,5 +328,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_33_2026_08_20"
+  },
+  {
+    "id": "lesson_34_2026_08_21",
+    "number": 34,
+    "title": "Médias, intelligence artificielle et forme passive",
+    "date": "2026-08-21",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_34_2026_08_21"
   }
 ]

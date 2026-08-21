@@ -1,0 +1,163 @@
+[
+  {
+    "id": "v_2026_08_21_differencier",
+    "french": "différencier",
+    "translation": "различать / отличать",
+    "example": "Il faut différencier une information fiable d'une rumeur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_se_faire_bien_voir",
+    "french": "se faire bien voir",
+    "translation": "показать себя с хорошей стороны / заслужить расположение",
+    "example": "Il essaie de se faire bien voir auprès de ses collègues.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_harcelement",
+    "french": "le harcèlement",
+    "translation": "домогательство / травля / преследование",
+    "example": "Les réseaux sociaux peuvent aussi être utilisés pour lutter contre le harcèlement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_profondement",
+    "french": "profondément",
+    "translation": "глубоко / в значительной степени",
+    "example": "L'intelligence artificielle transforme profondément certains médias.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_consommer",
+    "french": "consommer",
+    "translation": "потреблять",
+    "example": "Nous consommons de plus en plus d'informations en ligne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_considerer",
+    "french": "considérer",
+    "translation": "рассматривать / считать",
+    "example": "Il faut considérer plusieurs sources avant de partager une information.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_diffusion",
+    "french": "la diffusion",
+    "translation": "распространение / трансляция",
+    "example": "La diffusion d'une fausse information peut être très rapide.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_orienter",
+    "french": "orienter",
+    "translation": "направлять / ориентировать",
+    "example": "Le choix des informations peut orienter l'opinion du public.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_devenir",
+    "french": "devenir",
+    "translation": "становиться",
+    "example": "L'intelligence artificielle est devenue un sujet important dans les médias.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_sembler",
+    "french": "sembler",
+    "translation": "казаться",
+    "example": "Cette information semble fiable.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_hierarchiser",
+    "french": "hiérarchiser",
+    "translation": "расставлять по приоритету / выстраивать иерархию",
+    "example": "Un journaliste doit hiérarchiser les informations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_reconnaitre",
+    "french": "reconnaître",
+    "translation": "узнавать / распознавать / признавать",
+    "example": "Il est parfois difficile de reconnaître une image générée par l'IA.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_etre_parasite",
+    "french": "être parasité",
+    "translation": "испытывать помехи / быть нарушенным",
+    "example": "Le débat peut être parasité par de fausses informations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_propager",
+    "french": "propager",
+    "translation": "распространять",
+    "example": "Les réseaux sociaux peuvent propager une rumeur très rapidement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_rumeur",
+    "french": "une rumeur",
+    "translation": "слух",
+    "example": "Cette rumeur a été diffusée sur les réseaux sociaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_confusion",
+    "french": "la confusion",
+    "translation": "путаница / замешательство",
+    "example": "Les fausses informations peuvent créer de la confusion.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_mefiance",
+    "french": "la méfiance",
+    "translation": "недоверие / настороженность",
+    "example": "Les fausses nouvelles provoquent de la méfiance envers les médias.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_distinguer",
+    "french": "distinguer",
+    "translation": "различать / отличать",
+    "example": "Il faut savoir distinguer les faits des opinions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_lutter",
+    "french": "lutter",
+    "translation": "бороться",
+    "example": "Les journalistes luttent contre la désinformation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_lettre_motivation",
+    "french": "une lettre de motivation",
+    "translation": "мотивационное письмо",
+    "example": "Elle prépare une lettre de motivation pour sa candidature.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_tournant",
+    "french": "un tournant",
+    "translation": "поворот / переломный момент",
+    "example": "L'arrivée de l'intelligence artificielle représente un tournant pour les médias.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_de_a_en_passant_par",
+    "french": "de… à…, en passant par…",
+    "translation": "от… до…, проходя через…",
+    "example": "Son parcours va de la presse écrite à la télévision, en passant par la radio.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_21_lien",
+    "french": "un lien",
+    "translation": "ссылка / связь",
+    "example": "Le professeur a partagé un lien vers l'article.",
+    "status": "learning"
+  }
+]

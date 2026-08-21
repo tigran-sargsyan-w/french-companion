@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g_2026_08_21_forme_passive",
+    "title": "La forme passive",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Construction\n",
+        "À la forme passive, le **COD de la phrase active devient le sujet** de la phrase passive.",
+        "Le sujet de la phrase active peut devenir le **complément d'agent**, généralement introduit par **par**.",
+        "Le verbe se construit avec **être + participe passé**. Le participe passé s'accorde avec le nouveau sujet."
+      ],
+      [
+        "### Transformation\n",
+        "| Forme active | Forme passive |",
+        "|---|---|",
+        "| Un humain a écrit cet article. | Cet article a été écrit par un humain. |",
+        "| Une journaliste écrit cet article. | Cet article est écrit par une journaliste. |"
+      ],
+      [
+        "### Temps du verbe\n",
+        "C'est l'auxiliaire **être** qui porte le temps de la phrase. Le participe passé reste accordé avec le sujet.",
+        "- présent : **est écrit** ;",
+        "- passé composé : **a été écrit** ;",
+        "- plus-que-parfait : **avait été écrit** ;",
+        "- futur simple : **sera vendu**."
+      ],
+      [
+        "### Complément d'agent\n",
+        "Le complément d'agent n'est pas obligatoire. On peut l'omettre lorsque l'auteur de l'action est inconnu, évident ou peu important.",
+        "Exemple : **Des articles sont écrits tous les jours.**"
+      ],
+      [
+        "### Condition importante\n",
+        "Seuls les verbes qui peuvent avoir un **COD** peuvent normalement être transformés de cette manière à la forme passive."
+      ],
+      [
+        "### Participe passé sans auxiliaire\n",
+        "On rencontre aussi des participes passés employés directement avec un nom : **du contenu généré ou traduit par l'IA**."
+      ]
+    ],
+    "examples": [
+      "Cet article a été écrit par un humain.",
+      "Cet article avait été écrit par une journaliste connue.",
+      "Des articles sont écrits tous les jours.",
+      "Ce journal sera vendu à des milliers d'exemplaires.",
+      "L'article a été écrit par une IA.",
+      "Le projet est rejeté par la commission."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Du COD au sujet",
+        "markup": "{{sujet:Cet article}} {{verbe:a été écrit}} {{complément d'agent:par un humain}}.",
+        "explanation": "Le COD **cet article** de la phrase active devient le sujet de la phrase passive. Le verbe est construit avec **être + participe passé**.",
+        "sourceSentences": [
+          "Un humain a écrit cet article.",
+          "Cet article a été écrit par un humain."
+        ]
+      }
+    ]
+  }
+]
