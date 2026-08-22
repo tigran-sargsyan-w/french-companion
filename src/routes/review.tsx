@@ -21,7 +21,7 @@ export const Route = createFileRoute("/review")({
   }),
 });
 
-function shuffle<T>(items: T[]) {
+function shuffle<T>(items: T[]): T[] {
   const shuffled = [...items];
 
   for (let index = shuffled.length - 1; index > 0; index -= 1) {
