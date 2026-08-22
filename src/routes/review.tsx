@@ -38,12 +38,13 @@ function ReviewPage() {
   const [flipped, setFlipped] = useState(false);
   const [answers, setAnswers] = useState<Record<string, boolean>>({});
   const [copied, setCopied] = useState(false);
-  const [session, setSession] = useState(0);
+  const [shuffleVersion, setShuffleVersion] = useState(0);
 
   const deck = useMemo(() => {
+    void shuffleVersion;
     const words = learningDataQuery.data?.vocabulary.filter((v) => v.status !== "learned") ?? [];
     return shuffle(words);
-  }, [learningDataQuery.data, session]);
+  }, [learningDataQuery.data, shuffleVersion]);
 
   const current = deck[i];
   const total = deck.length;
@@ -90,7 +91,7 @@ function ReviewPage() {
     setFlipped(false);
     setAnswers({});
     setCopied(false);
-    setSession((currentSession) => currentSession + 1);
+    setShuffleVersion((version) => version + 1);
   };
 
   const copyKnownWords = async () => {
