@@ -21,17 +21,29 @@ export const Route = createFileRoute("/review")({
   }),
 });
 
+function shuffle<T>(items: T[]) {
+  const shuffled = [...items];
+
+  for (let index = shuffled.length - 1; index > 0; index -= 1) {
+    const randomIndex = Math.floor(Math.random() * (index + 1));
+    [shuffled[index], shuffled[randomIndex]] = [shuffled[randomIndex], shuffled[index]];
+  }
+
+  return shuffled;
+}
+
 function ReviewPage() {
   const learningDataQuery = useLearningData();
   const [i, setI] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [answers, setAnswers] = useState<Record<string, boolean>>({});
   const [copied, setCopied] = useState(false);
+  const [session, setSession] = useState(0);
 
-  const deck = useMemo(
-    () => learningDataQuery.data?.vocabulary.filter((v) => v.status !== "learned") ?? [],
-    [learningDataQuery.data],
-  );
+  const deck = useMemo(() => {
+    const words = learningDataQuery.data?.vocabulary.filter((v) => v.status !== "learned") ?? [];
+    return shuffle(words);
+  }, [learningDataQuery.data, session]);
 
   const current = deck[i];
   const total = deck.length;
@@ -78,6 +90,7 @@ function ReviewPage() {
     setFlipped(false);
     setAnswers({});
     setCopied(false);
+    setSession((currentSession) => currentSession + 1);
   };
 
   const copyKnownWords = async () => {
