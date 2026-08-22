@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
-import { RotateCw, ChevronLeft, ChevronRight, Check, X } from "lucide-react";
+import { RotateCw, ChevronLeft, ChevronRight, Check, Copy, X } from "lucide-react";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
 import { MarkdownText } from "@/components/MarkdownText";
@@ -20,8 +20,8 @@ function ReviewPage() {
   const learningDataQuery = useLearningData();
   const [i, setI] = useState(0);
   const [flipped, setFlipped] = useState(false);
-  const [known, setKnown] = useState(0);
-  const [unknown, setUnknown] = useState(0);
+  const [answers, setAnswers] = useState<Record<string, boolean>>({});
+  const [copied, setCopied] = useState(false);
 
   const deck = useMemo(
     () => learningDataQuery.data?.vocabulary.filter((v) => v.status !== "learned") ?? [],
@@ -32,9 +32,38 @@ function ReviewPage() {
   const total = deck.length;
   const finished = i >= total;
 
+  const knownWords = useMemo(
+    () => deck.filter((word) => answers[word.id] === true),
+    [answers, deck],
+  );
+
+  const known = knownWords.length;
+  const unknown = useMemo(
+    () => deck.filter((word) => answers[word.id] === false).length,
+    [answers, deck],
+  );
+
+  const knownWordsJson = useMemo(
+    () =>
+      JSON.stringify(
+        knownWords.map((word) => ({
+          french: word.french,
+          ids: word.sourceIds,
+        })),
+        null,
+        2,
+      ),
+    [knownWords],
+  );
+
   const next = (correct: boolean) => {
-    if (correct) setKnown((k) => k + 1);
-    else setUnknown((u) => u + 1);
+    if (!current) return;
+
+    setAnswers((previous) => ({
+      ...previous,
+      [current.id]: correct,
+    }));
+    setCopied(false);
     setFlipped(false);
     setI((n) => n + 1);
   };
@@ -42,8 +71,13 @@ function ReviewPage() {
   const restart = () => {
     setI(0);
     setFlipped(false);
-    setKnown(0);
-    setUnknown(0);
+    setAnswers({});
+    setCopied(false);
+  };
+
+  const copyKnownWords = async () => {
+    await navigator.clipboard.writeText(knownWordsJson);
+    setCopied(true);
   };
 
   return (
@@ -177,6 +211,30 @@ function ReviewPage() {
           </div>
         </div>
       ) : null}
+
+      {!learningDataQuery.isPending && !learningDataQuery.isError && knownWords.length > 0 && (
+        <section className="card-soft mt-8 max-w-3xl mx-auto p-5 sm:p-6">
+          <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+            <div>
+              <div className="font-display text-2xl">Mots connus — JSON</div>
+              <p className="mt-1 text-sm text-muted-foreground">
+                {knownWords.length} {knownWords.length === 1 ? "mot marqué comme connu" : "mots marqués comme connus"} dans cette session.
+              </p>
+            </div>
+            <button
+              type="button"
+              onClick={copyKnownWords}
+              className="inline-flex shrink-0 items-center justify-center gap-2 rounded-lg border border-border px-3 py-2 text-sm hover:bg-secondary"
+            >
+              <Copy className="h-4 w-4" /> {copied ? "Copié !" : "Copier JSON"}
+            </button>
+          </div>
+
+          <pre className="mt-4 max-h-96 overflow-auto rounded-xl bg-secondary/60 p-4 text-left text-xs leading-relaxed sm:text-sm">
+            <code>{knownWordsJson}</code>
+          </pre>
+        </section>
+      )}
     </>
   );
 }
