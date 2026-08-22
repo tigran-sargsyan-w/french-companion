@@ -1,10 +1,15 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { RotateCw, ChevronLeft, ChevronRight, Check, Copy, X } from "lucide-react";
+import { PrismLight as SyntaxHighlighter } from "react-syntax-highlighter";
+import json from "react-syntax-highlighter/dist/esm/languages/prism/json";
+import { oneLight } from "react-syntax-highlighter/dist/esm/styles/prism";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
 import { MarkdownText } from "@/components/MarkdownText";
 import { useLearningData } from "@/data";
+
+SyntaxHighlighter.registerLanguage("json", json);
 
 export const Route = createFileRoute("/review")({
   component: ReviewPage,
@@ -230,9 +235,27 @@ function ReviewPage() {
             </button>
           </div>
 
-          <pre className="mt-4 max-h-96 overflow-auto rounded-xl bg-secondary/60 p-4 text-left text-xs leading-relaxed sm:text-sm">
-            <code>{knownWordsJson}</code>
-          </pre>
+          <div className="mt-4 max-h-96 overflow-auto rounded-xl bg-secondary/60 text-left text-xs sm:text-sm">
+            <SyntaxHighlighter
+              language="json"
+              style={oneLight}
+              customStyle={{
+                margin: 0,
+                padding: "1rem",
+                background: "transparent",
+                fontSize: "inherit",
+                lineHeight: 1.625,
+              }}
+              codeTagProps={{
+                style: {
+                  fontFamily:
+                    "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace",
+                },
+              }}
+            >
+              {knownWordsJson}
+            </SyntaxHighlighter>
+          </div>
         </section>
       )}
     </>
