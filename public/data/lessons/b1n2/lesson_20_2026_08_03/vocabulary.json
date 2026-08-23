@@ -25,7 +25,7 @@
     "french": "un numéro",
     "translation": "номер / выступление",
     "example": "Le jongleur présente un nouveau numéro.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_bete",
@@ -221,7 +221,7 @@
     "french": "classique",
     "translation": "классический",
     "example": "Le programme mélange musique classique et création contemporaine.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_sappeler",

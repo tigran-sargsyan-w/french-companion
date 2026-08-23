@@ -4,7 +4,7 @@
     "french": "un questionnaire",
     "translation": "анкета / опросник",
     "example": "En groupe, on conçoit un nouveau questionnaire.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_06_situer",
@@ -81,7 +81,7 @@
     "french": "à côté de",
     "translation": "рядом с",
     "example": "Cette ville est à côté de la mer.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_06_enfance",
