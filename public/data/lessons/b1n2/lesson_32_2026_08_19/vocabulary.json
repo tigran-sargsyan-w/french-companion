@@ -67,14 +67,14 @@
     "french": "une arnaque",
     "translation": "мошенничество / обман",
     "example": "Ce faux message est une arnaque.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_19_arnaqueur",
     "french": "un arnaqueur / une arnaqueuse",
     "translation": "мошенник / мошенница",
     "example": "L’arnaqueur essaie d’obtenir des informations personnelles.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_19_gourde",
