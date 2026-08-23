@@ -4,13 +4,13 @@
     "title": "Faire les exercices sur les indéfinis",
     "description": "Faire les exercices **1 à 9 de la page 61** et l’**exercice 3 de la page 65** sur les indéfinis.",
     "dueDate": "2026-07-31",
-    "done": false
+    "done": true
   },
   {
     "id": "h_2026_07_30_enquete_apprentissage",
     "title": "Répondre à l’enquête sur l’apprentissage",
     "description": "Répondre aux questions de l’enquête sur son apprentissage du français à la page 61.",
     "dueDate": "2026-07-31",
-    "done": false
+    "done": true
   }
 ]
