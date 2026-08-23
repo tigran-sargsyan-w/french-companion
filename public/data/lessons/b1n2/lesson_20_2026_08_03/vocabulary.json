@@ -46,7 +46,7 @@
     "french": "le cirque",
     "translation": "цирк",
     "example": "Le cirque propose des spectacles pour toute la famille.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_concert",
@@ -74,7 +74,7 @@
     "french": "la danse",
     "translation": "танец / танцевальное искусство",
     "example": "Cette salle programme aussi des spectacles de danse.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_ballet",
@@ -109,7 +109,7 @@
     "french": "jouer un rôle",
     "translation": "играть роль",
     "example": "Il joue le rôle principal dans cette pièce.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_interpreter_role",
@@ -165,7 +165,7 @@
     "french": "un jongleur / une jongleuse",
     "translation": "жонглёр / жонглёрка",
     "example": "Le jongleur lance cinq balles en même temps.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_marionnettiste",

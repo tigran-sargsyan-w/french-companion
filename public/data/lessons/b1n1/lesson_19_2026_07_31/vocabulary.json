@@ -32,14 +32,14 @@
     "french": "un jargon",
     "translation": "жаргон / профессиональная лексика",
     "example": "Chaque métier possède son propre jargon.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_31_anglicisme",
     "french": "un anglicisme",
     "translation": "англицизм",
     "example": "Le mot « smartphone » est un anglicisme.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_31_franglais",
@@ -207,7 +207,7 @@
     "french": "stalker",
     "translation": "навязчиво следить за кем-либо в интернете",
     "example": "Il passe son temps à stalker les profils de ses anciens camarades.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_31_velorution",
