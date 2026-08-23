@@ -207,14 +207,14 @@
     "french": "la décoration",
     "translation": "декорация",
     "example": "La décoration de la maison est remarquable.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_06_personnage",
     "french": "un personnage",
     "translation": "персонаж",
     "example": "Ce personnage devient de plus en plus mystérieux.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_06_caricatural",

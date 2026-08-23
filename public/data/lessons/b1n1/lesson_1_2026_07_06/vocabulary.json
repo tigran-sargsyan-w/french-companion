@@ -67,14 +67,14 @@
     "french": "au nord de",
     "translation": "к северу от",
     "example": "Ce pays est au nord de la République tchèque.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_06_au_sud_de",
     "french": "au sud de",
     "translation": "к югу от",
     "example": "Cette ville est au sud de la France.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_06_a_cote_de",

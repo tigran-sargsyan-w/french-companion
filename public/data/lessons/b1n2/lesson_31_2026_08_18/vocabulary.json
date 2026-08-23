@@ -88,14 +88,14 @@
     "french": "la piraterie",
     "translation": "пиратство",
     "example": "La piraterie numérique pose des problèmes aux créateurs.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_18_piratage",
     "french": "le piratage",
     "translation": "взлом / нелегальное копирование",
     "example": "Le piratage d’un compte peut avoir de graves conséquences.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_18_sdf",

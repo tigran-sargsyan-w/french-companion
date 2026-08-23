@@ -1,8 +1,8 @@
 [
-  {"id":"v_2026_07_17_billet","french":"un billet","translation":"билет","example":"J'achète un billet de train pour Lyon.","status":"learning"},
-  {"id":"v_2026_07_17_ticket","french":"un ticket","translation":"билет / талон / квитанция","example":"Je valide mon ticket de métro avant d'entrer.","status":"learning"},
+  {"id":"v_2026_07_17_billet","french":"un billet","translation":"билет","example":"J'achète un billet de train pour Lyon.","status":"learned"},
+  {"id":"v_2026_07_17_ticket","french":"un ticket","translation":"билет / талон / квитанция","example":"Je valide mon ticket de métro avant d'entrer.","status":"learned"},
   {"id":"v_2026_07_17_oie","french":"une oie","translation":"гусь(օյ)","example":"L'oie vit dans la ferme.","status":"learning"},
-  {"id":"v_2026_07_17_canard","french":"un canard","translation":"утка","example":"Le canard nage dans l'eau.","status":"learning"},
+  {"id":"v_2026_07_17_canard","french":"un canard","translation":"утка","example":"Le canard nage dans l'eau.","status":"learned"},
   {"id":"v_2026_07_17_gavage","french":"le gavage","translation":"насильственное откармливание","example":"L'article parle du gavage des animaux.","status":"learning"},
   {"id":"v_2026_07_17_gaver","french":"gaver","translation":"насильно откармливать","example":"Certaines personnes refusent de gaver les animaux.","status":"learning"},
   {"id":"v_2026_07_17_graisse","french":"la graisse","translation":"жир","example":"Ce produit contient beaucoup de graisse.","status":"learning"},

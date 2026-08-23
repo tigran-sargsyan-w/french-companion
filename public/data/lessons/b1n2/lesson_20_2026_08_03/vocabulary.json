@@ -4,7 +4,7 @@
     "french": "une scène",
     "translation": "сцена",
     "example": "Les comédiens montent sur scène à vingt heures.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_planches",
@@ -53,7 +53,7 @@
     "french": "un concert",
     "translation": "концерт",
     "example": "Nous allons assister à un concert samedi soir.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_cabaret",
@@ -67,7 +67,7 @@
     "french": "le théâtre",
     "translation": "театр",
     "example": "Le festival d’Aurillac accueille de nombreuses compagnies de théâtre.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_danse",
@@ -81,7 +81,7 @@
     "french": "un ballet",
     "translation": "балет",
     "example": "Nous avons vu un ballet classique à l’opéra.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_spectacle_humour",
@@ -144,7 +144,7 @@
     "french": "un kiosque",
     "translation": "киоск",
     "example": "Les musiciens jouent sous le kiosque du parc.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_pointu",
@@ -179,7 +179,7 @@
     "french": "un mime / une mime",
     "translation": "мим",
     "example": "Le mime raconte une histoire sans parler.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_cracheur_feu",
@@ -228,7 +228,7 @@
     "french": "s’appeler",
     "translation": "называться",
     "example": "Le festival s’appelle Les Nuits de Fourvière.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_03_sintituler",

@@ -4,7 +4,7 @@
     "french": "jouer d’un instrument",
     "translation": "играть на музыкальном инструменте",
     "example": "Elle joue de cet instrument depuis qu’elle est petite.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_05_enchainer_concerts",
@@ -25,7 +25,7 @@
     "french": "un billet de concert",
     "translation": "билет на концерт",
     "example": "Les billets de ses concerts se vendent très vite.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_05_etre_fier_de",
