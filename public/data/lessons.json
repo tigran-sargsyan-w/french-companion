@@ -338,5 +338,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_34_2026_08_21"
+  },
+  {
+    "id": "lesson_35_2026_08_24",
+    "number": 35,
+    "title": "Infobésité, certitude et doute",
+    "date": "2026-08-24",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_35_2026_08_24"
   }
 ]

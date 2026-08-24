@@ -1,0 +1,58 @@
+[
+  {
+    "id": "g_2026_08_24_certitude_doute",
+    "title": "Exprimer la certitude et le doute",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Exprimer la certitude\n",
+        "- **être certain(e), sûr(e), convaincu(e) que + indicatif** lorsque les deux verbes ont des sujets différents ;",
+        "- **être certain(e), sûr(e), convaincu(e) de + infinitif** lorsque les deux verbes ont le même sujet ;",
+        "- **être certain(e), sûr(e), convaincu(e) de + nom / pronom** ;",
+        "- **savoir que + indicatif** ;",
+        "- **il est certain, sûr, évident, clair que + indicatif**."
+      ],
+      [
+        "### Exprimer le doute\n",
+        "- **ne pas être certain(e), sûr(e), convaincu(e) que + subjonctif** lorsque les deux verbes ont des sujets différents ;",
+        "- **avoir des doutes sur + nom / pronom** ;",
+        "- **douter que + subjonctif** ;",
+        "- **douter de + nom / pronom**."
+      ],
+      [
+        "### Indicatif ou subjonctif ?\n",
+        "Dans les structures vues en cours, la **certitude** est associée à l’**indicatif**, tandis que l’expression du **doute** avec **que** peut demander le **subjonctif**."
+      ]
+    ],
+    "examples": [
+      "Je suis convaincu que ma fille passe trop de temps sur son téléphone.",
+      "Je suis sûre de moi.",
+      "Elle est certaine de sa décision.",
+      "Je suis sûr de venir demain.",
+      "Je sais que je suis accro à mon téléphone.",
+      "Il est évident que je suis accro à mon téléphone.",
+      "La professeure n’est pas sûre que ses élèves sachent utiliser Internet.",
+      "Vous avez des doutes sur cette information.",
+      "Je doute que ces informations soient vraies.",
+      "Nous doutons de l’exactitude de cette information."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Certitude : indicatif",
+        "markup": "Je suis {{contexte:convaincu}} {{que:que}} ma fille {{verbe:passe}} trop de temps sur son téléphone.",
+        "explanation": "La structure exprime une certitude avec deux sujets différents : **je** et **ma fille**. La proposition introduite par **que** est à l’indicatif.",
+        "sourceSentences": [
+          "Je suis convaincu que ma fille passe trop de temps sur son téléphone."
+        ]
+      },
+      {
+        "title": "Doute : subjonctif",
+        "markup": "La professeure {{négation:n’est pas}} {{contexte:sûre}} {{que:que}} ses élèves {{verbe:sachent}} utiliser Internet.",
+        "explanation": "La négation de la certitude exprime ici le doute. Avec deux sujets différents, la proposition introduite par **que** est au subjonctif.",
+        "sourceSentences": [
+          "La professeure n’est pas sûre que ses élèves sachent utiliser Internet."
+        ]
+      }
+    ]
+  }
+]

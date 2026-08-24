@@ -1,0 +1,198 @@
+[
+  {
+    "id": "v_2026_08_24_infirmiere",
+    "french": "une infirmière",
+    "translation": "медсестра",
+    "example": "L’infirmière prépare le matériel avant de faire une piqûre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_faire_piqure",
+    "french": "faire une piqûre",
+    "translation": "делать укол",
+    "example": "L’infirmière doit faire une piqûre au patient.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_admettre",
+    "french": "admettre",
+    "translation": "признавать / допускать",
+    "example": "Il admet qu’il passe trop de temps sur son téléphone.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_obesite",
+    "french": "l’obésité",
+    "translation": "ожирение",
+    "example": "L’obésité est un problème de santé publique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_etre_obese",
+    "french": "être obèse",
+    "translation": "страдать ожирением / быть тучным",
+    "example": "Une personne peut être obèse pour différentes raisons.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_infobesite",
+    "french": "l’infobésité",
+    "translation": "информационная перегрузка",
+    "example": "L’infobésité apparaît quand on reçoit beaucoup trop d’informations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_humeur",
+    "french": "l’humeur",
+    "translation": "настроение",
+    "example": "Les mauvaises nouvelles peuvent influencer notre humeur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_humour",
+    "french": "l’humour",
+    "translation": "юмор",
+    "example": "Il utilise l’humour pour parler d’un sujet sérieux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_au_secours",
+    "french": "Au secours !",
+    "translation": "На помощь!",
+    "example": "Au secours ! J’ai besoin d’aide !",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_se_garer",
+    "french": "se garer",
+    "translation": "парковаться",
+    "example": "Il est difficile de se garer dans le centre-ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_inutile",
+    "french": "inutile",
+    "translation": "бесполезный / ненужный",
+    "example": "Cette information est inutile pour notre recherche.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_convaincu",
+    "french": "convaincu / convaincue",
+    "translation": "убеждённый / убеждённая",
+    "example": "Je suis convaincu que cette information est exacte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_nocif",
+    "french": "nocif / nocive",
+    "translation": "вредный / вредная",
+    "example": "Passer trop de temps devant un écran peut être nocif.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_novice",
+    "french": "novice",
+    "translation": "новичок",
+    "example": "Je suis encore novice dans ce domaine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_cure",
+    "french": "une cure",
+    "translation": "курс лечения / оздоровительный курс",
+    "example": "Il suit une cure pour améliorer sa santé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_rompre_avec",
+    "french": "rompre avec",
+    "translation": "порвать с / прекратить отношения или привычку",
+    "example": "Elle essaie de rompre avec ses mauvaises habitudes numériques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_buguer",
+    "french": "buguer",
+    "translation": "глючить / зависать",
+    "example": "Après trop d’informations, j’ai l’impression que mon cerveau bugue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_avouer",
+    "french": "avouer",
+    "translation": "признаваться",
+    "example": "Il avoue qu’il regarde son téléphone trop souvent.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_etre_accro",
+    "french": "être accro à",
+    "translation": "быть зависимым от / быть помешанным на",
+    "example": "Je sais que je suis accro à mon téléphone.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_etre_addict",
+    "french": "être addict à",
+    "translation": "быть зависимым от",
+    "example": "Il est addict aux réseaux sociaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_accrocher",
+    "french": "accrocher",
+    "translation": "вешать / цеплять / прикреплять",
+    "example": "Elle accroche une affiche au mur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_contradiction",
+    "french": "une contradiction",
+    "translation": "противоречие",
+    "example": "Il y a une contradiction entre ces deux informations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_raisonnable",
+    "french": "raisonnable",
+    "translation": "разумный / разумная",
+    "example": "Il faut avoir une utilisation raisonnable des réseaux sociaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_respectueux",
+    "french": "respectueux / respectueuse",
+    "translation": "уважительный / уважительная",
+    "example": "Il faut rester respectueux pendant un débat.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_indigestion",
+    "french": "une indigestion",
+    "translation": "несварение желудка",
+    "example": "Il a eu une indigestion après un repas trop lourd.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_pression",
+    "french": "la pression",
+    "translation": "давление",
+    "example": "La pression des réseaux sociaux peut être difficile à gérer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_certitude",
+    "french": "la certitude",
+    "translation": "уверенность / достоверность",
+    "example": "Elle exprime sa certitude avec une phrase à l’indicatif.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_24_incertitude",
+    "french": "l’incertitude",
+    "translation": "неуверенность / неопределённость",
+    "example": "Le doute exprime une forme d’incertitude.",
+    "status": "learning"
+  }
+]
