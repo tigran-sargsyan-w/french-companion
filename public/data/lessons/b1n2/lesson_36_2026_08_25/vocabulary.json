@@ -1,0 +1,142 @@
+[
+  {
+    "id": "v_2026_08_25_inclusion",
+    "french": "l’inclusion",
+    "translation": "включение / инклюзия",
+    "example": "Cette campagne met en avant l’inclusion de tous les publics.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_inclure",
+    "french": "inclure",
+    "translation": "включать",
+    "example": "La publicité cherche à inclure des profils très différents.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_inclusif",
+    "french": "inclusif / inclusive",
+    "translation": "инклюзивный / включающий",
+    "example": "La marque veut proposer une communication plus inclusive.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_exclusion",
+    "french": "l’exclusion",
+    "translation": "исключение / отстранение",
+    "example": "Certains stéréotypes peuvent renforcer l’exclusion.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_exclure",
+    "french": "exclure",
+    "translation": "исключать",
+    "example": "Il faut éviter d’exclure une partie du public.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_exclusif",
+    "french": "exclusif / exclusive",
+    "translation": "исключительный / эксклюзивный",
+    "example": "Cette offre est exclusive aux nouveaux clients.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_sigle",
+    "french": "un sigle",
+    "translation": "аббревиатура",
+    "example": "« SNCF » est un sigle très connu en France.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_annonceur",
+    "french": "un annonceur",
+    "translation": "рекламодатель",
+    "example": "L’annonceur choisit le public visé par la campagne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_agence",
+    "french": "une agence",
+    "translation": "агентство",
+    "example": "Cette agence crée des campagnes publicitaires pour plusieurs marques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_communicant",
+    "french": "un communicant",
+    "translation": "специалист по коммуникациям / PR-специалист",
+    "example": "Le communicant prépare le message de la campagne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_campagne_publicitaire",
+    "french": "une campagne publicitaire",
+    "translation": "рекламная кампания",
+    "example": "Cette campagne publicitaire joue avec les stéréotypes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_cliche",
+    "french": "un cliché",
+    "translation": "стереотип / клише",
+    "example": "Cette publicité reprend un cliché sur les rôles de genre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_entre_guillemets",
+    "french": "entre guillemets",
+    "translation": "в кавычках",
+    "example": "Le mot « normal » est écrit entre guillemets.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_naif",
+    "french": "naïf / naïve",
+    "translation": "наивный / наивная",
+    "example": "Cette vision de la publicité est un peu naïve.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_refleter",
+    "french": "refléter",
+    "translation": "отражать",
+    "example": "La publicité peut refléter les valeurs d’une société.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_entourer",
+    "french": "entourer",
+    "translation": "окружать / обводить",
+    "example": "Entourez la bonne réponse dans l’exercice.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_pour_cent",
+    "french": "pour cent",
+    "translation": "процент / процентов",
+    "example": "Quarante pour cent des personnes interrogées connaissent cette marque.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_pourcentage",
+    "french": "un pourcentage",
+    "translation": "процент / процентная доля",
+    "example": "Le graphique indique le pourcentage de réponses positives.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_espionner",
+    "french": "espionner",
+    "translation": "шпионить / следить",
+    "example": "Les utilisateurs ne veulent pas être espionnés en ligne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_25_renoncer_a",
+    "french": "renoncer à",
+    "translation": "отказаться от",
+    "example": "La marque a renoncé à cette campagne après les critiques.",
+    "status": "learning"
+  }
+]
