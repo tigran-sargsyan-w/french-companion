@@ -358,5 +358,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_36_2026_08_25"
+  },
+  {
+    "id": "lesson_37_2026_08_26",
+    "number": 37,
+    "title": "Écologie digitale, pollution numérique et statistiques",
+    "date": "2026-08-26",
+    "level": "B1",
+    "classLevel": "B1N2",
+    "status": "done",
+    "path": "data/lessons/b1n2/lesson_37_2026_08_26"
   }
 ]
