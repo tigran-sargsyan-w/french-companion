@@ -1,0 +1,317 @@
+[
+  {
+    "id": "v_2026_08_26_souris",
+    "french": "une souris",
+    "translation": "мышь",
+    "example": "J’utilise une souris sans fil avec mon ordinateur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_ecran",
+    "french": "un écran",
+    "translation": "экран / монитор",
+    "example": "Cet écran consomme moins d’énergie que l’ancien.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_clavier",
+    "french": "un clavier",
+    "translation": "клавиатура",
+    "example": "Le clavier est connecté à l’unité centrale.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_balance",
+    "french": "une balance",
+    "translation": "весы",
+    "example": "Cette balance permet de mesurer le poids d’un appareil.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_ressembler_a",
+    "french": "ressembler à",
+    "translation": "быть похожим на",
+    "example": "Ce nouvel appareil ressemble à l’ancien modèle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_unite_centrale",
+    "french": "une unité centrale",
+    "translation": "системный блок",
+    "example": "L’unité centrale contient les principaux composants de l’ordinateur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_disque_dur",
+    "french": "un disque dur",
+    "translation": "жёсткий диск",
+    "example": "Je sauvegarde mes fichiers sur un disque dur externe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_appareil",
+    "french": "un appareil",
+    "translation": "устройство / аппарат",
+    "example": "Il est préférable de réparer un appareil avant de le remplacer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_pollution",
+    "french": "la pollution",
+    "translation": "загрязнение",
+    "example": "La réduction de la pollution est un enjeu majeur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_pollution_numerique",
+    "french": "la pollution numérique",
+    "translation": "цифровое загрязнение",
+    "example": "La pollution numérique est liée à la fabrication et à l’utilisation des équipements numériques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_augmenter",
+    "french": "augmenter",
+    "translation": "увеличивать(ся) / повышать(ся)",
+    "example": "La consommation d’énergie peut augmenter avec le nombre d’appareils.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_augmentation",
+    "french": "une augmentation",
+    "translation": "увеличение / рост",
+    "example": "On observe une augmentation de la consommation de données.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_baisser",
+    "french": "baisser",
+    "translation": "снижать(ся) / уменьшать(ся)",
+    "example": "Le prix de certains appareils peut baisser avec le temps.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_baisse",
+    "french": "une baisse",
+    "translation": "снижение / уменьшение",
+    "example": "Cette mesure a entraîné une baisse de la consommation électrique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_reduire",
+    "french": "réduire",
+    "translation": "сокращать / уменьшать",
+    "example": "Nous pouvons réduire notre empreinte numérique en gardant nos appareils plus longtemps.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_enjeu",
+    "french": "un enjeu",
+    "translation": "задача / проблема / то, что стоит на кону",
+    "example": "La sobriété numérique est un enjeu environnemental important.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_enjeu_majeur",
+    "french": "un enjeu majeur",
+    "translation": "важнейшая проблема / ключевая задача",
+    "example": "La réduction des déchets électroniques est un enjeu majeur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_nuisible",
+    "french": "nuisible",
+    "translation": "вредный",
+    "example": "Certaines pratiques numériques sont nuisibles à l’environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_majeur",
+    "french": "majeur / majeure",
+    "translation": "главный / важный / значительный",
+    "example": "La fabrication des appareils a un impact environnemental majeur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_meconnu",
+    "french": "méconnu / méconnue",
+    "translation": "малоизвестный / недооценённый",
+    "example": "L’impact environnemental du numérique reste encore méconnu du grand public.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_meconnaitre",
+    "french": "méconnaître",
+    "translation": "плохо знать / недооценивать",
+    "example": "Beaucoup de personnes méconnaissent le coût écologique du stockage en ligne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_enquete",
+    "french": "une enquête",
+    "translation": "опрос / исследование / расследование",
+    "example": "Nous avons mené une enquête en classe sur les usages numériques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_impliquer",
+    "french": "impliquer",
+    "translation": "вовлекать / подразумевать",
+    "example": "Cette initiative implique plusieurs acteurs du secteur numérique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_engendrer",
+    "french": "engendrer",
+    "translation": "порождать / вызывать",
+    "example": "Le renouvellement fréquent des appareils engendre davantage de déchets.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_fidele",
+    "french": "fidèle",
+    "translation": "верный / постоянный",
+    "example": "Cette présentation reste fidèle aux résultats de l’enquête.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_credo",
+    "french": "un credo",
+    "translation": "убеждение / принцип / кредо",
+    "example": "Réparer plutôt que remplacer est devenu le credo de cette association.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_considerer",
+    "french": "considérer",
+    "translation": "считать / рассматривать",
+    "example": "On peut considérer cette initiative comme une solution intéressante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_notamment",
+    "french": "notamment",
+    "translation": "в частности / особенно",
+    "example": "La pollution numérique provient notamment de la fabrication des appareils.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_interagir",
+    "french": "interagir",
+    "translation": "взаимодействовать",
+    "example": "Les participants peuvent interagir pendant la présentation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_rattrapage",
+    "french": "le rattrapage",
+    "translation": "наверстывание / дополнительная попытка",
+    "example": "Une séance de rattrapage est prévue pour les étudiants absents.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_empreinte",
+    "french": "une empreinte",
+    "translation": "след / отпечаток",
+    "example": "Nous cherchons à diminuer notre empreinte numérique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_defi",
+    "french": "un défi",
+    "translation": "вызов / сложная задача",
+    "example": "Réduire la pollution numérique représente un véritable défi.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_traiter",
+    "french": "traiter",
+    "translation": "обрабатывать / рассматривать / решать",
+    "example": "Le rapport traite de l’impact environnemental du numérique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_degradation",
+    "french": "la dégradation",
+    "translation": "ухудшение / разрушение",
+    "example": "La dégradation de l’environnement inquiète de plus en plus de citoyens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_epuisement",
+    "french": "l’épuisement",
+    "translation": "истощение",
+    "example": "La fabrication des appareils contribue à l’épuisement de certaines ressources.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_rechauffement",
+    "french": "le réchauffement",
+    "translation": "потепление",
+    "example": "Le réchauffement climatique est lié aux émissions de gaz à effet de serre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_intuitivement",
+    "french": "intuitivement",
+    "translation": "интуитивно",
+    "example": "Intuitivement, on pourrait penser que le numérique ne pollue pas beaucoup.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_intuition",
+    "french": "une intuition",
+    "translation": "интуиция / догадка",
+    "example": "Cette intuition doit être vérifiée par les chiffres de l’enquête.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_pouvoir_achat",
+    "french": "le pouvoir d’achat",
+    "translation": "покупательная способность",
+    "example": "La hausse des prix peut réduire le pouvoir d’achat des ménages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_ere",
+    "french": "une ère",
+    "translation": "эпоха / эра",
+    "example": "Nous vivons à l’ère du numérique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_fraction",
+    "french": "une fraction",
+    "translation": "дробь / доля",
+    "example": "Neuf dixièmes est une fraction qui correspond à 90 %.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_neuf_dixiemes",
+    "french": "neuf dixièmes",
+    "translation": "девять десятых",
+    "example": "Neuf dixièmes des personnes interrogées utilisent Internet tous les jours.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_numerateur",
+    "french": "un numérateur",
+    "translation": "числитель",
+    "example": "Dans la fraction neuf dixièmes, neuf est le numérateur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_denominateur",
+    "french": "un dénominateur",
+    "translation": "знаменатель",
+    "example": "Dans la fraction neuf dixièmes, dix est le dénominateur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_26_promouvoir",
+    "french": "promouvoir",
+    "translation": "продвигать / содействовать",
+    "example": "Cette initiative cherche à promouvoir des usages numériques plus responsables.",
+    "status": "learning"
+  }
+]
