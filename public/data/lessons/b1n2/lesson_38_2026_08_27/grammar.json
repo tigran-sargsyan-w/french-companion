@@ -1,0 +1,77 @@
+[
+  {
+    "id": "g_2026_08_27_discours_rapporte_passe",
+    "title": "Le discours rapporté au passé",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Règle générale\n",
+        "Quand on rapporte des paroles avec un verbe introducteur au passé, la phrase rapportée passe au **discours indirect** et suit la **concordance des temps**."
+      ],
+      [
+        "### Passage du discours direct au discours indirect\n",
+        "| Type de phrase | Forme au discours indirect |",
+        "|---|---|",
+        "| Phrase affirmative | verbe introducteur + **que / qu’** |",
+        "| Question totale | verbe introducteur + **si** |",
+        "| Question partielle | verbe introducteur + **mot interrogatif** |",
+        "| Question avec **quoi / qu’est-ce que / qu’est-ce qui** | verbe introducteur + **ce que / ce qui** |",
+        "| Impératif | verbe introducteur + **de + infinitif** |",
+        "| Impératif négatif | verbe introducteur + **de ne pas + infinitif** |"
+      ],
+      [
+        "### Concordance des temps\n",
+        "| Temps au discours direct | Temps au discours indirect |",
+        "|---|---|",
+        "| présent | imparfait |",
+        "| passé composé | plus-que-parfait |",
+        "| futur simple | conditionnel |",
+        "| imparfait | imparfait |",
+        "| plus-que-parfait | plus-que-parfait |",
+        "| conditionnel | conditionnel |"
+      ],
+      [
+        "### À noter\n",
+        "- Les pronoms et les possessifs peuvent changer dans le passage au discours indirect ;",
+        "- à l’écrit, le discours direct se met entre **guillemets** ;",
+        "- on emploie souvent des verbes introducteurs comme **dire**, **ajouter**, **expliquer**, **demander**, **préciser** ou **ordonner**."
+      ]
+    ],
+    "examples": [
+      "L’influenceur a dit : « J’adore cette marque. »",
+      "L’influenceur a dit qu’il adorait cette marque.",
+      "Il m’a demandé : « Tu iras à la plage ? »",
+      "Il m’a demandé si j’irais à la plage.",
+      "Elle a voulu savoir ce que j’avais acheté.",
+      "Elles ont dit de ne pas acheter ce produit."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_08_27_accord_participe_passe_cod",
+    "title": "Accord du participe passé avec le COD",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Rappel\n",
+        "Avec l’auxiliaire **avoir**, le participe passé reste généralement invariable."
+      ],
+      [
+        "### Exception\n",
+        "Quand le **COD** est placé **avant** le verbe, le participe passé s’accorde avec ce COD."
+      ],
+      [
+        "### Exemple du cours\n",
+        "- **Ils ont mangé une pomme.**",
+        "- **La pomme qu’ils ont mangée.**",
+        "- **Ils l’ont mangée.**"
+      ]
+    ],
+    "examples": [
+      "Ils ont mangé une pomme.",
+      "La pomme qu’ils ont mangée.",
+      "Ils l’ont mangée."
+    ],
+    "annotatedExamples": []
+  }
+]
