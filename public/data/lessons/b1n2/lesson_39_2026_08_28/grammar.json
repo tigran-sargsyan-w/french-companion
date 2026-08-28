@@ -1,0 +1,48 @@
+[
+  {
+    "id": "g_2026_08_28_structurer_expose",
+    "title": "Structurer un exposé écrit ou oral",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Annoncer le thème\n",
+        "- **Je vais vous parler de...**",
+        "- **J’aimerais vous parler de...**"
+      ],
+      [
+        "### Développer un plan\n",
+        "- **d’abord, ensuite, enfin** ;",
+        "- **la première raison, la deuxième raison...** ;",
+        "- **premièrement, deuxièmement...** ;",
+        "- **d’une part, d’autre part**."
+      ],
+      [
+        "### Citer et donner un exemple\n",
+        "- Pour citer : **X a dit : « ... »**, **Je cite : « ... »** ;",
+        "- pour donner un exemple : **par exemple**, **comme**."
+      ],
+      [
+        "### Expliquer et ajouter une information\n",
+        "- Pour expliquer : **en effet**, **ainsi** ;",
+        "- pour ajouter une information ou un argument : **de plus**, **par ailleurs** ;",
+        "- **ainsi** peut être placé au début de la phrase ou après le verbe ;",
+        "- **par ailleurs** peut introduire une nouvelle information en début de phrase."
+      ],
+      [
+        "### Conclure\n",
+        "- **pour finir** ;",
+        "- **finalement** ;",
+        "- **en conclusion** ;",
+        "- **en résumé**."
+      ]
+    ],
+    "examples": [
+      "Je vais vous parler de l’affichage publicitaire.",
+      "D’abord, je présenterai les avantages ; ensuite, j’expliquerai les inconvénients.",
+      "Par exemple, certaines affiches publicitaires attirent immédiatement l’attention.",
+      "Cette campagne est efficace. Par ailleurs, elle coûte relativement peu cher.",
+      "En conclusion, l’affichage publicitaire peut être utile s’il reste bien adapté au public."
+    ],
+    "annotatedExamples": []
+  }
+]
