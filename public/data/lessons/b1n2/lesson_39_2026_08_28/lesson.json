@@ -8,5 +8,21 @@
     ]
   ],
   "notes": "Fait en classe:\n- Fin de l’unité 6.\n- Discussion autour de l’affichage publicitaire.\n- Travail sur la structure de l’e-mail et d’un exposé en général, pages 112-113.\n- Étude des expressions permettant d’organiser un exposé écrit ou oral.\n- Visite de l’exposition installée dans le hall de l’Alliance Française.\n\nExpression:\n- Annoncer un thème.\n- Développer un plan.\n- Citer une personne.\n- Donner un exemple.\n- Expliquer une idée.\n- Ajouter une information ou un argument.\n- Conclure.\n\nVocabulaire:\n- Lexique de l’e-mail, de l’affichage publicitaire et de la structuration d’un exposé.",
-  "photos": []
+  "photos": [
+    {
+      "src": "photos/course-summary.png",
+      "caption": "Résumé du cours du 28 août",
+      "alt": "Message du professeur résumant le cours du 28 août sur l’affichage publicitaire, la structure de l’e-mail et de l’exposé, ainsi que la visite d’une exposition"
+    },
+    {
+      "src": "photos/expose-structure.png",
+      "caption": "Structurer un exposé écrit ou oral",
+      "alt": "Fiche de cours présentant les expressions pour annoncer un thème, développer un plan, citer, expliquer, ajouter une information et conclure un exposé"
+    },
+    {
+      "src": "photos/class-notes-vocabulary.png",
+      "caption": "Notes de vocabulaire du 28 août",
+      "alt": "Notes manuscrites contenant du vocabulaire sur l’e-mail et des expressions comme « par ailleurs », « citer », « ainsi » et « honnêtement »"
+    }
+  ]
 }
