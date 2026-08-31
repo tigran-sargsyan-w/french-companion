@@ -1,0 +1,492 @@
+[
+  {
+    "id": "v_2026_08_31_eclair",
+    "french": "un éclair",
+    "translation": "молния",
+    "example": "Un éclair a illuminé le ciel pendant l’orage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_net",
+    "french": "net / nette",
+    "translation": "чёткий / ясный / явный",
+    "example": "La différence entre les deux solutions est très nette.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_dechets",
+    "french": "les déchets",
+    "translation": "отходы / мусор",
+    "example": "Nous devons trier les déchets avant de les jeter.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_ordures",
+    "french": "les ordures",
+    "translation": "мусор / бытовые отходы",
+    "example": "Les ordures ménagères sont collectées plusieurs fois par semaine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_protection",
+    "french": "la protection",
+    "translation": "защита",
+    "example": "La protection de l’environnement concerne tout le monde.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_proteger",
+    "french": "protéger",
+    "translation": "защищать",
+    "example": "Ces mesures permettent de protéger les ressources naturelles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_paille",
+    "french": "une paille",
+    "translation": "соломинка / трубочка",
+    "example": "J’évite les pailles en plastique à usage unique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_batonnet",
+    "french": "un bâtonnet",
+    "translation": "палочка",
+    "example": "Certains bâtonnets en plastique peuvent être remplacés par du bois.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_friperie",
+    "french": "une friperie",
+    "translation": "магазин подержанной одежды",
+    "example": "J’achète parfois des vêtements dans une friperie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_surcharge",
+    "french": "surchargé / surchargée",
+    "translation": "перегруженный",
+    "example": "Un conteneur surchargé peut déborder.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_cycle",
+    "french": "un cycle",
+    "translation": "цикл",
+    "example": "Le recyclage permet de prolonger le cycle de vie des matériaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_vertueux",
+    "french": "vertueux / vertueuse",
+    "translation": "благоприятный / добродетельный",
+    "example": "Le réemploi peut créer un cycle vertueux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_parcours",
+    "french": "un parcours",
+    "translation": "путь / маршрут / процесс",
+    "example": "Nous avons étudié le parcours d’un déchet après sa collecte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_mammifere",
+    "french": "un mammifère",
+    "translation": "млекопитающее",
+    "example": "De nombreux mammifères marins avalent accidentellement du plastique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_avaler",
+    "french": "avaler",
+    "translation": "глотать",
+    "example": "Les animaux peuvent avaler de petits morceaux de plastique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_acheminer",
+    "french": "acheminer",
+    "translation": "доставлять / транспортировать",
+    "example": "Les déchets sont acheminés vers un centre de tri.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_conteneur",
+    "french": "un conteneur",
+    "translation": "контейнер",
+    "example": "Les emballages sont déposés dans un conteneur adapté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_emballage",
+    "french": "un emballage",
+    "translation": "упаковка",
+    "example": "Je choisis des produits avec moins d’emballage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_emballer",
+    "french": "emballer",
+    "translation": "упаковывать",
+    "example": "Il vaut mieux éviter d’emballer chaque produit séparément.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_nuire",
+    "french": "nuire à",
+    "translation": "вредить",
+    "example": "La pollution plastique nuit aux écosystèmes marins.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_se_degrader",
+    "french": "se dégrader",
+    "translation": "разлагаться / ухудшаться",
+    "example": "Certains plastiques mettent très longtemps à se dégrader.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_valoir_peine",
+    "french": "ça vaut la peine",
+    "translation": "это того стоит",
+    "example": "Réparer un appareil vaut souvent la peine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_valoir",
+    "french": "valoir",
+    "translation": "стоить / иметь ценность",
+    "example": "Cette solution vaut la peine d’être essayée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_tant_pis",
+    "french": "tant pis",
+    "translation": "тем хуже / ничего не поделаешь",
+    "example": "Tant pis si c’est moins pratique : je préfère éviter le plastique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_moindre_chose",
+    "french": "la moindre des choses",
+    "translation": "самое малое, что можно сделать",
+    "example": "Trier ses déchets est la moindre des choses.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_goutte_eau",
+    "french": "une goutte d’eau dans la mer",
+    "translation": "капля в море",
+    "example": "Mon geste paraît être une goutte d’eau dans la mer, mais il compte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_grain_sable",
+    "french": "un grain de sable dans le désert",
+    "translation": "песчинка в пустыне",
+    "example": "Une seule action peut sembler être un grain de sable dans le désert.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_sable",
+    "french": "le sable",
+    "translation": "песок",
+    "example": "Le plastique peut se fragmenter jusque dans le sable des plages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_halluciner",
+    "french": "halluciner",
+    "translation": "быть поражённым / не верить своим глазам",
+    "example": "J’ai halluciné en voyant la quantité de déchets sur la plage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_fraicheur",
+    "french": "la fraîcheur",
+    "translation": "свежесть / прохлада",
+    "example": "Une bonne isolation aide à garder la fraîcheur en été.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_gaspillage_alimentaire",
+    "french": "le gaspillage alimentaire",
+    "translation": "пищевые отходы / расточительство еды",
+    "example": "Planifier ses repas permet de réduire le gaspillage alimentaire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_lave_vaisselle",
+    "french": "un lave-vaisselle",
+    "translation": "посудомоечная машина",
+    "example": "Un lave-vaisselle bien rempli peut économiser de l’eau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_inox",
+    "french": "l’inox",
+    "translation": "нержавеющая сталь",
+    "example": "Une gourde en inox peut remplacer des bouteilles jetables.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_arroser",
+    "french": "arroser",
+    "translation": "поливать",
+    "example": "On peut récupérer l’eau de pluie pour arroser les plantes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_empreinte",
+    "french": "une empreinte",
+    "translation": "след / отпечаток",
+    "example": "Nous pouvons réduire notre empreinte carbone par nos choix quotidiens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_fournisseur",
+    "french": "un fournisseur",
+    "translation": "поставщик",
+    "example": "L’entreprise choisit un fournisseur local pour réduire les transports.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_fournir",
+    "french": "fournir",
+    "translation": "поставлять / предоставлять",
+    "example": "Ce fournisseur fournit des produits en vrac.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_grille_pain",
+    "french": "un grille-pain",
+    "translation": "тостер",
+    "example": "Je préfère réparer mon grille-pain plutôt que le jeter.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_eviter",
+    "french": "éviter",
+    "translation": "избегать",
+    "example": "Nous essayons d’éviter les emballages à usage unique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_perenne",
+    "french": "pérenne",
+    "translation": "устойчивый / долговечный",
+    "example": "Il faut privilégier des solutions pérennes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_nucleaire",
+    "french": "nucléaire",
+    "translation": "ядерный",
+    "example": "Le débat sur l’énergie nucléaire reste complexe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_surconsommation",
+    "french": "la surconsommation",
+    "translation": "чрезмерное потребление",
+    "example": "La publicité peut encourager la surconsommation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_pollution",
+    "french": "la pollution",
+    "translation": "загрязнение",
+    "example": "La pollution de l’air a des conséquences sur la santé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_gaz_effet_serre",
+    "french": "les émissions de gaz à effet de serre",
+    "translation": "выбросы парниковых газов",
+    "example": "Les transports produisent des émissions de gaz à effet de serre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_emballages_plastique",
+    "french": "les emballages en plastique",
+    "translation": "пластиковые упаковки",
+    "example": "Nous cherchons à réduire les emballages en plastique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_gaspillage",
+    "french": "le gaspillage",
+    "translation": "расточительство / потери",
+    "example": "Le gaspillage des ressources doit être limité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_produits_jetables",
+    "french": "les produits jetables",
+    "translation": "одноразовые товары",
+    "example": "Les produits jetables créent beaucoup de déchets.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_pesticides",
+    "french": "les pesticides",
+    "translation": "пестициды",
+    "example": "Les pesticides peuvent contaminer les sols et l’eau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_engrais_chimiques",
+    "french": "les engrais chimiques",
+    "translation": "химические удобрения",
+    "example": "L’usage excessif d’engrais chimiques peut polluer les rivières.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_maree_noire",
+    "french": "une marée noire",
+    "translation": "разлив нефти",
+    "example": "Une marée noire peut détruire des écosystèmes côtiers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_deforestation",
+    "french": "la déforestation",
+    "translation": "вырубка лесов",
+    "example": "La déforestation contribue à la perte de biodiversité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_decharge_sauvage",
+    "french": "une décharge sauvage",
+    "translation": "несанкционированная свалка",
+    "example": "La commune lutte contre les décharges sauvages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_rechauffement_climatique",
+    "french": "le réchauffement climatique",
+    "translation": "глобальное потепление",
+    "example": "Le réchauffement climatique entraîne de nombreuses conséquences.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_fonte_glaces",
+    "french": "la fonte des glaces",
+    "translation": "таяние льдов",
+    "example": "La fonte des glaces contribue à la montée des eaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_inondations",
+    "french": "les inondations",
+    "translation": "наводнения",
+    "example": "Certaines régions connaissent des inondations plus fréquentes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_epuisement_ressources",
+    "french": "l’épuisement des ressources naturelles",
+    "translation": "истощение природных ресурсов",
+    "example": "La surconsommation accélère l’épuisement des ressources naturelles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_desertification",
+    "french": "la désertification",
+    "translation": "опустынивание",
+    "example": "La sécheresse peut favoriser la désertification.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_rarefaction_eau",
+    "french": "la raréfaction de l’eau",
+    "translation": "дефицит / сокращение запасов воды",
+    "example": "La raréfaction de l’eau devient un problème majeur dans certaines régions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_trier_dechets",
+    "french": "trier ses déchets",
+    "translation": "сортировать отходы",
+    "example": "Je trie mes déchets dans plusieurs poubelles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_recycler",
+    "french": "recycler",
+    "translation": "перерабатывать",
+    "example": "On peut recycler le verre, le papier et certains plastiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_preserver",
+    "french": "préserver",
+    "translation": "сохранять / беречь",
+    "example": "Il faut préserver les espaces naturels.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_economiser_energie",
+    "french": "économiser l’énergie",
+    "translation": "экономить энергию",
+    "example": "Éteindre les appareils permet d’économiser l’énergie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_acheter_occasion",
+    "french": "acheter d’occasion",
+    "translation": "покупать подержанное",
+    "example": "Acheter d’occasion prolonge la durée de vie des objets.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_acheter_vrac",
+    "french": "acheter en vrac",
+    "translation": "покупать без упаковки / на развес",
+    "example": "J’achète des céréales en vrac pour éviter les emballages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_empreinte_carbone",
+    "french": "une empreinte carbone",
+    "translation": "углеродный след",
+    "example": "Prendre moins souvent l’avion réduit son empreinte carbone.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_energies_renouvelables",
+    "french": "les énergies renouvelables",
+    "translation": "возобновляемые источники энергии",
+    "example": "Les énergies renouvelables occupent une place croissante dans le mix énergétique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_developpement_durable",
+    "french": "le développement durable",
+    "translation": "устойчивое развитие",
+    "example": "Le développement durable cherche à concilier économie, société et environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_reboisement",
+    "french": "le reboisement",
+    "translation": "лесовосстановление",
+    "example": "Le reboisement aide à restaurer certaines zones dégradées.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_compensation_carbone",
+    "french": "la compensation carbone",
+    "translation": "углеродная компенсация",
+    "example": "La compensation carbone ne remplace pas la réduction directe des émissions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_08_31_emballages_biodegradables",
+    "french": "les emballages biodégradables",
+    "translation": "биоразлагаемая упаковка",
+    "example": "Certains commerces utilisent des emballages biodégradables.",
+    "status": "learning"
+  }
+]
