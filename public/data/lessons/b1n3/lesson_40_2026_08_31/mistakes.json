@@ -1,0 +1,16 @@
+[
+  {
+    "id": "m_2026_08_31_eclair_orage",
+    "wrong": "un éclair = гроза",
+    "correct": "un éclair = молния",
+    "note": "**Un éclair** désigne la lumière produite pendant un orage. **Un orage** signifie « гроза ».",
+    "category": "Vocabulary"
+  },
+  {
+    "id": "m_2026_08_31_lave_vaisselle_genre",
+    "wrong": "une lave-vaisselle",
+    "correct": "un lave-vaisselle",
+    "note": "Le nom **lave-vaisselle** est masculin : on dit **un lave-vaisselle**.",
+    "category": "Grammar"
+  }
+]
