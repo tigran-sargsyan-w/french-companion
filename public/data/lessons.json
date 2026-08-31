@@ -388,5 +388,15 @@
     "classLevel": "B1N2",
     "status": "done",
     "path": "data/lessons/b1n2/lesson_39_2026_08_28"
+  },
+  {
+    "id": "lesson_40_2026_08_31",
+    "number": 40,
+    "title": "Recyclage, gestes écologiques et environnement",
+    "date": "2026-08-31",
+    "level": "B1",
+    "classLevel": "B1N3",
+    "status": "done",
+    "path": "data/lessons/b1n3/lesson_40_2026_08_31"
   }
 ]
