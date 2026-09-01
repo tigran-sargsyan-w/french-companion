@@ -1,0 +1,80 @@
+[
+  {
+    "id": "g_2026_09_01_inclusion_exclusion",
+    "title": "Exprimer l’inclusion et l’exclusion",
+    "category": "Prepositions",
+    "summary": [
+      [
+        "### L’inclusion\n",
+        "- **y compris + nom** : on ajoute explicitement un élément à un ensemble ;",
+        "- **nom + inclus** : *inclus* se place après le nom et s’accorde avec lui."
+      ],
+      [
+        "### L’exclusion\n",
+        "- **sans + infinitif** : indique qu’une action n’est pas réalisée ;",
+        "- **sauf si + phrase** : introduit une exception sous forme de condition ;",
+        "- **excepté / sauf + nom** : exclut un élément d’un ensemble ;",
+        "- **être exclu(e) de + nom** : indique qu’un élément ne fait pas partie d’un ensemble."
+      ]
+    ],
+    "examples": [
+      "Je recycle le verre, y compris les flacons de parfum.",
+      "On peut recycler le verre, les flacons de parfum inclus.",
+      "Jetez vos déchets sans laver les emballages.",
+      "On peut recycler les cartons, sauf s’ils sont sales.",
+      "On recycle le plastique, excepté les jouets en plastique.",
+      "Les vêtements sont exclus du tri."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_01_condition",
+    "title": "Exprimer la condition",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Trois constructions principales\n",
+        "- **à condition de + infinitif** lorsque le sujet est le même ;",
+        "- **à condition que + subjonctif** lorsqu’on introduit une proposition avec un verbe conjugué ;",
+        "- **si + indicatif** pour exprimer une condition avec *si*."
+      ],
+      [
+        "### Subjonctif et incertitude\n",
+        "Le subjonctif est employé après **à condition que**. Dans les notes de cours, il est également rappelé que le subjonctif apparaît dans des contextes d’incertitude."
+      ]
+    ],
+    "examples": [
+      "Trier, c’est bien, à condition de suivre les consignes.",
+      "Tu peux recycler les cartons à condition qu’ils soient propres.",
+      "Si les gens font bien le tri, le recyclage des produits est plus facile."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "À condition que + subjonctif",
+        "markup": "Tu peux recycler les cartons {{contexte:à condition qu’}}ils {{verbe:soient}} propres.",
+        "explanation": "Après **à condition que**, le verbe se met au subjonctif : **soient** est le subjonctif présent de *être*.",
+        "sourceSentences": [
+          "Tu peux recycler les cartons.",
+          "Ils doivent être propres."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_09_01_des_des",
+    "title": "Dès et des",
+    "category": "Prepositions",
+    "summary": [
+      [
+        "### Ne pas confondre\n",
+        "- **dès** signifie notamment **à partir de** : *dès lundi*, *dès huit heures* ;",
+        "- **des** est généralement un article pluriel ou la contraction de **de + les**."
+      ]
+    ],
+    "examples": [
+      "La collecte commence dès huit heures.",
+      "J’ai déposé des bouteilles dans le bac de tri."
+    ],
+    "annotatedExamples": []
+  }
+]
