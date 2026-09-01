@@ -398,5 +398,15 @@
     "classLevel": "B1N3",
     "status": "done",
     "path": "data/lessons/b1n3/lesson_40_2026_08_31"
+  },
+  {
+    "id": "lesson_41_2026_09_01",
+    "number": 41,
+    "title": "Inclusion, exclusion, condition et vocabulaire du quotidien",
+    "date": "2026-09-01",
+    "level": "B1",
+    "classLevel": "B1N3",
+    "status": "done",
+    "path": "data/lessons/b1n3/lesson_41_2026_09_01"
   }
 ]

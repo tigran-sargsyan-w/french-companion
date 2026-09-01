@@ -1,0 +1,18 @@
+[
+  {"id":"v_2026_09_01_comble","french":"un comble","translation":"верх / предел; это уже слишком","example":"C’est un comble de jeter des déchets dans la rue.","status":"learning"},
+  {"id":"v_2026_09_01_avouer","french":"avouer","translation":"признаться / признать","example":"Il a avoué qu’il s’était trompé.","status":"learning"},
+  {"id":"v_2026_09_01_incoherence","french":"une incohérence","translation":"несоответствие / нелогичность","example":"Il y a une incohérence dans cette consigne.","status":"learning"},
+  {"id":"v_2026_09_01_servir_a","french":"servir à","translation":"служить для / использоваться для","example":"Cette borne sert à collecter les vêtements usagés.","status":"learning"},
+  {"id":"v_2026_09_01_borne","french":"une borne","translation":"терминал / стойка / пункт","example":"Il y a une borne de collecte près du supermarché.","status":"learning"},
+  {"id":"v_2026_09_01_rincer","french":"rincer","translation":"промывать / ополаскивать","example":"Il n’est pas toujours nécessaire de rincer les emballages avant de les trier.","status":"learning"},
+  {"id":"v_2026_09_01_encombrants","french":"les encombrants","translation":"крупногабаритный мусор","example":"Les vieux meubles font partie des encombrants.","status":"learning"},
+  {"id":"v_2026_09_01_electromenager","french":"l’électroménager","translation":"бытовая техника","example":"L’électroménager usagé doit être déposé dans un point de collecte adapté.","status":"learning"},
+  {"id":"v_2026_09_01_enlever","french":"enlever","translation":"убирать / снимать","example":"Il faut enlever le couvercle avant de jeter ce récipient.","status":"learning"},
+  {"id":"v_2026_09_01_chaussures_a_talons","french":"des chaussures à talons","translation":"туфли на каблуках","example":"Elle porte des chaussures à talons pour la soirée.","status":"learning"},
+  {"id":"v_2026_09_01_consigne","french":"une consigne","translation":"инструкция / указание","example":"Il faut suivre les consignes de tri.","status":"learning"},
+  {"id":"v_2026_09_01_a_partir_de","french":"à partir de","translation":"начиная с / с","example":"La collecte commence à partir de huit heures.","status":"learning"},
+  {"id":"v_2026_09_01_asperger","french":"asperger","translation":"обрызгивать / опрыскивать","example":"Il a aspergé les plantes avec un peu d’eau.","status":"learning"},
+  {"id":"v_2026_09_01_mentir","french":"mentir","translation":"лгать / врать","example":"Il ne faut pas mentir à ses proches.","status":"learning"},
+  {"id":"v_2026_09_01_tromper","french":"tromper quelqu’un","translation":"обманывать кого-то","example":"Cette personne a trompé son ami avec de fausses informations.","status":"learning"},
+  {"id":"v_2026_09_01_se_tromper","french":"se tromper","translation":"ошибаться","example":"Je me suis trompé de poubelle.","status":"learning"}
+]
