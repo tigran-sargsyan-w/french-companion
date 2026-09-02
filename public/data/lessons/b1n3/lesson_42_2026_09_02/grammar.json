@@ -1,0 +1,50 @@
+[
+  {
+    "id": "g_2026_09_02_verbes_engagement_citoyen",
+    "title": "Les verbes de l’engagement citoyen",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Constructions principales\n",
+        "- **lutter contre + nom** : combattre un problème ou une situation ;",
+        "- **se mobiliser contre + nom** : agir collectivement contre quelque chose ;",
+        "- **se mobiliser pour + nom / idée** : agir collectivement en faveur de quelque chose ;",
+        "- **faire face à + nom** : affronter une difficulté ou un problème."
+      ],
+      [
+        "### Sensibiliser, alerter et dénoncer\n",
+        "- **sensibiliser quelqu’un à quelque chose** : rendre une personne plus consciente d’un problème ;",
+        "- **alerter quelqu’un sur quelque chose** : attirer son attention sur un risque ou un problème ;",
+        "- **dénoncer quelque chose / quelqu’un** : condamner publiquement une situation, un comportement ou une personne."
+      ],
+      [
+        "### Agir et faire agir\n",
+        "- **militer pour + nom / idée** : défendre activement une cause ;",
+        "- **responsabiliser quelqu’un** : l’amener à prendre conscience de ses responsabilités ;",
+        "- **inciter quelqu’un à faire quelque chose** : pousser ou encourager une personne à agir."
+      ]
+    ],
+    "examples": [
+      "Des associations luttent contre la pollution plastique.",
+      "Les habitants se mobilisent pour protéger leur quartier.",
+      "Nous devons faire face à l’augmentation des déchets.",
+      "Cette campagne sensibilise les jeunes à la pollution des océans.",
+      "Les scientifiques alertent la population sur les conséquences du plastique.",
+      "Des citoyens dénoncent les dépôts sauvages.",
+      "Cette organisation milite pour la réduction des emballages.",
+      "L’école responsabilise les élèves face aux déchets.",
+      "La campagne incite les consommateurs à utiliser une gourde."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Inciter quelqu’un à faire quelque chose",
+        "markup": "La campagne {{verbe:incite}} {{COD:les consommateurs}} {{contexte:à utiliser}} une gourde.",
+        "explanation": "Le verbe **inciter** se construit avec une personne, puis **à + infinitif** pour exprimer l’action encouragée.",
+        "sourceSentences": [
+          "La campagne incite les consommateurs.",
+          "Les consommateurs utilisent une gourde."
+        ]
+      }
+    ]
+  }
+]
