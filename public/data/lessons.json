@@ -408,5 +408,15 @@
     "classLevel": "B1N3",
     "status": "done",
     "path": "data/lessons/b1n3/lesson_41_2026_09_01"
+  },
+  {
+    "id": "lesson_42_2026_09_02",
+    "number": 42,
+    "title": "Engagement citoyen, initiatives et lutte contre le plastique",
+    "date": "2026-09-02",
+    "level": "B1",
+    "classLevel": "B1N3",
+    "status": "done",
+    "path": "data/lessons/b1n3/lesson_42_2026_09_02"
   }
 ]
