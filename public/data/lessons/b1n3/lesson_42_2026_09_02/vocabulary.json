@@ -1,5 +1,75 @@
 [
   {
+    "id": "v_2026_09_02_faire_face_a",
+    "french": "faire face à",
+    "translation": "сталкиваться с / противостоять",
+    "example": "Nous devons faire face à la pollution plastique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_02_lutter_contre_pour",
+    "french": "lutter contre / pour",
+    "translation": "бороться с / за",
+    "example": "Nous devons lutter contre la pollution plastique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_02_se_mobiliser_contre_pour",
+    "french": "se mobiliser contre / pour",
+    "translation": "объединяться / мобилизоваться против / за",
+    "example": "Les habitants se mobilisent pour protéger leur quartier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_02_sensibiliser_qqn_a_qqch",
+    "french": "sensibiliser qqn à qqch",
+    "translation": "повышать осведомлённость qqn / привлекать внимание qqn к qqch",
+    "example": "Cette campagne sensibilise les jeunes à la pollution des océans.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_02_alerter_qqn_sur_qqch",
+    "french": "alerter qqn sur qqch",
+    "translation": "предупреждать qqn о qqch / привлекать внимание qqn к qqch",
+    "example": "Les scientifiques alertent la population sur les conséquences du plastique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_02_alerter_qqn_a_propos_de_qqn",
+    "french": "alerter qqn à propos de qqn",
+    "translation": "предупреждать qqn о qqn / привлекать внимание qqn к qqn",
+    "example": "Les scientifiques alertent la population à propos des risques liés au plastique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_02_denoncer",
+    "french": "dénoncer",
+    "translation": "осуждать / разоблачать / сообщать о нарушении",
+    "example": "Des citoyens dénoncent les dépôts sauvages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_02_militer_pour",
+    "french": "militer pour",
+    "translation": "бороться за / выступать за",
+    "example": "Elle milite pour la protection de l'environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_02_responsabiliser_qqn",
+    "french": "responsabiliser qqn",
+    "translation": "привлекать qqn к ответственности",
+    "example": "Il faut responsabiliser les entreprises pour leur impact sur l’environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_02_inciter_qqn_a__faire_qqch",
+    "french": "inciter qqn à faire qqch",
+    "translation": "призывать qqn к qqn / побуждать qqn к qqn",
+    "example": "Les associations incitent les citoyens à participer aux actions de nettoyage.",
+    "status": "learning"
+  },
+  {
     "id": "v_2026_09_02_raler",
     "french": "râler",
     "translation": "ворчать / жаловаться",
@@ -109,13 +179,6 @@
     "french": "les pailles",
     "translation": "соломинки",
     "example": "Certains restaurants n’utilisent plus de pailles en plastique.",
-    "status": "learning"
-  },
-  {
-    "id": "v_2026_09_02_faire_face_a",
-    "french": "faire face à",
-    "translation": "сталкиваться с / противостоять",
-    "example": "Nous devons faire face à la pollution plastique.",
     "status": "learning"
   },
   {
