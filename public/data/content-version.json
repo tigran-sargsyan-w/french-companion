@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-02-001",
-  "updatedAt": "2026-09-02T17:05:00.000Z",
-  "description": "Add lesson 42 content and photos"
+  "version": "2026-09-02-002",
+  "updatedAt": "2026-09-02T17:20:00.000Z",
+  "description": "Fix duplicate vocabulary id in lesson 42"
 }
