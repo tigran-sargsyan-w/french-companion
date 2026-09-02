@@ -161,10 +161,10 @@
     "status": "learning"
   },
   {
-    "id": "v_2026_09_02_role_de",
-    "french": "le rôle de",
-    "translation": "роль кого-либо / чего-либо",
-    "example": "Le rôle de cette association est de sensibiliser le public.",
+    "id": "v_2026_09_02_role_cle",
+    "french": "le rôle clé",
+    "translation": "ключевая роль",
+    "example": "Le rôle clé des associations est de sensibiliser le public.",
     "status": "learning"
   },
   {
@@ -172,6 +172,20 @@
     "french": "empêcher",
     "translation": "мешать / препятствовать",
     "example": "Ces mesures empêchent certains déchets d’arriver dans la mer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_02_carafe",
+    "french": "carafe",
+    "translation": "графин / кувшин",
+    "example": "Il boit son café dans une carafe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_02_aupres_de",
+    "french": "auprès de",
+    "translation": "рядом с / при",
+    "example": "Il travaille avec les bénévoles auprés de l'association.",
     "status": "learning"
   },
   {
