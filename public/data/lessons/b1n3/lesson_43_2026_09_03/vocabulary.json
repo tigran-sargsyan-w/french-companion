@@ -1,0 +1,919 @@
+[
+  {
+    "id": "v_2026_09_03_prediction",
+    "french": "une prédiction",
+    "translation": "предсказание / прогноз",
+    "example": "Les prédictions de Nostradamus sont encore connues aujourd’hui.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_predire",
+    "french": "prédire",
+    "translation": "предсказывать / прогнозировать",
+    "example": "Certains textes prétendent prédire des événements futurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_hygiene",
+    "french": "l’hygiène",
+    "translation": "гигиена",
+    "example": "Une bonne hygiène est essentielle pour rester en bonne santé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_etre_consacre_a",
+    "french": "être consacré à",
+    "translation": "быть посвящённым чему-либо",
+    "example": "Ce chapitre est consacré aux prédictions de Nostradamus.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_encre",
+    "french": "l’encre",
+    "translation": "чернила",
+    "example": "Le texte ancien a été écrit à l’encre noire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_effrayer",
+    "french": "effrayer",
+    "translation": "пугать",
+    "example": "Certaines prédictions peuvent effrayer les lecteurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_inondation",
+    "french": "une inondation",
+    "translation": "наводнение",
+    "example": "Après de fortes pluies, une inondation a touché la région.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_secheresse",
+    "french": "une sécheresse",
+    "translation": "засуха",
+    "example": "La sécheresse peut provoquer de graves problèmes agricoles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_tremblement_de_terre",
+    "french": "un tremblement de terre",
+    "translation": "землетрясение",
+    "example": "Un tremblement de terre a été ressenti dans plusieurs villes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_seisme",
+    "french": "un séisme",
+    "translation": "землетрясение / сейсмическое событие",
+    "example": "Les habitants ont quitté les bâtiments après le séisme.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_ouragan",
+    "french": "un ouragan",
+    "translation": "ураган",
+    "example": "L’ouragan s’est approché des côtes pendant la nuit.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_incendie",
+    "french": "un incendie",
+    "translation": "пожар",
+    "example": "Les pompiers ont maîtrisé l’incendie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_tsunami",
+    "french": "un tsunami",
+    "translation": "цунами",
+    "example": "Un tsunami peut être provoqué par un séisme sous-marin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_tornade",
+    "french": "une tornade",
+    "translation": "торнадо / смерч",
+    "example": "La tornade a endommagé plusieurs maisons.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_typhon",
+    "french": "un typhon",
+    "translation": "тайфун",
+    "example": "Le typhon a entraîné de fortes pluies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_flou",
+    "french": "flou",
+    "translation": "размытый / неясный",
+    "example": "Le sens de cette prédiction reste flou.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_trembler",
+    "french": "trembler",
+    "translation": "дрожать / трястись",
+    "example": "Les vitres ont commencé à trembler.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_grace_a",
+    "french": "grâce à",
+    "translation": "благодаря",
+    "example": "Grâce à l’alerte, les habitants ont pu se mettre à l’abri.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_a_cause_de",
+    "french": "à cause de",
+    "translation": "из-за / по причине",
+    "example": "La route est fermée à cause de l’inondation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_embouteillage",
+    "french": "un embouteillage",
+    "translation": "пробка",
+    "example": "Nous sommes arrivés en retard à cause d’un embouteillage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_agitation",
+    "french": "l’agitation",
+    "translation": "суета / волнение / оживление",
+    "example": "Il y avait beaucoup d’agitation devant la gare.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_guichet",
+    "french": "un guichet",
+    "translation": "окошко / стойка обслуживания",
+    "example": "J’ai demandé un renseignement au guichet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_dissimuler",
+    "french": "dissimuler",
+    "translation": "скрывать / утаивать",
+    "example": "Il a essayé de dissimuler la vérité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_s_echapper",
+    "french": "s’échapper",
+    "translation": "сбежать / вырваться",
+    "example": "Le suspect a réussi à s’échapper.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_soupconner",
+    "french": "soupçonner",
+    "translation": "подозревать",
+    "example": "La police soupçonne un homme d’avoir organisé le vol.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_echappee",
+    "french": "une échappée",
+    "translation": "побег / уход / вылазка",
+    "example": "Les personnages tentent une échappée discrète.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_escapade",
+    "french": "une escapade",
+    "translation": "вылазка / короткая поездка",
+    "example": "Ils ont fait une petite escapade à la campagne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_reussir",
+    "french": "réussir",
+    "translation": "добиться успеха / суметь",
+    "example": "Elle a réussi à terminer l’exercice.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_indemnisation",
+    "french": "une indemnisation",
+    "translation": "компенсация / возмещение",
+    "example": "Les victimes ont demandé une indemnisation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_indemnite",
+    "french": "une indemnité",
+    "translation": "компенсация / выплата",
+    "example": "Une indemnité peut être versée après certains dommages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_alors",
+    "french": "alors",
+    "translation": "тогда / в таком случае",
+    "example": "La route était bloquée, alors nous avons changé d’itinéraire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_donc",
+    "french": "donc",
+    "translation": "поэтому / следовательно",
+    "example": "Il pleuvait beaucoup, donc la circulation était difficile.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_traquer",
+    "french": "traquer",
+    "translation": "выслеживать / преследовать",
+    "example": "Les enquêteurs traquent les responsables du trafic.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_chasser",
+    "french": "chasser",
+    "translation": "охотиться / прогонять",
+    "example": "Dans cette région, il est interdit de chasser certaines espèces.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_chasse",
+    "french": "la chasse",
+    "translation": "охота",
+    "example": "La chasse est réglementée pendant certaines périodes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_empoisonner",
+    "french": "empoisonner",
+    "translation": "отравлять",
+    "example": "Un produit toxique peut empoisonner les animaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nomade",
+    "french": "nomade",
+    "translation": "кочевой / кочевник",
+    "example": "Ce peuple a longtemps conservé un mode de vie nomade.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nomadisation",
+    "french": "la nomadisation",
+    "translation": "переход к кочевому образу жизни / номадизация",
+    "example": "La nomadisation transforme les habitudes d’un groupe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_munir",
+    "french": "munir",
+    "translation": "снабжать / оснащать",
+    "example": "L’organisation munit les équipes du matériel nécessaire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_recolter",
+    "french": "récolter",
+    "translation": "собирать урожай / собирать",
+    "example": "Les agriculteurs récoltent les céréales en été.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_souffrir",
+    "french": "souffrir",
+    "translation": "страдать",
+    "example": "Les cultures souffrent à cause de la sécheresse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_quasi",
+    "french": "quasi",
+    "translation": "почти",
+    "example": "Après l’alerte, la ville était quasi déserte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_repandu",
+    "french": "répandu",
+    "translation": "распространённый",
+    "example": "Cette pratique est très répandue dans certaines régions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_crucial",
+    "french": "crucial",
+    "translation": "ключевой / решающий",
+    "example": "L’accès à l’eau est crucial pour l’agriculture.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_troupeau",
+    "french": "un troupeau",
+    "translation": "стадо",
+    "example": "Le berger surveille son troupeau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nefaste",
+    "french": "néfaste",
+    "translation": "вредный / пагубный",
+    "example": "La pollution a des effets néfastes sur l’environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_paturage",
+    "french": "un pâturage",
+    "translation": "пастбище",
+    "example": "Le troupeau se déplace vers un nouveau pâturage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_habituellement",
+    "french": "habituellement",
+    "translation": "обычно",
+    "example": "Habituellement, les animaux restent dans cette zone.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_essentiellement",
+    "french": "essentiellement",
+    "translation": "главным образом / в основном",
+    "example": "Cette région vit essentiellement de l’élevage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_taux",
+    "french": "un taux",
+    "translation": "уровень / показатель / ставка",
+    "example": "Le taux de pollution a augmenté cette année.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nuire_a",
+    "french": "nuire à",
+    "translation": "вредить",
+    "example": "La pollution peut nuire à la santé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_contaminer",
+    "french": "contaminer",
+    "translation": "заражать / загрязнять",
+    "example": "Les déchets peuvent contaminer l’eau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_elevage",
+    "french": "un élevage",
+    "translation": "разведение / животноводство",
+    "example": "L’élevage occupe une place importante dans cette région.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_elever",
+    "french": "élever",
+    "translation": "разводить / выращивать / воспитывать",
+    "example": "Cette famille élève des moutons.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_dixieme",
+    "french": "un dixième",
+    "translation": "одна десятая",
+    "example": "Un dixième de la surface est consacré à l’élevage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_organisation",
+    "french": "une organisation — organiser",
+    "translation": "организация — организовывать",
+    "example": "L’organisation du tournoi est prête ; le club va organiser la compétition.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_competition",
+    "french": "une compétition — concourir / participer à une compétition",
+    "translation": "соревнование — соревноваться / участвовать в соревновании",
+    "example": "La compétition commence demain ; plusieurs athlètes vont concourir et y participer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_victoire",
+    "french": "une victoire — gagner / vaincre",
+    "translation": "победа — выиграть / победить",
+    "example": "Cette victoire est importante ; l’équipe a gagné en réussissant à vaincre son adversaire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_depart",
+    "french": "un départ — partir",
+    "translation": "отправление / отъезд — уезжать / отправляться",
+    "example": "Le départ est prévu à huit heures ; nous allons partir tôt.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_arrivee",
+    "french": "une arrivée — arriver",
+    "translation": "прибытие — прибывать / приезжать",
+    "example": "Son arrivée est prévue ce soir ; il devrait arriver vers vingt heures.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_inauguration",
+    "french": "une inauguration — inaugurer",
+    "translation": "открытие / торжественное открытие — открывать",
+    "example": "L’inauguration aura lieu samedi ; la maire inaugurera le nouveau bâtiment.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_defaite",
+    "french": "une défaite — perdre",
+    "translation": "поражение — проигрывать",
+    "example": "Après cette défaite, l’équipe veut éviter de perdre le prochain match.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_domination",
+    "french": "une domination — dominer",
+    "translation": "доминирование — доминировать",
+    "example": "La domination de l’équipe était nette ; elle a dominé tout le match.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_applaudissements",
+    "french": "des applaudissements — applaudir",
+    "translation": "аплодисменты — аплодировать",
+    "example": "Les applaudissements ont duré longtemps ; le public a applaudi les artistes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_felicitations",
+    "french": "des félicitations — féliciter",
+    "translation": "поздравления — поздравлять",
+    "example": "Il a reçu des félicitations ; ses collègues l’ont félicité pour son travail.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_interruption",
+    "french": "une interruption — interrompre",
+    "translation": "прерывание / перерыв — прерывать",
+    "example": "Une interruption a retardé la séance ; le président a dû interrompre le débat.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_exclusion",
+    "french": "une exclusion — exclure",
+    "translation": "исключение — исключать",
+    "example": "Son exclusion a été décidée ; le comité a choisi de l’exclure de la compétition.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_disqualification",
+    "french": "une disqualification — disqualifier",
+    "translation": "дисквалификация — дисквалифицировать",
+    "example": "La disqualification du coureur a surpris tout le monde ; les juges l’ont disqualifié.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_tournage",
+    "french": "un tournage — tourner",
+    "translation": "съёмки — снимать фильм",
+    "example": "Le tournage commence lundi ; l’équipe va tourner plusieurs scènes à Lyon.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_montage",
+    "french": "un montage — monter",
+    "translation": "монтаж — монтировать",
+    "example": "Le montage du film prendra plusieurs semaines ; la monteuse va monter les dernières scènes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_lancement",
+    "french": "un lancement — lancer",
+    "translation": "запуск / выпуск — запускать",
+    "example": "Le lancement du film est prévu en octobre ; le studio va lancer une grande campagne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_festival",
+    "french": "un festival — organiser / participer à un festival",
+    "translation": "фестиваль — организовывать / участвовать в фестивале",
+    "example": "La ville organise un festival auquel de nombreux artistes vont participer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_scenario",
+    "french": "un scénario — écrire un scénario / scénariser",
+    "translation": "сценарий — писать сценарий / сценаризировать",
+    "example": "Le scénario est presque terminé ; l’auteur continue à écrire et à scénariser l’histoire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_acteurs",
+    "french": "des acteurs — jouer / interpréter",
+    "translation": "актёры — играть / исполнять роль",
+    "example": "Les acteurs jouent dans le film et interprètent des personnages historiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_collaboration",
+    "french": "une collaboration — collaborer",
+    "translation": "сотрудничество — сотрудничать",
+    "example": "Cette collaboration fonctionne bien ; les deux équipes collaborent depuis plusieurs mois.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_realisation",
+    "french": "une réalisation — réaliser",
+    "translation": "создание / постановка / реализация — создавать / снимать / реализовывать",
+    "example": "La réalisation du film a pris deux ans ; la réalisatrice l’a réalisé avec une petite équipe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_doublage",
+    "french": "un doublage — doubler",
+    "translation": "дубляж — дублировать",
+    "example": "Le doublage français est terminé ; plusieurs comédiens ont doublé les personnages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_projection",
+    "french": "une projection — projeter",
+    "translation": "показ / проекция — показывать / проецировать",
+    "example": "Une projection est prévue ce soir ; le cinéma projettera le film à vingt heures.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_critique",
+    "french": "une critique — critiquer",
+    "translation": "критика / рецензия — критиковать",
+    "example": "La critique du film est sévère ; le journaliste critique surtout le scénario.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_accueil_public",
+    "french": "l’accueil du public — accueillir le public",
+    "translation": "приём публики — принимать публику",
+    "example": "L’accueil du public commence à dix-neuf heures ; l’équipe accueillera les spectateurs à l’entrée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_creation",
+    "french": "une création — créer",
+    "translation": "создание / произведение — создавать",
+    "example": "Cette création est originale ; l’artiste l’a créée pour l’exposition.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_decouverte",
+    "french": "une découverte — découvrir",
+    "translation": "открытие / находка — открывать / обнаруживать",
+    "example": "Cette découverte est importante ; les chercheurs ont découvert un nouvel objet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_exposition",
+    "french": "une exposition — exposer",
+    "translation": "выставка — выставлять / экспонировать",
+    "example": "L’exposition ouvre demain ; le musée va exposer plusieurs œuvres rares.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_beaute",
+    "french": "la beauté — embellir",
+    "translation": "красота — украшать / делать красивее",
+    "example": "La beauté du lieu attire les visiteurs ; les travaux ont encore embelli le bâtiment.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_transformation",
+    "french": "une transformation — transformer",
+    "translation": "преобразование — преобразовывать",
+    "example": "La transformation du quartier est visible ; les nouveaux projets l’ont profondément transformé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_disparition",
+    "french": "une disparition — disparaître",
+    "translation": "исчезновение — исчезать",
+    "example": "La disparition de l’œuvre reste mystérieuse ; elle a disparu pendant la nuit.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_achat",
+    "french": "un achat — acheter",
+    "translation": "покупка — покупать",
+    "example": "Cet achat était prévu ; le musée a acheté l’œuvre lors d’une vente.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_vente",
+    "french": "une vente — vendre",
+    "translation": "продажа — продавать",
+    "example": "La vente aura lieu demain ; la galerie va vendre plusieurs tableaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_legs",
+    "french": "un legs — léguer",
+    "translation": "завещанное имущество / наследственный дар — завещать",
+    "example": "Ce tableau est un legs ; son propriétaire l’a légué au musée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_vol",
+    "french": "un vol — voler",
+    "translation": "кража — красть",
+    "example": "Le vol a été signalé à la police ; quelqu’un a volé une œuvre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_renovation",
+    "french": "une rénovation — rénover",
+    "translation": "ремонт / обновление — ремонтировать / обновлять",
+    "example": "La rénovation du musée commence bientôt ; la ville va rénover tout le bâtiment.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_restauration",
+    "french": "une restauration — restaurer",
+    "translation": "реставрация — реставрировать",
+    "example": "La restauration du tableau est délicate ; une spécialiste va le restaurer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_commande",
+    "french": "une commande — commander",
+    "translation": "заказ — заказывать",
+    "example": "La commande de la statue a été confirmée ; la ville l’a commandée à un artiste local.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_cout",
+    "french": "un coût — coûter",
+    "translation": "стоимость — стоить",
+    "example": "Le coût des travaux est élevé ; la rénovation va coûter plusieurs millions d’euros.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_conception",
+    "french": "une conception — concevoir",
+    "translation": "проектирование / разработка — проектировать / разрабатывать",
+    "example": "La conception du bâtiment a pris un an ; l’architecte l’a conçu avec son équipe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_construction",
+    "french": "une construction — construire",
+    "translation": "строительство — строить",
+    "example": "La construction du pont avance ; les ouvriers le construisent depuis plusieurs mois.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_interruption_travaux",
+    "french": "une interruption des travaux — interrompre les travaux",
+    "translation": "приостановка работ — приостанавливать работы",
+    "example": "Une interruption des travaux a été annoncée ; la mairie a décidé d’interrompre les travaux pendant une semaine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_demolition",
+    "french": "une démolition — démolir",
+    "translation": "снос — сносить",
+    "example": "La démolition de l’ancien bâtiment commence lundi ; les ouvriers vont le démolir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_destruction",
+    "french": "une destruction — détruire",
+    "translation": "разрушение — разрушать / уничтожать",
+    "example": "La destruction du monument serait irréversible ; personne ne veut le détruire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_reconstruction",
+    "french": "une reconstruction — reconstruire",
+    "translation": "реконструкция / восстановление — восстанавливать / отстраивать заново",
+    "example": "La reconstruction prendra du temps ; la ville veut reconstruire le quartier rapidement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_viol",
+    "french": "un viol — violer",
+    "translation": "изнасилование — насиловать",
+    "example": "Un viol est un crime grave ; la loi punit sévèrement le fait de violer une personne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_cambriolage",
+    "french": "un cambriolage — cambrioler",
+    "translation": "ограбление со взломом — обворовывать / совершать кражу со взломом",
+    "example": "Un cambriolage a eu lieu cette nuit ; des inconnus ont cambriolé la maison.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_perte",
+    "french": "une perte — perdre",
+    "translation": "потеря — терять",
+    "example": "La perte de ses papiers lui pose problème ; il pense les avoir perdus dans le train.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_abandon",
+    "french": "un abandon — abandonner",
+    "translation": "отказ / оставление — бросать / отказываться",
+    "example": "L’abandon du projet a été annoncé ; l’entreprise a décidé de l’abandonner.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_attaque",
+    "french": "une attaque — attaquer",
+    "translation": "нападение / атака — нападать / атаковать",
+    "example": "Une attaque a été signalée ; la police cherche la personne qui a attaqué la victime.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_tapage_nocturne",
+    "french": "un tapage nocturne — faire du tapage nocturne",
+    "translation": "ночной шум / нарушение тишины — шуметь ночью",
+    "example": "Les voisins ont signalé un tapage nocturne ; un groupe faisait du tapage nocturne dans la rue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_morsure",
+    "french": "une morsure — mordre",
+    "translation": "укус — кусать",
+    "example": "La morsure est légère ; le chien a mordu la victime à la main.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_blessure",
+    "french": "une blessure — blesser",
+    "translation": "рана / травма — ранить",
+    "example": "La blessure n’est pas grave ; la chute l’a seulement blessé au bras.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_detournement_avion",
+    "french": "un détournement d’avion — détourner un avion",
+    "translation": "угон самолёта — угонять самолёт",
+    "example": "Le détournement d’avion a été évité ; les suspects voulaient détourner l’appareil.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_nomination",
+    "french": "une nomination — nommer",
+    "translation": "назначение — назначать",
+    "example": "Sa nomination a été annoncée ; le président l’a nommée ministre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_renouvellement",
+    "french": "un renouvellement — renouveler",
+    "translation": "продление / обновление — продлевать / обновлять",
+    "example": "Le renouvellement du mandat sera discuté ; les membres pourraient le renouveler.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_proposition",
+    "french": "une proposition — proposer",
+    "translation": "предложение — предлагать",
+    "example": "Sa proposition a été acceptée ; elle a proposé une nouvelle mesure.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_annonce",
+    "french": "une annonce — annoncer",
+    "translation": "объявление — объявлять",
+    "example": "L’annonce sera faite demain ; le gouvernement annoncera sa décision à midi.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_decision",
+    "french": "une décision — décider",
+    "translation": "решение — решать",
+    "example": "La décision est prise ; le conseil a décidé de poursuivre le projet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_discours",
+    "french": "un discours — prononcer / faire un discours",
+    "translation": "речь / выступление — произносить речь / выступать",
+    "example": "Le président a prononcé un discours et fera un autre discours demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_signature",
+    "french": "une signature — signer",
+    "translation": "подпись / подписание — подписывать",
+    "example": "La signature de l’accord est prévue demain ; les deux parties vont le signer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_vote",
+    "french": "un vote — voter",
+    "translation": "голосование — голосовать",
+    "example": "Le vote aura lieu cet après-midi ; les députés voteront sur le texte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_approbation",
+    "french": "une approbation — approuver",
+    "translation": "одобрение — одобрять",
+    "example": "L’approbation du projet est nécessaire ; le conseil doit l’approuver.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_adoption",
+    "french": "une adoption — adopter",
+    "translation": "принятие — принимать",
+    "example": "L’adoption de la loi est prévue cette semaine ; les députés pourraient l’adopter.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_rupture",
+    "french": "une rupture — rompre",
+    "translation": "разрыв — разрывать / прекращать",
+    "example": "La rupture des négociations est possible ; les deux parties pourraient rompre le dialogue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_invitation",
+    "french": "une invitation — inviter",
+    "translation": "приглашение — приглашать",
+    "example": "J’ai reçu une invitation ; l’association m’a invité à la cérémonie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_reception",
+    "french": "une réception — recevoir",
+    "translation": "приём / получение — принимать / получать",
+    "example": "Une réception est organisée ce soir ; la mairie recevra les invités à dix-neuf heures.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_examen",
+    "french": "un examen — examiner",
+    "translation": "осмотр / обследование / экзамен — осматривать / исследовать",
+    "example": "Le médecin demande un examen complémentaire ; il examinera le patient demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_diagnostic",
+    "french": "un diagnostic — diagnostiquer",
+    "translation": "диагноз — диагностировать",
+    "example": "Le diagnostic a été confirmé ; le médecin a diagnostiqué une infection.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_prescription",
+    "french": "une prescription — prescrire",
+    "translation": "назначение / рецепт — назначать / выписывать",
+    "example": "La prescription est prête ; le médecin a prescrit un traitement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_medicaments",
+    "french": "des médicaments — prendre / prescrire / administrer des médicaments",
+    "translation": "лекарства — принимать / назначать / вводить лекарства",
+    "example": "Le patient prend des médicaments que le médecin a prescrits et que l’infirmière peut administrer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_hospitalisation",
+    "french": "une hospitalisation — hospitaliser",
+    "translation": "госпитализация — госпитализировать",
+    "example": "Une hospitalisation est nécessaire ; les médecins ont décidé d’hospitaliser le patient.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_operation",
+    "french": "une opération — opérer",
+    "translation": "операция — оперировать",
+    "example": "L’opération est prévue demain ; le chirurgien opérera le patient le matin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_vaccination",
+    "french": "une vaccination — vacciner",
+    "translation": "вакцинация — вакцинировать",
+    "example": "La vaccination commence lundi ; le centre vaccinera les personnes prioritaires.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_remboursement",
+    "french": "un remboursement — rembourser",
+    "translation": "возмещение / возврат денег — возмещать / возвращать деньги",
+    "example": "Le remboursement est prévu ; l’assurance remboursera une partie des frais.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_03_nom_soins",
+    "french": "des soins — soigner",
+    "translation": "уход / лечение — лечить / ухаживать",
+    "example": "Le patient reçoit des soins réguliers ; l’équipe médicale le soigne chaque jour.",
+    "status": "learning"
+  }
+]
