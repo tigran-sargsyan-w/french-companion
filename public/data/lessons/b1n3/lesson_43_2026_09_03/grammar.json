@@ -1,0 +1,163 @@
+[
+  {
+    "id": "g_2026_09_03_cause_consequence",
+    "title": "Cause et conséquence : grâce à, à cause de, donc, alors",
+    "category": "Prepositions",
+    "summary": [
+      [
+        "### Exprimer la cause\n",
+        "- **grâce à + nom / pronom** présente généralement une cause positive ou favorable ;",
+        "- **à cause de + nom / pronom** présente généralement une cause négative ou défavorable."
+      ],
+      [
+        "### Exprimer la conséquence\n",
+        "- **donc** introduit une conséquence logique ;",
+        "- **alors** peut introduire une conséquence ou la suite d’une situation."
+      ]
+    ],
+    "examples": [
+      "Grâce à l’alerte, les habitants ont pu se mettre à l’abri.",
+      "La route est fermée à cause de l’inondation.",
+      "Il a beaucoup plu, donc la rivière a débordé.",
+      "Le trafic était bloqué, alors nous avons changé d’itinéraire."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_03_nominalisation_noms_verbes",
+    "title": "Nominalisation : noms et verbes",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Sport\n",
+        "| Nom | Verbe / expression |",
+        "|---|---|",
+        "| organisation | organiser |",
+        "| compétition | concourir / participer à une compétition |",
+        "| victoire | gagner / vaincre |",
+        "| départ | partir |",
+        "| arrivée | arriver |",
+        "| inauguration | inaugurer |",
+        "| défaite | perdre |",
+        "| domination | dominer |",
+        "| applaudissements | applaudir |",
+        "| félicitations | féliciter |",
+        "| interruption | interrompre |",
+        "| exclusion | exclure |",
+        "| disqualification | disqualifier |"
+      ],
+      [
+        "### Cinéma\n",
+        "| Nom | Verbe / expression |",
+        "|---|---|",
+        "| tournage | tourner |",
+        "| montage | monter |",
+        "| lancement | lancer |",
+        "| festival | organiser / participer à un festival |",
+        "| scénario | écrire un scénario / scénariser |",
+        "| acteurs | jouer / interpréter |",
+        "| collaboration | collaborer |",
+        "| réalisation | réaliser |",
+        "| doublage | doubler |",
+        "| projection | projeter |",
+        "| critique | critiquer |",
+        "| accueil du public | accueillir le public |"
+      ],
+      [
+        "### Art / œuvres d’art\n",
+        "| Nom | Verbe |",
+        "|---|---|",
+        "| création | créer |",
+        "| découverte | découvrir |",
+        "| exposition | exposer |",
+        "| beauté | embellir |",
+        "| transformation | transformer |",
+        "| disparition | disparaître |",
+        "| achat | acheter |",
+        "| vente | vendre |",
+        "| legs | léguer |",
+        "| vol | voler |",
+        "| rénovation | rénover |",
+        "| restauration | restaurer |"
+      ],
+      [
+        "### Édifices / monuments\n",
+        "| Nom | Verbe / expression |",
+        "|---|---|",
+        "| commande | commander |",
+        "| coût | coûter |",
+        "| conception | concevoir |",
+        "| construction | construire |",
+        "| interruption des travaux | interrompre les travaux |",
+        "| inauguration | inaugurer |",
+        "| achat | acheter |",
+        "| vente | vendre |",
+        "| transformation | transformer |",
+        "| rénovation | rénover |",
+        "| restauration | restaurer |",
+        "| démolition | démolir |",
+        "| destruction | détruire |",
+        "| reconstruction | reconstruire |"
+      ],
+      [
+        "### Faits divers\n",
+        "| Nom | Verbe / expression |",
+        "|---|---|",
+        "| vols | voler |",
+        "| viols | violer |",
+        "| cambriolages | cambrioler |",
+        "| pertes | perdre |",
+        "| abandons | abandonner |",
+        "| attaques | attaquer |",
+        "| tapages nocturnes | faire du tapage nocturne |",
+        "| morsures | mordre |",
+        "| blessures | blesser |",
+        "| détournements d’avion | détourner un avion |",
+        "| découvertes | découvrir |",
+        "| disparition | disparaître |"
+      ],
+      [
+        "### Politique\n",
+        "| Nom | Verbe / expression |",
+        "|---|---|",
+        "| nomination | nommer |",
+        "| renouvellement | renouveler |",
+        "| proposition | proposer |",
+        "| annonce | annoncer |",
+        "| décision | décider |",
+        "| discours | prononcer / faire un discours |",
+        "| signature | signer |",
+        "| vote | voter |",
+        "| approbation | approuver |",
+        "| adoption | adopter |",
+        "| critique | critiquer |",
+        "| inauguration | inaugurer |",
+        "| rupture | rompre |",
+        "| invitation | inviter |",
+        "| réception | recevoir |"
+      ],
+      [
+        "### Médecine / santé\n",
+        "| Nom | Verbe / expression |",
+        "|---|---|",
+        "| examen | examiner |",
+        "| diagnostic | diagnostiquer |",
+        "| prescription | prescrire |",
+        "| médicaments | prendre / prescrire / administrer des médicaments |",
+        "| hospitalisation | hospitaliser |",
+        "| opération | opérer |",
+        "| vaccination | vacciner |",
+        "| remboursement | rembourser |",
+        "| découverte | découvrir |",
+        "| soins | soigner |"
+      ]
+    ],
+    "examples": [
+      "Le gouvernement annonce une décision. → L’annonce de la décision.",
+      "Le médecin prescrit un traitement. → La prescription d’un traitement.",
+      "Le musée rénove le bâtiment. → La rénovation du bâtiment.",
+      "L’équipe gagne le match. → La victoire de l’équipe."
+    ],
+    "annotatedExamples": []
+  }
+]
