@@ -44,6 +44,15 @@ public/data/
 - Lesson photo paths are resolved relative to the lesson folder, so `photos/board.jpg` points to `public/data/lessons/<lesson-folder>/photos/board.jpg`.
 - Route components call `useLearningData()` and display loading/error states while JSON is loading.
 
+## Runtime cache strategy
+
+- `public/data/content-version.json` is the freshness sentinel for the whole learning-content snapshot.
+- The app revalidates only this small file with `cache: "no-cache"`.
+- All other JSON files are requested with `?v=<content-version>` and `cache: "force-cache"`, so an unchanged snapshot can be served from the browser cache without revalidating every lesson file.
+- TanStack Query keys the normalized learning data by the content version and keeps that version fresh indefinitely in memory.
+- When `content-version.json` changes, the query key changes automatically and the app loads the new versioned JSON URLs.
+- Because cache invalidation depends on this sentinel, update `public/data/content-version.json` whenever any learning JSON content changes.
+
 ## Lesson photos
 
 Put lesson-specific images inside that lesson folder, preferably in a `photos/` subfolder:
