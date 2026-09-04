@@ -71,9 +71,30 @@ function getVocabKey(french: string) {
   return french.trim().replace(/\s+/g, " ").toLocaleLowerCase("fr-FR");
 }
 
-async function fetchDataFile<T>(path: string): Promise<T> {
+const CONTENT_VERSION_STALE_TIME = 60 * 1000;
+
+function getVersionedPublicPath(path: string, version: string) {
+  const publicPath = getPublicPath(path);
+  const separator = publicPath.includes("?") ? "&" : "?";
+  return `${publicPath}${separator}v=${encodeURIComponent(version)}`;
+}
+
+async function fetchContentVersion(): Promise<ContentVersion> {
+  const path = "data/content-version.json";
   const response = await fetch(getPublicPath(path), {
     cache: "no-cache",
+  });
+
+  if (!response.ok) {
+    throw new Error(`Failed to load ${path}: ${response.status}`);
+  }
+
+  return response.json() as Promise<ContentVersion>;
+}
+
+async function fetchDataFile<T>(path: string, version: string): Promise<T> {
+  const response = await fetch(getVersionedPublicPath(path, version), {
+    cache: "force-cache",
   });
 
   if (!response.ok) {
@@ -83,15 +104,15 @@ async function fetchDataFile<T>(path: string): Promise<T> {
   return response.json() as Promise<T>;
 }
 
-async function loadLessonBundle(indexItem: LessonIndexItem): Promise<LessonBundle> {
+async function loadLessonBundle(indexItem: LessonIndexItem, version: string): Promise<LessonBundle> {
   const basePath = indexItem.path.replace(/\/+$/, "");
 
   const [lesson, vocabulary, grammar, mistakesSource, homeworkSource] = await Promise.all([
-    fetchDataFile<Lesson>(`${basePath}/lesson.json`),
-    fetchDataFile<VocabSourceItem[]>(`${basePath}/vocabulary.json`),
-    fetchDataFile<GrammarTopic[]>(`${basePath}/grammar.json`),
-    fetchDataFile<MistakeSourceItem[]>(`${basePath}/mistakes.json`),
-    fetchDataFile<HomeworkSourceItem[]>(`${basePath}/homework.json`),
+    fetchDataFile<Lesson>(`${basePath}/lesson.json`, version),
+    fetchDataFile<VocabSourceItem[]>(`${basePath}/vocabulary.json`, version),
+    fetchDataFile<GrammarTopic[]>(`${basePath}/grammar.json`, version),
+    fetchDataFile<MistakeSourceItem[]>(`${basePath}/mistakes.json`, version),
+    fetchDataFile<HomeworkSourceItem[]>(`${basePath}/homework.json`, version),
   ]);
 
   const mistakes = mistakesSource.map((mistake) => ({
@@ -144,13 +165,15 @@ function buildVocabularyIndex(lessonBundles: LessonBundle[]): VocabWord[] {
   return Array.from(vocabularyByKey.values());
 }
 
-export async function loadLearningData(): Promise<LearningData> {
-  const [lessonIndex, contentVersion] = await Promise.all([
-    fetchDataFile<LessonIndexItem[]>("data/lessons.json"),
-    fetchDataFile<ContentVersion>("data/content-version.json"),
-  ]);
+export async function loadLearningData(contentVersion: ContentVersion): Promise<LearningData> {
+  const lessonIndex = await fetchDataFile<LessonIndexItem[]>(
+    "data/lessons.json",
+    contentVersion.version,
+  );
 
-  const lessonBundles = await Promise.all(lessonIndex.map(loadLessonBundle));
+  const lessonBundles = await Promise.all(
+    lessonIndex.map((indexItem) => loadLessonBundle(indexItem, contentVersion.version)),
+  );
 
   return {
     lessons: lessonBundles.map((bundle) => bundle.lesson),
@@ -165,10 +188,24 @@ export async function loadLearningData(): Promise<LearningData> {
 }
 
 export function useLearningData() {
+  const contentVersionQuery = useQuery({
+    queryKey: ["content-version"],
+    queryFn: fetchContentVersion,
+    staleTime: CONTENT_VERSION_STALE_TIME,
+  });
+  const contentVersion = contentVersionQuery.data;
+
   return useQuery({
-    queryKey: ["learning-data"],
-    queryFn: loadLearningData,
-    staleTime: 5 * 60 * 1000,
+    queryKey: ["learning-data", contentVersion?.version ?? "version-unavailable"],
+    queryFn: () => {
+      if (contentVersion) {
+        return loadLearningData(contentVersion);
+      }
+
+      throw contentVersionQuery.error ?? new Error("Content version is unavailable.");
+    },
+    enabled: Boolean(contentVersion) || contentVersionQuery.isError,
+    staleTime: Infinity,
   });
 }
 
