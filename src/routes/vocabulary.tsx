@@ -1,6 +1,6 @@
 import { Link, createFileRoute } from "@tanstack/react-router";
 import { Printer, Search, X } from "lucide-react";
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
 import { MarkdownText } from "@/components/MarkdownText";
@@ -169,6 +169,40 @@ function VocabularyPage() {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedWordId, setSelectedWordId] = useState<string | null>(null);
   const learningDataQuery = useLearningData();
+  const learningData = learningDataQuery.data;
+
+  const vocabularyItems = useMemo(() => {
+    if (!learningData) {
+      return [];
+    }
+
+    const { vocabulary, lessons, lessonIndex } = learningData;
+
+    return vocabulary.map((word) => {
+      const first = lessonIndex.find((lesson) => lesson.id === word.firstSeenLessonId);
+      const seenLessonLabels = word.seenInLessonIds
+        .map((lessonId) => getLessonLabel(lessonId, lessonIndex, lessons))
+        .filter((label): label is string => Boolean(label));
+      const firstSeenLabel = first ? `Lesson ${first.number ?? ""} · ${first.date}`.trim() : "—";
+      const modalItem = buildVocabularyModalItem(word, learningData, seenLessonLabels, firstSeenLabel);
+
+      return {
+        word,
+        firstSeenLabel,
+        seenLessonLabels,
+        seenLessonTitle: seenLessonLabels.join("\n"),
+        modalItem,
+        searchHaystack: buildVocabularySearchHaystack(
+          word,
+          seenLessonLabels,
+          firstSeenLabel,
+          modalItem.sourceExamples,
+          modalItem.relatedMistakes,
+          modalItem.relatedGrammar,
+        ),
+      };
+    });
+  }, [learningData]);
 
   if (learningDataQuery.isPending) {
     return (
@@ -197,35 +231,10 @@ function VocabularyPage() {
   }
 
   const data = learningDataQuery.data;
-  const { vocabulary, lessons, lessonIndex } = data;
+  const { vocabulary } = data;
   const normalizedSearchQuery = normalizeSearchText(searchQuery);
   const learnedCount = vocabulary.filter((word) => word.status === "learned").length;
   const unlearnedCount = vocabulary.length - learnedCount;
-
-  const vocabularyItems = vocabulary.map((word) => {
-    const first = lessonIndex.find((lesson) => lesson.id === word.firstSeenLessonId);
-    const seenLessonLabels = word.seenInLessonIds
-      .map((lessonId) => getLessonLabel(lessonId, lessonIndex, lessons))
-      .filter((label): label is string => Boolean(label));
-    const firstSeenLabel = first ? `Lesson ${first.number ?? ""} · ${first.date}`.trim() : "—";
-    const modalItem = buildVocabularyModalItem(word, data, seenLessonLabels, firstSeenLabel);
-
-    return {
-      word,
-      firstSeenLabel,
-      seenLessonLabels,
-      seenLessonTitle: seenLessonLabels.join("\n"),
-      modalItem,
-      searchHaystack: buildVocabularySearchHaystack(
-        word,
-        seenLessonLabels,
-        firstSeenLabel,
-        modalItem.sourceExamples,
-        modalItem.relatedMistakes,
-        modalItem.relatedGrammar,
-      ),
-    };
-  });
 
   const filtered = vocabularyItems.filter(
     ({ word, searchHaystack }) =>
