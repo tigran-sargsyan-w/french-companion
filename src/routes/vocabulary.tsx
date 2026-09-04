@@ -1,6 +1,6 @@
 import { Link, createFileRoute } from "@tanstack/react-router";
 import { Printer, Search, X } from "lucide-react";
-import { useMemo, useState } from "react";
+import { memo, useCallback, useMemo, useState } from "react";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
 import { MarkdownText } from "@/components/MarkdownText";
@@ -164,14 +164,101 @@ function buildVocabularySearchHaystack(
   );
 }
 
+interface VocabularyListItem {
+  word: VocabWord;
+  firstSeenLabel: string;
+  seenLessonLabels: string[];
+  seenLessonTitle: string;
+  modalItem: VocabularyWordModalItem;
+  searchHaystack: string;
+}
+
+const VocabularyCard = memo(function VocabularyCard({
+  item,
+  onSelect,
+}: {
+  item: VocabularyListItem;
+  onSelect: (wordId: string) => void;
+}) {
+  const { word, firstSeenLabel, seenLessonTitle, modalItem } = item;
+
+  return (
+    <article
+      role="button"
+      tabIndex={0}
+      aria-label={`Ouvrir les détails du mot ${word.french}`}
+      onClick={() => onSelect(word.id)}
+      onKeyDown={(event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          onSelect(word.id);
+        }
+      }}
+      className="card-soft p-5 flex cursor-pointer flex-col gap-3 transition-all hover:-translate-y-0.5 hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-ring/40"
+    >
+      <div className="flex items-start justify-between gap-3">
+        <div className="min-w-0">
+          <div className="font-display text-2xl leading-tight">{word.french}</div>
+          <MarkdownText inline className="text-sm text-muted-foreground">
+            {word.translation}
+          </MarkdownText>
+        </div>
+        <span
+          className={`text-[10px] uppercase tracking-wider px-2 py-1 rounded-full shrink-0 ${statusStyle[word.status]}`}
+        >
+          {statusLabel[word.status]}
+        </span>
+      </div>
+
+      <div className="text-sm italic text-foreground/80 border-l-2 border-primary/40 pl-3">
+        « <MarkdownText inline>{word.example}</MarkdownText> »
+      </div>
+
+      <div className="flex flex-wrap gap-2 text-[11px] text-muted-foreground">
+        {modalItem.relatedMistakes.length > 0 && (
+          <span className="rounded-full bg-secondary px-2 py-1">
+            ⚠ {modalItem.relatedMistakes.length} erreur(s)
+          </span>
+        )}
+        {modalItem.relatedGrammar.length > 0 && (
+          <span className="rounded-full bg-secondary px-2 py-1">
+            ✦ {modalItem.relatedGrammar.length} grammaire
+          </span>
+        )}
+      </div>
+
+      <div className="grid gap-1 text-xs text-muted-foreground pt-2 border-t border-border">
+        <div className="flex items-center justify-between gap-3">
+          <span className="shrink-0">Première fois</span>
+          <span className="truncate text-right" title={seenLessonTitle}>
+            {firstSeenLabel}
+          </span>
+        </div>
+        <div className="flex items-center justify-between gap-3">
+          <span>Occurrences notées</span>
+          <span
+            className="font-semibold text-foreground"
+            title="Nombre d'apparitions dans les fichiers de vocabulaire"
+          >
+            ×{word.appearances}
+          </span>
+        </div>
+      </div>
+    </article>
+  );
+});
+
 function VocabularyPage() {
   const [filter, setFilter] = useState<VocabStatus | "all">("all");
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedWordId, setSelectedWordId] = useState<string | null>(null);
   const learningDataQuery = useLearningData();
+  const handleSelectWord = useCallback((wordId: string) => {
+    setSelectedWordId(wordId);
+  }, []);
   const learningData = learningDataQuery.data;
 
-  const vocabularyItems = useMemo(() => {
+  const vocabularyItems = useMemo<VocabularyListItem[]>(() => {
     if (!learningData) {
       return [];
     }
@@ -346,67 +433,8 @@ function VocabularyPage() {
         </div>
       ) : (
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {filtered.map(({ word, firstSeenLabel, seenLessonTitle, modalItem }) => (
-            <article
-              key={word.id}
-              role="button"
-              tabIndex={0}
-              aria-label={`Ouvrir les détails du mot ${word.french}`}
-              onClick={() => setSelectedWordId(word.id)}
-              onKeyDown={(event) => {
-                if (event.key === "Enter" || event.key === " ") {
-                  event.preventDefault();
-                  setSelectedWordId(word.id);
-                }
-              }}
-              className="card-soft p-5 flex cursor-pointer flex-col gap-3 transition-all hover:-translate-y-0.5 hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-ring/40"
-            >
-              <div className="flex items-start justify-between gap-3">
-                <div className="min-w-0">
-                  <div className="font-display text-2xl leading-tight">{word.french}</div>
-                  <MarkdownText inline className="text-sm text-muted-foreground">
-                    {word.translation}
-                  </MarkdownText>
-                </div>
-                <span
-                  className={`text-[10px] uppercase tracking-wider px-2 py-1 rounded-full shrink-0 ${statusStyle[word.status]}`}
-                >
-                  {statusLabel[word.status]}
-                </span>
-              </div>
-
-              <div className="text-sm italic text-foreground/80 border-l-2 border-primary/40 pl-3">
-                « <MarkdownText inline>{word.example}</MarkdownText> »
-              </div>
-
-              <div className="flex flex-wrap gap-2 text-[11px] text-muted-foreground">
-                {modalItem.relatedMistakes.length > 0 && (
-                  <span className="rounded-full bg-secondary px-2 py-1">
-                    ⚠ {modalItem.relatedMistakes.length} erreur(s)
-                  </span>
-                )}
-                {modalItem.relatedGrammar.length > 0 && (
-                  <span className="rounded-full bg-secondary px-2 py-1">
-                    ✦ {modalItem.relatedGrammar.length} grammaire
-                  </span>
-                )}
-              </div>
-
-              <div className="grid gap-1 text-xs text-muted-foreground pt-2 border-t border-border">
-                <div className="flex items-center justify-between gap-3">
-                  <span className="shrink-0">Première fois</span>
-                  <span className="truncate text-right" title={seenLessonTitle}>
-                    {firstSeenLabel}
-                  </span>
-                </div>
-                <div className="flex items-center justify-between gap-3">
-                  <span>Occurrences notées</span>
-                  <span className="font-semibold text-foreground" title="Nombre d'apparitions dans les fichiers de vocabulaire">
-                    ×{word.appearances}
-                  </span>
-                </div>
-              </div>
-            </article>
+          {filtered.map((item) => (
+            <VocabularyCard key={item.word.id} item={item} onSelect={handleSelectWord} />
           ))}
         </div>
       )}
