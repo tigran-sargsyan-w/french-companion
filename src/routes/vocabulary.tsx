@@ -199,9 +199,7 @@ const VocabularyCard = memo(function VocabularyCard({
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
           <div className="font-display text-2xl leading-tight">{word.french}</div>
-          <MarkdownText inline className="text-sm text-muted-foreground">
-            {word.translation}
-          </MarkdownText>
+          <span className="text-sm text-muted-foreground">{word.translation}</span>
         </div>
         <span
           className={`text-[10px] uppercase tracking-wider px-2 py-1 rounded-full shrink-0 ${statusStyle[word.status]}`}
@@ -211,7 +209,7 @@ const VocabularyCard = memo(function VocabularyCard({
       </div>
 
       <div className="text-sm italic text-foreground/80 border-l-2 border-primary/40 pl-3">
-        « <MarkdownText inline>{word.example}</MarkdownText> »
+        « <span>{word.example}</span> »
       </div>
 
       <div className="flex flex-wrap gap-2 text-[11px] text-muted-foreground">
