@@ -1,0 +1,66 @@
+[
+  {
+    "id": "g_2026_09_04_cause_consequence",
+    "title": "Exprimer la cause et la conséquence",
+    "category": "Prepositions",
+    "summary": [
+      [
+        "### Exprimer la cause\n",
+        "- **parce que + phrase** introduit une cause, généralement au milieu de la phrase ;",
+        "- **car + phrase** a un sens proche de **parce que** et s’emploie généralement au milieu de la phrase ;",
+        "- **grâce à + nom / pronom tonique** présente généralement une cause positive ;",
+        "- **comme + phrase** introduit la cause en début de phrase ;",
+        "- **à cause de + nom** présente généralement une cause négative ;",
+        "- **étant donné que + phrase à l’indicatif** présente une cause considérée comme un fait ou un élément déjà établi ;",
+        "- **puisque + phrase à l’indicatif** introduit une cause considérée comme évidente ou déjà connue."
+      ],
+      [
+        "### Exprimer la conséquence\n",
+        "- **donc + phrase** introduit une conséquence logique ;",
+        "- **c’est pour ça / cela que + phrase à l’indicatif** met en relation une situation et sa conséquence ;",
+        "- **alors + phrase** peut introduire la conséquence ou la suite logique d’une situation ;",
+        "- **d’où + nom** introduit directement le résultat d’un fait ;",
+        "- **tellement + adjectif / adverbe + que + phrase** exprime une intensité qui produit une conséquence ;",
+        "- **tellement de + nom + que + phrase** exprime une quantité qui produit une conséquence ;",
+        "- **sinon + phrase à l’indicatif** introduit une conséquence négative possible."
+      ],
+      [
+        "### Verbes de conséquence\n",
+        "- **entraîner + nom** : avoir pour conséquence ;",
+        "- **provoquer + nom** : causer directement un événement ou un effet ;",
+        "- **conduire à + nom** : mener progressivement à un résultat."
+      ]
+    ],
+    "examples": [
+      "Je suis inquiet parce que le climat change.",
+      "Grâce au recyclage, on pollue moins.",
+      "Comme j’aime les animaux, je milite dans une association de protection.",
+      "À cause du changement climatique, je suis inquiet.",
+      "Puisque le climat change, nous devons agir maintenant.",
+      "Le climat change, donc nous devons nous adapter.",
+      "L’activité humaine pollue, d’où l’importance de changer notre façon de produire.",
+      "Il y a tellement de pollution que les espèces marines sont menacées.",
+      "La pollution conduit à l’extinction de certaines espèces."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Cause avec « comme »",
+        "markup": "{{contexte:Comme le climat change}}, {{conséquence:nous devons nous adapter}}.",
+        "explanation": "**Comme** place la cause au début de la phrase ; la proposition principale présente ensuite la conséquence.",
+        "sourceSentences": [
+          "Le climat change.",
+          "Nous devons nous adapter."
+        ]
+      },
+      {
+        "title": "Conséquence avec « tellement ... que »",
+        "markup": "Il y a {{contexte:tellement de pollution}} {{conséquence:que les espèces sont menacées}}.",
+        "explanation": "La structure **tellement de + nom + que** relie une quantité très importante à sa conséquence.",
+        "sourceSentences": [
+          "Il y a beaucoup de pollution.",
+          "Les espèces sont menacées."
+        ]
+      }
+    ]
+  }
+]

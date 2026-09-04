@@ -1,0 +1,198 @@
+[
+  {
+    "id": "v_2026_09_04_serrurier",
+    "french": "un serrurier",
+    "translation": "слесарь / мастер по замкам",
+    "example": "Le serrurier est venu réparer la serrure de la porte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_faire_visiter",
+    "french": "faire visiter",
+    "translation": "показывать / проводить экскурсию",
+    "example": "Le guide fait visiter la ville aux touristes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_interrupteur",
+    "french": "un interrupteur",
+    "translation": "выключатель",
+    "example": "Appuie sur l’interrupteur pour allumer la lumière.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_diurne",
+    "french": "diurne",
+    "translation": "дневной",
+    "example": "Certaines espèces ont une activité principalement diurne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_nocturne",
+    "french": "nocturne",
+    "translation": "ночной",
+    "example": "La chauve-souris est un animal nocturne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_macher",
+    "french": "mâcher",
+    "translation": "жевать",
+    "example": "Il faut bien mâcher les aliments avant de les avaler.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_macheur",
+    "french": "un mâcheur / une mâcheuse",
+    "translation": "тот, кто жуёт",
+    "example": "Un grand mâcheur de chewing-gum peut en consommer plusieurs par jour.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_approuver",
+    "french": "approuver",
+    "translation": "одобрять",
+    "example": "La majorité des habitants approuve cette décision.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_desapprouver",
+    "french": "désapprouver",
+    "translation": "не одобрять / осуждать",
+    "example": "Certains citoyens désapprouvent le projet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_sain",
+    "french": "sain",
+    "translation": "здоровый / полезный",
+    "example": "Une alimentation équilibrée contribue à rester en bonne santé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_battement_ailes",
+    "french": "un battement d’ailes",
+    "translation": "взмах крыльев",
+    "example": "Un simple battement d’ailes peut symboliser le début d’une chaîne d’événements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_intensification",
+    "french": "l’intensification",
+    "translation": "усиление / интенсификация",
+    "example": "L’intensification des phénomènes climatiques inquiète les scientifiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_battement_coeur",
+    "french": "un battement du cœur",
+    "translation": "удар сердца / сердцебиение",
+    "example": "Après avoir couru, ses battements du cœur se sont accélérés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_entrainer",
+    "french": "entraîner",
+    "translation": "влечь за собой / вызывать",
+    "example": "Le réchauffement climatique peut entraîner des déplacements d’animaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_espece",
+    "french": "une espèce",
+    "translation": "вид",
+    "example": "Certaines espèces sont menacées par la pollution.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_aggraver",
+    "french": "aggraver",
+    "translation": "усугублять / ухудшать",
+    "example": "La sécheresse peut aggraver les difficultés agricoles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_pondre_oeufs",
+    "french": "pondre des œufs",
+    "translation": "откладывать яйца",
+    "example": "Les tortues viennent sur la plage pour pondre des œufs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_flore_faune",
+    "french": "la flore et la faune",
+    "translation": "флора и фауна",
+    "example": "La pollution menace la flore et la faune locales.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_garder_espoir",
+    "french": "garder espoir",
+    "translation": "сохранять надежду",
+    "example": "Malgré les difficultés, il faut garder espoir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_menace",
+    "french": "une menace",
+    "translation": "угроза",
+    "example": "Le changement climatique représente une menace pour certaines espèces.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_paquebot",
+    "french": "un paquebot",
+    "translation": "пассажирский лайнер",
+    "example": "Le paquebot a quitté le port tôt le matin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_naufrage",
+    "french": "un naufrage",
+    "translation": "кораблекрушение",
+    "example": "Le naufrage du navire a provoqué une importante opération de secours.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_fouille",
+    "french": "une fouille",
+    "translation": "обыск / раскопки / поиски",
+    "example": "La police a effectué une fouille du bâtiment.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_fouiller",
+    "french": "fouiller",
+    "translation": "обыскивать / рыться / проводить поиски",
+    "example": "Les enquêteurs ont fouillé la maison.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_desastre",
+    "french": "un désastre",
+    "translation": "бедствие / катастрофа",
+    "example": "L’inondation a été un véritable désastre pour la région.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_bouleverser",
+    "french": "bouleverser",
+    "translation": "потрясти / перевернуть / сильно изменить",
+    "example": "Cette catastrophe a bouleversé la vie des habitants.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_bouleversement",
+    "french": "un bouleversement",
+    "translation": "потрясение / значительное изменение",
+    "example": "Le changement climatique provoque de profonds bouleversements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_04_rapide_lent",
+    "french": "rapide ≠ lent(e)",
+    "translation": "быстрый ≠ медленный",
+    "example": "Le premier changement est rapide, tandis que le second est lent.",
+    "status": "learning"
+  }
+]
