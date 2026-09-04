@@ -428,5 +428,15 @@
     "classLevel": "B1N3",
     "status": "done",
     "path": "data/lessons/b1n3/lesson_43_2026_09_03"
+  },
+  {
+    "id": "lesson_44_2026_09_04",
+    "number": 44,
+    "title": "Effet papillon, cause et conséquence",
+    "date": "2026-09-04",
+    "level": "B1",
+    "classLevel": "B1N3",
+    "status": "done",
+    "path": "data/lessons/b1n3/lesson_44_2026_09_04"
   }
 ]
