@@ -476,7 +476,7 @@ function VocabularyPage() {
         </div>
       ) : (
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {filtered.map((item) => (
+          {filtered.slice(0, 100).map((item) => (
             <VocabularyCard key={item.word.id} item={item} onSelect={handleSelectWord} />
           ))}
         </div>
