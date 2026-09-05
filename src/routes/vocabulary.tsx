@@ -206,7 +206,8 @@ interface VocabularyListItem {
   firstSeenLabel: string;
   seenLessonLabels: string[];
   seenLessonTitle: string;
-  modalItem: VocabularyWordModalItem;
+  relatedMistakeCount: number;
+  relatedGrammarCount: number;
   searchHaystack: string;
 }
 
@@ -217,7 +218,13 @@ const VocabularyCard = memo(function VocabularyCard({
   item: VocabularyListItem;
   onSelect: (wordId: string) => void;
 }) {
-  const { word, firstSeenLabel, seenLessonTitle, modalItem } = item;
+  const {
+    word,
+    firstSeenLabel,
+    seenLessonTitle,
+    relatedMistakeCount,
+    relatedGrammarCount,
+  } = item;
 
   return (
     <article
@@ -252,14 +259,14 @@ const VocabularyCard = memo(function VocabularyCard({
       </div>
 
       <div className="flex flex-wrap gap-2 text-[11px] text-muted-foreground">
-        {modalItem.relatedMistakes.length > 0 && (
+        {relatedMistakeCount > 0 && (
           <span className="rounded-full bg-secondary px-2 py-1">
-            ⚠ {modalItem.relatedMistakes.length} erreur(s)
+            ⚠ {relatedMistakeCount} erreur(s)
           </span>
         )}
-        {modalItem.relatedGrammar.length > 0 && (
+        {relatedGrammarCount > 0 && (
           <span className="rounded-full bg-secondary px-2 py-1">
-            ✦ {modalItem.relatedGrammar.length} grammaire
+            ✦ {relatedGrammarCount} grammaire
           </span>
         )}
       </div>
@@ -487,13 +494,17 @@ function VocabularyPage() {
   }, []);
   const learningData = learningDataQuery.data;
 
+  const grammarSearchIndex = useMemo(
+    () => (learningData ? buildGrammarSearchIndex(learningData) : []),
+    [learningData],
+  );
+
   const vocabularyItems = useMemo<VocabularyListItem[]>(() => {
     if (!learningData) {
       return [];
     }
 
     const { vocabulary, lessons, lessonIndex } = learningData;
-    const grammarSearchIndex = buildGrammarSearchIndex(learningData);
 
     return vocabulary.map((word) => {
       const first = lessonIndex.find((lesson) => lesson.id === word.firstSeenLessonId);
@@ -501,31 +512,48 @@ function VocabularyPage() {
         .map((lessonId) => getLessonLabel(lessonId, lessonIndex, lessons))
         .filter((label): label is string => Boolean(label));
       const firstSeenLabel = first ? `Lesson ${first.number ?? ""} · ${first.date}`.trim() : "—";
-      const modalItem = buildVocabularyModalItem(
-        word,
-        learningData,
-        seenLessonLabels,
-        firstSeenLabel,
-        grammarSearchIndex,
-      );
+      const sourceExamples = getSourceExamples(word, learningData);
+      const relatedMistakes = findRelatedMistakes(word, learningData);
+      const relatedGrammar = findRelatedGrammar(word, grammarSearchIndex);
 
       return {
         word,
         firstSeenLabel,
         seenLessonLabels,
         seenLessonTitle: seenLessonLabels.join("\n"),
-        modalItem,
+        relatedMistakeCount: relatedMistakes.length,
+        relatedGrammarCount: relatedGrammar.length,
         searchHaystack: buildVocabularySearchHaystack(
           word,
           seenLessonLabels,
           firstSeenLabel,
-          modalItem.sourceExamples,
-          modalItem.relatedMistakes,
-          modalItem.relatedGrammar,
+          sourceExamples,
+          relatedMistakes,
+          relatedGrammar,
         ),
       };
     });
-  }, [learningData]);
+  }, [grammarSearchIndex, learningData]);
+
+  const selectedItem = useMemo(() => {
+    if (!selectedWordId || !learningData) {
+      return undefined;
+    }
+
+    const item = vocabularyItems.find(({ word }) => word.id === selectedWordId);
+
+    if (!item) {
+      return undefined;
+    }
+
+    return buildVocabularyModalItem(
+      item.word,
+      learningData,
+      item.seenLessonLabels,
+      item.firstSeenLabel,
+      grammarSearchIndex,
+    );
+  }, [grammarSearchIndex, learningData, selectedWordId, vocabularyItems]);
 
   if (learningDataQuery.isPending) {
     return (
@@ -564,10 +592,6 @@ function VocabularyPage() {
       (filter === "all" || word.status === filter) &&
       (normalizedSearchQuery === "" || searchHaystack.includes(normalizedSearchQuery)),
   );
-  const selectedItem = selectedWordId
-    ? vocabularyItems.find(({ word }) => word.id === selectedWordId)?.modalItem
-    : undefined;
-
   const hasActiveFilters = filter !== "all" || normalizedSearchQuery !== "";
   const resultLabel = hasActiveFilters
     ? `${filtered.length} résultat${filtered.length > 1 ? "s" : ""} sur ${vocabulary.length}`
