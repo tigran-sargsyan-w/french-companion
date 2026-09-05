@@ -121,11 +121,15 @@ function findRelatedMistakes(word: VocabWord, data: LearningData) {
   });
 }
 
-function findRelatedGrammar(word: VocabWord, data: LearningData) {
-  const candidates = getWordSearchCandidates(word);
+interface GrammarSearchIndexEntry {
+  grammar: LearningData["grammar"][number];
+  comparableText: string;
+}
 
-  return data.grammar.filter((grammar) => {
-    const grammarText = normalizeComparableText(
+function buildGrammarSearchIndex(data: LearningData): GrammarSearchIndexEntry[] {
+  return data.grammar.map((grammar) => ({
+    grammar,
+    comparableText: normalizeComparableText(
       [
         grammar.title,
         grammar.category,
@@ -138,10 +142,21 @@ function findRelatedGrammar(word: VocabWord, data: LearningData) {
           ...(example.sourceSentences ?? []),
         ]),
       ].join(" "),
-    );
+    ),
+  }));
+}
 
-    return candidates.some((candidate) => grammarText.includes(candidate));
-  });
+function findRelatedGrammar(
+  word: VocabWord,
+  grammarSearchIndex: GrammarSearchIndexEntry[],
+) {
+  const candidates = getWordSearchCandidates(word);
+
+  return grammarSearchIndex
+    .filter(({ comparableText }) =>
+      candidates.some((candidate) => comparableText.includes(candidate)),
+    )
+    .map(({ grammar }) => grammar);
 }
 
 function buildVocabularyModalItem(
@@ -149,6 +164,7 @@ function buildVocabularyModalItem(
   data: LearningData,
   seenLessonLabels: string[],
   firstSeenLabel: string,
+  grammarSearchIndex: GrammarSearchIndexEntry[],
 ): VocabularyWordModalItem {
   return {
     word,
@@ -156,7 +172,7 @@ function buildVocabularyModalItem(
     seenLessonLabels,
     sourceExamples: getSourceExamples(word, data),
     relatedMistakes: findRelatedMistakes(word, data),
-    relatedGrammar: findRelatedGrammar(word, data),
+    relatedGrammar: findRelatedGrammar(word, grammarSearchIndex),
   };
 }
 
@@ -284,6 +300,7 @@ function VocabularyPage() {
     }
 
     const { vocabulary, lessons, lessonIndex } = learningData;
+    const grammarSearchIndex = buildGrammarSearchIndex(learningData);
 
     return vocabulary.map((word) => {
       const first = lessonIndex.find((lesson) => lesson.id === word.firstSeenLessonId);
@@ -291,7 +308,13 @@ function VocabularyPage() {
         .map((lessonId) => getLessonLabel(lessonId, lessonIndex, lessons))
         .filter((label): label is string => Boolean(label));
       const firstSeenLabel = first ? `Lesson ${first.number ?? ""} · ${first.date}`.trim() : "—";
-      const modalItem = buildVocabularyModalItem(word, learningData, seenLessonLabels, firstSeenLabel);
+      const modalItem = buildVocabularyModalItem(
+        word,
+        learningData,
+        seenLessonLabels,
+        firstSeenLabel,
+        grammarSearchIndex,
+      );
 
       return {
         word,
