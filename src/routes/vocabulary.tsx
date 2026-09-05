@@ -1,6 +1,6 @@
 import { Link, createFileRoute } from "@tanstack/react-router";
 import { Printer, Search, X } from "lucide-react";
-import { memo, useCallback, useMemo, useState } from "react";
+import { memo, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
 import { MarkdownText } from "@/components/MarkdownText";
@@ -28,6 +28,7 @@ const statusLabel: Record<VocabStatus, string> = {
   learning: "En cours",
   learned: "Appris",
 };
+
 
 const inlineMarkdownMarkerPattern = /[*_`\[\]~<>]/;
 
@@ -284,6 +285,198 @@ const VocabularyCard = memo(function VocabularyCard({
   );
 });
 
+const VIRTUAL_ROW_ESTIMATE = 260;
+const VIRTUAL_ROW_GAP = 16;
+const VIRTUAL_OVERSCAN_PX = 700;
+
+function useVocabularyColumnCount() {
+  const [columnCount, setColumnCount] = useState(() => {
+    if (typeof window === "undefined") {
+      return 1;
+    }
+
+    if (window.innerWidth >= 1024) {
+      return 3;
+    }
+
+    if (window.innerWidth >= 640) {
+      return 2;
+    }
+
+    return 1;
+  });
+
+  useEffect(() => {
+    const updateColumnCount = () => {
+      if (window.innerWidth >= 1024) {
+        setColumnCount(3);
+      } else if (window.innerWidth >= 640) {
+        setColumnCount(2);
+      } else {
+        setColumnCount(1);
+      }
+    };
+
+    window.addEventListener("resize", updateColumnCount);
+    return () => window.removeEventListener("resize", updateColumnCount);
+  }, []);
+
+  return columnCount;
+}
+
+function VirtualizedVocabularyGrid({
+  items,
+  onSelect,
+}: {
+  items: VocabularyListItem[];
+  onSelect: (wordId: string) => void;
+}) {
+  const containerRef = useRef<HTMLDivElement>(null);
+  const rowHeightsRef = useRef(new Map<number, number>());
+  const [measurementVersion, setMeasurementVersion] = useState(0);
+  const [viewport, setViewport] = useState({ top: 0, height: 0 });
+  const columnCount = useVocabularyColumnCount();
+
+  const rows = useMemo(() => {
+    const result: VocabularyListItem[][] = [];
+
+    for (let index = 0; index < items.length; index += columnCount) {
+      result.push(items.slice(index, index + columnCount));
+    }
+
+    return result;
+  }, [columnCount, items]);
+
+  useEffect(() => {
+    rowHeightsRef.current.clear();
+    setMeasurementVersion((version) => version + 1);
+  }, [columnCount, items]);
+
+  useEffect(() => {
+    let frameId = 0;
+
+    const updateViewport = () => {
+      cancelAnimationFrame(frameId);
+      frameId = requestAnimationFrame(() => {
+        const container = containerRef.current;
+
+        if (!container) {
+          return;
+        }
+
+        const containerTop = container.getBoundingClientRect().top + window.scrollY;
+        setViewport({
+          top: Math.max(0, window.scrollY - containerTop),
+          height: window.innerHeight,
+        });
+      });
+    };
+
+    updateViewport();
+    window.addEventListener("scroll", updateViewport, { passive: true });
+    window.addEventListener("resize", updateViewport);
+
+    return () => {
+      cancelAnimationFrame(frameId);
+      window.removeEventListener("scroll", updateViewport);
+      window.removeEventListener("resize", updateViewport);
+    };
+  }, []);
+
+  const layout = useMemo(() => {
+    const offsets: number[] = [];
+    let totalHeight = 0;
+
+    rows.forEach((_, rowIndex) => {
+      offsets[rowIndex] = totalHeight;
+      const rowHeight = rowHeightsRef.current.get(rowIndex) ?? VIRTUAL_ROW_ESTIMATE;
+      totalHeight += rowHeight + VIRTUAL_ROW_GAP;
+    });
+
+    if (rows.length > 0) {
+      totalHeight -= VIRTUAL_ROW_GAP;
+    }
+
+    const rangeStart = Math.max(0, viewport.top - VIRTUAL_OVERSCAN_PX);
+    const rangeEnd = viewport.top + viewport.height + VIRTUAL_OVERSCAN_PX;
+    let startIndex = 0;
+
+    while (
+      startIndex < rows.length &&
+      offsets[startIndex] +
+        (rowHeightsRef.current.get(startIndex) ?? VIRTUAL_ROW_ESTIMATE) <
+        rangeStart
+    ) {
+      startIndex += 1;
+    }
+
+    let endIndex = startIndex;
+
+    while (endIndex < rows.length && offsets[endIndex] < rangeEnd) {
+      endIndex += 1;
+    }
+
+    return {
+      offsets,
+      totalHeight,
+      startIndex: Math.max(0, startIndex),
+      endIndex: Math.min(rows.length, Math.max(endIndex, startIndex + 1)),
+    };
+  }, [measurementVersion, rows, viewport]);
+
+  const measureRow = useCallback((rowIndex: number, element: HTMLDivElement | null) => {
+    if (!element) {
+      return;
+    }
+
+    const updateHeight = () => {
+      const nextHeight = element.getBoundingClientRect().height;
+      const previousHeight = rowHeightsRef.current.get(rowIndex);
+
+      if (Math.abs((previousHeight ?? 0) - nextHeight) < 1) {
+        return;
+      }
+
+      rowHeightsRef.current.set(rowIndex, nextHeight);
+      setMeasurementVersion((version) => version + 1);
+    };
+
+    updateHeight();
+    const observer = new ResizeObserver(updateHeight);
+    observer.observe(element);
+
+    return () => observer.disconnect();
+  }, []);
+
+  return (
+    <div
+      ref={containerRef}
+      className="relative"
+      style={{ height: `${layout.totalHeight}px` }}
+    >
+      {rows.slice(layout.startIndex, layout.endIndex).map((row, visibleRowIndex) => {
+        const rowIndex = layout.startIndex + visibleRowIndex;
+
+        return (
+          <div
+            key={row[0]?.word.id ?? rowIndex}
+            ref={(element) => {
+              const cleanup = measureRow(rowIndex, element);
+              return cleanup;
+            }}
+            className="absolute left-0 top-0 grid w-full grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3"
+            style={{ transform: `translateY(${layout.offsets[rowIndex]}px)` }}
+          >
+            {row.map((item) => (
+              <VocabularyCard key={item.word.id} item={item} onSelect={onSelect} />
+            ))}
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
 function VocabularyPage() {
   const [filter, setFilter] = useState<VocabStatus | "all">("all");
   const [searchQuery, setSearchQuery] = useState("");
@@ -371,7 +564,6 @@ function VocabularyPage() {
       (filter === "all" || word.status === filter) &&
       (normalizedSearchQuery === "" || searchHaystack.includes(normalizedSearchQuery)),
   );
-
   const selectedItem = selectedWordId
     ? vocabularyItems.find(({ word }) => word.id === selectedWordId)?.modalItem
     : undefined;
@@ -475,11 +667,7 @@ function VocabularyPage() {
           </p>
         </div>
       ) : (
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {filtered.map((item) => (
-            <VocabularyCard key={item.word.id} item={item} onSelect={handleSelectWord} />
-          ))}
-        </div>
+        <VirtualizedVocabularyGrid items={filtered} onSelect={handleSelectWord} />
       )}
 
       {selectedItem && <VocabularyWordModal item={selectedItem} onClose={() => setSelectedWordId(null)} />}
