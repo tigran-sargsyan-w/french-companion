@@ -29,6 +29,8 @@ const statusLabel: Record<VocabStatus, string> = {
   learned: "Appris",
 };
 
+const VOCABULARY_PAGE_SIZE = 100;
+
 const inlineMarkdownMarkerPattern = /[*_`\[\]~<>]/;
 
 function VocabularyCardText({
@@ -287,6 +289,7 @@ const VocabularyCard = memo(function VocabularyCard({
 function VocabularyPage() {
   const [filter, setFilter] = useState<VocabStatus | "all">("all");
   const [searchQuery, setSearchQuery] = useState("");
+  const [currentPage, setCurrentPage] = useState(1);
   const [selectedWordId, setSelectedWordId] = useState<string | null>(null);
   const learningDataQuery = useLearningData();
   const handleSelectWord = useCallback((wordId: string) => {
@@ -371,6 +374,20 @@ function VocabularyPage() {
       (filter === "all" || word.status === filter) &&
       (normalizedSearchQuery === "" || searchHaystack.includes(normalizedSearchQuery)),
   );
+  const totalPages = Math.max(1, Math.ceil(filtered.length / VOCABULARY_PAGE_SIZE));
+  const safeCurrentPage = Math.min(currentPage, totalPages);
+  const pageStart = (safeCurrentPage - 1) * VOCABULARY_PAGE_SIZE;
+  const paginatedItems = filtered.slice(pageStart, pageStart + VOCABULARY_PAGE_SIZE);
+
+  const handlePageChange = (page: number) => {
+    setCurrentPage(page);
+    requestAnimationFrame(() => {
+      document.getElementById("vocabulary-results")?.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+    });
+  };
 
   const selectedItem = selectedWordId
     ? vocabularyItems.find(({ word }) => word.id === selectedWordId)?.modalItem
@@ -414,7 +431,10 @@ function VocabularyPage() {
             <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
             <input
               value={searchQuery}
-              onChange={(event) => setSearchQuery(event.target.value)}
+              onChange={(event) => {
+                setSearchQuery(event.target.value);
+                setCurrentPage(1);
+              }}
               type="search"
               placeholder="Chercher un mot, une traduction, un exemple ou une leçon…"
               className="h-11 w-full rounded-xl border border-input bg-background pl-10 pr-10 text-sm outline-none transition-colors placeholder:text-muted-foreground focus:border-primary focus:ring-2 focus:ring-ring/20"
@@ -422,7 +442,10 @@ function VocabularyPage() {
             {searchQuery && (
               <button
                 type="button"
-                onClick={() => setSearchQuery("")}
+                onClick={() => {
+                  setSearchQuery("");
+                  setCurrentPage(1);
+                }}
                 className="absolute right-2 top-1/2 grid h-7 w-7 -translate-y-1/2 place-items-center rounded-full text-muted-foreground hover:bg-secondary hover:text-foreground"
                 aria-label="Effacer la recherche"
               >
@@ -436,7 +459,10 @@ function VocabularyPage() {
               <button
                 key={f}
                 type="button"
-                onClick={() => setFilter(f)}
+                onClick={() => {
+                  setFilter(f);
+                  setCurrentPage(1);
+                }}
                 className={
                   "px-3 py-1.5 rounded-full text-sm border transition-colors " +
                   (filter === f
@@ -458,6 +484,7 @@ function VocabularyPage() {
               onClick={() => {
                 setSearchQuery("");
                 setFilter("all");
+                setCurrentPage(1);
               }}
               className="hover:text-foreground hover:underline"
             >
@@ -475,10 +502,45 @@ function VocabularyPage() {
           </p>
         </div>
       ) : (
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {filtered.slice(0, 100).map((item) => (
-            <VocabularyCard key={item.word.id} item={item} onSelect={handleSelectWord} />
-          ))}
+        <div id="vocabulary-results">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {paginatedItems.map((item) => (
+              <VocabularyCard key={item.word.id} item={item} onSelect={handleSelectWord} />
+            ))}
+          </div>
+
+          {totalPages > 1 && (
+            <nav
+              className="mt-6 flex flex-col items-center justify-between gap-3 sm:flex-row"
+              aria-label="Pagination du vocabulaire"
+            >
+              <div className="text-sm text-muted-foreground">
+                {pageStart + 1}–{Math.min(pageStart + VOCABULARY_PAGE_SIZE, filtered.length)} sur{" "}
+                {filtered.length}
+              </div>
+              <div className="flex items-center gap-3">
+                <button
+                  type="button"
+                  onClick={() => handlePageChange(safeCurrentPage - 1)}
+                  disabled={safeCurrentPage === 1}
+                  className="rounded-xl border border-border px-4 py-2 text-sm transition-colors hover:bg-secondary disabled:cursor-not-allowed disabled:opacity-50"
+                >
+                  Précédent
+                </button>
+                <span className="min-w-24 text-center text-sm text-muted-foreground">
+                  Page {safeCurrentPage} sur {totalPages}
+                </span>
+                <button
+                  type="button"
+                  onClick={() => handlePageChange(safeCurrentPage + 1)}
+                  disabled={safeCurrentPage === totalPages}
+                  className="rounded-xl border border-border px-4 py-2 text-sm transition-colors hover:bg-secondary disabled:cursor-not-allowed disabled:opacity-50"
+                >
+                  Suivant
+                </button>
+              </div>
+            </nav>
+          )}
         </div>
       )}
 
