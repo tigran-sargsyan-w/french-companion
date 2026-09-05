@@ -284,14 +284,55 @@ function VocabularyPage() {
     }
 
     const { vocabulary, lessons, lessonIndex } = learningData;
+    const profile = {
+      lessonMetadataMs: 0,
+      sourceExamplesMs: 0,
+      relatedMistakesMs: 0,
+      relatedGrammarMs: 0,
+      searchHaystackMs: 0,
+    };
+    const totalStart = performance.now();
 
-    return vocabulary.map((word) => {
+    const items = vocabulary.map((word) => {
+      let stepStart = performance.now();
       const first = lessonIndex.find((lesson) => lesson.id === word.firstSeenLessonId);
       const seenLessonLabels = word.seenInLessonIds
         .map((lessonId) => getLessonLabel(lessonId, lessonIndex, lessons))
         .filter((label): label is string => Boolean(label));
       const firstSeenLabel = first ? `Lesson ${first.number ?? ""} · ${first.date}`.trim() : "—";
-      const modalItem = buildVocabularyModalItem(word, learningData, seenLessonLabels, firstSeenLabel);
+      profile.lessonMetadataMs += performance.now() - stepStart;
+
+      stepStart = performance.now();
+      const sourceExamples = getSourceExamples(word, learningData);
+      profile.sourceExamplesMs += performance.now() - stepStart;
+
+      stepStart = performance.now();
+      const relatedMistakes = findRelatedMistakes(word, learningData);
+      profile.relatedMistakesMs += performance.now() - stepStart;
+
+      stepStart = performance.now();
+      const relatedGrammar = findRelatedGrammar(word, learningData);
+      profile.relatedGrammarMs += performance.now() - stepStart;
+
+      const modalItem: VocabularyWordModalItem = {
+        word,
+        firstSeenLabel,
+        seenLessonLabels,
+        sourceExamples,
+        relatedMistakes,
+        relatedGrammar,
+      };
+
+      stepStart = performance.now();
+      const searchHaystack = buildVocabularySearchHaystack(
+        word,
+        seenLessonLabels,
+        firstSeenLabel,
+        sourceExamples,
+        relatedMistakes,
+        relatedGrammar,
+      );
+      profile.searchHaystackMs += performance.now() - stepStart;
 
       return {
         word,
@@ -299,16 +340,51 @@ function VocabularyPage() {
         seenLessonLabels,
         seenLessonTitle: seenLessonLabels.join("\n"),
         modalItem,
-        searchHaystack: buildVocabularySearchHaystack(
-          word,
-          seenLessonLabels,
-          firstSeenLabel,
-          modalItem.sourceExamples,
-          modalItem.relatedMistakes,
-          modalItem.relatedGrammar,
-        ),
+        searchHaystack,
       };
     });
+
+    const totalMs = performance.now() - totalStart;
+    const measuredMs =
+      profile.lessonMetadataMs +
+      profile.sourceExamplesMs +
+      profile.relatedMistakesMs +
+      profile.relatedGrammarMs +
+      profile.searchHaystackMs;
+
+    console.groupCollapsed(
+      `[Vocabulary profile] built ${vocabulary.length} items in ${totalMs.toFixed(1)} ms`,
+    );
+    console.table({
+      total: { ms: Number(totalMs.toFixed(1)), share: "100%" },
+      lessonMetadata: {
+        ms: Number(profile.lessonMetadataMs.toFixed(1)),
+        share: `${((profile.lessonMetadataMs / totalMs) * 100).toFixed(1)}%`,
+      },
+      sourceExamples: {
+        ms: Number(profile.sourceExamplesMs.toFixed(1)),
+        share: `${((profile.sourceExamplesMs / totalMs) * 100).toFixed(1)}%`,
+      },
+      relatedMistakes: {
+        ms: Number(profile.relatedMistakesMs.toFixed(1)),
+        share: `${((profile.relatedMistakesMs / totalMs) * 100).toFixed(1)}%`,
+      },
+      relatedGrammar: {
+        ms: Number(profile.relatedGrammarMs.toFixed(1)),
+        share: `${((profile.relatedGrammarMs / totalMs) * 100).toFixed(1)}%`,
+      },
+      searchHaystack: {
+        ms: Number(profile.searchHaystackMs.toFixed(1)),
+        share: `${((profile.searchHaystackMs / totalMs) * 100).toFixed(1)}%`,
+      },
+      unmeasured: {
+        ms: Number((totalMs - measuredMs).toFixed(1)),
+        share: `${(((totalMs - measuredMs) / totalMs) * 100).toFixed(1)}%`,
+      },
+    });
+    console.groupEnd();
+
+    return items;
   }, [learningData]);
 
   if (learningDataQuery.isPending) {
