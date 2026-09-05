@@ -1,0 +1,50 @@
+name: Full Performance Audit
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "scripts/performance-audit.mjs"
+      - ".github/workflows/performance-audit.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    name: Crawl and profile production site
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install audit dependency
+        run: npm install --no-save puppeteer-core@24
+
+      - name: Show Chrome version
+        run: |
+          (google-chrome-stable --version || google-chrome --version || chromium --version)
+
+      - name: Run full performance audit
+        env:
+          AUDIT_BASE_URL: https://tigran-sargsyan-w.github.io/french-companion/
+        run: node scripts/performance-audit.mjs
+
+      - name: Upload performance report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: french-companion-performance-audit
+          path: |
+            performance-audit.json
+            performance-audit.md
+          if-no-files-found: warn
