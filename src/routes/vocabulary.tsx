@@ -1,6 +1,6 @@
 import { Link, createFileRoute } from "@tanstack/react-router";
 import { Printer, Search, X } from "lucide-react";
-import { memo, useCallback, useMemo, useState } from "react";
+import { memo, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { PageHeader } from "@/components/AppShell";
 import { DataErrorState, DataLoadingState } from "@/components/DataState";
 import { MarkdownText } from "@/components/MarkdownText";
@@ -29,7 +29,6 @@ const statusLabel: Record<VocabStatus, string> = {
   learned: "Appris",
 };
 
-const VOCABULARY_PAGE_SIZE = 100;
 
 const inlineMarkdownMarkerPattern = /[*_`\[\]~<>]/;
 
@@ -286,10 +285,201 @@ const VocabularyCard = memo(function VocabularyCard({
   );
 });
 
+const VIRTUAL_ROW_ESTIMATE = 260;
+const VIRTUAL_ROW_GAP = 16;
+const VIRTUAL_OVERSCAN_PX = 700;
+
+function useVocabularyColumnCount() {
+  const [columnCount, setColumnCount] = useState(() => {
+    if (typeof window === "undefined") {
+      return 1;
+    }
+
+    if (window.innerWidth >= 1024) {
+      return 3;
+    }
+
+    if (window.innerWidth >= 640) {
+      return 2;
+    }
+
+    return 1;
+  });
+
+  useEffect(() => {
+    const updateColumnCount = () => {
+      if (window.innerWidth >= 1024) {
+        setColumnCount(3);
+      } else if (window.innerWidth >= 640) {
+        setColumnCount(2);
+      } else {
+        setColumnCount(1);
+      }
+    };
+
+    window.addEventListener("resize", updateColumnCount);
+    return () => window.removeEventListener("resize", updateColumnCount);
+  }, []);
+
+  return columnCount;
+}
+
+function VirtualizedVocabularyGrid({
+  items,
+  onSelect,
+}: {
+  items: VocabularyListItem[];
+  onSelect: (wordId: string) => void;
+}) {
+  const containerRef = useRef<HTMLDivElement>(null);
+  const rowHeightsRef = useRef(new Map<number, number>());
+  const [measurementVersion, setMeasurementVersion] = useState(0);
+  const [viewport, setViewport] = useState({ top: 0, height: 0 });
+  const columnCount = useVocabularyColumnCount();
+
+  const rows = useMemo(() => {
+    const result: VocabularyListItem[][] = [];
+
+    for (let index = 0; index < items.length; index += columnCount) {
+      result.push(items.slice(index, index + columnCount));
+    }
+
+    return result;
+  }, [columnCount, items]);
+
+  useEffect(() => {
+    rowHeightsRef.current.clear();
+    setMeasurementVersion((version) => version + 1);
+  }, [columnCount, items]);
+
+  useEffect(() => {
+    let frameId = 0;
+
+    const updateViewport = () => {
+      cancelAnimationFrame(frameId);
+      frameId = requestAnimationFrame(() => {
+        const container = containerRef.current;
+
+        if (!container) {
+          return;
+        }
+
+        const containerTop = container.getBoundingClientRect().top + window.scrollY;
+        setViewport({
+          top: Math.max(0, window.scrollY - containerTop),
+          height: window.innerHeight,
+        });
+      });
+    };
+
+    updateViewport();
+    window.addEventListener("scroll", updateViewport, { passive: true });
+    window.addEventListener("resize", updateViewport);
+
+    return () => {
+      cancelAnimationFrame(frameId);
+      window.removeEventListener("scroll", updateViewport);
+      window.removeEventListener("resize", updateViewport);
+    };
+  }, []);
+
+  const layout = useMemo(() => {
+    const offsets: number[] = [];
+    let totalHeight = 0;
+
+    rows.forEach((_, rowIndex) => {
+      offsets[rowIndex] = totalHeight;
+      const rowHeight = rowHeightsRef.current.get(rowIndex) ?? VIRTUAL_ROW_ESTIMATE;
+      totalHeight += rowHeight + VIRTUAL_ROW_GAP;
+    });
+
+    if (rows.length > 0) {
+      totalHeight -= VIRTUAL_ROW_GAP;
+    }
+
+    const rangeStart = Math.max(0, viewport.top - VIRTUAL_OVERSCAN_PX);
+    const rangeEnd = viewport.top + viewport.height + VIRTUAL_OVERSCAN_PX;
+    let startIndex = 0;
+
+    while (
+      startIndex < rows.length &&
+      offsets[startIndex] +
+        (rowHeightsRef.current.get(startIndex) ?? VIRTUAL_ROW_ESTIMATE) <
+        rangeStart
+    ) {
+      startIndex += 1;
+    }
+
+    let endIndex = startIndex;
+
+    while (endIndex < rows.length && offsets[endIndex] < rangeEnd) {
+      endIndex += 1;
+    }
+
+    return {
+      offsets,
+      totalHeight,
+      startIndex: Math.max(0, startIndex),
+      endIndex: Math.min(rows.length, Math.max(endIndex, startIndex + 1)),
+    };
+  }, [measurementVersion, rows, viewport]);
+
+  const measureRow = useCallback((rowIndex: number, element: HTMLDivElement | null) => {
+    if (!element) {
+      return;
+    }
+
+    const updateHeight = () => {
+      const nextHeight = element.getBoundingClientRect().height;
+      const previousHeight = rowHeightsRef.current.get(rowIndex);
+
+      if (Math.abs((previousHeight ?? 0) - nextHeight) < 1) {
+        return;
+      }
+
+      rowHeightsRef.current.set(rowIndex, nextHeight);
+      setMeasurementVersion((version) => version + 1);
+    };
+
+    updateHeight();
+    const observer = new ResizeObserver(updateHeight);
+    observer.observe(element);
+
+    return () => observer.disconnect();
+  }, []);
+
+  return (
+    <div
+      ref={containerRef}
+      className="relative"
+      style={{ height: `${layout.totalHeight}px` }}
+    >
+      {rows.slice(layout.startIndex, layout.endIndex).map((row, visibleRowIndex) => {
+        const rowIndex = layout.startIndex + visibleRowIndex;
+
+        return (
+          <div
+            key={row[0]?.word.id ?? rowIndex}
+            ref={(element) => {
+              const cleanup = measureRow(rowIndex, element);
+              return cleanup;
+            }}
+            className="absolute left-0 top-0 grid w-full grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3"
+            style={{ transform: `translateY(${layout.offsets[rowIndex]}px)` }}
+          >
+            {row.map((item) => (
+              <VocabularyCard key={item.word.id} item={item} onSelect={onSelect} />
+            ))}
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
 function VocabularyPage() {
   const [filter, setFilter] = useState<VocabStatus | "all">("all");
   const [searchQuery, setSearchQuery] = useState("");
-  const [currentPage, setCurrentPage] = useState(1);
   const [selectedWordId, setSelectedWordId] = useState<string | null>(null);
   const learningDataQuery = useLearningData();
   const handleSelectWord = useCallback((wordId: string) => {
@@ -374,21 +564,6 @@ function VocabularyPage() {
       (filter === "all" || word.status === filter) &&
       (normalizedSearchQuery === "" || searchHaystack.includes(normalizedSearchQuery)),
   );
-  const totalPages = Math.max(1, Math.ceil(filtered.length / VOCABULARY_PAGE_SIZE));
-  const safeCurrentPage = Math.min(currentPage, totalPages);
-  const pageStart = (safeCurrentPage - 1) * VOCABULARY_PAGE_SIZE;
-  const paginatedItems = filtered.slice(pageStart, pageStart + VOCABULARY_PAGE_SIZE);
-
-  const handlePageChange = (page: number) => {
-    setCurrentPage(page);
-    requestAnimationFrame(() => {
-      document.getElementById("vocabulary-results")?.scrollIntoView({
-        behavior: "smooth",
-        block: "start",
-      });
-    });
-  };
-
   const selectedItem = selectedWordId
     ? vocabularyItems.find(({ word }) => word.id === selectedWordId)?.modalItem
     : undefined;
@@ -431,10 +606,7 @@ function VocabularyPage() {
             <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
             <input
               value={searchQuery}
-              onChange={(event) => {
-                setSearchQuery(event.target.value);
-                setCurrentPage(1);
-              }}
+              onChange={(event) => setSearchQuery(event.target.value)}
               type="search"
               placeholder="Chercher un mot, une traduction, un exemple ou une leçon…"
               className="h-11 w-full rounded-xl border border-input bg-background pl-10 pr-10 text-sm outline-none transition-colors placeholder:text-muted-foreground focus:border-primary focus:ring-2 focus:ring-ring/20"
@@ -442,10 +614,7 @@ function VocabularyPage() {
             {searchQuery && (
               <button
                 type="button"
-                onClick={() => {
-                  setSearchQuery("");
-                  setCurrentPage(1);
-                }}
+                onClick={() => setSearchQuery("")}
                 className="absolute right-2 top-1/2 grid h-7 w-7 -translate-y-1/2 place-items-center rounded-full text-muted-foreground hover:bg-secondary hover:text-foreground"
                 aria-label="Effacer la recherche"
               >
@@ -459,10 +628,7 @@ function VocabularyPage() {
               <button
                 key={f}
                 type="button"
-                onClick={() => {
-                  setFilter(f);
-                  setCurrentPage(1);
-                }}
+                onClick={() => setFilter(f)}
                 className={
                   "px-3 py-1.5 rounded-full text-sm border transition-colors " +
                   (filter === f
@@ -484,7 +650,6 @@ function VocabularyPage() {
               onClick={() => {
                 setSearchQuery("");
                 setFilter("all");
-                setCurrentPage(1);
               }}
               className="hover:text-foreground hover:underline"
             >
@@ -502,46 +667,7 @@ function VocabularyPage() {
           </p>
         </div>
       ) : (
-        <div id="vocabulary-results">
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {paginatedItems.map((item) => (
-              <VocabularyCard key={item.word.id} item={item} onSelect={handleSelectWord} />
-            ))}
-          </div>
-
-          {totalPages > 1 && (
-            <nav
-              className="mt-6 flex flex-col items-center justify-between gap-3 sm:flex-row"
-              aria-label="Pagination du vocabulaire"
-            >
-              <div className="text-sm text-muted-foreground">
-                {pageStart + 1}–{Math.min(pageStart + VOCABULARY_PAGE_SIZE, filtered.length)} sur{" "}
-                {filtered.length}
-              </div>
-              <div className="flex items-center gap-3">
-                <button
-                  type="button"
-                  onClick={() => handlePageChange(safeCurrentPage - 1)}
-                  disabled={safeCurrentPage === 1}
-                  className="rounded-xl border border-border px-4 py-2 text-sm transition-colors hover:bg-secondary disabled:cursor-not-allowed disabled:opacity-50"
-                >
-                  Précédent
-                </button>
-                <span className="min-w-24 text-center text-sm text-muted-foreground">
-                  Page {safeCurrentPage} sur {totalPages}
-                </span>
-                <button
-                  type="button"
-                  onClick={() => handlePageChange(safeCurrentPage + 1)}
-                  disabled={safeCurrentPage === totalPages}
-                  className="rounded-xl border border-border px-4 py-2 text-sm transition-colors hover:bg-secondary disabled:cursor-not-allowed disabled:opacity-50"
-                >
-                  Suivant
-                </button>
-              </div>
-            </nav>
-          )}
-        </div>
+        <VirtualizedVocabularyGrid items={filtered} onSelect={handleSelectWord} />
       )}
 
       {selectedItem && <VocabularyWordModal item={selectedItem} onClose={() => setSelectedWordId(null)} />}
