@@ -144,6 +144,44 @@ function findRelatedGrammar(word: VocabWord, data: LearningData) {
   });
 }
 
+interface GrammarSearchIndexEntry {
+  grammar: LearningData["grammar"][number];
+  comparableText: string;
+}
+
+function buildGrammarSearchIndex(data: LearningData): GrammarSearchIndexEntry[] {
+  return data.grammar.map((grammar) => ({
+    grammar,
+    comparableText: normalizeComparableText(
+      [
+        grammar.title,
+        grammar.category,
+        grammar.summary,
+        ...grammar.examples,
+        ...(grammar.annotatedExamples ?? []).flatMap((example) => [
+          example.title,
+          example.explanation,
+          example.markup,
+          ...(example.sourceSentences ?? []),
+        ]),
+      ].join(" "),
+    ),
+  }));
+}
+
+function findRelatedGrammarFromIndex(
+  word: VocabWord,
+  grammarSearchIndex: GrammarSearchIndexEntry[],
+) {
+  const candidates = getWordSearchCandidates(word);
+
+  return grammarSearchIndex
+    .filter(({ comparableText }) =>
+      candidates.some((candidate) => comparableText.includes(candidate)),
+    )
+    .map(({ grammar }) => grammar);
+}
+
 function buildVocabularyModalItem(
   word: VocabWord,
   data: LearningData,
@@ -288,13 +326,18 @@ function VocabularyPage() {
       lessonMetadataMs: 0,
       sourceExamplesMs: 0,
       relatedMistakesMs: 0,
+      grammarIndexBuildMs: 0,
       relatedGrammarMs: 0,
       searchHaystackMs: 0,
     };
     const totalStart = performance.now();
 
+    let stepStart = performance.now();
+    const grammarSearchIndex = buildGrammarSearchIndex(learningData);
+    profile.grammarIndexBuildMs += performance.now() - stepStart;
+
     const items = vocabulary.map((word) => {
-      let stepStart = performance.now();
+      stepStart = performance.now();
       const first = lessonIndex.find((lesson) => lesson.id === word.firstSeenLessonId);
       const seenLessonLabels = word.seenInLessonIds
         .map((lessonId) => getLessonLabel(lessonId, lessonIndex, lessons))
@@ -311,7 +354,7 @@ function VocabularyPage() {
       profile.relatedMistakesMs += performance.now() - stepStart;
 
       stepStart = performance.now();
-      const relatedGrammar = findRelatedGrammar(word, learningData);
+      const relatedGrammar = findRelatedGrammarFromIndex(word, grammarSearchIndex);
       profile.relatedGrammarMs += performance.now() - stepStart;
 
       const modalItem: VocabularyWordModalItem = {
@@ -349,6 +392,7 @@ function VocabularyPage() {
       profile.lessonMetadataMs +
       profile.sourceExamplesMs +
       profile.relatedMistakesMs +
+      profile.grammarIndexBuildMs +
       profile.relatedGrammarMs +
       profile.searchHaystackMs;
 
@@ -368,6 +412,10 @@ function VocabularyPage() {
       relatedMistakes: {
         ms: Number(profile.relatedMistakesMs.toFixed(1)),
         share: `${((profile.relatedMistakesMs / totalMs) * 100).toFixed(1)}%`,
+      },
+      grammarIndexBuild: {
+        ms: Number(profile.grammarIndexBuildMs.toFixed(1)),
+        share: `${((profile.grammarIndexBuildMs / totalMs) * 100).toFixed(1)}%`,
       },
       relatedGrammar: {
         ms: Number(profile.relatedGrammarMs.toFixed(1)),
