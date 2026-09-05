@@ -29,6 +29,26 @@ const statusLabel: Record<VocabStatus, string> = {
   learned: "Appris",
 };
 
+const inlineMarkdownMarkerPattern = /[*_`\[\]~<>]/;
+
+function VocabularyCardText({
+  children,
+  className = "",
+}: {
+  children: string;
+  className?: string;
+}) {
+  if (!inlineMarkdownMarkerPattern.test(children)) {
+    return <span className={className}>{children}</span>;
+  }
+
+  return (
+    <MarkdownText inline className={className}>
+      {children}
+    </MarkdownText>
+  );
+}
+
 function normalizeSearchText(value: string) {
   return value
     .normalize("NFD")
@@ -199,9 +219,9 @@ const VocabularyCard = memo(function VocabularyCard({
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
           <div className="font-display text-2xl leading-tight">{word.french}</div>
-          <MarkdownText inline className="text-sm text-muted-foreground">
+          <VocabularyCardText className="text-sm text-muted-foreground">
             {word.translation}
-          </MarkdownText>
+          </VocabularyCardText>
         </div>
         <span
           className={`text-[10px] uppercase tracking-wider px-2 py-1 rounded-full shrink-0 ${statusStyle[word.status]}`}
@@ -211,7 +231,7 @@ const VocabularyCard = memo(function VocabularyCard({
       </div>
 
       <div className="text-sm italic text-foreground/80 border-l-2 border-primary/40 pl-3">
-        « <MarkdownText inline>{word.example}</MarkdownText> »
+        « <VocabularyCardText>{word.example}</VocabularyCardText> »
       </div>
 
       <div className="flex flex-wrap gap-2 text-[11px] text-muted-foreground">
