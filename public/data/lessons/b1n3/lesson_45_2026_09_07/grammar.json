@@ -1,0 +1,70 @@
+[
+  {
+    "id": "g_2026_09_07_inquietude_peur",
+    "title": "Exprimer l’inquiétude et la peur",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Avec un nom\n",
+        "- **craindre + nom** : exprimer une peur ou une inquiétude à propos de quelque chose ;",
+        "- **avoir peur de + nom** : exprimer directement une peur ;",
+        "- **être préoccupé(e) / alarmé(e) / terrifié(e) / effrayé(e) par + nom** : décrire l’état émotionnel d’une personne ;",
+        "- **s’inquiéter pour + nom** : exprimer une inquiétude pour une personne ou une chose."
+      ],
+      [
+        "### Avec un infinitif : même sujet\n",
+        "Quand les deux verbes ont le **même sujet**, on utilise **de + infinitif** après **craindre** et **avoir peur**.",
+        "- **craindre de + infinitif** ;",
+        "- **avoir peur de + infinitif**."
+      ],
+      [
+        "### Avec le subjonctif : sujets différents\n",
+        "Quand la proposition principale et la proposition introduite par **que** ont des **sujets différents**, on emploie le subjonctif.",
+        "- **craindre que + subjonctif** ;",
+        "- **avoir peur que + subjonctif**."
+      ],
+      [
+        "### Décrire ce qui fait peur et la personne qui a peur\n",
+        "| Verbe | Situation / chose | Personne |",
+        "|---|---|---|",
+        "| alarmer | alarmant(e) | alarmé(e) par |",
+        "| terrifier | terrifiant(e) | terrifié(e) par |",
+        "| effrayer | effrayant(e) | effrayé(e) par |",
+        "| préoccuper | préoccupant(e) | préoccupé(e) par |",
+        "**À retenir :** la forme en **-ant** décrit généralement ce qui provoque l’émotion, tandis que le participe passé décrit la personne qui la ressent."
+      ]
+    ],
+    "examples": [
+      "Il craint les orages.",
+      "Nous craignons d’être obligés de partir.",
+      "Ils craignent que la pollution augmente.",
+      "J’ai peur des orages.",
+      "Elles ont peur de partir de chez elles.",
+      "Nous avons peur que la planète soit en danger.",
+      "Tu es préoccupé par la situation.",
+      "Je m’inquiète pour ma famille.",
+      "La situation est effrayante.",
+      "La montée des eaux me préoccupe."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Même sujet : de + infinitif",
+        "markup": "{{sujet:Nous}} {{verbe:craignons}} {{structure:de}} partir.",
+        "explanation": "Le sujet de **craignons** et celui de **partir** est le même : on utilise **de + infinitif**.",
+        "sourceSentences": [
+          "Nous craignons quelque chose.",
+          "Nous partons."
+        ]
+      },
+      {
+        "title": "Sujets différents : que + subjonctif",
+        "markup": "{{sujet:Nous}} {{verbe:avons peur}} {{structure:que}} {{sujet:la planète}} {{subjonctif:soit}} en danger.",
+        "explanation": "Les deux propositions ont des sujets différents ; après **avoir peur que**, le verbe de la seconde proposition est au subjonctif.",
+        "sourceSentences": [
+          "Nous avons peur.",
+          "La planète est en danger."
+        ]
+      }
+    ]
+  }
+]
