@@ -9,14 +9,14 @@
   {
     "id": "v_2026_09_07_aile",
     "french": "une aile",
-    "translation": "крыло",
+    "translation": "крыло[էլ]",
     "example": "L’oiseau a une aile blessée.",
     "status": "learning"
   },
   {
     "id": "v_2026_09_07_ail",
     "french": "l’ail",
-    "translation": "чеснок",
+    "translation": "чеснок[այ]",
     "example": "J’ajoute un peu d’ail dans la sauce.",
     "status": "learning"
   },
@@ -158,6 +158,13 @@
     "french": "ça m’aveugle",
     "translation": "это меня ослепляет / мешает мне видеть",
     "example": "La lumière est trop forte : ça m’aveugle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_07_empecher",
+    "french": "ça m’empêche de voir",
+    "translation": "это меня ослепляет / мешает мне видеть",
+    "example": "La pluie me empêche de sortir.",
     "status": "learning"
   },
   {
