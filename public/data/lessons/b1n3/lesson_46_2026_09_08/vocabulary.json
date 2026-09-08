@@ -1,0 +1,163 @@
+[
+  {
+    "id": "v_2026_09_08_rater",
+    "french": "rater",
+    "translation": "пропустить / не réussir",
+    "example": "J’ai raté le début de la réunion.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_de_plus_en_plus",
+    "french": "de plus en plus",
+    "translation": "всё больше и больше",
+    "example": "Le travail devient de plus en plus exigeant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_convaincre",
+    "french": "convaincre",
+    "translation": "убеждать",
+    "example": "Elle essaie de convaincre son amie de changer ses habitudes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_avoir_hate",
+    "french": "avoir hâte de",
+    "translation": "с нетерпением ждать",
+    "example": "J’ai hâte de découvrir mon futur métier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_arriere_plan",
+    "french": "l’arrière-plan",
+    "translation": "задний план / фон",
+    "example": "On voit des cheminées d’usines à l’arrière-plan.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_peniche",
+    "french": "une péniche",
+    "translation": "баржа / речное судно",
+    "example": "Une péniche avance lentement sur le fleuve.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_cheminees_usines",
+    "french": "des cheminées d’usines",
+    "translation": "заводские трубы",
+    "example": "On aperçoit des cheminées d’usines au loin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_travail_physique",
+    "french": "un travail physique",
+    "translation": "физическая работа",
+    "example": "Ce métier demande un travail physique important.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_travail_manuel",
+    "french": "un travail manuel",
+    "translation": "ручной труд",
+    "example": "Il préfère un travail manuel à un travail de bureau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_travail_bureau",
+    "french": "un travail de bureau",
+    "translation": "офисная работа",
+    "example": "Elle cherche un travail de bureau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_concurrentiel",
+    "french": "concurrentiel / concurrentielle",
+    "translation": "конкурентный",
+    "example": "Le secteur de la mode est très concurrentiel.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_marque",
+    "french": "une marque",
+    "translation": "бренд / торговая марка",
+    "example": "Cette marque recrute de nouveaux employés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_divertir",
+    "french": "divertir",
+    "translation": "развлекать",
+    "example": "Son métier consiste à divertir le public.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_endurant",
+    "french": "endurant / endurante",
+    "translation": "выносливый",
+    "example": "Il faut être endurant pour exercer ce métier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_intermittent_spectacle",
+    "french": "un intermittent / une intermittente du spectacle",
+    "translation": "работник сферы шоу-бизнеса с временными контрактами",
+    "example": "Un intermittent du spectacle alterne périodes de travail et périodes sans contrat.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_perseverant",
+    "french": "persévérant / persévérante",
+    "translation": "настойчивый / упорный",
+    "example": "Elle est persévérante et ne renonce pas facilement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_mannequinat",
+    "french": "le mannequinat",
+    "translation": "модельный бизнес / профессия модели",
+    "example": "Le mannequinat est un secteur très concurrentiel.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_mannequin",
+    "french": "un mannequin / une mannequin",
+    "translation": "модель",
+    "example": "Elle rêve de devenir mannequin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_particuliers",
+    "french": "les particuliers",
+    "translation": "частные лица",
+    "example": "Cette entreprise propose aussi ses services aux particuliers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_requerir",
+    "french": "requérir",
+    "translation": "требовать / быть необходимым",
+    "example": "Ce poste requiert beaucoup de patience.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_requis",
+    "french": "requis / requise",
+    "translation": "требуемый / необходимый",
+    "example": "Une expérience professionnelle est requise pour ce poste.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_redaction",
+    "french": "une rédaction",
+    "translation": "письменная работа / составление текста",
+    "example": "La rédaction doit être claire et bien structurée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_08_rediger",
+    "french": "rédiger",
+    "translation": "составлять / писать",
+    "example": "Nous devons rédiger un e-mail argumenté.",
+    "status": "learning"
+  }
+]
