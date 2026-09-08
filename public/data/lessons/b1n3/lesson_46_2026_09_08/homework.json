@@ -1,0 +1,16 @@
+[
+  {
+    "id": "h_2026_09_08_exercices_1_3",
+    "title": "Exercices 1 et 3 p.75-76",
+    "description": "Faire les exercices **1 et 3**, pages **75-76**.",
+    "dueDate": "2026-09-09",
+    "done": false
+  },
+  {
+    "id": "h_2026_09_08_production_ecrite_delf",
+    "title": "Production écrite type DELF",
+    "description": "Rédiger la production écrite travaillée en classe : répondre à l’e-mail de Sarah, argumenter et utiliser des exemples, en respectant la longueur de **100 à 150 mots**.",
+    "dueDate": "2026-09-14",
+    "done": false
+  }
+]
