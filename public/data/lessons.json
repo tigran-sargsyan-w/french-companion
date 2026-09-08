@@ -448,5 +448,15 @@
     "classLevel": "B1N3",
     "status": "done",
     "path": "data/lessons/b1n3/lesson_45_2026_09_07"
+  },
+  {
+    "id": "lesson_46_2026_09_08",
+    "number": 46,
+    "title": "Prédictions pour 2050, production écrite DELF et métiers de rêve",
+    "date": "2026-09-08",
+    "level": "B1",
+    "classLevel": "B1N3",
+    "status": "done",
+    "path": "data/lessons/b1n3/lesson_46_2026_09_08"
   }
 ]
