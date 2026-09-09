@@ -151,7 +151,7 @@
     "french": "un guichet",
     "translation": "окошко / стойка обслуживания",
     "example": "J’ai demandé un renseignement au guichet.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_dissimuler",
@@ -389,7 +389,7 @@
     "french": "une organisation — organiser",
     "translation": "организация — организовывать",
     "example": "L’organisation du tournoi est prête ; le club va organiser la compétition.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_competition",
@@ -445,7 +445,7 @@
     "french": "des applaudissements — applaudir",
     "translation": "аплодисменты — аплодировать",
     "example": "Les applaudissements ont duré longtemps ; le public a applaudi les artistes.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_felicitations",
@@ -536,7 +536,7 @@
     "french": "un doublage — doubler",
     "translation": "дубляж — дублировать",
     "example": "Le doublage français est terminé ; plusieurs comédiens ont doublé les personnages.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_projection",
@@ -592,7 +592,7 @@
     "french": "une transformation — transformer",
     "translation": "преобразование — преобразовывать",
     "example": "La transformation du quartier est visible ; les nouveaux projets l’ont profondément transformé.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_disparition",
@@ -606,7 +606,7 @@
     "french": "un achat — acheter",
     "translation": "покупка — покупать",
     "example": "Cet achat était prévu ; le musée a acheté l’œuvre lors d’une vente.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_vente",
@@ -655,7 +655,7 @@
     "french": "un coût — coûter",
     "translation": "стоимость — стоить",
     "example": "Le coût des travaux est élevé ; la rénovation va coûter plusieurs millions d’euros.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_conception",
@@ -858,7 +858,7 @@
     "french": "un examen — examiner",
     "translation": "осмотр / обследование / экзамен — осматривать / исследовать",
     "example": "Le médecin demande un examen complémentaire ; il examinera le patient demain.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_diagnostic",

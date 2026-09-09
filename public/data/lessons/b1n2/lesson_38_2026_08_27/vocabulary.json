@@ -39,14 +39,14 @@
     "french": "une caractéristique",
     "translation": "характеристика / особенность",
     "example": "Les caractéristiques du produit sont présentées comme suit.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_27_quelques",
     "french": "quelques",
     "translation": "несколько / некоторые",
     "example": "Quelques personnes ont donné leur avis sur cette campagne.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_27_parmi",
@@ -60,14 +60,14 @@
     "french": "d’autres",
     "translation": "другие",
     "example": "Certaines personnes aiment cette marque, d’autres la critiquent.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_27_d_autres_encore",
     "french": "d’autres encore",
     "translation": "ещё другие",
     "example": "Quelques élèves ont répondu rapidement, d’autres encore ont hésité.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_27_comme_suit",

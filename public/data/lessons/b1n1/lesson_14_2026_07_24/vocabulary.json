@@ -81,7 +81,7 @@
     "french": "facultatif / facultative",
     "translation": "необязательный / факультативный",
     "example": "Dans cet établissement, l'étude du latin est facultative.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_24_orthographe",
@@ -172,7 +172,7 @@
     "french": "s'intéresser à quelque chose",
     "translation": "интересоваться чем-либо",
     "example": "Je m'intéresse à l'origine des mots français.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_24_se_passionner_pour",

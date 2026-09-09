@@ -53,7 +53,7 @@
     "french": "un travail physique",
     "translation": "физическая работа",
     "example": "Ce métier demande un travail physique important.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_08_travail_manuel",
@@ -67,7 +67,7 @@
     "french": "un travail de bureau",
     "translation": "офисная работа",
     "example": "Elle cherche un travail de bureau.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_08_concurrentiel",
@@ -130,7 +130,7 @@
     "french": "les particuliers",
     "translation": "частные лица",
     "example": "Cette entreprise propose aussi ses services aux particuliers.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_08_requerir",

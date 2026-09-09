@@ -4,7 +4,7 @@
     "french": "l’inclusion",
     "translation": "включение / инклюзия",
     "example": "Cette campagne met en avant l’inclusion de tous les publics.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_25_inclure",
@@ -18,7 +18,7 @@
     "french": "inclusif / inclusive",
     "translation": "инклюзивный / включающий",
     "example": "La marque veut proposer une communication plus inclusive.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_25_exclusion",
@@ -39,7 +39,7 @@
     "french": "exclusif / exclusive",
     "translation": "исключительный / эксклюзивный",
     "example": "Cette offre est exclusive aux nouveaux clients.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_25_sigle",
@@ -60,7 +60,7 @@
     "french": "une agence",
     "translation": "агентство",
     "example": "Cette agence crée des campagnes publicitaires pour plusieurs marques.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_25_communicant",

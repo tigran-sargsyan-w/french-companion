@@ -25,7 +25,7 @@
     "french": "une ampoule",
     "translation": "лампочка",
     "example": "Il faut changer l’ampoule de la lampe.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_17_genereux",
@@ -60,7 +60,7 @@
     "french": "douter",
     "translation": "сомневаться",
     "example": "Je doute de la fiabilité de cette information.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_17_doute",
