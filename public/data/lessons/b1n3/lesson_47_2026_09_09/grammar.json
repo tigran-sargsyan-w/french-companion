@@ -1,0 +1,36 @@
+[
+  {
+    "id": "g_2026_09_09_promouvoir_etre_promu",
+    "title": "Promouvoir et être promu : actif et passif",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Deux points de vue\n",
+        "- **promouvoir quelqu’un** : le sujet réalise l’action de donner une promotion ;",
+        "- **être promu / promue** : le sujet reçoit la promotion."
+      ]
+    ],
+    "examples": [
+      "L’entreprise promeut une salariée.",
+      "Cette salariée est promue responsable d’équipe."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_09_aussi_adverbe_que",
+    "title": "Comparaison : aussi + adverbe + que",
+    "category": "Comparison",
+    "summary": [
+      [
+        "### Comparer une manière ou une vitesse\n",
+        "La structure **aussi + adverbe + que** exprime une égalité entre deux éléments.",
+        "Avec **vite** : **aussi vite que**."
+      ]
+    ],
+    "examples": [
+      "Le projet avance aussi vite que prévu.",
+      "Le marché évolue aussi vite que la technologie."
+    ],
+    "annotatedExamples": []
+  }
+]
