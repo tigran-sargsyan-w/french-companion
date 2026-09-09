@@ -46,14 +46,14 @@
     "french": "une promenade / une balade",
     "translation": "прогулка",
     "example": "Nous avons fait une balade dans le centre de Lyon.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_09_ballade",
     "french": "une ballade",
     "translation": "баллада, музыкальное или поэтическое произведение",
     "example": "Le chanteur interprète une ballade romantique.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_09_annee_sabbatique",
