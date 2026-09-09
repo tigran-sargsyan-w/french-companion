@@ -67,7 +67,7 @@
     "french": "se garer",
     "translation": "парковаться",
     "example": "Il est difficile de se garer dans le centre-ville.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_24_inutile",
@@ -186,13 +186,13 @@
     "french": "la certitude",
     "translation": "уверенность / достоверность",
     "example": "Elle exprime sa certitude avec une phrase à l’indicatif.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_24_incertitude",
     "french": "l’incertitude",
     "translation": "неуверенность / неопределённость",
     "example": "Le doute exprime une forme d’incertitude.",
-    "status": "learning"
+    "status": "learned"
   }
 ]
