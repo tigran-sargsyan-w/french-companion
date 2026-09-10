@@ -1,0 +1,58 @@
+[
+  {
+    "id": "g_2026_09_10_mise_en_relief_ce_qui_ce_que",
+    "title": "La mise en relief avec ce qui et ce que",
+    "category": "Emphasis",
+    "summary": [
+      [
+        "### Principe\n",
+        "Les expressions **ce qui** et **ce que** remplacent une chose ou une idée et permettent de mettre en évidence une partie de la phrase."
+      ],
+      [
+        "### Choisir entre ce qui et ce que\n",
+        "- **ce qui** remplace le sujet : il est directement suivi d'un verbe ;",
+        "- **ce que** remplace un complément d'objet direct : il est suivi d'un sujet puis d'un verbe."
+      ],
+      [
+        "### Structures avec un nom\n",
+        "| Structure | Exemple |",
+        "|---|---|",
+        "| **ce qui + verbe, c'est / ce sont + nom** | **Ce qui m'intéresse, c'est le contact avec les gens.** |",
+        "| **ce que + sujet + verbe, c'est / ce sont + nom** | **Ce que nous apprécions, c'est le cadre de travail.** |"
+      ],
+      [
+        "### Structures avec un infinitif\n",
+        "| Structure | Exemple |",
+        "|---|---|",
+        "| **ce qui + verbe, c'est de + infinitif** | **Ce qui plaît aux gens, c'est d'avoir un métier intéressant.** |",
+        "| **ce que + sujet + verbe, c'est + infinitif** | **Ce qu'il veut, c'est travailler dans le calme.** |"
+      ]
+    ],
+    "examples": [
+      "Ce qui m'intéresse, c'est le contact avec les gens.",
+      "Ce qui m'intéresse, ce sont les relations avec les gens.",
+      "Ce qui plaît aux gens, c'est d'avoir un métier intéressant.",
+      "Ce que nous apprécions, c'est le cadre de travail.",
+      "Ce que nous apprécions, ce sont nos collègues.",
+      "Ce qu'il veut, c'est travailler dans le calme."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Ce qui remplace le sujet",
+        "markup": "{{sujet:Ce qui}} {{verbe:m'intéresse}}, c'est le contact avec les gens.",
+        "explanation": "**Ce qui** joue le rôle de sujet du verbe **intéresse**.",
+        "sourceSentences": [
+          "Ce qui m'intéresse, c'est le contact avec les gens."
+        ]
+      },
+      {
+        "title": "Ce que remplace le COD",
+        "markup": "{{COD:Ce que}} {{sujet:nous}} {{verbe:apprécions}}, c'est le cadre de travail.",
+        "explanation": "**Ce que** joue le rôle de complément d'objet direct de **apprécions** ; le sujet **nous** apparaît donc après **ce que**.",
+        "sourceSentences": [
+          "Ce que nous apprécions, c'est le cadre de travail."
+        ]
+      }
+    ]
+  }
+]
