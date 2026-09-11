@@ -478,5 +478,15 @@
     "classLevel": "B1N3",
     "status": "done",
     "path": "data/lessons/b1n3/lesson_48_2026_09_10"
+  },
+  {
+    "id": "lesson_49_2026_09_11",
+    "number": 49,
+    "title": "Les revendications et l’expression de la volonté",
+    "date": "2026-09-11",
+    "level": "B1",
+    "classLevel": "B1N3",
+    "status": "done",
+    "path": "data/lessons/b1n3/lesson_49_2026_09_11"
   }
 ]
