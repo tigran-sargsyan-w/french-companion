@@ -1,0 +1,59 @@
+[
+  {
+    "id": "g_2026_09_11_exprimer_volonte",
+    "title": "Exprimer une volonté",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Verbes utilisés\n",
+        "Pour exprimer une volonté, un souhait ou une demande, on peut utiliser **vouloir**, **exiger**, **souhaiter**, **réclamer**, **désirer** et **demander**. On peut aussi employer **aimer** au conditionnel : **j’aimerais**."
+      ],
+      [
+        "### Trois structures principales\n",
+        "- **verbe + nom** : pour demander ou revendiquer directement quelque chose ;",
+        "- **verbe + que + subjonctif** : quand les sujets des deux verbes sont différents ;",
+        "- **verbe + infinitif** : quand le sujet des deux verbes est le même."
+      ],
+      [
+        "### Prépositions devant l’infinitif\n",
+        "Certains verbes demandent une préposition lorsqu’ils sont suivis d’un infinitif :",
+        "- **exiger de + infinitif** ;",
+        "- **réclamer de + infinitif** ;",
+        "- **demander à + infinitif**."
+      ],
+      [
+        "### Exemples du cours\n",
+        "| Structure | Exemple |",
+        "|---|---|",
+        "| **verbe + nom** | Nous **réclamons les mêmes droits** pour tous. |",
+        "| **verbe + que + subjonctif** | Nous **exigeons que** les femmes et les hommes **aient** les mêmes droits. |",
+        "| **verbe + infinitif** | Nous **souhaitons avoir** les mêmes droits pour tous. |"
+      ]
+    ],
+    "examples": [
+      "Nous réclamons les mêmes droits pour tous.",
+      "Nous exigeons que les femmes et les hommes aient les mêmes droits.",
+      "Nous souhaitons avoir les mêmes droits pour tous.",
+      "Le responsable exige de respecter les règles.",
+      "Ils demandent à rencontrer le directeur."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Deux sujets différents : subjonctif",
+        "markup": "{{sujet:Nous}} {{verbe:exigeons}} que {{sujet:les femmes et les hommes}} {{verbe:aient}} les mêmes droits.",
+        "explanation": "Les deux verbes ont des sujets différents. Après **exiger que**, le deuxième verbe est donc au **subjonctif**.",
+        "sourceSentences": [
+          "Nous exigeons que les femmes et les hommes aient les mêmes droits."
+        ]
+      },
+      {
+        "title": "Même sujet : infinitif",
+        "markup": "{{sujet:Nous}} {{verbe:souhaitons}} {{verbe:avoir}} les mêmes droits pour tous.",
+        "explanation": "Le sujet de **souhaitons** et celui de **avoir** est le même : **nous**. On utilise donc l’infinitif.",
+        "sourceSentences": [
+          "Nous souhaitons avoir les mêmes droits pour tous."
+        ]
+      }
+    ]
+  }
+]
