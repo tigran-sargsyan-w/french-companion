@@ -53,7 +53,7 @@
     "french": "un réseau",
     "translation": "сеть / мобильная связь",
     "example": "Je n’ai pas de réseau dans le métro.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_12_ecran_de_veille",
@@ -172,7 +172,7 @@
     "french": "être hors-forfait / dépasser son forfait",
     "translation": "превысить тарифный пакет",
     "example": "J’ai dépassé mon forfait de données mobiles.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_12_crier_hurler_gueuler",
