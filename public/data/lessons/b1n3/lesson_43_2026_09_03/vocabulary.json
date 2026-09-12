@@ -501,7 +501,7 @@
     "french": "un festival — organiser / participer à un festival",
     "translation": "фестиваль — организовывать / участвовать в фестивале",
     "example": "La ville organise un festival auquel de nombreux artistes vont participer.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_scenario",
@@ -529,7 +529,7 @@
     "french": "une réalisation — réaliser",
     "translation": "создание / постановка / реализация — создавать / снимать / реализовывать",
     "example": "La réalisation du film a pris deux ans ; la réalisatrice l’a réalisé avec une petite équipe.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_doublage",
@@ -697,7 +697,7 @@
     "french": "une reconstruction — reconstruire",
     "translation": "реконструкция / восстановление — восстанавливать / отстраивать заново",
     "example": "La reconstruction prendra du temps ; la ville veut reconstruire le quartier rapidement.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_viol",
@@ -851,7 +851,7 @@
     "french": "une réception — recevoir",
     "translation": "приём / получение — принимать / получать",
     "example": "Une réception est organisée ce soir ; la mairie recevra les invités à dix-neuf heures.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_examen",
@@ -900,7 +900,7 @@
     "french": "une vaccination — vacciner",
     "translation": "вакцинация — вакцинировать",
     "example": "La vaccination commence lundi ; le centre vaccinera les personnes prioritaires.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_remboursement",

@@ -95,7 +95,7 @@
     "french": "un morceau de pain",
     "translation": "кусок хлеба",
     "example": "Il prend un morceau de pain avec son repas.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_29_vogue",
@@ -130,7 +130,7 @@
     "french": "il s’agit de",
     "translation": "речь идёт о",
     "example": "Il s'agit d'un reportage sur les accents régionaux.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_07_29_elevage",
