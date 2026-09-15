@@ -1,0 +1,128 @@
+[
+  {
+    "id": "v_2026_09_15_sans_doute",
+    "french": "sans doute",
+    "translation": "вероятно / наверное",
+    "example": "Il viendra sans doute demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_sans_aucun_doute",
+    "french": "sans aucun doute",
+    "translation": "без всякого сомнения",
+    "example": "C'est sans aucun doute la meilleure solution.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_peur_hauteur_vide",
+    "french": "avoir peur de la hauteur / avoir peur du vide",
+    "translation": "бояться высоты",
+    "example": "Il a peur du vide et évite les endroits très élevés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_harcelement",
+    "french": "le harcèlement",
+    "translation": "домогательства / травля / преследование",
+    "example": "L'entreprise doit lutter contre le harcèlement au travail.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_qi",
+    "french": "le QI (quotient intellectuel)",
+    "translation": "IQ / коэффициент интеллекта",
+    "example": "Le QI mesure certaines capacités intellectuelles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_qe",
+    "french": "le QE (quotient émotionnel)",
+    "translation": "коэффициент эмоционального интеллекта",
+    "example": "Le QE est lié à la compréhension et à la gestion des émotions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_etre_performant",
+    "french": "être performant / performante",
+    "translation": "быть эффективным / результативным",
+    "example": "Pour être performant au travail, il faut aussi savoir se reposer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_burn_out",
+    "french": "le burn-out",
+    "translation": "эмоциональное / профессиональное выгорание",
+    "example": "Une surcharge de travail prolongée peut mener au burn-out.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_repartition",
+    "french": "une répartition",
+    "translation": "распределение",
+    "example": "Une bonne répartition des tâches facilite le travail en équipe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_tache",
+    "french": "une tâche",
+    "translation": "задача / задание",
+    "example": "Chacun doit terminer sa tâche avant la réunion.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_gerer",
+    "french": "gérer",
+    "translation": "управлять / справляться с",
+    "example": "Elle sait bien gérer son temps et son stress.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_ton",
+    "french": "un ton",
+    "translation": "тон",
+    "example": "Il a répondu sur un ton calme.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_ironie",
+    "french": "l'ironie",
+    "translation": "ирония",
+    "example": "Son ton montre qu'il parle avec ironie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_points_suspension",
+    "french": "les points de suspension",
+    "translation": "многоточие",
+    "example": "Les points de suspension peuvent suggérer qu'une phrase reste inachevée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_guillemets",
+    "french": "les guillemets",
+    "translation": "кавычки",
+    "example": "On utilise des guillemets pour encadrer une citation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_se_echouer",
+    "french": "s'échouer",
+    "translation": "сесть на мель / потерпеть крушение у берега",
+    "example": "Le bateau s'est échoué près de la côte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_rendre",
+    "french": "rendre",
+    "translation": "делать / возвращать / отдавать (в зависимости от контекста)",
+    "example": "Cette nouvelle me rend inquiet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_15_paraitre",
+    "french": "paraître",
+    "translation": "казаться / по-видимому",
+    "example": "Il paraît que cette méthode serait très efficace.",
+    "status": "learning"
+  }
+]

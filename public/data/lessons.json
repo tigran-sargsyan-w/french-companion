@@ -498,5 +498,15 @@
     "classLevel": "B1N3",
     "status": "done",
     "path": "data/lessons/b1n3/lesson_50_2026_09_14"
+  },
+  {
+    "id": "lesson_51_2026_09_15",
+    "number": 51,
+    "title": "Développement personnel, conditionnel présent et information incertaine",
+    "date": "2026-09-15",
+    "level": "B1",
+    "classLevel": "B1N3",
+    "status": "done",
+    "path": "data/lessons/b1n3/lesson_51_2026_09_15"
   }
 ]

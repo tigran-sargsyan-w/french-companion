@@ -1,0 +1,72 @@
+[
+  {
+    "id": "g_2026_09_15_conditionnel_present_information_incertaine",
+    "title": "Conditionnel présent : usages et information incertaine",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Formation\n",
+        "Le conditionnel présent se forme avec le **radical du futur simple** et les **terminaisons de l'imparfait** : `-ais`, `-ais`, `-ait`, `-ions`, `-iez`, `-aient`.",
+        "Le radical est donc le même que pour le futur simple : **je parlerai → je parlerais**."
+      ],
+      [
+        "### Utilisations principales\n",
+        "- **Le conseil** : *Tu devrais aller en France pendant deux mois.*",
+        "- **L'hypothèse** : *Si les humains disparaissaient, les animaux sauvages seraient contents.*",
+        "- **La politesse** : *Pourriez-vous ouvrir la porte, s'il vous plaît ?*",
+        "- **Le souhait** : *Je voudrais dormir plus.*",
+        "- **L'information non confirmée** : *Selon les rumeurs, ils parleraient d'arrêter la musique.*"
+      ],
+      [
+        "### Dire une information incertaine\n",
+        "Le conditionnel présent peut signaler qu'une information est **incertaine, non vérifiée ou rapportée avec prudence**.",
+        "On peut introduire ce type d'information avec : **des rumeurs disent que**, **on dit que**, **il paraît que**, **si l'on en croit...**, **d'après...**, **selon...**."
+      ]
+    ],
+    "examples": [
+      "Le développement personnel rendrait les salariés plus heureux et plus performants.",
+      "Les difficultés des salariés ne viendraient pas de l'entreprise, mais d'eux-mêmes.",
+      "Les entreprises emploieraient de plus en plus de coachs.",
+      "Il paraît que cette méthode serait efficace."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_15_revision_temps_b1",
+    "title": "Révision des principaux temps B1",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Synthèse des temps\n",
+        "| Temps | Utilisation principale | Formation |",
+        "|---|---|---|",
+        "| Présent de l'indicatif | actions présentes, vérités générales, habitudes | base du verbe + terminaisons du présent |",
+        "| Futur proche | action imminente ou projet à court terme | **aller au présent + infinitif** |",
+        "| Futur simple | action future, projet à long terme, prédiction, rêve | infinitif ou base irrégulière + `-ai, -as, -a, -ons, -ez, -ont` |",
+        "| Imparfait | description, habitude passée, action en cours | base de **nous** au présent + `-ais, -ais, -ait, -ions, -iez, -aient` |",
+        "| Passé composé | action ponctuelle et achevée | **avoir / être au présent + participe passé** |",
+        "| Plus-que-parfait | action antérieure à une autre action passée | **avoir / être à l'imparfait + participe passé** |",
+        "| Conditionnel présent | souhait, politesse, conseil, hypothèse, information non confirmée | radical du futur + terminaisons de l'imparfait |",
+        "| Subjonctif présent | obligation, doute, désir, émotion | base de **ils** au présent pour la plupart des personnes ; formes de nous/vous proches de l'imparfait |"
+      ],
+      [
+        "### Points à retenir\n",
+        "- Pour construire plusieurs temps, il faut bien connaître les bases du présent de l'indicatif.",
+        "- Le **plus-que-parfait** exprime normalement l'action passée la plus ancienne par rapport à une autre action passée.",
+        "- Le radical du **conditionnel présent** est le même que celui du **futur simple** ; seules les terminaisons changent.",
+        "- Avec les temps composés construits avec **être**, le participe passé s'accorde avec le sujet."
+      ]
+    ],
+    "examples": [
+      "Je parle tous les jours.",
+      "Je vais partir dans cinq minutes.",
+      "Demain, je partirai en voyage.",
+      "Quand j'étais petit, je jouais dehors.",
+      "Hier, j'ai mangé une pomme.",
+      "Quand tu es arrivé, j'avais déjà fini.",
+      "J'aimerais voyager.",
+      "Il faut que tu viennes."
+    ],
+    "annotatedExamples": []
+  }
+]
