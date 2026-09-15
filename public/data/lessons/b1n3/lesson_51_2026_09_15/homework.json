@@ -1,0 +1,16 @@
+[
+  {
+    "id": "h_2026_09_15_exercice_19_cahier",
+    "title": "Faire l'exercice 19 p.80 du cahier",
+    "description": "Faire **l'exercice 19 p.80 du cahier**.",
+    "dueDate": "2026-09-16",
+    "done": false
+  },
+  {
+    "id": "h_2026_09_15_exercice_4_document",
+    "title": "Faire l'exercice 4 du document",
+    "description": "Faire **l'exercice 4 du document donné en classe**.",
+    "dueDate": "2026-09-16",
+    "done": false
+  }
+]
