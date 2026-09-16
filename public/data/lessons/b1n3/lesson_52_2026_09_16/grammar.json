@@ -1,0 +1,52 @@
+[
+  {
+    "id": "g_2026_09_16_indicatif_subjonctif_expressions",
+    "title": "Indicatif ou subjonctif après certaines expressions",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Choisir le bon mode\n",
+        "- **espérer que + indicatif** : on exprime une attente considérée comme possible ou probable ;",
+        "- pour une action future, on peut employer le **futur simple** après *espérer que* ;",
+        "- **bien que + subjonctif** : on exprime une concession ;",
+        "- **même si + indicatif** : on exprime une concession avec un fait présenté comme réel ou possible."
+      ]
+    ],
+    "examples": [
+      "J’espère que tu réussiras ton examen.",
+      "Bien qu’il soit fatigué, il continue à travailler.",
+      "Même s’il pleut, nous sortirons."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_16_si_imparfait_conditionnel",
+    "title": "Hypothèse : si + imparfait, conditionnel présent",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Structure\n",
+        "Pour exprimer une hypothèse ou une situation imaginaire dans le présent, on utilise **si + imparfait** dans la proposition avec *si* et le **conditionnel présent** dans l’autre proposition."
+      ],
+      [
+        "### Schéma\n",
+        "**Si + imparfait → conditionnel présent**"
+      ]
+    ],
+    "examples": [
+      "Si j’avais plus de temps, je réviserais davantage.",
+      "Si nous habitions plus près, nous viendrions plus souvent."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Hypothèse au présent",
+        "markup": "{{contexte:Si j’avais}} plus de temps, je {{verbe:réviserais}} davantage.",
+        "explanation": "La proposition avec **si** est à l’imparfait et la conséquence est au conditionnel présent.",
+        "sourceSentences": [
+          "Je n’ai pas beaucoup de temps.",
+          "Je ne révise pas davantage."
+        ]
+      }
+    ]
+  }
+]
