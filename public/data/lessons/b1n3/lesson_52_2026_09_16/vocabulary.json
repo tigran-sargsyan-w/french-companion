@@ -1,0 +1,86 @@
+[
+  {
+    "id": "v_2026_09_16_en_ce_moment",
+    "french": "en ce moment",
+    "translation": "сейчас / в данный момент",
+    "example": "En ce moment, je révise pour l’examen.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_16_a_ce_moment_la",
+    "french": "à ce moment-là",
+    "translation": "в тот момент",
+    "example": "À ce moment-là, je ne connaissais pas encore la réponse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_16_tout_a_coup",
+    "french": "tout à coup",
+    "translation": "вдруг / внезапно",
+    "example": "Tout à coup, le téléphone a sonné.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_16_convaincre",
+    "french": "convaincre",
+    "translation": "убеждать",
+    "example": "Il essaie de convaincre son collègue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_16_cible",
+    "french": "une cible",
+    "translation": "цель / мишень",
+    "example": "Cette campagne vise une cible précise.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_16_oeuvre",
+    "french": "une œuvre",
+    "translation": "произведение / работа",
+    "example": "Cette œuvre est exposée au musée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_16_fournir",
+    "french": "fournir",
+    "translation": "предоставлять / снабжать",
+    "example": "Le professeur fournit les documents nécessaires.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_16_a_ciel_ouvert",
+    "french": "à ciel ouvert",
+    "translation": "под открытым небом",
+    "example": "Le spectacle a lieu à ciel ouvert.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_16_chronique",
+    "french": "une chronique",
+    "translation": "хроника / рубрика",
+    "example": "Elle présente une chronique à la radio.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_16_caissiere",
+    "french": "une caissière",
+    "translation": "кассир",
+    "example": "La caissière accueille les clients avec le sourire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_16_melange",
+    "french": "un mélange",
+    "translation": "смесь / сочетание",
+    "example": "Ce plat est un mélange de plusieurs saveurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_16_a_deux_pas_de",
+    "french": "à deux pas de",
+    "translation": "в двух шагах от / совсем рядом с",
+    "example": "L’école est à deux pas de la station de métro.",
+    "status": "learning"
+  }
+]
