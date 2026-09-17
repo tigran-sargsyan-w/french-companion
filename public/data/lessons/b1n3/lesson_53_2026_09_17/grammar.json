@@ -1,0 +1,42 @@
+[
+  {
+    "id": "g_2026_09_17_conditionnel_passe",
+    "title": "Le conditionnel passé",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Formation\n",
+        "Le **conditionnel passé** se forme avec l’auxiliaire **avoir** ou **être au conditionnel présent**, suivi du **participe passé** du verbe.",
+        "| Auxiliaire | Exemple |",
+        "|---|---|",
+        "| **avoir** | j’**aurais aimé**, nous **aurions aimé** |",
+        "| **être** | je **serais allé(e)**, nous **serions allé(e)s** |"
+      ],
+      [
+        "### Accord avec être\n",
+        "Avec **être**, le participe passé s’accorde avec le sujet en genre et en nombre : **elle serait allée**, **ils seraient allés**, **elles seraient allées**."
+      ],
+      [
+        "### Exprimer un reproche\n",
+        "Le conditionnel passé permet d’exprimer un **reproche**, souvent avec **devoir** ou **pouvoir**.",
+        "Il peut être utilisé dans une phrase affirmative ou négative : **Tu aurais pu m’appeler.** / **Vous n’auriez pas dû envoyer ce mail.**"
+      ],
+      [
+        "### Exprimer un regret\n",
+        "Le conditionnel passé permet aussi d’exprimer un **regret**, notamment avec **aimer**, **adorer**, **préférer**, **devoir**, **pouvoir** ou **vouloir**.",
+        "Exemples : **J’aurais dû faire des études artistiques.** / **Elle aurait adoré être chanteuse.** / **Je n’aurais pas dû m’énerver pendant la réunion.**"
+      ]
+    ],
+    "examples": [
+      "J’aurais aimé venir avec vous.",
+      "Je serais allé(e) avec vous si j’avais pu.",
+      "Tu aurais pu m’appeler quand tu étais dans mon quartier.",
+      "Il aurait pu te parler avant de décider tout seul.",
+      "Vous n’auriez pas dû envoyer ce mail.",
+      "J’aurais dû faire des études artistiques.",
+      "Elle aurait adoré être chanteuse.",
+      "Je n’aurais pas dû m’énerver pendant la réunion."
+    ],
+    "annotatedExamples": []
+  }
+]
