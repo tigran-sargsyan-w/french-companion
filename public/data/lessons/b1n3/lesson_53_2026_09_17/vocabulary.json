@@ -1,0 +1,93 @@
+[
+  {
+    "id": "v_2026_09_17_deborder",
+    "french": "déborder",
+    "translation": "выходить за края / переливаться через край",
+    "example": "Le café déborde de la tasse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_convenir",
+    "french": "convenir",
+    "translation": "подходить / устраивать",
+    "example": "Cette heure me convient très bien.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_mug",
+    "french": "un mug",
+    "translation": "кружка",
+    "example": "Je bois mon café dans un grand mug.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_tenir_a",
+    "french": "tenir à quelque chose / quelqu’un",
+    "translation": "дорожить чем-то / кем-то; быть привязанным к чему-то / кому-то",
+    "example": "J’y tiens beaucoup.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_malentendu",
+    "french": "un malentendu",
+    "translation": "недоразумение",
+    "example": "Il y a eu un malentendu entre nous.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_lors_de",
+    "french": "lors de",
+    "translation": "во время / при",
+    "example": "Nous en avons parlé lors de la réunion.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_faire_le_point",
+    "french": "faire le point",
+    "translation": "подвести итог / прояснить ситуацию",
+    "example": "Faisons le point avant de continuer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_trouver",
+    "french": "trouver",
+    "translation": "находить",
+    "example": "J’ai trouvé mes clés dans mon sac.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_retrouver",
+    "french": "retrouver",
+    "translation": "снова найти / вновь встретить",
+    "example": "J’ai retrouvé un ancien collègue par hasard.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_regret",
+    "french": "un regret",
+    "translation": "сожаление",
+    "example": "Mon seul regret est de ne pas avoir essayé plus tôt.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_reproche",
+    "french": "un reproche",
+    "translation": "упрёк",
+    "example": "Il lui a fait un reproche après la réunion.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_regretter",
+    "french": "regretter",
+    "translation": "сожалеть",
+    "example": "Je regrette de ne pas être venu plus tôt.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_17_reprocher",
+    "french": "reprocher",
+    "translation": "упрекать",
+    "example": "Elle lui reproche de ne pas avoir appelé.",
+    "status": "learning"
+  }
+]
