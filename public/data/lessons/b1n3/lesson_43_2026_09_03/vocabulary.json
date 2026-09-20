@@ -333,7 +333,7 @@
     "french": "habituellement",
     "translation": "обычно",
     "example": "Habituellement, les animaux restent dans cette zone.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_essentiellement",
@@ -438,7 +438,7 @@
     "french": "une domination — dominer",
     "translation": "доминирование — доминировать",
     "example": "La domination de l’équipe était nette ; elle a dominé tout le match.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_applaudissements",
@@ -578,7 +578,7 @@
     "french": "une exposition — exposer",
     "translation": "выставка — выставлять / экспонировать",
     "example": "L’exposition ouvre demain ; le musée va exposer plusieurs œuvres rares.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_beaute",
@@ -634,7 +634,7 @@
     "french": "une rénovation — rénover",
     "translation": "ремонт / обновление — ремонтировать / обновлять",
     "example": "La rénovation du musée commence bientôt ; la ville va rénover tout le bâtiment.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_restauration",
@@ -907,7 +907,7 @@
     "french": "un remboursement — rembourser",
     "translation": "возмещение / возврат денег — возмещать / возвращать деньги",
     "example": "Le remboursement est prévu ; l’assurance remboursera une partie des frais.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_soins",
