@@ -11,7 +11,7 @@
     "french": "un écran",
     "translation": "экран / монитор",
     "example": "Cet écran consomme moins d’énergie que l’ancien.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_26_clavier",
@@ -25,7 +25,7 @@
     "french": "une balance",
     "translation": "весы",
     "example": "Cette balance permet de mesurer le poids d’un appareil.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_26_ressembler_a",
@@ -277,7 +277,7 @@
     "french": "une ère",
     "translation": "эпоха / эра",
     "example": "Nous vivons à l’ère du numérique.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_26_fraction",
