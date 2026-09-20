@@ -284,7 +284,7 @@
     "french": "nucléaire",
     "translation": "ядерный",
     "example": "Le débat sur l’énergie nucléaire reste complexe.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_31_surconsommation",
@@ -431,7 +431,7 @@
     "french": "économiser l’énergie",
     "translation": "экономить энергию",
     "example": "Éteindre les appareils permet d’économiser l’énergie.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_31_acheter_occasion",
