@@ -81,21 +81,21 @@
     "french": "un incendie",
     "translation": "пожар",
     "example": "Les pompiers ont maîtrisé l’incendie.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_tsunami",
     "french": "un tsunami",
     "translation": "цунами",
     "example": "Un tsunami peut être provoqué par un séisme sous-marin.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_tornade",
     "french": "une tornade",
     "translation": "торнадо / смерч",
     "example": "La tornade a endommagé plusieurs maisons.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_typhon",
@@ -123,7 +123,7 @@
     "french": "grâce à",
     "translation": "благодаря",
     "example": "Grâce à l’alerte, les habitants ont pu se mettre à l’abri.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_a_cause_de",
@@ -732,7 +732,7 @@
     "french": "une attaque — attaquer",
     "translation": "нападение / атака — нападать / атаковать",
     "example": "Une attaque a été signalée ; la police cherche la personne qui a attaqué la victime.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_tapage_nocturne",
@@ -795,7 +795,7 @@
     "french": "une décision — décider",
     "translation": "решение — решать",
     "example": "La décision est prise ; le conseil a décidé de poursuivre le projet.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_discours",
@@ -886,7 +886,7 @@
     "french": "une hospitalisation — hospitaliser",
     "translation": "госпитализация — госпитализировать",
     "example": "Une hospitalisation est nécessaire ; les médecins ont décidé d’hospitaliser le patient.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_03_nom_operation",
