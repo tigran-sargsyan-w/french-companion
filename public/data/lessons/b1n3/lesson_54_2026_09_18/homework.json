@@ -1,0 +1,16 @@
+[
+  {
+    "id": "h_2026_09_18_livre_147_4",
+    "title": "Livre p. 147 n° 4",
+    "description": "Faire **l’exercice 4, page 147 du livre**.",
+    "dueDate": "2026-09-21",
+    "done": false
+  },
+  {
+    "id": "h_2026_09_18_cahier_85_1",
+    "title": "Cahier p. 85 n° 1",
+    "description": "Faire **l’exercice 1, page 85 du cahier**.",
+    "dueDate": "2026-09-21",
+    "done": false
+  }
+]

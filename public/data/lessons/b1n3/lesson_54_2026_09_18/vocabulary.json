@@ -1,0 +1,170 @@
+[
+  {
+    "id": "v_2026_09_18_arme",
+    "french": "une arme",
+    "translation": "оружие",
+    "example": "Cette arme est exposée dans un musée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_armure",
+    "french": "une armure",
+    "translation": "доспехи / броня",
+    "example": "Le chevalier porte une armure.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_rater",
+    "french": "rater",
+    "translation": "пропустить / провалить / не попасть",
+    "example": "J’ai raté le bus ce matin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_il_parait_que",
+    "french": "il paraît que",
+    "translation": "говорят, что / кажется, что",
+    "example": "Il paraît que ce film est très intéressant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_couturier",
+    "french": "un couturier / une couturière",
+    "translation": "модельер / портной; модельерка / портниха",
+    "example": "Cette couturière crée des vêtements originaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_euthanasier",
+    "french": "euthanasier",
+    "translation": "усыплять / подвергать эвтаназии",
+    "example": "Le vétérinaire a dû euthanasier l’animal.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_euthanasie",
+    "french": "une euthanasie",
+    "translation": "эвтаназия / усыпление",
+    "example": "La question de l’euthanasie provoque souvent des débats.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_tetes_blondes",
+    "french": "les têtes blondes",
+    "translation": "дети / ребятишки",
+    "example": "Cette activité est destinée aux têtes blondes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_ravager",
+    "french": "ravager",
+    "translation": "разорять / опустошать / разрушать",
+    "example": "La tempête a ravagé plusieurs villages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_ravage",
+    "french": "le ravage",
+    "translation": "разорение / разрушение / опустошение",
+    "example": "Les ravages de l’incendie sont importants.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_degat",
+    "french": "un dégât",
+    "translation": "ущерб / повреждение",
+    "example": "L’orage a causé beaucoup de dégâts.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_assimiler",
+    "french": "assimiler",
+    "translation": "усваивать / ассимилировать",
+    "example": "Il faut du temps pour assimiler toutes ces informations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_faconner",
+    "french": "façonner",
+    "translation": "формировать / придавать форму",
+    "example": "L’éducation contribue à façonner notre manière de penser.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_se_comporter",
+    "french": "se comporter",
+    "translation": "вести себя",
+    "example": "Il faut se comporter avec respect.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_comportement",
+    "french": "un comportement",
+    "translation": "поведение",
+    "example": "Ce comportement n’est pas acceptable.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_remarque",
+    "french": "une remarque",
+    "translation": "замечание / комментарий",
+    "example": "Elle a fait une remarque intéressante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_des",
+    "french": "dès",
+    "translation": "с / начиная с; как только",
+    "example": "Dès lundi, nous commencerons une nouvelle unité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_genre",
+    "french": "le genre",
+    "translation": "пол / гендер; род",
+    "example": "Les stéréotypes de genre peuvent influencer les choix professionnels.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_matieres",
+    "french": "les matières",
+    "translation": "учебные предметы / материалы",
+    "example": "À l’école, les élèves étudient différentes matières.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_creche",
+    "french": "la crèche",
+    "translation": "ясли / детский сад для маленьких детей",
+    "example": "Le matin, elle dépose son enfant à la crèche.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_intervenant",
+    "french": "un intervenant / une intervenante",
+    "translation": "приглашённый специалист / участник",
+    "example": "Un intervenant est venu parler aux élèves.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_heros",
+    "french": "un héros",
+    "translation": "герой",
+    "example": "Le héros du film essaie de sauver sa famille.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_heroine",
+    "french": "une héroïne",
+    "translation": "героиня",
+    "example": "L’héroïne du roman refuse les stéréotypes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_aller_vers",
+    "french": "aller vers",
+    "translation": "идти к / направляться к",
+    "example": "Elle va vers la sortie.",
+    "status": "learning"
+  }
+]
