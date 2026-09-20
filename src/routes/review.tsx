@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { RotateCw, ChevronLeft, ChevronRight, Check, Copy, X } from "lucide-react";
 import { PrismLight as SyntaxHighlighter } from "react-syntax-highlighter";
 import json from "react-syntax-highlighter/dist/esm/languages/prism/json";
@@ -93,6 +93,42 @@ function ReviewPage() {
     setCopied(false);
     setShuffleVersion((version) => version + 1);
   };
+
+  useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.repeat || !current || finished) return;
+
+      const target = event.target;
+      if (
+        target instanceof HTMLElement &&
+        (target.tagName === "INPUT" ||
+          target.tagName === "TEXTAREA" ||
+          target.tagName === "SELECT" ||
+          target.isContentEditable)
+      ) {
+        return;
+      }
+
+      switch (event.key) {
+        case "ArrowLeft":
+          event.preventDefault();
+          next(false);
+          break;
+        case "ArrowRight":
+          event.preventDefault();
+          next(true);
+          break;
+        case "ArrowUp":
+        case "ArrowDown":
+          event.preventDefault();
+          setFlipped((value) => !value);
+          break;
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [current, finished]);
 
   const copyKnownWords = async () => {
     await navigator.clipboard.writeText(knownWordsJson);
@@ -205,6 +241,19 @@ function ReviewPage() {
             >
               <Check className="h-5 w-5" /> Connu
             </button>
+          </div>
+
+          <div className="mt-3 hidden items-center justify-center gap-3 text-xs text-muted-foreground sm:flex">
+            <span>
+              <kbd className="rounded border border-border bg-secondary px-1.5 py-0.5">←</kbd> À revoir
+            </span>
+            <span>
+              <kbd className="rounded border border-border bg-secondary px-1.5 py-0.5">↑</kbd> /{" "}
+              <kbd className="rounded border border-border bg-secondary px-1.5 py-0.5">↓</kbd> Retourner
+            </span>
+            <span>
+              <kbd className="rounded border border-border bg-secondary px-1.5 py-0.5">→</kbd> Connu
+            </span>
           </div>
 
           <div className="mt-4 flex justify-between text-xs text-muted-foreground">
