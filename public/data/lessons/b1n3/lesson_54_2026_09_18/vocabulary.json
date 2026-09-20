@@ -166,5 +166,33 @@
     "translation": "идти к / направляться к",
     "example": "Elle va vers la sortie.",
     "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_pinceau",
+    "french": "un pinceau",
+    "translation": "кисть / краска",
+    "example": "Il a utilisé un pinceau pour peindre le tableau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_colle",
+    "french": "une colle",
+    "translation": "клей",
+    "example": "Il faut utiliser de la colle pour coller le papier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_main",
+    "french": "la main",
+    "translation": "рука",
+    "example": "Il a utilisé sa main pour écrire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_18_subir",
+    "french": "subir",
+    "translation": "испытывать / подвергаться",
+    "example": "Elle a subi beaucoup de pression.",
+    "status": "learning"
   }
 ]
