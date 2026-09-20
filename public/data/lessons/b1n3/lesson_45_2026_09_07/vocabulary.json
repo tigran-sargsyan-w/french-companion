@@ -88,7 +88,7 @@
     "french": "un atoll",
     "translation": "атолл",
     "example": "Cet atoll est particulièrement vulnérable à la montée des eaux.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_07_lagon",
@@ -186,6 +186,6 @@
     "french": "ressembler à",
     "translation": "быть похожим на",
     "example": "Cette île ressemble à celle que nous avons visitée l’an dernier.",
-    "status": "learning"
+    "status": "learned"
   }
 ]

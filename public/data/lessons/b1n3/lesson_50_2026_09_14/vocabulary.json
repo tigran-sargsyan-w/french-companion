@@ -39,7 +39,7 @@
     "french": "bavard / bavarde",
     "translation": "болтливый / болтливая",
     "example": "Mon collègue est très bavard à la pause déjeuner.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_14_langue_bien_pendue",
@@ -158,14 +158,14 @@
     "french": "un désert",
     "translation": "пустыня",
     "example": "Le Sahara est un immense désert.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_14_dessert",
     "french": "un dessert",
     "translation": "десерт",
     "example": "Je prendrai un dessert après le repas.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_14_poison",
@@ -179,7 +179,7 @@
     "french": "un poisson",
     "translation": "рыба",
     "example": "Nous avons mangé du poisson au déjeuner.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_09_14_se_plaindre",
