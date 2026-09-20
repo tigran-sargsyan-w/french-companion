@@ -39,7 +39,7 @@
     "french": "affronter",
     "translation": "противостоять / столкнуться с",
     "example": "Il doit affronter un adversaire dangereux.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_06_confronter",
@@ -263,7 +263,7 @@
     "french": "transmettre",
     "translation": "передавать",
     "example": "Il transmet le message à son collègue.",
-    "status": "learning"
+    "status": "learned"
   },
   {
     "id": "v_2026_08_06_malgre",
