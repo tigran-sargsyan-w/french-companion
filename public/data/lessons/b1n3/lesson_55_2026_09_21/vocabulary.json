@@ -1,0 +1,254 @@
+[
+  {
+    "id": "v_2026_09_21_a_l_avance",
+    "french": "à l’avance",
+    "translation": "заранее",
+    "example": "J’ai préparé mes documents à l’avance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_en_avance",
+    "french": "en avance",
+    "translation": "раньше назначенного времени / с опережением",
+    "example": "Je suis arrivé dix minutes en avance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_en_retard",
+    "french": "en retard",
+    "translation": "с опозданием",
+    "example": "Le train est en retard de quinze minutes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_a_l_avenir",
+    "french": "à l’avenir",
+    "translation": "в будущем / впредь",
+    "example": "À l’avenir, je vérifierai toujours l’heure du rendez-vous.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_dans_l_avenir",
+    "french": "dans l’avenir",
+    "translation": "в будущем",
+    "example": "Dans l’avenir, les villes seront peut-être plus écologiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_avoir_des_cernes",
+    "french": "avoir des cernes",
+    "translation": "иметь круги под глазами",
+    "example": "Après une nuit très courte, j’ai des cernes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_etre_deborde",
+    "french": "être débordé",
+    "translation": "быть очень занятым / заваленным делами",
+    "example": "Cette semaine, je suis débordé de travail.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_inverse",
+    "french": "l’inverse",
+    "translation": "обратное / противоположное",
+    "example": "Je pensais que c’était facile, mais c’était l’inverse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_envers",
+    "french": "l’envers",
+    "translation": "изнанка / обратная сторона",
+    "example": "Il a mis son pull à l’envers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_puce_a_l_oreille",
+    "french": "mettre / avoir la puce à l’oreille",
+    "translation": "насторожить / вызвать подозрение",
+    "example": "Ce détail m’a mis la puce à l’oreille.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_corail",
+    "french": "le corail / les coraux",
+    "translation": "коралл / кораллы",
+    "example": "Les coraux sont fragiles et sensibles au réchauffement de l’eau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_branchies",
+    "french": "les branchies",
+    "translation": "жабры",
+    "example": "Les poissons respirent grâce à leurs branchies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_rappeur",
+    "french": "un rappeur / une rappeuse",
+    "translation": "рэпер / рэперша",
+    "example": "Soprano est un rappeur français.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_empecher",
+    "french": "empêcher",
+    "translation": "мешать / препятствовать",
+    "example": "La pluie nous a empêchés de sortir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_remonter_le_temps",
+    "french": "remonter le temps",
+    "translation": "вернуться назад во времени",
+    "example": "Dans la chanson, le personnage imagine pouvoir remonter le temps.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_boycotter",
+    "french": "boycotter",
+    "translation": "бойкотировать",
+    "example": "Certains consommateurs décident de boycotter une marque.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_decollage",
+    "french": "le décollage",
+    "translation": "взлёт",
+    "example": "Le décollage de l’avion est prévu à neuf heures.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_etre_ecrase",
+    "french": "être écrasé",
+    "translation": "быть раздавленным / подавленным",
+    "example": "La boîte a été écrasée pendant le transport.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_cellule",
+    "french": "une cellule",
+    "translation": "клетка / камера / ячейка",
+    "example": "Le corps humain est composé de milliards de cellules.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_apartheid",
+    "french": "l’apartheid",
+    "translation": "апартеид",
+    "example": "L’apartheid était un système de ségrégation raciale en Afrique du Sud.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_s_ecraser",
+    "french": "s’écraser",
+    "translation": "разбиться / рухнуть",
+    "example": "L’avion s’est écrasé loin de la ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_gigantesque",
+    "french": "gigantesque",
+    "translation": "гигантский / огромный",
+    "example": "Ils ont construit une statue gigantesque.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_tenir_le_coup",
+    "french": "tenir le coup",
+    "translation": "держаться / выдерживать",
+    "example": "Même fatigué, il essaie de tenir le coup.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_inspirer",
+    "french": "inspirer",
+    "translation": "вдыхать / вдохновлять",
+    "example": "Inspirez profondément avant de commencer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_expirer",
+    "french": "expirer",
+    "translation": "выдыхать / истекать",
+    "example": "Il faut expirer lentement après avoir inspiré.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_extraterrestre",
+    "french": "un extraterrestre / une extraterrestre",
+    "translation": "инопланетянин / инопланетянка",
+    "example": "Dans ce film, un extraterrestre arrive sur Terre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_marionnettiste",
+    "french": "un marionnettiste / une marionnettiste",
+    "translation": "кукловод",
+    "example": "Le marionnettiste manipule la marionnette devant le public.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_marionnette_a_fils",
+    "french": "une marionnette à fils",
+    "translation": "марионетка на нитях",
+    "example": "Une marionnette à fils est contrôlée grâce à plusieurs fils.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_marionnette_a_gaine",
+    "french": "une marionnette à gaine",
+    "translation": "перчаточная кукла",
+    "example": "Le marionnettiste glisse sa main dans une marionnette à gaine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_marotte",
+    "french": "une marotte",
+    "translation": "кукла-голова на палке",
+    "example": "La marotte est fixée sur un bâton.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_castelet",
+    "french": "un castelet",
+    "translation": "кукольная ширма / маленький кукольный театр",
+    "example": "Le spectacle de Guignol se joue dans un castelet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_decor",
+    "french": "un décor",
+    "translation": "декорация / оформление сцены",
+    "example": "Le décor représente une rue de Lyon.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_repertoire",
+    "french": "un répertoire",
+    "translation": "репертуар",
+    "example": "La troupe possède un vaste répertoire de spectacles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_tradition",
+    "french": "une tradition",
+    "translation": "традиция",
+    "example": "Cette tradition se transmet de génération en génération.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_effigie",
+    "french": "une effigie",
+    "translation": "изображение / подобие человека или персонажа",
+    "example": "Le musée conserve une effigie d’un personnage historique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_21_figurine",
+    "french": "une figurine",
+    "translation": "фигурка",
+    "example": "Cette figurine représente un personnage de théâtre.",
+    "status": "learning"
+  }
+]
