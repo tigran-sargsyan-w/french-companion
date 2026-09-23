@@ -548,5 +548,15 @@
     "classLevel": "B1N3",
     "status": "done",
     "path": "data/lessons/b1n3/lesson_55_2026_09_21"
+  },
+  {
+    "id": "lesson_56_2026_09_23",
+    "number": 56,
+    "title": "Parité en politique et expression de la nécessité",
+    "date": "2026-09-23",
+    "level": "B1",
+    "classLevel": "B1N3",
+    "status": "done",
+    "path": "data/lessons/b1n3/lesson_56_2026_09_23"
   }
 ]
