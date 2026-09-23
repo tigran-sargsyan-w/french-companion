@@ -1,0 +1,49 @@
+[
+  {
+    "id": "g_2026_09_23_exprimer_necessite",
+    "title": "Exprimer la nécessité",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Adjectifs de nécessité\n",
+        "Pour exprimer la nécessité, on peut utiliser des adjectifs comme **nécessaire, essentiel, indispensable, impératif** et **primordial** dans des structures impersonnelles."
+      ],
+      [
+        "### Il est / C’est + adjectif + de + infinitif\n",
+        "On utilise **de + infinitif** quand on exprime une nécessité de manière générale.",
+        "- **Il est essentiel de respecter la loi.**",
+        "- **C’est nécessaire de lutter tous ensemble.**"
+      ],
+      [
+        "### Il est / C’est + adjectif + que + subjonctif\n",
+        "On utilise **que + subjonctif** quand la nécessité concerne une personne ou une chose en particulier.",
+        "- **Il est impératif que les citoyens sachent la vérité.**",
+        "- **C’est indispensable que nous soyons unis.**"
+      ]
+    ],
+    "examples": [
+      "Il est primordial de se battre pour l’égalité.",
+      "Il est nécessaire de prendre une décision.",
+      "Il est essentiel que chacun puisse s’exprimer.",
+      "C’est indispensable que nous soyons prêts."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Nécessité générale avec l’infinitif",
+        "markup": "Il est {{contexte:essentiel}} {{verbe:de respecter}} la loi.",
+        "explanation": "Après l’adjectif, **de + infinitif** exprime ici une nécessité générale.",
+        "sourceSentences": [
+          "Il est essentiel de respecter la loi."
+        ]
+      },
+      {
+        "title": "Nécessité particulière avec le subjonctif",
+        "markup": "Il est {{contexte:impératif}} que les citoyens {{verbe:sachent}} la vérité.",
+        "explanation": "Après **que**, le verbe est au **subjonctif** parce que la nécessité concerne ici un sujet précis.",
+        "sourceSentences": [
+          "Il est impératif que les citoyens sachent la vérité."
+        ]
+      }
+    ]
+  }
+]
