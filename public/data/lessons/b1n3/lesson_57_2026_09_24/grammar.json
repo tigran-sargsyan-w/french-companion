@@ -1,0 +1,103 @@
+[
+  {
+    "id": "g_2026_09_24_anteriorite_posteriorite",
+    "title": "Exprimer l’antériorité et la postériorité",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Exprimer l’antériorité avec « avant »\n",
+        "- **avant + phrase** : marque qu’une situation se place plus tôt dans le temps ;",
+        "- **avant + nom / date** : situe une action par rapport à un repère ;",
+        "- **avant de + infinitif** : s’emploie lorsque les deux actions ont le **même sujet** ;",
+        "- **avant que + subjonctif** : s’emploie lorsque les deux propositions ont des **sujets différents**."
+      ],
+      [
+        "### Exprimer la postériorité avec « après »\n",
+        "- **après + phrase** : introduit une action qui vient ensuite ;",
+        "- **après + nom / date / heure** : situe une action après un repère ;",
+        "- **après + infinitif passé** : s’emploie lorsque les deux actions ont le **même sujet** ;",
+        "- **après que + indicatif** : s’emploie lorsque les deux propositions ont des **sujets différents**."
+      ],
+      [
+        "### Attention\n",
+        "La construction **« après de + infinitif » n’existe pas**. Avec un même sujet, on utilise **après + infinitif passé** : **après avoir terminé**, **après être arrivé(e)**."
+      ]
+    ],
+    "examples": [
+      "Appelle-moi avant de venir.",
+      "Avant que les bénévoles arrivent, nous préparons la salle.",
+      "Après avoir terminé son travail, il rejoint l’association.",
+      "Après que les bénévoles sont arrivés, la distribution commence."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Même sujet avec « avant de »",
+        "markup": "{{sujet:Tu}} m’appelles {{temps:avant de}} {{verbe:venir}}.",
+        "explanation": "Les deux actions ont le même sujet, donc on utilise **avant de + infinitif**.",
+        "sourceSentences": [
+          "Tu m’appelles.",
+          "Tu viens."
+        ]
+      },
+      {
+        "title": "Sujets différents avec « avant que »",
+        "markup": "{{temps:Avant que}} les bénévoles {{verbe:arrivent}}, nous préparons la salle.",
+        "explanation": "Les sujets sont différents et le verbe après **avant que** se met au **subjonctif**.",
+        "sourceSentences": [
+          "Les bénévoles arrivent.",
+          "Nous préparons la salle."
+        ]
+      },
+      {
+        "title": "Même sujet avec l’infinitif passé",
+        "markup": "{{temps:Après}} {{verbe:avoir terminé}} son travail, il rejoint l’association.",
+        "explanation": "Les deux actions ont le même sujet ; **après** est suivi de l’**infinitif passé**.",
+        "sourceSentences": [
+          "Il termine son travail.",
+          "Il rejoint l’association."
+        ]
+      },
+      {
+        "title": "Sujets différents avec « après que »",
+        "markup": "{{temps:Après que}} les bénévoles {{verbe:sont arrivés}}, la distribution commence.",
+        "explanation": "Les sujets sont différents et **après que** est suivi de l’**indicatif**.",
+        "sourceSentences": [
+          "Les bénévoles sont arrivés.",
+          "La distribution commence."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_09_24_nimporte",
+    "title": "N’importe qui, quoi, quand, où, comment",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Principe\n",
+        "On utilise **n’importe + mot interrogatif** pour parler d’une personne, d’une chose, d’un moment, d’un lieu ou d’une manière qui ne sont pas précisés."
+      ],
+      [
+        "### Les principales expressions\n",
+        "- **n’importe qui** : une personne indéfinie ;",
+        "- **n’importe quoi** : une chose indéfinie ;",
+        "- **n’importe quand** : un moment indéfini ;",
+        "- **n’importe où** : un lieu indéfini ;",
+        "- **n’importe comment** : une manière indéfinie."
+      ],
+      [
+        "### Autres emplois\n",
+        "**N’importe quoi !** peut aussi servir à juger négativement un propos ou une action que l’on trouve absurde ou stupide.\n",
+        "**Faire quelque chose n’importe comment** signifie aussi le faire sans méthode, sans soin ou de façon désordonnée."
+      ]
+    ],
+    "examples": [
+      "N’importe qui peut devenir bénévole.",
+      "Je ferais n’importe quoi pour aider ma famille.",
+      "Tu peux venir n’importe quand.",
+      "Nous pouvons nous retrouver n’importe où.",
+      "Il a rangé les cartons n’importe comment."
+    ],
+    "annotatedExamples": []
+  }
+]
