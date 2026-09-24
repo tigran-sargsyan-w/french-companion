@@ -1,0 +1,114 @@
+[
+  {
+    "id": "v_2026_09_24_chute",
+    "french": "la chute",
+    "translation": "падение",
+    "example": "Après sa chute, il s’est relevé rapidement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_rattraper",
+    "french": "rattraper",
+    "translation": "догонять / ловить / наверстывать",
+    "example": "Il a couru pour rattraper son ami.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_faire_poubelles",
+    "french": "faire les poubelles / les conteneurs",
+    "translation": "рыться в мусорных баках / контейнерах",
+    "example": "Certaines personnes démunies sont contraintes de faire les poubelles pour trouver de quoi manger.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_elan",
+    "french": "un élan",
+    "translation": "порыв / импульс",
+    "example": "Cette initiative a créé un véritable élan de solidarité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_bouffer",
+    "french": "bouffer",
+    "translation": "жрать / есть (разг.)",
+    "example": "Dans un registre familier, **bouffer** signifie manger.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_bouffe",
+    "french": "la bouffe",
+    "translation": "еда / жратва (разг.)",
+    "example": "Dans un registre familier, on peut parler de **bouffe** pour désigner la nourriture.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_demuni",
+    "french": "démuni / démunie",
+    "translation": "нуждающийся / обездоленный",
+    "example": "L’association aide des personnes démunies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_fonder",
+    "french": "fonder",
+    "translation": "основывать / учреждать",
+    "example": "Ils ont décidé de fonder une association d’aide alimentaire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_revolter",
+    "french": "révolter",
+    "translation": "возмущать / вызывать протест",
+    "example": "Cette situation de grande pauvreté le révolte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_revolte",
+    "french": "une révolte",
+    "translation": "бунт / восстание / протест",
+    "example": "La colère peut parfois provoquer une révolte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_pauvrete",
+    "french": "la pauvreté",
+    "translation": "бедность",
+    "example": "Plusieurs associations luttent contre la pauvreté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_faire_bouger_choses",
+    "french": "faire bouger les choses",
+    "translation": "изменить ситуацию / сдвинуть дело с места",
+    "example": "Les bénévoles veulent faire bouger les choses.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_surplus",
+    "french": "un surplus",
+    "translation": "излишек / избыток",
+    "example": "L’association récupère des surplus alimentaires.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_invendus",
+    "french": "les invendus",
+    "translation": "непроданные товары / непроданная продукция",
+    "example": "Certains commerces donnent leurs invendus à des associations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_doubler",
+    "french": "doubler",
+    "translation": "удваивать / удваиваться",
+    "example": "Le nombre de demandes peut doubler en période difficile.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_24_redoubler",
+    "french": "redoubler",
+    "translation": "удваивать / усиливать",
+    "example": "Face aux difficultés, l’association doit redoubler d’efforts.",
+    "status": "learning"
+  }
+]

@@ -558,5 +558,15 @@
     "classLevel": "B1N3",
     "status": "done",
     "path": "data/lessons/b1n3/lesson_56_2026_09_23"
+  },
+  {
+    "id": "lesson_57_2026_09_24",
+    "number": 57,
+    "title": "Les Restos du Cœur, antériorité, postériorité et expressions avec n’importe",
+    "date": "2026-09-24",
+    "level": "B1",
+    "classLevel": "B1N3",
+    "status": "done",
+    "path": "data/lessons/b1n3/lesson_57_2026_09_24"
   }
 ]
