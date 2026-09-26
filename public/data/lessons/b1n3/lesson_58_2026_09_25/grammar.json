@@ -1,0 +1,59 @@
+[
+  {
+    "id": "g_2026_09_25_subjonctif_present_rappel",
+    "title": "Subjonctif présent : rappel de la formation et des emplois",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Formation\n",
+        "Pour de nombreux verbes, on part de la forme **ils / elles** au présent de l’indicatif, on retire **-ent**, puis on ajoute **-e, -es, -e, -ions, -iez, -ent**.\n",
+        "Les formes de **nous** et **vous** prennent les terminaisons **-ions** et **-iez**. Certains verbes ont des formes particulières ou irrégulières."
+      ],
+      [
+        "### Principaux emplois revus\n",
+        "- **nécessité / obligation** : **il est indispensable que**, **il faut que** ;",
+        "- **sentiment / émotion** : **être content que** ;",
+        "- **opinion évaluative** : **c’est fantastique que** ;",
+        "- **condition** : **à condition que** ;",
+        "- **concession** : **bien que** ;",
+        "- **doute** : **douter que** ;",
+        "- **souhait** : **vouloir que / je voudrais que** ;",
+        "- **but** : **pour que** ;",
+        "- **antériorité** : **avant que**."
+      ]
+    ],
+    "examples": [
+      "Il est indispensable que les prix baissent.",
+      "Il faut que nous changions de mentalité.",
+      "C’est fantastique que les gens soient solidaires.",
+      "Je viendrai à condition que la réunion soit après 18 heures.",
+      "Bien que la solution la plus évidente soit l’élargissement, il faut étudier d’autres options.",
+      "Elle doute que cela puisse fonctionner sur le long terme.",
+      "Je voudrais qu’il y ait plus de trains et qu’ils soient moins chers.",
+      "Nous devons agir avant que la situation devienne plus difficile."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_25_prononciation_plus",
+    "title": "Prononciation de « plus » : quantité et négation",
+    "category": "Pronunciation",
+    "summary": [
+      [
+        "### Deux sens à distinguer\n",
+        "- quand **plus** signifie **davantage / une quantité supplémentaire**, le **s** final se prononce généralement : `[plys]` ;",
+        "- dans la négation **ne… plus**, qui signifie qu’une situation a cessé, le **s** final ne se prononce généralement pas : `[ply]`."
+      ],
+      [
+        "### Exemple du cours\n",
+        "**Plus d’autoroutes** signifie « davantage d’autoroutes » : on est dans le sens de la quantité."
+      ]
+    ],
+    "examples": [
+      "Il faut plus de transports en commun.",
+      "Il y a plus d’autoroutes dans cette région.",
+      "Il n’y a plus de bouchons après 21 heures."
+    ],
+    "annotatedExamples": []
+  }
+]
