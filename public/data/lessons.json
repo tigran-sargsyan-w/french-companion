@@ -578,5 +578,15 @@
     "classLevel": "B1N3",
     "status": "done",
     "path": "data/lessons/b1n3/lesson_58_2026_09_25"
+  },
+  {
+    "id": "lesson_59_2026_09_28",
+    "number": 59,
+    "title": "Premier jour de B2N1 : révisions, intérêts et discours rapporté",
+    "date": "2026-09-28",
+    "level": "B2",
+    "classLevel": "B2N1",
+    "status": "done",
+    "path": "data/lessons/b2n1/lesson_59_2026_09_28"
   }
 ]

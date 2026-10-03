@@ -1,0 +1,114 @@
+[
+  {
+    "id": "v_2026_09_28_genealogie",
+    "french": "la généalogie",
+    "translation": "генеалогия / родословная",
+    "example": "La généalogie permet de retracer l’histoire d’une famille.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_gener",
+    "french": "gêner",
+    "translation": "мешать / смущать",
+    "example": "Le bruit me gêne quand je travaille.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_etre_gene",
+    "french": "être gêné / gênée",
+    "translation": "чувствовать себя неловко / быть смущённым",
+    "example": "Je suis gêné quand je dois parler devant un grand groupe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_embarrasser",
+    "french": "embarrasser",
+    "translation": "смущать / ставить в неловкое положение",
+    "example": "Cette question l’a embarrassé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_enseigner_qqch_a_qqn",
+    "french": "enseigner quelque chose à quelqu’un",
+    "translation": "преподавать / обучать чему-либо кого-либо",
+    "example": "Elle enseigne le français à des étudiants étrangers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_me_passionner",
+    "french": "quelque chose me passionne",
+    "translation": "что-то меня увлекает",
+    "example": "L’informatique me passionne depuis plusieurs années.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_m_interesser",
+    "french": "quelque chose m’intéresse",
+    "translation": "что-то меня интересует",
+    "example": "L’histoire des langues m’intéresse beaucoup.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_s_interesser_a",
+    "french": "s’intéresser à quelque chose",
+    "translation": "интересоваться чем-либо",
+    "example": "Je m’intéresse aux nouvelles technologies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_etre_passionne_par",
+    "french": "être passionné / passionnée par quelque chose",
+    "translation": "быть увлечённым чем-либо",
+    "example": "Il est passionné par la photographie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_etre_passionne_de",
+    "french": "être passionné / passionnée de quelque chose",
+    "translation": "быть страстно увлечённым чем-либо",
+    "example": "Elle est passionnée de cinéma.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_se_passionner_pour",
+    "french": "se passionner pour quelque chose",
+    "translation": "увлечься чем-либо",
+    "example": "Il s’est passionné pour la généalogie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_d_abord",
+    "french": "d’abord",
+    "translation": "сначала / прежде всего",
+    "example": "D’abord, je vais présenter le sujet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_ensuite",
+    "french": "ensuite",
+    "translation": "затем / далее",
+    "example": "Ensuite, nous examinerons les conséquences.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_finalement",
+    "french": "finalement",
+    "translation": "в конечном итоге / наконец",
+    "example": "Finalement, je proposerai une solution.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_le_lendemain",
+    "french": "le lendemain",
+    "translation": "на следующий день",
+    "example": "Il a dit qu’il reviendrait le lendemain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_28_la_veille",
+    "french": "la veille",
+    "translation": "накануне / предыдущий день",
+    "example": "Elle a expliqué qu’elle avait terminé le travail la veille.",
+    "status": "learning"
+  }
+]

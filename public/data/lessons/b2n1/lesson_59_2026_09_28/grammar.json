@@ -1,0 +1,100 @@
+[
+  {
+    "id": "g_2026_09_28_exprimer_interet",
+    "title": "Exprimer un intérêt ou une passion",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Constructions utiles\n",
+        "- **quelque chose me passionne / m’intéresse** ;",
+        "- **s’intéresser à + nom** ;",
+        "- **être passionné(e) par / de + nom** ;",
+        "- **se passionner pour + nom**."
+      ],
+      [
+        "### Choisir la bonne préposition\n",
+        "Les constructions changent selon l’expression : **s’intéresser à**, **être passionné par/de**, **se passionner pour**."
+      ]
+    ],
+    "examples": [
+      "La généalogie me passionne.",
+      "Je m’intéresse à l’histoire.",
+      "Elle est passionnée par la danse.",
+      "Il se passionne pour l’intelligence artificielle."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_28_pronoms_relatifs",
+    "title": "Pronoms relatifs simples et composés : révision",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Pronoms relatifs simples\n",
+        "- **qui** remplace le sujet ;",
+        "- **que** remplace le complément d’objet direct ;",
+        "- **où** renvoie à un lieu ou à un moment ;",
+        "- **dont** remplace un complément introduit par **de**."
+      ],
+      [
+        "### Pronoms relatifs composés\n",
+        "Après une préposition, on peut utiliser **lequel, laquelle, lesquels, lesquelles** et leurs formes contractées, par exemple **auquel** ou **duquel**."
+      ]
+    ],
+    "examples": [
+      "C’est une chanson qui me fait pleurer.",
+      "C’est une chanson que j’adore.",
+      "C’est une salle où je vais souvent danser.",
+      "C’est le chanteur dont je t’ai parlé hier.",
+      "C’est un artiste avec lequel j’aimerais chanter.",
+      "C’est un moment auquel je pense souvent.",
+      "C’est un lieu près duquel j’habite."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_28_discours_rapporte_passe",
+    "title": "Discours rapporté au passé et indicateurs temporels",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Concordance des temps\n",
+        "Quand le verbe introducteur est au passé, les temps peuvent se décaler :",
+        "- **présent → imparfait** ;",
+        "- **passé composé → plus-que-parfait** ;",
+        "- **futur simple → conditionnel présent**."
+      ],
+      [
+        "### Question fermée\n",
+        "Pour rapporter une question à laquelle on répond par oui ou non, on utilise **si** : **Il m’a demandé si la prof était sympa.**"
+      ],
+      [
+        "### Indicateurs temporels utiles\n",
+        "Selon le contexte du récit, on emploie notamment **le lendemain**, **la veille**, **la semaine / le jour d’avant**, **la semaine / le jour d’après**, ainsi que des repères comme **en 2023**, **il y a…**, **quand…**, **pendant…** ou **pendant que…**."
+      ]
+    ],
+    "examples": [
+      "Il a dit : « Je vais bien. » → Il a dit qu’il allait bien.",
+      "Il a dit : « J’ai bu un café. » → Il a dit qu’il avait bu un café.",
+      "Il a dit : « Je boirai un café. » → Il a dit qu’il boirait un café.",
+      "Je lui ai demandé : « La prof est sympa ? » → Je lui ai demandé si la prof était sympa."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_28_structurer_discours",
+    "title": "Structurer un discours",
+    "category": "Discourse",
+    "summary": [
+      [
+        "### Organiser les étapes\n",
+        "Pour rendre un exposé clair, on peut annoncer les différentes étapes avec **d’abord**, **ensuite / après**, **enfin / à la fin**, ou avec **premièrement, deuxièmement, troisièmement, finalement**."
+      ]
+    ],
+    "examples": [
+      "D’abord, je présenterai le sujet ; ensuite, j’expliquerai mon point de vue ; enfin, je conclurai.",
+      "Premièrement, examinons le problème ; deuxièmement, voyons les solutions possibles."
+    ],
+    "annotatedExamples": []
+  }
+]
