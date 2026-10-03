@@ -8,5 +8,26 @@
     ]
   ],
   "notes": "Fait en classe:\n- Correction des devoirs.\n- Travail sur une double page consacrée à Charleroi.\n- Présentations orales individuelles de quatre étudiants sur les changements dans leur ville.\n\nGrammaire:\n- Expression de la cause : parce que, car, puisque, comme, vu que, étant donné que, grâce à, à cause de, suite à, en raison de, à force de et (être) dû/due à.\n\nVocabulaire:\n- Vocabulaire lié à Charleroi, au passé industriel, aux mines et aux transformations urbaines.\n- Lexique pour décrire l'amélioration ou la dégradation d'un lieu.\n\nDevoir:\n- Cahier n° 4 : page 6 ; exercice 8 page 7 ; exercice 11 page 8, pour lundi 5 octobre.",
-  "photos": []
+  "photos": [
+    {
+      "src": "photos/course-summary.png",
+      "caption": "Message récapitulatif du cours du vendredi",
+      "alt": "Capture du message de cours indiquant la correction des devoirs, le travail sur Charleroi, les présentations orales et les devoirs pour lundi"
+    },
+    {
+      "src": "photos/grammar-cause-book.png",
+      "caption": "Manuel : exprimer la cause",
+      "alt": "Photo d'une page de manuel présentant plusieurs expressions de la cause avec des exemples sur Charleroi"
+    },
+    {
+      "src": "photos/grammar-cause-reference.png",
+      "caption": "Fiche de référence : exprimer la cause",
+      "alt": "Photo d'une fiche de grammaire récapitulant les principales constructions pour exprimer la cause"
+    },
+    {
+      "src": "photos/vocabulary-charleroi-notes.png",
+      "caption": "Notes de vocabulaire sur Charleroi et les transformations urbaines",
+      "alt": "Photo de notes manuscrites avec du vocabulaire sur l'industrie, les mines, la rénovation urbaine et la description des lieux"
+    }
+  ]
 }
