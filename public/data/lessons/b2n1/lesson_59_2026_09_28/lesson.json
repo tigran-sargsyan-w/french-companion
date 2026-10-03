@@ -8,5 +8,56 @@
     ]
   ],
   "notes": "Fait en classe:\n- Premier jour de B2N1 et prise de contact.\n- Révision du dossier du livre, p. 12–13 : exercices 1, 2, 4, 5, 6 et 8.\n- Petit exposé sur des sujets qui nous passionnent.\n- Révision des expressions pour parler de ses centres d’intérêt.\n- Révision des pronoms relatifs simples et composés.\n- Révision du discours rapporté au passé et des indicateurs temporels.\n- Rappel : pour rapporter une question fermée, on utilise « si ».\n- Révision des connecteurs pour structurer un discours.\n\nVocabulaire:\n- Généalogie, gêner / être gêné, embarrasser, enseigner quelque chose à quelqu’un.\n- Expressions autour de l’intérêt et de la passion.\n\nDevoir:\n- Production écrite « Prévisions : ce qui va changer en 2050 ».",
-  "photos": []
+  "photos": [
+    {
+      "src": "photos/course-message.png",
+      "caption": "Message du cours du 28 septembre",
+      "alt": "Capture du message de cours indiquant le programme du premier jour de B2N1 et le devoir de production écrite"
+    },
+    {
+      "src": "photos/notes-vocabulaire-discours-rapporte.png",
+      "caption": "Notes de cours : vocabulaire et discours rapporté",
+      "alt": "Photo de notes manuscrites sur la généalogie, le vocabulaire et la question fermée au discours rapporté"
+    },
+    {
+      "src": "photos/exprimer-un-interet.png",
+      "caption": "Exprimer un intérêt",
+      "alt": "Encadré de manuel présentant des expressions pour parler de ses intérêts et de ses passions"
+    },
+    {
+      "src": "photos/pronoms-relatifs.png",
+      "caption": "Pronoms relatifs simples et composés",
+      "alt": "Encadré de manuel avec des exemples de qui, que, où, dont, lequel, auquel et duquel"
+    },
+    {
+      "src": "photos/indicateurs-temporels-discours-rapporte.png",
+      "caption": "Indicateurs temporels et discours rapporté au passé",
+      "alt": "Encadrés de manuel sur les indicateurs temporels et la concordance des temps au discours rapporté"
+    },
+    {
+      "src": "photos/structurer-un-discours.png",
+      "caption": "Structurer un discours",
+      "alt": "Encadré de manuel présentant des connecteurs pour organiser les étapes d’un discours"
+    },
+    {
+      "src": "photos/previsions-2050-infographie.png",
+      "caption": "Prévisions : ce qui va changer en 2050 — infographie",
+      "alt": "Infographie sur les prévisions pour 2050 concernant la démographie, l’économie, le travail, la santé et le climat"
+    },
+    {
+      "src": "photos/previsions-2050-discussion.png",
+      "caption": "Prévisions pour 2050 — sujets de discussion",
+      "alt": "Fiche de discussion proposant des thèmes et hypothèses sur l’évolution de la société en 2050"
+    },
+    {
+      "src": "photos/previsions-2050-production-ecrite.png",
+      "caption": "Prévisions pour 2050 — production écrite",
+      "alt": "Consigne de production écrite sur un problème futur et ses solutions avec un nuage de mots"
+    },
+    {
+      "src": "photos/previsions-2050-tache.png",
+      "caption": "Prévisions pour 2050 — tâche d’écriture",
+      "alt": "Fiche demandant de rédiger un article de presse du futur à partir de titres proposés"
+    }
+  ]
 }
