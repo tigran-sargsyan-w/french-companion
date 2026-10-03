@@ -598,5 +598,15 @@
     "classLevel": "B2N1",
     "status": "done",
     "path": "data/lessons/b2n1/lesson_60_2026_09_29"
+  },
+  {
+    "id": "lesson_61_2026_09_30",
+    "number": 61,
+    "title": "Révisions : opinion, nécessité, concession, souhait, peur et regret",
+    "date": "2026-09-30",
+    "level": "B2",
+    "classLevel": "B2N1",
+    "status": "done",
+    "path": "data/lessons/b2n1/lesson_61_2026_09_30"
   }
 ]
