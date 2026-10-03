@@ -1,0 +1,42 @@
+[
+  {
+    "id": "g_2026_10_02_expression_cause",
+    "title": "Exprimer la cause",
+    "category": "Discourse",
+    "summary": [
+      [
+        "### Avec une proposition\n",
+        "- **parce que + phrase** : s'emploie généralement au milieu de la phrase ;",
+        "- **car + phrase** : introduit une explication, généralement au milieu de la phrase ;",
+        "- **puisque + phrase à l'indicatif** : peut se placer au début ou au milieu de la phrase ;",
+        "- **comme + phrase** : se place au début de la phrase ;",
+        "- **vu que / étant donné que + phrase à l'indicatif** : peuvent se placer au début ou au milieu de la phrase."
+      ],
+      [
+        "### Avec un nom ou un pronom\n",
+        "- **grâce à + nom ou pronom tonique** : présente généralement une cause positive ;",
+        "- **à cause de + nom** : introduit une cause, souvent perçue négativement dans les exemples du cours ;",
+        "- **suite à / en raison de + nom** : introduisent une cause ;",
+        "- **(être) dû / due à + nom** : permet d'attribuer un fait à une cause."
+      ],
+      [
+        "### Cause répétée\n",
+        "**à force de + infinitif** exprime une cause qui se répète."
+      ]
+    ],
+    "examples": [
+      "Je suis content parce que mon quartier a été rénové.",
+      "J'aime mon quartier car il y a tout ce qu'il faut.",
+      "Puisque la ville se modernise, les prix des appartements augmentent.",
+      "Comme j'habite en centre-ville, j'utilise peu ma voiture.",
+      "Grâce aux transports en commun, il est très facile de se déplacer.",
+      "On dit que Charleroi n'est pas une belle ville à cause de son architecture industrielle.",
+      "Étant donné que le prix du loyer a augmenté, nous devons déménager.",
+      "Suite à la rénovation du centre-ville, de nouveaux commerces ont ouvert.",
+      "En raison des travaux dans le centre-ville, des commerces sont fermés.",
+      "À force d'entendre des clichés, on les croit.",
+      "La réputation de Charleroi est due à un article dans un journal."
+    ],
+    "annotatedExamples": []
+  }
+]
