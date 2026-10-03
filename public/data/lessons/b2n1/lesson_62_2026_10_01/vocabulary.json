@@ -1,0 +1,394 @@
+[
+  {
+    "id": "v_2026_10_01_toit",
+    "french": "le toit",
+    "translation": "крыша",
+    "example": "Le toit de cet immeuble a été rénové.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_pont",
+    "french": "le pont",
+    "translation": "мост",
+    "example": "Le pont relie les deux rives du fleuve.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_passerelle",
+    "french": "la passerelle",
+    "translation": "пешеходный мост / переход",
+    "example": "Une passerelle permet de traverser la voie ferrée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_quartier",
+    "french": "le quartier",
+    "translation": "район",
+    "example": "Ce quartier est très animé le soir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_arrondissement",
+    "french": "l’arrondissement",
+    "translation": "округ / административный район",
+    "example": "Lyon est divisé en plusieurs arrondissements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_rue",
+    "french": "la rue",
+    "translation": "улица",
+    "example": "Cette rue est réservée aux piétons.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_boulevard",
+    "french": "le boulevard",
+    "translation": "бульвар",
+    "example": "Le boulevard traverse une grande partie de la ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_ruelle",
+    "french": "la ruelle",
+    "translation": "переулок / узкая улочка",
+    "example": "Nous avons découvert une petite ruelle pavée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_urbanisme",
+    "french": "l’urbanisme",
+    "translation": "градостроительство",
+    "example": "L’urbanisme influence la manière dont on se déplace en ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_infrastructure",
+    "french": "l’infrastructure",
+    "translation": "инфраструктура",
+    "example": "La ville investit dans les infrastructures de transport.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_urbain",
+    "french": "urbain / urbaine",
+    "translation": "городской / городская",
+    "example": "Le paysage urbain change rapidement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_rural",
+    "french": "rural / rurale",
+    "translation": "сельский / сельская",
+    "example": "Cette région est surtout rurale.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_cite",
+    "french": "la cité",
+    "translation": "город; жилой комплекс / квартал",
+    "example": "Cette cité a été construite dans les années 1960.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_citadin",
+    "french": "un citadin / une citadine",
+    "translation": "городской житель / горожанка",
+    "example": "Les citadins utilisent beaucoup les transports en commun.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_banlieue",
+    "french": "la banlieue",
+    "translation": "пригород",
+    "example": "Il habite en banlieue et travaille au centre-ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_peripherique",
+    "french": "le périphérique",
+    "translation": "кольцевая автодорога",
+    "example": "Le périphérique est souvent encombré aux heures de pointe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_rocade",
+    "french": "la rocade",
+    "translation": "объездная / кольцевая дорога",
+    "example": "La rocade permet de contourner le centre-ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_gentrification",
+    "french": "la gentrification",
+    "translation": "джентрификация",
+    "example": "La gentrification peut transformer profondément un quartier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_famille_aisee",
+    "french": "une famille aisée",
+    "translation": "обеспеченная семья",
+    "example": "Une famille aisée s’est installée dans ce quartier rénové.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_famille_defavorisee",
+    "french": "une famille défavorisée",
+    "translation": "малообеспеченная семья",
+    "example": "Certaines familles défavorisées ont besoin d’un logement social.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_hotel_de_ville",
+    "french": "l’hôtel de ville",
+    "translation": "мэрия / здание городской администрации",
+    "example": "L’hôtel de ville se trouve au centre de la commune.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_mairie",
+    "french": "la mairie",
+    "translation": "мэрия / муниципалитет",
+    "example": "Je dois aller à la mairie pour faire cette démarche.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_prefecture",
+    "french": "la préfecture",
+    "translation": "префектура",
+    "example": "Le dossier a été envoyé à la préfecture.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_ville_fantome",
+    "french": "une ville fantôme",
+    "translation": "город-призрак",
+    "example": "Après la fermeture des mines, le lieu est devenu une ville fantôme.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_flaner",
+    "french": "flâner",
+    "translation": "гулять без цели / прогуливаться",
+    "example": "J’aime flâner dans les vieux quartiers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_flaneur",
+    "french": "un flâneur",
+    "translation": "фланёр / праздный гуляющий",
+    "example": "Le flâneur observe tranquillement la vie de la rue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_passage",
+    "french": "le passage",
+    "translation": "пассаж; проход",
+    "example": "Ce passage couvert abrite plusieurs boutiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_guichet",
+    "french": "le guichet",
+    "translation": "окошко / стойка обслуживания",
+    "example": "Les billets sont vendus au guichet.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_quais",
+    "french": "les quais",
+    "translation": "набережные / причалы",
+    "example": "Nous nous promenons sur les quais du Rhône.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_berge",
+    "french": "la berge",
+    "translation": "берег",
+    "example": "Des promeneurs se reposent sur la berge.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_perle",
+    "french": "une perle",
+    "translation": "жемчужина",
+    "example": "Cette petite place est une véritable perle du quartier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_pave",
+    "french": "le pavé",
+    "translation": "брусчатка / булыжник",
+    "example": "Le pavé donne beaucoup de charme à cette rue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_rue_pavee",
+    "french": "une rue pavée",
+    "translation": "мощёная улица",
+    "example": "Nous avons traversé une rue pavée du Vieux Lyon.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_brique",
+    "french": "une brique",
+    "translation": "кирпич",
+    "example": "La façade est construite en brique rouge.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_emblematique",
+    "french": "emblématique",
+    "translation": "знаковый / символичный",
+    "example": "Cette photo est devenue emblématique de Paris.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_enchere",
+    "french": "une enchère",
+    "translation": "ставка на аукционе",
+    "example": "Il a fait une enchère pour acheter la photographie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_encherir",
+    "french": "enchérir",
+    "translation": "повышать ставку на аукционе",
+    "example": "Plusieurs collectionneurs ont continué à enchérir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_cachet",
+    "french": "le cachet",
+    "translation": "особый шарм / характер",
+    "example": "Les vieilles façades donnent du cachet à la rue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_se_becoter",
+    "french": "se bécoter",
+    "translation": "целоваться / миловаться (разг.)",
+    "example": "Le couple se bécotait dans la rue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_malicieusement",
+    "french": "malicieusement",
+    "translation": "лукаво / озорно",
+    "example": "Il a souri malicieusement avant de répondre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_malice",
+    "french": "la malice",
+    "translation": "лукавство / озорство",
+    "example": "On voit de la malice dans son regard.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_moquerie",
+    "french": "la moquerie",
+    "translation": "насмешка",
+    "example": "Sa remarque ressemblait davantage à une moquerie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_se_manifester",
+    "french": "se manifester",
+    "translation": "проявляться; давать о себе знать",
+    "example": "Son intérêt pour la photographie s’est manifesté très tôt.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_viticulteur",
+    "french": "un viticulteur",
+    "translation": "виноградарь / винодел",
+    "example": "Le viticulteur cultive la vigne et produit du vin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_vigne",
+    "french": "la vigne",
+    "translation": "виноградная лоза / виноградник",
+    "example": "La vigne couvre une grande partie de la colline.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_aussitot",
+    "french": "aussitôt",
+    "translation": "сразу же / тотчас",
+    "example": "Aussitôt arrivé, il a commencé à prendre des photos.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_ose",
+    "french": "osé / osée",
+    "translation": "смелый / дерзкий",
+    "example": "C’était un choix artistique assez osé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_anecdote",
+    "french": "une anecdote",
+    "translation": "анекдотический случай / забавная история",
+    "example": "Le guide nous a raconté une anecdote sur le quartier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_banquette",
+    "french": "une banquette",
+    "translation": "скамья / банкетка",
+    "example": "Ils se sont assis sur une banquette du café.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_comptoir_zinc",
+    "french": "un comptoir en zinc",
+    "translation": "цинковая барная стойка",
+    "example": "Le café possède encore son ancien comptoir en zinc.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_entrepot",
+    "french": "un entrepôt",
+    "translation": "склад",
+    "example": "L’ancien entrepôt a été transformé en espace culturel.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_hangar",
+    "french": "un hangar",
+    "translation": "ангар / складское помещение",
+    "example": "Le hangar se trouve près du port.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_port",
+    "french": "le port",
+    "translation": "порт",
+    "example": "Le port joue un rôle important dans l’économie locale.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_portuaire",
+    "french": "portuaire",
+    "translation": "портовый / связанный с портом",
+    "example": "La zone portuaire a été réaménagée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_lampadaire",
+    "french": "un lampadaire",
+    "translation": "уличный фонарь",
+    "example": "Un vieux lampadaire éclaire la place.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_01_serein",
+    "french": "serein / sereine",
+    "translation": "спокойный / безмятежный",
+    "example": "L’atmosphère de la photo paraît sereine.",
+    "status": "learning"
+  }
+]
