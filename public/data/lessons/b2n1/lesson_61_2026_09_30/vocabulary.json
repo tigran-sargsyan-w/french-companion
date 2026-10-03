@@ -1,0 +1,79 @@
+[
+  {
+    "id": "v_2026_09_30_avoir_raison",
+    "french": "avoir raison",
+    "translation": "быть правым",
+    "example": "Je pense que tu as raison sur ce point.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_30_avoir_tort",
+    "french": "avoir tort",
+    "translation": "быть неправым / ошибаться",
+    "example": "Il a tort de croire que tout est simple.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_30_nimporte_quoi",
+    "french": "n’importe quoi",
+    "translation": "что угодно; ерунда / чепуха",
+    "example": "Ce que tu racontes, c’est n’importe quoi !",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_30_honteux",
+    "french": "honteux / honteuse",
+    "translation": "позорный / постыдный",
+    "example": "Je trouve honteux qu’on traite les gens de cette manière.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_30_scandaleux",
+    "french": "scandaleux / scandaleuse",
+    "translation": "скандальный / возмутительный",
+    "example": "Je trouve scandaleux qu’on ignore ce problème.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_30_se_plaindre_de",
+    "french": "se plaindre de",
+    "translation": "жаловаться на",
+    "example": "Certaines personnes se plaignent de tout.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_30_sendetter",
+    "french": "s’endetter",
+    "translation": "влезать в долги / брать на себя долги",
+    "example": "Certaines personnes s’endettent sur plusieurs années.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_30_dependance",
+    "french": "une dépendance",
+    "translation": "зависимость",
+    "example": "L’usage excessif du smartphone peut créer une dépendance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_30_insatisfait",
+    "french": "être insatisfait de",
+    "translation": "быть недовольным чем-либо",
+    "example": "Certaines personnes sont insatisfaites de leur situation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_30_sepanouir",
+    "french": "s’épanouir",
+    "translation": "развиваться / реализовываться / расцветать",
+    "example": "Il est important de pouvoir s’épanouir dans son travail.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_30_omnipresent",
+    "french": "omniprésent / omniprésente",
+    "translation": "вездесущий / присутствующий повсюду",
+    "example": "Le smartphone est devenu omniprésent dans la vie quotidienne.",
+    "status": "learning"
+  }
+]
