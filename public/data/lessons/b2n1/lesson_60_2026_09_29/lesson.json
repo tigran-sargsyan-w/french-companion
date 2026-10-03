@@ -8,5 +8,41 @@
     ]
   ],
   "notes": "Fait en classe:\n- Suite des révisions du livre, p. 14–15 : exercices 10, 11, 16, 17 et 18, ainsi qu’un PDF de révision.\n- Révision des indéfinis et des expressions de quantité.\n- Révision de la cause et de la conséquence.\n- Révision de la forme passive.\n- Révision du conditionnel présent.\n- Révision de l’expression du but.\n- Révision des pronoms démonstratifs et possessifs.\n\nVocabulaire:\n- anxiogène, un rebondissement, un écart, un ancêtre.\n- une augmentation / une diminution.\n- s’enrichir, s’appauvrir, s’endetter.\n- les rides, faire des câlins à quelqu’un, un câlin.\n\nDevoir:\n- Pas de devoirs.",
-  "photos": []
+  "photos": [
+    {
+      "src": "photos/course-message.png",
+      "caption": "Message du cours du 29 septembre",
+      "alt": "Capture du message de cours indiquant la poursuite des révisions, les exercices du livre et l’absence de devoirs"
+    },
+    {
+      "src": "photos/notes-vocabulaire.png",
+      "caption": "Notes de vocabulaire du 29 septembre",
+      "alt": "Photo de notes manuscrites avec du vocabulaire sur l’évolution, les écarts, l’endettement et les câlins"
+    },
+    {
+      "src": "photos/revision-indefinis.png",
+      "caption": "Révision des indéfinis et des quantités",
+      "alt": "Encadré de manuel présentant environ, la moitié, un tiers, un quart, tous, aucun, certains, chaque, plusieurs, quelques et la plupart"
+    },
+    {
+      "src": "photos/revision-cause-consequence.png",
+      "caption": "Révision de la cause et de la conséquence",
+      "alt": "Encadré de manuel présentant grâce à, étant donné que, puisque, en conséquence et tellement que"
+    },
+    {
+      "src": "photos/revision-forme-passive.png",
+      "caption": "Révision de la forme passive",
+      "alt": "Encadré de manuel avec des exemples de phrases à la forme passive"
+    },
+    {
+      "src": "photos/revision-conditionnel-et-but.png",
+      "caption": "Révision du conditionnel présent et de l’expression du but",
+      "alt": "Encadrés de manuel présentant le conditionnel présent ainsi que afin de, pour avec l’infinitif et pour que avec le subjonctif"
+    },
+    {
+      "src": "photos/revision-pronoms-demonstratifs-possessifs.png",
+      "caption": "Révision des pronoms démonstratifs et possessifs",
+      "alt": "Encadré de manuel présentant celui, celle, ceux, celles et plusieurs pronoms possessifs"
+    }
+  ]
 }
