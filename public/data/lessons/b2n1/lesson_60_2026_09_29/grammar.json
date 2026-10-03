@@ -1,0 +1,135 @@
+[
+  {
+    "id": "g_2026_09_29_indefinis_quantites",
+    "title": "Les indéfinis et les expressions de quantité : révision",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Quantités et proportions\n",
+        "- **environ** indique une approximation ;",
+        "- **la moitié**, **un tiers**, **un quart**, **les trois quarts** expriment une proportion ;",
+        "- **la plupart de + nom** signifie la majorité d’un ensemble."
+      ],
+      [
+        "### Déterminants et pronoms indéfinis\n",
+        "On retrouve notamment **tous**, **aucun**, **certains**, **chaque**, **plusieurs** et **quelques** pour parler d’une quantité ou d’un ensemble sans le définir précisément."
+      ]
+    ],
+    "examples": [
+      "Environ la moitié des participants sont arrivés.",
+      "Un tiers des étudiants habite loin de l’école.",
+      "Certains pays ont adopté cette mesure.",
+      "La plupart des élèves ont compris l’exercice."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_29_cause_consequence",
+    "title": "Exprimer la cause et la conséquence : révision",
+    "category": "Discourse",
+    "summary": [
+      [
+        "### Exprimer la cause\n",
+        "- **grâce à + nom** présente généralement une cause positive ;",
+        "- **étant donné que + proposition** présente une cause comme un fait pris en compte ;",
+        "- **puisque + proposition** introduit une cause considérée comme connue ou évidente."
+      ],
+      [
+        "### Exprimer la conséquence\n",
+        "- **en conséquence** introduit le résultat d’une situation ;",
+        "- **tellement… que** insiste sur l’intensité qui produit une conséquence."
+      ]
+    ],
+    "examples": [
+      "Grâce à son travail, il a réussi.",
+      "Étant donné qu’il pleut, nous resterons à l’intérieur.",
+      "Puisque tu es là, aide-moi.",
+      "Il a tellement travaillé qu’il est épuisé."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_29_forme_passive",
+    "title": "La forme passive : révision",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Construction\n",
+        "La forme passive se construit avec **être + participe passé**. Le participe passé s’accorde avec le sujet. Le complément d’agent peut être introduit par **par**."
+      ],
+      [
+        "### Transformation\n",
+        "À l’actif, le sujet réalise l’action. Au passif, le complément d’objet direct de la phrase active devient le sujet de la phrase passive."
+      ]
+    ],
+    "examples": [
+      "Le jury a remis le prix. → Le prix a été remis par le jury.",
+      "Le Comité international olympique a choisi un pays. → Un pays a été choisi par le Comité international olympique."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_29_conditionnel_present",
+    "title": "Le conditionnel présent : révision",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Rappel\n",
+        "Le conditionnel présent peut servir à exprimer une hypothèse, une possibilité, une suggestion ou une information présentée avec prudence."
+      ],
+      [
+        "### Formes revues\n",
+        "Quelques formes fréquentes : **il y aurait**, **ce serait**, **on pourrait**, **il ferait**."
+      ]
+    ],
+    "examples": [
+      "Il y aurait une autre solution.",
+      "Ce serait plus simple ainsi.",
+      "On pourrait commencer demain.",
+      "Il ferait moins froid la semaine prochaine."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_29_expression_but",
+    "title": "Exprimer le but : révision",
+    "category": "Discourse",
+    "summary": [
+      [
+        "### Même sujet\n",
+        "Avec le même sujet, on emploie **afin de / pour + infinitif**."
+      ],
+      [
+        "### Sujets différents\n",
+        "Avec des sujets différents, on emploie **pour que + subjonctif**."
+      ]
+    ],
+    "examples": [
+      "Je révise afin de réussir l’examen.",
+      "Nous parlons lentement pour que tout le monde comprenne."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_29_pronoms_demonstratifs_possessifs",
+    "title": "Pronoms démonstratifs et possessifs : révision",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Pronoms démonstratifs\n",
+        "Les formes simples sont **celui**, **celle**, **ceux** et **celles**. Elles remplacent un nom déjà identifié dans le contexte."
+      ],
+      [
+        "### Pronoms possessifs\n",
+        "Les pronoms possessifs remplacent un groupe nominal en indiquant le possesseur : **le mien / la mienne / les miens / les miennes**, **le tien / la tienne / les tiens / les tiennes**, **le nôtre / la nôtre / les nôtres**, etc."
+      ]
+    ],
+    "examples": [
+      "Je préfère celui de Paul.",
+      "Ces chaussures sont celles de ma sœur.",
+      "Mon ordinateur est plus récent que le tien.",
+      "Nos résultats sont meilleurs que les leurs."
+    ],
+    "annotatedExamples": []
+  }
+]
