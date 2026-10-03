@@ -1,0 +1,129 @@
+[
+  {
+    "id": "g_2026_09_30_accord_desaccord",
+    "title": "Exprimer son accord et son désaccord",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Être d’accord ou en désaccord\n",
+        "- **Je suis d’accord. / Je ne suis pas d’accord.**",
+        "- **Je partage ton avis. / Je ne partage pas ton avis.**",
+        "- **Je suis de ton avis. / Je ne suis pas de ton avis.**",
+        "- **Tu as raison. / Tu as tort.**",
+        "- **C’est n’importe quoi !** exprime un désaccord très fort dans un registre familier."
+      ]
+    ],
+    "examples": [
+      "Je suis d’accord avec toi.",
+      "Je ne partage pas ton avis sur cette question.",
+      "À mon avis, tu as raison.",
+      "Je trouve que cette idée est fausse."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_30_exprimer_opinion",
+    "title": "Exprimer une opinion et un jugement",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Donner son opinion\n",
+        "On peut introduire son point de vue avec **personnellement**, **selon moi**, **à mon avis**, **d’après moi** ou **pour moi**.",
+        "Avec **je pense que**, **je crois que**, **j’estime que**, **je considère que**, on emploie normalement **l’indicatif** lorsqu’on affirme son opinion."
+      ],
+      [
+        "### Négation et jugement\n",
+        "Avec **je ne pense pas que**, **je ne crois pas que**, **je ne trouve pas que**, on emploie généralement **le subjonctif**.",
+        "Les jugements du type **c’est super / amusant / génial / honteux / scandaleux que...** et **je trouve super / amusant / génial / scandaleux que...** sont suivis du **subjonctif**.",
+        "Avec le même sujet, on peut employer **c’est + adjectif + de + infinitif** ou **je trouve + adjectif + de + infinitif**."
+      ]
+    ],
+    "examples": [
+      "Selon moi, cette solution est la plus réaliste.",
+      "Je pense que cette mesure est utile.",
+      "Je ne crois pas que cette mesure soit suffisante.",
+      "Je trouve scandaleux qu’on accepte cette situation.",
+      "C’est génial de pouvoir travailler ensemble."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_30_necessite",
+    "title": "Exprimer la nécessité",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Avec l’infinitif\n",
+        "- **il faut + infinitif** ;",
+        "- **on doit + infinitif** ;",
+        "- **il est indispensable / nécessaire / urgent de + infinitif**."
+      ],
+      [
+        "### Avec une proposition\n",
+        "Quand la nécessité porte sur un sujet exprimé dans une proposition introduite par **que**, on emploie le **subjonctif** : **il faut que + subjonctif**, **il est indispensable / nécessaire / important que + subjonctif**."
+      ]
+    ],
+    "examples": [
+      "Il faut réfléchir avant de répondre.",
+      "On doit vérifier les informations.",
+      "Il est nécessaire de réduire les déchets.",
+      "Il faut que nous trouvions une solution.",
+      "Il est important que chacun puisse donner son avis."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_30_concession",
+    "title": "Exprimer la concession",
+    "category": "Discourse",
+    "summary": [
+      [
+        "### Principales constructions\n",
+        "- **pourtant, cependant, néanmoins + indicatif** introduisent une idée qui contraste avec ce qui précède ;",
+        "- **même si + indicatif** introduit un fait admis qui n’empêche pas la réalisation de l’idée principale ;",
+        "- **bien que + subjonctif** introduit une concession ;",
+        "- **malgré + nom** introduit un obstacle ou un élément contraire."
+      ]
+    ],
+    "examples": [
+      "Il est fatigué ; pourtant, il continue à travailler.",
+      "Même s’il pleut, nous sortirons.",
+      "Bien qu’il soit tard, ils continuent la discussion.",
+      "Malgré la pluie, nous sommes sortis."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_09_30_souhait_peur_regret",
+    "title": "Exprimer le souhait, la peur et le regret",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Exprimer le souhait\n",
+        "- **j’espère que + futur** ;",
+        "- **j’aimerais que / je voudrais que + subjonctif**."
+      ],
+      [
+        "### Exprimer la peur\n",
+        "- **j’ai peur de + infinitif** ;",
+        "- **j’ai peur de + nom** ;",
+        "- **j’ai peur que / je crains que + subjonctif**."
+      ],
+      [
+        "### Exprimer le regret\n",
+        "- **j’aurais dû + infinitif** exprime ce qu’il aurait fallu faire ;",
+        "- **j’aurais pu + infinitif** exprime une possibilité passée non réalisée ;",
+        "- **c’est dommage que + subjonctif** exprime un regret ou une déception."
+      ]
+    ],
+    "examples": [
+      "J’espère que tout ira bien.",
+      "J’aimerais que tu viennes demain.",
+      "J’ai peur de faire une erreur.",
+      "Je crains qu’il soit trop tard.",
+      "J’aurais dû partir plus tôt.",
+      "C’est dommage que vous ne puissiez pas venir."
+    ],
+    "annotatedExamples": []
+  }
+]
