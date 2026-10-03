@@ -1,0 +1,86 @@
+[
+  {
+    "id": "v_2026_09_29_anxiogene",
+    "french": "anxiogène",
+    "translation": "тревожный / вызывающий тревогу",
+    "example": "Le flot continu d’informations peut devenir anxiogène.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_29_rebondissement",
+    "french": "un rebondissement",
+    "translation": "неожиданный поворот событий",
+    "example": "Le film se termine par un dernier rebondissement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_29_ecart",
+    "french": "un écart",
+    "translation": "разница / разрыв / отклонение",
+    "example": "Il existe un écart important entre les deux résultats.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_29_ancetre",
+    "french": "un ancêtre",
+    "translation": "предок",
+    "example": "Cet homme cherche des informations sur ses ancêtres.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_29_augmentation",
+    "french": "une augmentation",
+    "translation": "увеличение / рост",
+    "example": "On constate une augmentation des prix cette année.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_29_diminution",
+    "french": "une diminution",
+    "translation": "уменьшение / снижение",
+    "example": "La diminution de la consommation d’énergie est un objectif important.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_29_s_enrichir",
+    "french": "s’enrichir",
+    "translation": "богатеть / обогащаться",
+    "example": "Certaines entreprises se sont enrichies très rapidement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_29_s_appauvrir",
+    "french": "s’appauvrir",
+    "translation": "беднеть / обедняться",
+    "example": "Une partie de la population risque de s’appauvrir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_29_s_endetter",
+    "french": "s’endetter",
+    "translation": "влезать в долги / брать на себя долги",
+    "example": "Il ne veut pas s’endetter pour acheter une voiture.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_29_rides",
+    "french": "les rides",
+    "translation": "морщины",
+    "example": "Avec l’âge, des rides apparaissent sur le visage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_29_faire_des_calins",
+    "french": "faire des câlins à quelqu’un",
+    "translation": "обнимать / ласкать кого-либо",
+    "example": "Elle aime faire des câlins à ses enfants.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_09_29_calin",
+    "french": "un câlin",
+    "translation": "объятие / ласка",
+    "example": "Il lui a fait un câlin pour la rassurer.",
+    "status": "learning"
+  }
+]
