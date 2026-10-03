@@ -1,0 +1,240 @@
+[
+  {
+    "id": "v_2026_10_02_cendre",
+    "french": "la cendre",
+    "translation": "пепел / зола",
+    "example": "La cendre recouvrait encore une partie du sol après l'incendie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_resoudre",
+    "french": "résoudre",
+    "translation": "решать / разрешать",
+    "example": "La ville cherche à résoudre plusieurs problèmes liés au quartier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_en_ruine",
+    "french": "en ruine",
+    "translation": "в руинах / разрушенный",
+    "example": "Après la fermeture de l'usine, certains bâtiments sont restés en ruine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_usine",
+    "french": "l’usine",
+    "translation": "завод / фабрика",
+    "example": "L'ancienne usine a été reconvertie en espace culturel.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_laid",
+    "french": "laid / laide",
+    "translation": "некрасивый / уродливый",
+    "example": "Certains habitants trouvaient le quartier laid avant sa rénovation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_gracieux",
+    "french": "gracieux / gracieuse",
+    "translation": "изящный / приятный",
+    "example": "Le bâtiment possède une façade gracieuse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_disgracieux",
+    "french": "disgracieux / disgracieuse",
+    "translation": "неэстетичный / некрасивый",
+    "example": "Cet ancien entrepôt paraît disgracieux au milieu des immeubles rénovés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_colline",
+    "french": "la colline",
+    "translation": "холм",
+    "example": "La ville s'étend jusqu'à la colline.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_miner",
+    "french": "miner",
+    "translation": "добывать в шахте",
+    "example": "On a longtemps miné du charbon dans cette région.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_mineur",
+    "french": "un mineur",
+    "translation": "шахтёр",
+    "example": "De nombreux mineurs travaillaient autrefois dans le bassin industriel.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_mine",
+    "french": "la mine",
+    "translation": "шахта",
+    "example": "La mine a fermé il y a plusieurs décennies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_carriere_marbre",
+    "french": "une carrière de marbre",
+    "translation": "мраморный карьер",
+    "example": "La région possède une ancienne carrière de marbre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_desormais",
+    "french": "désormais",
+    "translation": "отныне / теперь",
+    "example": "Désormais, ce quartier accueille des commerces et des lieux culturels.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_fresque_murale",
+    "french": "une fresque murale",
+    "translation": "настенная фреска / мурал",
+    "example": "Une fresque murale colore la façade de l'ancien bâtiment.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_exode",
+    "french": "l’exode",
+    "translation": "исход / массовый отъезд",
+    "example": "La fermeture des industries a provoqué un exode d'une partie de la population.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_redynamiser",
+    "french": "redynamiser",
+    "translation": "оживить / придать новый импульс",
+    "example": "La municipalité veut redynamiser le centre-ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_rendre_plus_attrayant",
+    "french": "rendre plus attrayant",
+    "translation": "сделать более привлекательным",
+    "example": "Les nouveaux aménagements rendent le quartier plus attrayant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_embellir",
+    "french": "embellir",
+    "translation": "украшать / делать красивее",
+    "example": "La rénovation a permis d'embellir la place.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_enlaidir",
+    "french": "enlaidir",
+    "translation": "уродовать / делать менее красивым",
+    "example": "Des bâtiments abandonnés peuvent enlaidir un quartier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_insalubre",
+    "french": "insalubre",
+    "translation": "антисанитарный / непригодный для проживания",
+    "example": "L'ancien logement était devenu insalubre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_reamenagement",
+    "french": "un réaménagement",
+    "translation": "переустройство / перепланировка",
+    "example": "Le réaménagement du centre-ville a changé la circulation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_edifice",
+    "french": "un édifice",
+    "translation": "здание / сооружение",
+    "example": "Cet édifice industriel a été conservé comme patrimoine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_se_reinventer",
+    "french": "se réinventer",
+    "translation": "переосмыслить себя / преобразиться",
+    "example": "Après la crise industrielle, la ville cherche à se réinventer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_redorer",
+    "french": "redorer",
+    "translation": "восстановить престиж / улучшить имидж",
+    "example": "La ville veut redorer son image.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_reconvertir",
+    "french": "reconvertir",
+    "translation": "переоборудовать / перепрофилировать",
+    "example": "On a reconverti l'ancienne usine en musée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_longer",
+    "french": "longer",
+    "translation": "идти вдоль",
+    "example": "Nous avons longé la rivière jusqu'au centre-ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_le_long_de",
+    "french": "le long de",
+    "translation": "вдоль",
+    "example": "De nouveaux espaces verts ont été aménagés le long de la rivière.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_gaiete",
+    "french": "la gaieté",
+    "translation": "веселье / жизнерадостность",
+    "example": "Les couleurs de la fresque apportent de la gaieté au quartier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_notamment",
+    "french": "notamment",
+    "translation": "в частности / особенно",
+    "example": "La ville a rénové plusieurs bâtiments, notamment l'ancienne gare.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_rajeunir",
+    "french": "rajeunir",
+    "translation": "омолаживать / обновлять",
+    "example": "Ces projets ont contribué à rajeunir l'image de la ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_pied_a_terre",
+    "french": "un pied-à-terre",
+    "translation": "временное жильё / небольшая квартира для кратких остановок",
+    "example": "Ils ont acheté un petit pied-à-terre près du centre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_il_n_y_a_pas_photo",
+    "french": "il n’y a pas photo",
+    "translation": "нет никаких сомнений / сравнение очевидно",
+    "example": "Entre les deux projets, il n'y a pas photo : le second est plus convaincant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_affreux",
+    "french": "affreux / affreuse",
+    "translation": "ужасный / отвратительный",
+    "example": "Avant les travaux, certains habitants trouvaient l'endroit affreux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_02_moche",
+    "french": "moche",
+    "translation": "некрасивый / уродливый (разг.)",
+    "example": "Il trouvait l'ancien bâtiment moche, mais il apprécie sa rénovation.",
+    "status": "learning"
+  }
+]
