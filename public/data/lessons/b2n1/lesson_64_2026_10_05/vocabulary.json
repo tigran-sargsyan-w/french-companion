@@ -1,0 +1,30 @@
+[
+  {
+    "id": "v_2026_10_05_abime",
+    "french": "abîmé / abîmée",
+    "translation": "повреждённый / испорченный",
+    "example": "Le bâtiment est abîmé et nécessite des travaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_05_deteriore",
+    "french": "détérioré / détériorée",
+    "translation": "испорченный / ухудшившийся",
+    "example": "La façade s’est détériorée avec le temps.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_05_pelerinage",
+    "french": "un pèlerinage",
+    "translation": "паломничество",
+    "example": "Chaque année, de nombreux visiteurs font un pèlerinage dans cette ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_05_atout",
+    "french": "un atout",
+    "translation": "преимущество / козырь",
+    "example": "La proximité des transports est un atout pour ce quartier.",
+    "status": "learning"
+  }
+]

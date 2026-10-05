@@ -628,5 +628,15 @@
     "classLevel": "B2N1",
     "status": "done",
     "path": "data/lessons/b2n1/lesson_63_2026_10_02"
+  },
+  {
+    "id": "lesson_64_2026_10_05",
+    "number": 64,
+    "title": "Éviter les répétitions, Le Corbusier et modernisation des villes",
+    "date": "2026-10-05",
+    "level": "B2",
+    "classLevel": "B2N1",
+    "status": "done",
+    "path": "data/lessons/b2n1/lesson_64_2026_10_05"
   }
 ]

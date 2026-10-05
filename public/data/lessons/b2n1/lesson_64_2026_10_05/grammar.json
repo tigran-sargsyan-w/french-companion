@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g_2026_10_05_eviter_repetitions",
+    "title": "Éviter les répétitions : reformulation et pronoms démonstratifs",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Plusieurs moyens pour éviter une répétition\n",
+        "- utiliser une **reformulation**, un synonyme, un surnom ou un équivalent ;",
+        "- reprendre le nom avec un **pronom** sujet ou complément ;",
+        "- utiliser un **pronom démonstratif** : **celui, celle, ceux, celles** ;",
+        "- employer **ce dernier / cette dernière** pour reprendre le dernier élément cité."
+      ],
+      [
+        "### Pronoms démonstratifs\n",
+        "Les formes **celui, celle, ceux, celles** remplacent un nom déjà mentionné et s’accordent avec ce nom en genre et en nombre.",
+        "Elles peuvent être suivies de **-ci** ou **-là** : **celui-ci, celle-là, ceux-ci, celles-là**."
+      ],
+      [
+        "### Avec une proposition relative\n",
+        "Le pronom démonstratif peut être suivi d’un pronom relatif : **celui que**, **celle que**, **ceux qui**, etc.",
+        "Exemple du cours : **Celui que j’ai préféré, c’est Titanic.**"
+      ],
+      [
+        "### Ce dernier / cette dernière\n",
+        "**Ce dernier / cette dernière** reprend le dernier élément cité et permet d’éviter de répéter le même nom."
+      ]
+    ],
+    "examples": [
+      "J’ai vu deux films. J’ai préféré celui-ci.",
+      "Celui que j’ai préféré, c’est Titanic.",
+      "J’ai deux robes pour aller au mariage. Celle que je préfère est la robe bleue.",
+      "Je préfère celle-là.",
+      "Bruxelles est très différente de Charleroi. Cette dernière a une histoire industrielle très importante."
+    ],
+    "annotatedExamples": []
+  }
+]
