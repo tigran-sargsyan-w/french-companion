@@ -8,5 +8,26 @@
     ]
   ],
   "notes": "Fait en classe:\n- Correction des devoirs et révision de l’expression de la cause.\n- Livre pages 24-25 : exercices 16 à 17.\n- Travail sur les moyens d’éviter les répétitions : reformulation, synonymes, pronoms et pronoms démonstratifs.\n- Activité « Le Corbusier et sa cité rêvée ».\n- Thème : architecture et modernisation des villes.\n\nGrammaire:\n- Pronoms démonstratifs : celui, celle, ceux, celles, avec éventuellement -ci ou -là.\n- Emploi de ce dernier / cette dernière pour reprendre le dernier élément cité.\n\nVocabulaire:\n- abîmé / abîmée ; détérioré / détériorée ; un pèlerinage ; un atout.\n\nDevoir:\n- Exercice 12 page 8 et exercice 13 page 9, pour le 6 octobre.",
-  "photos": []
+  "photos": [
+    {
+      "src": "photos/course-summary.png",
+      "caption": "Message récapitulatif du cours du 5 octobre",
+      "alt": "Capture du message de cours indiquant la correction des devoirs, les exercices du livre, le travail sur les pronoms démonstratifs, l’activité sur Le Corbusier et les devoirs"
+    },
+    {
+      "src": "photos/demonstrative-pronouns-notes.png",
+      "caption": "Notes de cours sur les pronoms démonstratifs",
+      "alt": "Photo de notes manuscrites avec des exemples utilisant celui-ci, celui que, celle que et celle-là, ainsi que du vocabulaire"
+    },
+    {
+      "src": "photos/avoid-repetitions-exercise.png",
+      "caption": "Manuel : éviter les répétitions",
+      "alt": "Photo d’un encadré de manuel présentant la reformulation, les pronoms démonstratifs et l’expression ce dernier ou cette dernière"
+    },
+    {
+      "src": "photos/avoid-repetitions-reference.png",
+      "caption": "Fiche de référence : éviter les répétitions",
+      "alt": "Photo d’une page de manuel récapitulant les synonymes, les pronoms, les pronoms démonstratifs et ce dernier ou cette dernière"
+    }
+  ]
 }
