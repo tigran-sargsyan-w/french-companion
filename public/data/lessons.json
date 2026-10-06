@@ -638,5 +638,15 @@
     "classLevel": "B2N1",
     "status": "done",
     "path": "data/lessons/b2n1/lesson_64_2026_10_05"
+  },
+  {
+    "id": "lesson_65_2026_10_06",
+    "number": 65,
+    "title": "Ville ou campagne, vocabulaire urbain et pronoms démonstratifs",
+    "date": "2026-10-06",
+    "level": "B2",
+    "classLevel": "B2N1",
+    "status": "done",
+    "path": "data/lessons/b2n1/lesson_65_2026_10_06"
   }
 ]

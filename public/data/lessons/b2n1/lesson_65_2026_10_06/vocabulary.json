@@ -1,0 +1,352 @@
+[
+  {
+    "id": "v_2026_10_06_sain",
+    "french": "sain / saine",
+    "translation": "здоровый / полезный для здоровья",
+    "example": "À la campagne, certains trouvent que la vie est plus saine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_epanouir",
+    "french": "s’épanouir",
+    "translation": "развиваться / раскрывать свой потенциал",
+    "example": "Elle s’épanouit dans un environnement calme.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_divertir",
+    "french": "se divertir",
+    "translation": "развлекаться",
+    "example": "En ville, il est facile de se divertir le soir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_etre_bien_loge",
+    "french": "être bien logé",
+    "translation": "жить хорошо / быть хорошо размещённым",
+    "example": "Il est important d'être bien logé pour vivre en toute sécurité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_entraider",
+    "french": "s’entraider",
+    "translation": "помогать друг другу / взаимовыручать",
+    "example": "Dans ce quartier, les voisins s’entraident beaucoup.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_adherer",
+    "french": "adhérer à",
+    "translation": "вступать в / присоединяться к / поддерживать",
+    "example": "Il adhère à une association locale.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_casanier",
+    "french": "casanier / casanière",
+    "translation": "домосед / любящий сидеть дома",
+    "example": "Même en ville, il reste assez casanier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_cesser",
+    "french": "cesser",
+    "translation": "прекращать",
+    "example": "La circulation ne cesse pas aux heures de pointe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_croitre",
+    "french": "croître",
+    "translation": "расти / увеличиваться",
+    "example": "La population urbaine continue de croître.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_degager",
+    "french": "dégager",
+    "translation": "освобождать / выделять",
+    "example": "La mairie veut dégager plus d’espace pour les piétons.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_viser_a",
+    "french": "viser à",
+    "translation": "стремиться к / иметь целью",
+    "example": "Le projet vise à réduire la circulation automobile.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_concu",
+    "french": "conçu / conçue",
+    "translation": "разработанный / задуманный",
+    "example": "Ce quartier a été conçu pour les piétons.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_convoite",
+    "french": "convoité / convoitée",
+    "translation": "желанный / пользующийся высоким спросом",
+    "example": "Ce secteur est très convoité à cause de sa proximité du centre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_fournir",
+    "french": "fournir",
+    "translation": "предоставлять / снабжать",
+    "example": "La ville doit fournir des services publics efficaces.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_flux_circulation",
+    "french": "les flux de circulation",
+    "translation": "транспортные потоки",
+    "example": "La municipalité cherche à mieux gérer les flux de circulation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_potable",
+    "french": "potable",
+    "translation": "питьевой / пригодный для питья",
+    "example": "Tous les habitants doivent avoir accès à l’eau potable.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_lotissement",
+    "french": "un lotissement",
+    "translation": "жилой массив / квартал застройки",
+    "example": "Un nouveau lotissement a été construit en périphérie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_gestion",
+    "french": "la gestion",
+    "translation": "управление",
+    "example": "La gestion des déchets est un enjeu important pour la ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_notion_de",
+    "french": "la notion de",
+    "translation": "понятие / концепция",
+    "example": "Nous avons étudié la notion de densification urbaine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_desormais",
+    "french": "désormais",
+    "translation": "отныне / теперь",
+    "example": "Désormais, cette rue est réservée aux piétons.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_exode_rural",
+    "french": "l’exode rural",
+    "translation": "отток населения из сельской местности",
+    "example": "L’exode rural a contribué à la croissance de nombreuses villes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_maitriser",
+    "french": "maîtriser",
+    "translation": "контролировать / сдерживать / овладевать",
+    "example": "La ville veut maîtriser son développement urbain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_etalement_urbain",
+    "french": "l’étalement urbain",
+    "translation": "разрастание города",
+    "example": "L’étalement urbain augmente les distances de déplacement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_densification",
+    "french": "la densification",
+    "translation": "уплотнение городской застройки",
+    "example": "La densification permet de construire davantage dans les zones déjà urbanisées.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_tete_en_lair",
+    "french": "avoir la tête en l’air",
+    "translation": "быть рассеянным / витать в облаках",
+    "example": "Il a encore oublié ses clés : il a vraiment la tête en l’air.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_mendicite",
+    "french": "la mendicité",
+    "translation": "попрошайничество",
+    "example": "La mendicité fait partie des sujets débattus dans certaines villes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_mendiant",
+    "french": "un mendiant / une mendiante",
+    "translation": "нищий / попрошайка",
+    "example": "Un mendiant est assis près de la station de métro.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_mendier",
+    "french": "mendier",
+    "translation": "просить милостыню",
+    "example": "Certaines personnes mendient dans les rues très fréquentées.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_faire_la_manche",
+    "french": "faire la manche",
+    "translation": "просить милостыню",
+    "example": "Il fait la manche devant la gare.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_vendeur_ambulant",
+    "french": "un vendeur ambulant / une vendeuse ambulante",
+    "translation": "уличный / передвижной продавец",
+    "example": "Les vendeurs ambulants travaillent souvent dans les zones très fréquentées.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_eclairage",
+    "french": "l’éclairage",
+    "translation": "освещение",
+    "example": "Un bon éclairage améliore la sécurité dans les rues.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_voie",
+    "french": "une voie",
+    "translation": "дорога / полоса / путь",
+    "example": "Cette voie est réservée aux bus et aux vélos.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_agglomeration",
+    "french": "une agglomération",
+    "translation": "агломерация",
+    "example": "Lyon fait partie d’une grande agglomération.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_riverain",
+    "french": "un riverain / une riveraine",
+    "translation": "местный житель / житель, живущий рядом",
+    "example": "Les riverains se plaignent du bruit nocturne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_hameau",
+    "french": "un hameau",
+    "translation": "деревушка / небольшой посёлок",
+    "example": "Le hameau ne compte qu’une dizaine de maisons.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_passant",
+    "french": "un passant / une passante",
+    "translation": "прохожий / прохожая",
+    "example": "Un passant a indiqué le chemin aux touristes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_chaussee",
+    "french": "la chaussée",
+    "translation": "проезжая часть",
+    "example": "Les cyclistes ne doivent pas toujours circuler sur la chaussée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_passage_pieton",
+    "french": "un passage piéton",
+    "translation": "пешеходный переход",
+    "example": "Les enfants traversent au passage piéton.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_lampadaire",
+    "french": "un lampadaire",
+    "translation": "уличный фонарь",
+    "example": "Les nouveaux lampadaires consomment moins d’énergie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_caniveau",
+    "french": "un caniveau",
+    "translation": "водосток / канава вдоль дороги",
+    "example": "L’eau de pluie s’écoule dans le caniveau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_bouche_egout",
+    "french": "une bouche d’égout",
+    "translation": "канализационный люк / слив",
+    "example": "Une bouche d’égout est située au bord de la chaussée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_piste_cyclable",
+    "french": "une piste cyclable",
+    "translation": "велосипедная дорожка",
+    "example": "La ville développe son réseau de pistes cyclables.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_carrefour",
+    "french": "un carrefour",
+    "translation": "перекрёсток",
+    "example": "Il y a souvent des embouteillages à ce carrefour.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_rond_point",
+    "french": "un rond-point",
+    "translation": "круговой перекрёсток",
+    "example": "Prenez la deuxième sortie au rond-point.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_remparts",
+    "french": "les remparts",
+    "translation": "крепостные стены",
+    "example": "Les remparts entourent encore une partie de la vieille ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_gratte_ciel",
+    "french": "un gratte-ciel",
+    "translation": "небоскрёб",
+    "example": "De nouveaux gratte-ciel ont transformé le paysage urbain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_promiscuite",
+    "french": "la promiscuité",
+    "translation": "скученность / тесное соседство",
+    "example": "La promiscuité peut être difficile à supporter dans les logements très denses.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_delinquance",
+    "french": "la délinquance",
+    "translation": "правонарушения / преступность",
+    "example": "La mairie veut réduire la délinquance dans certains quartiers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_vandalisme",
+    "french": "le vandalisme",
+    "translation": "вандализм",
+    "example": "Le vandalisme dégrade les équipements publics.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_06_detritus",
+    "french": "des détritus",
+    "translation": "мусор / отходы",
+    "example": "Il ne faut pas laisser de détritus dans la rue.",
+    "status": "learning"
+  }
+]
