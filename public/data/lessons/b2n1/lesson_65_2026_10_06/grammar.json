@@ -1,0 +1,30 @@
+[
+  {
+    "id": "g_2026_10_06_pronoms_demonstratifs_revision",
+    "title": "Révision des pronoms démonstratifs",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Formes simples\n",
+        "- **celui** remplace un nom masculin singulier ;",
+        "- **celle** remplace un nom féminin singulier ;",
+        "- **ceux** remplace un nom masculin pluriel ;",
+        "- **celles** remplace un nom féminin pluriel."
+      ],
+      [
+        "### Avec -ci et -là\n",
+        "On peut employer **celui-ci / celui-là, celle-ci / celle-là, ceux-ci / ceux-là, celles-ci / celles-là** pour désigner ou opposer plusieurs éléments."
+      ],
+      [
+        "### Avec un pronom relatif\n",
+        "Les pronoms démonstratifs peuvent être suivis de **qui, que, dont** ou d’un autre pronom relatif : **celui qui**, **celle que**, **ceux dont**, etc."
+      ]
+    ],
+    "examples": [
+      "J’hésite entre ces deux quartiers : celui-ci est plus calme, mais celui-là est mieux desservi.",
+      "La ville que je préfère est celle qui offre le plus de transports publics.",
+      "Parmi ces projets, ceux qui favorisent les piétons me semblent les plus intéressants."
+    ],
+    "annotatedExamples": []
+  }
+]
