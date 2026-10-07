@@ -1,0 +1,135 @@
+[
+  {
+    "id": "v_2026_10_07_loyers",
+    "french": "les loyers",
+    "translation": "арендная плата / квартплата",
+    "example": "Les loyers ont fortement augmenté dans certains quartiers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_entrainer",
+    "french": "entraîner",
+    "translation": "влечь за собой / вызывать",
+    "example": "La hausse des prix peut entraîner le départ de certains habitants.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_abriter",
+    "french": "abriter",
+    "translation": "вмещать / давать приют / размещать",
+    "example": "Ce quartier abrite de nombreux commerces et associations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_canut",
+    "french": "un canut",
+    "translation": "лионский ткач шёлка",
+    "example": "Les canuts ont marqué l’histoire de Lyon.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_soie",
+    "french": "la soie",
+    "translation": "шёлк",
+    "example": "Lyon est célèbre pour son histoire liée à la soie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_cosmopolite",
+    "french": "cosmopolite",
+    "translation": "космополитичный / многонациональный",
+    "example": "Lyon est une ville cosmopolite.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_apprecier",
+    "french": "apprécier",
+    "translation": "ценить / любить",
+    "example": "J’apprécie particulièrement les quartiers proches des quais.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_contrepartie",
+    "french": "une contrepartie",
+    "translation": "компенсация / обратная сторона",
+    "example": "La rénovation d’un quartier peut avoir comme contrepartie une hausse des loyers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_mutation",
+    "french": "une mutation",
+    "translation": "изменение / преобразование",
+    "example": "Le quartier connaît une profonde mutation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_deconcentrer",
+    "french": "déconcentrer",
+    "translation": "децентрализовать / рассредоточивать",
+    "example": "La ville cherche à déconcentrer certaines activités du centre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_pauvrete",
+    "french": "la pauvreté",
+    "translation": "бедность",
+    "example": "La pauvreté reste visible dans certaines zones urbaines.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_se_recomposer",
+    "french": "se recomposer",
+    "translation": "перестраиваться / преобразовываться",
+    "example": "La population du quartier se recompose progressivement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_se_multiplier",
+    "french": "se multiplier",
+    "translation": "увеличиваться / множиться",
+    "example": "Les commerces branchés se multiplient dans le quartier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_lancer",
+    "french": "lancer",
+    "translation": "запускать / начинать",
+    "example": "La mairie a lancé un nouveau projet de rénovation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_strict",
+    "french": "strict / stricte",
+    "translation": "строгий / строгая",
+    "example": "La ville applique des règles plus strictes pour protéger certains espaces.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_preservation",
+    "french": "la préservation",
+    "translation": "сохранение / защита",
+    "example": "La préservation du patrimoine est importante pour Lyon.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_par_consequent",
+    "french": "par conséquent",
+    "translation": "следовательно / вследствие этого",
+    "example": "Les loyers augmentent ; par conséquent, certains habitants doivent partir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_abordable",
+    "french": "abordable",
+    "translation": "доступный по цене",
+    "example": "Il devient difficile de trouver un logement abordable dans le centre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_07_modeste",
+    "french": "modeste",
+    "translation": "скромный / небогатый",
+    "example": "Les ménages modestes sont particulièrement touchés par la hausse des loyers.",
+    "status": "learning"
+  }
+]
