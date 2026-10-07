@@ -8,5 +8,21 @@
     ]
   ],
   "notes": "Fait en classe:\n- Correction des devoirs.\n- Activité « Ma ville » : parler de Lyon, identifier les principaux problèmes de la ville et proposer des solutions.\n- Livre pages 28-29-30 : tous les exercices jusqu’à l’exercice 11 page 30.\n- Travail sur la gentrification.\n- Expression de la conséquence.\n\nVocabulaire:\n- Logement, évolution des quartiers, identité lyonnaise et transformations urbaines.\n- Vocabulaire relevé dans les notes manuscrites : loyers, canut, soie, cosmopolite, contrepartie, mutation, pauvreté, préservation, abordable, etc.\n\nGrammaire:\n- Expression de la conséquence avec notamment « par conséquent » et le verbe « entraîner ».\n\nDevoir:\n- Pas de devoirs.",
-  "photos": []
+  "photos": [
+    {
+      "src": "photos/course-summary-07-10.png",
+      "caption": "Message récapitulatif du cours du 7 octobre",
+      "alt": "Capture du message de cours indiquant la correction des devoirs, l’activité Ma ville, le travail sur Lyon, la gentrification et l’expression de la conséquence"
+    },
+    {
+      "src": "photos/handwritten-lyon-vocabulary.png",
+      "caption": "Notes manuscrites de vocabulaire sur Lyon et les transformations urbaines",
+      "alt": "Photo d’une feuille de notes manuscrites avec du vocabulaire sur les loyers, les canuts, la soie, la pauvreté, les mutations urbaines et le logement"
+    },
+    {
+      "src": "photos/ma-ville-activity.png",
+      "caption": "Fiche d’activité « Ma ville »",
+      "alt": "Fiche d’activité orale sur la description de sa ville, les problèmes urbains, les solutions et les bons plans"
+    }
+  ]
 }
