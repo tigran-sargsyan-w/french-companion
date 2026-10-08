@@ -658,5 +658,15 @@
     "classLevel": "B2N1",
     "status": "done",
     "path": "data/lessons/b2n1/lesson_66_2026_10_07"
+  },
+  {
+    "id": "lesson_67_2026_10_08",
+    "number": 67,
+    "title": "La conséquence, le pronom neutre « le » et les transformations urbaines",
+    "date": "2026-10-08",
+    "level": "B2",
+    "classLevel": "B2N1",
+    "status": "done",
+    "path": "data/lessons/b2n1/lesson_67_2026_10_08"
   }
 ]
