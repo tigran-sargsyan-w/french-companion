@@ -1,0 +1,163 @@
+[
+  {
+    "id": "v_2026_10_08_penible",
+    "french": "pénible",
+    "translation": "трудный / неприятный",
+    "example": "Ce trajet est pénible.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_tourisme_de_masse",
+    "french": "le tourisme de masse",
+    "translation": "массовый туризм",
+    "example": "Le tourisme de masse transforme certains quartiers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_proximite",
+    "french": "la proximité",
+    "translation": "близость",
+    "example": "J’apprécie la proximité des commerces.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_colloque",
+    "french": "un colloque",
+    "translation": "конференция / симпозиум",
+    "example": "Le colloque porte sur la ville.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_surpoids",
+    "french": "le surpoids",
+    "translation": "избыточный вес",
+    "example": "La sédentarité favorise le surpoids.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_pot_d_echappement",
+    "french": "un pot d’échappement",
+    "translation": "выхлопная труба",
+    "example": "La fumée sort du pot d’échappement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_pedibus",
+    "french": "un pédibus",
+    "translation": "организованный пеший маршрут в школу",
+    "example": "Les enfants vont à l’école en pédibus.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_piste_cyclable",
+    "french": "une piste cyclable",
+    "translation": "велодорожка",
+    "example": "Cette piste cyclable traverse le quartier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_sedentarite",
+    "french": "la sédentarité",
+    "translation": "малоподвижный образ жизни",
+    "example": "La sédentarité peut nuire à la santé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_cour",
+    "french": "une cour",
+    "translation": "двор",
+    "example": "Les élèves jouent dans la cour.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_densification",
+    "french": "la densification",
+    "translation": "уплотнение городской застройки",
+    "example": "La densification change le paysage urbain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_l_etalement_urbain",
+    "french": "l’étalement urbain",
+    "translation": "разрастание городской застройки",
+    "example": "L’étalement urbain augmente les distances.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_splendide",
+    "french": "splendide",
+    "translation": "великолепный",
+    "example": "La vue est splendide.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_regulation",
+    "french": "la régulation",
+    "translation": "регулирование",
+    "example": "La régulation du trafic réduit le bruit.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_regularisation",
+    "french": "la régularisation",
+    "translation": "урегулирование / легализация",
+    "example": "La régularisation suit une procédure officielle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_retombees",
+    "french": "des retombées",
+    "translation": "последствия / результаты",
+    "example": "Le projet a des retombées économiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_repercussion",
+    "french": "une répercussion",
+    "translation": "последствие / влияние",
+    "example": "Cette mesure a des répercussions sur les riverains.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_riverain_une_riveraine",
+    "french": "un riverain / une riveraine",
+    "translation": "местный житель / жительница",
+    "example": "Les riverains dénoncent le bruit.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_davantage",
+    "french": "davantage",
+    "translation": "больше",
+    "example": "Il faut planter davantage d’arbres.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_abordable",
+    "french": "abordable",
+    "translation": "доступный по цене",
+    "example": "Ce logement est abordable.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_aboutir_a",
+    "french": "aboutir à",
+    "translation": "приводить к",
+    "example": "La négociation a abouti à un accord.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_conduire_a",
+    "french": "conduire à",
+    "translation": "приводить к",
+    "example": "Cela peut conduire à un changement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_08_provoquer",
+    "french": "provoquer",
+    "translation": "вызывать / провоцировать",
+    "example": "La hausse des loyers provoque des départs.",
+    "status": "learning"
+  }
+]
