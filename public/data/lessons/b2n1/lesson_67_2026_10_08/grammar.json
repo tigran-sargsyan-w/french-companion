@@ -1,0 +1,102 @@
+[
+  {
+    "id": "g_2026_10_08_consequence_connecteurs",
+    "title": "Expression de la conséquence : connecteurs et verbes",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Conséquence simple\n",
+        "| Expression | Construction | Nuance |",
+        "|---|---|---|",
+        "| **donc**, **alors**, **c’est pourquoi** | proposition | Résultat logique |",
+        "| **aussi** | proposition (inversion fréquente) | Registre soutenu |",
+        "| **par conséquent** | proposition | Registre formel |",
+        "| **du coup** | proposition | Registre oral |",
+        "| **si bien que**, **de sorte que** | indicatif | Résultat effectivement réalisé |",
+        "| **d’où** | groupe nominal | Résultat connu ou déduit |",
+        "| **sans que** | subjonctif | Fait qui ne se produit pas |",
+        "| **sans** | infinitif | Même sujet |"
+      ],
+      [
+        "### Verbes exprimant une conséquence\n",
+        "- **entraîner / provoquer + nom** ;",
+        "- **aboutir à / conduire à + nom ou infinitif**.",
+        "Attention : **de sorte que** peut aussi exprimer un but avec le subjonctif, selon le sens."
+      ]
+    ],
+    "examples": [
+      "Les villes changent, donc nous devons nous adapter.",
+      "Il y a beaucoup de transports en commun, si bien que je ne prends presque jamais ma voiture.",
+      "Les loyers augmentent ; par conséquent, certains habitants déménagent.",
+      "La gentrification entraîne de profonds changements.",
+      "Elle ne peut pas sortir sans que les journalistes la suivent.",
+      "Il est parti sans vérifier la porte."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_10_08_consequence_intensite",
+    "title": "Conséquence : intensité et quantité",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Quantité\n",
+        "**tant de / tellement de + nom + que + indicatif** : l’effet dépend d’une grande quantité.",
+        "Il y a tant de touristes dans mon quartier que les rues sont bondées."
+      ],
+      [
+        "### Intensité\n",
+        "| Construction | Exemple |",
+        "|---|---|",
+        "| **si / tellement + adjectif ou adverbe + que** | Il est si fatigué qu’il rentre. |",
+        "| **verbe + tellement / tant + que** | Elle travaille tellement qu’elle est épuisée. |",
+        "| **à tel point que / au point que** | Les loyers montent à tel point que des habitants partent. |",
+        "| **au point de + infinitif** | Il est fatigué au point de ne pas venir. |"
+      ],
+      [
+        "### Mode\n",
+        "Les propositions de conséquence constatée introduites par **que** sont normalement à l’**indicatif**."
+      ]
+    ],
+    "examples": [
+      "Il y a tant de touristes dans mon quartier que c’est devenu difficile de trouver un endroit tranquille.",
+      "Mon loyer est tellement cher que j’envisage de déménager.",
+      "Les loyers ont augmenté à tel point que les classes moyennes ont du mal à se loger.",
+      "Elle habite tellement loin de son travail qu’elle met deux heures pour y aller."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_10_08_pronom_neutre_le",
+    "title": "Le pronom neutre « le » ; rappel de « en » et « y »",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Le pronom neutre « le »\n",
+        "**Le** invariable reprend un **adjectif attribut** ou une **proposition / idée entière**.",
+        "- Bruxelles est magnifique et elle **le** sera toujours. (magnifique)",
+        "- La gentrification peut provoquer des problèmes. Tout le monde **le** sait. (idée entière)"
+      ],
+      [
+        "### Comparaison\n",
+        "| Pronom | Remplace | Exemple |",
+        "|---|---|",
+        "| **le** | adjectif attribut ou proposition | Elle est prête et je **le** suis. |",
+        "| **en** | complément en **de** | Elle parle du projet : elle **en** parle. |",
+        "| **y** | complément en **à** pour une chose | Elle pense à ce projet : elle **y** pense. |"
+      ],
+      [
+        "### Attention\n",
+        "Le pronom neutre **le** ne varie pas en genre ou en nombre, contrairement au pronom COD qui reprend un nom."
+      ]
+    ],
+    "examples": [
+      "Certains quartiers populaires le sont de moins en moins.",
+      "Bruxelles est une ville magnifique et elle le sera toujours.",
+      "La gentrification est un problème. On le dit souvent.",
+      "Es-tu content de la nouvelle organisation ? Oui, j’en suis très content.",
+      "La municipalité s’est-elle opposée à la construction ? Oui, elle s’y est opposée."
+    ],
+    "annotatedExamples": []
+  }
+]
