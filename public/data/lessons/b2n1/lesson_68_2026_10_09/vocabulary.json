@@ -1,0 +1,534 @@
+[
+  {
+    "id": "v_2026_10_09_se_plaindre",
+    "french": "se plaindre",
+    "translation": "жаловаться",
+    "example": "Les agriculteurs se plaignent de la sécheresse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_intervenir",
+    "french": "intervenir",
+    "translation": "вмешиваться; выступать",
+    "example": "L’État peut intervenir pour soutenir les fermiers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_ca_ne_tourne_pas_rond",
+    "french": "ça ne tourne pas rond",
+    "translation": "что-то идёт не так",
+    "example": "Dans cette exploitation, ça ne tourne pas rond.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_troupeau",
+    "french": "un troupeau",
+    "translation": "стадо",
+    "example": "Le berger surveille son troupeau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_chevre",
+    "french": "une chèvre",
+    "translation": "коза",
+    "example": "La chèvre broute dans le pré.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_berger",
+    "french": "un berger",
+    "translation": "пастух",
+    "example": "Le berger conduit les moutons au pâturage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_l_elevage",
+    "french": "l’élevage",
+    "translation": "животноводство; разведение животных",
+    "example": "L’élevage fait partie de l’agriculture.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_l_agriculture",
+    "french": "l’agriculture",
+    "translation": "сельское хозяйство",
+    "example": "L’agriculture occupe une place importante dans cette région.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_cultiver",
+    "french": "cultiver",
+    "translation": "выращивать; возделывать",
+    "example": "On cultive du blé dans ce champ.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_agriculteur",
+    "french": "un agriculteur",
+    "translation": "сельскохозяйственный работник; фермер",
+    "example": "Cet agriculteur cultive des légumes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_fermier",
+    "french": "un fermier",
+    "translation": "фермер",
+    "example": "Le fermier s’occupe de ses animaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_ferme",
+    "french": "une ferme",
+    "translation": "ферма",
+    "example": "La ferme produit du lait et des œufs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_exploitation_agricole",
+    "french": "une exploitation agricole",
+    "translation": "сельскохозяйственное хозяйство; предприятие",
+    "example": "Cette exploitation agricole pratique l’agriculture biologique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_recolter",
+    "french": "récolter",
+    "translation": "собирать урожай",
+    "example": "Les ouvriers récoltent les pommes en automne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_potager",
+    "french": "un potager",
+    "translation": "огород",
+    "example": "Nous cultivons des tomates dans notre potager.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_verger",
+    "french": "un verger",
+    "translation": "фруктовый сад",
+    "example": "Ce verger compte plusieurs pommiers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_la_monoculture",
+    "french": "la monoculture",
+    "translation": "монокультура",
+    "example": "La monoculture peut appauvrir les sols.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_le_betail",
+    "french": "le bétail",
+    "translation": "скот",
+    "example": "Le bétail passe l’été dans les pâturages.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_le_ble",
+    "french": "le blé",
+    "translation": "пшеница",
+    "example": "Le blé sert à fabriquer de la farine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_canard",
+    "french": "un canard",
+    "translation": "утка; селезень",
+    "example": "Un canard nage sur l’étang.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_paturage",
+    "french": "un pâturage",
+    "translation": "пастбище",
+    "example": "Les vaches se reposent dans le pâturage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_brouter",
+    "french": "brouter",
+    "translation": "пастись; щипать траву",
+    "example": "Les moutons broutent l’herbe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_terroir",
+    "french": "un terroir",
+    "translation": "терруар; местные природные и культурные особенности",
+    "example": "Ce fromage reflète le terroir de la région.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_denoncer",
+    "french": "dénoncer",
+    "translation": "обличать; разоблачать; сообщать о нарушении",
+    "example": "L’association dénonce les pesticides dangereux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_graine",
+    "french": "une graine",
+    "translation": "семя",
+    "example": "Une graine peut donner naissance à une plante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_semer",
+    "french": "semer",
+    "translation": "сеять",
+    "example": "Les agriculteurs sèment le blé au printemps.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_planter",
+    "french": "planter",
+    "translation": "сажать",
+    "example": "Elle plante des arbres fruitiers.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_le_labour",
+    "french": "le labour",
+    "translation": "вспашка; пахота",
+    "example": "Le labour prépare la terre avant les semis.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_oie",
+    "french": "une oie",
+    "translation": "гусь / гусыня",
+    "example": "Une oie traverse la cour de la ferme.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_dinde",
+    "french": "une dinde",
+    "translation": "индейка",
+    "example": "La dinde vit dans la basse-cour.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_poulet",
+    "french": "un poulet",
+    "translation": "цыплёнок; курица (мясо)",
+    "example": "Le fermier élève des poulets.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_poule",
+    "french": "une poule",
+    "translation": "курица",
+    "example": "La poule pond des œufs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_la_volaille",
+    "french": "la volaille",
+    "translation": "домашняя птица",
+    "example": "Cette ferme élève de la volaille.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_la_mediterranee",
+    "french": "la Méditerranée",
+    "translation": "Средиземное море",
+    "example": "Le climat méditerranéen convient à certains agrumes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_orange",
+    "french": "une orange",
+    "translation": "апельсин",
+    "example": "Elle mange une orange au petit déjeuner.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_mandarine",
+    "french": "une mandarine",
+    "translation": "мандарин",
+    "example": "Les mandarines sont très parfumées.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_clementine",
+    "french": "une clémentine",
+    "translation": "клементин",
+    "example": "La clémentine est facile à éplucher.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_citron",
+    "french": "un citron",
+    "translation": "лимон",
+    "example": "Il presse un citron dans son thé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_pamplemousse",
+    "french": "un pamplemousse",
+    "translation": "грейпфрут; помело (в употреблении)",
+    "example": "Elle coupe un pamplemousse en deux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_les_agrumes",
+    "french": "les agrumes",
+    "translation": "цитрусовые",
+    "example": "Les oranges et les citrons sont des agrumes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_fertiliser",
+    "french": "fertiliser",
+    "translation": "удобрять; делать плодородным",
+    "example": "Le compost permet de fertiliser le sol.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_fertile",
+    "french": "fertile",
+    "translation": "плодородный; фертильный",
+    "example": "Cette terre est très fertile.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_la_fertilite",
+    "french": "la fertilité",
+    "translation": "плодородие; фертильность",
+    "example": "La fertilité du sol dépend de plusieurs facteurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_le_savoir_faire",
+    "french": "le savoir-faire",
+    "translation": "ноу-хау; практическое мастерство",
+    "example": "Ce producteur transmet son savoir-faire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_competence",
+    "french": "une compétence",
+    "translation": "навык; компетенция",
+    "example": "L’irrigation demande des compétences techniques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_tire_bouchon",
+    "french": "un tire-bouchon",
+    "translation": "штопор",
+    "example": "Il utilise un tire-bouchon pour ouvrir la bouteille.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_solidaire",
+    "french": "solidaire",
+    "translation": "солидарный; поддерживающий",
+    "example": "Les producteurs sont solidaires entre eux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_l_epeautre",
+    "french": "l’épeautre",
+    "translation": "полба; спельта",
+    "example": "L’épeautre est une céréale ancienne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_relancer",
+    "french": "relancer",
+    "translation": "возобновлять; перезапускать; оживлять",
+    "example": "La coopérative souhaite relancer la production.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_aride",
+    "french": "aride",
+    "translation": "засушливый; сухой",
+    "example": "Cette région possède un climat aride.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_sec",
+    "french": "sec",
+    "translation": "сухой",
+    "example": "Le sol est trop sec pour semer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_engrais",
+    "french": "un engrais",
+    "translation": "удобрение",
+    "example": "Cet engrais aide les plantes à pousser.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_l_irrigation",
+    "french": "l’irrigation",
+    "translation": "орошение",
+    "example": "L’irrigation permet d’apporter de l’eau aux cultures.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_la_semoule",
+    "french": "la semoule",
+    "translation": "манная крупа; крупа",
+    "example": "La semoule est fabriquée à partir de céréales.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_arroser",
+    "french": "arroser",
+    "translation": "поливать",
+    "example": "Il faut arroser les légumes régulièrement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_le_maraichage",
+    "french": "le maraîchage",
+    "translation": "овощеводство",
+    "example": "Le maraîchage produit des légumes destinés à la vente.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_palmier",
+    "french": "un palmier",
+    "translation": "пальма",
+    "example": "Un palmier pousse près de la maison.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_le_compost",
+    "french": "le compost",
+    "translation": "компост",
+    "example": "Ils utilisent du compost dans le jardin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_isolement",
+    "french": "un isolement",
+    "translation": "изолированность; уединение",
+    "example": "L’isolement des fermes complique parfois les déplacements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_l_isolation",
+    "french": "l’isolation",
+    "translation": "изоляция; утепление",
+    "example": "L’isolation du bâtiment réduit les pertes de chaleur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_paysage",
+    "french": "un paysage",
+    "translation": "пейзаж; ландшафт",
+    "example": "Les champs façonnent le paysage rural.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_millenaire",
+    "french": "un millénaire",
+    "translation": "тысячелетие",
+    "example": "Cette pratique existe depuis plus d’un millénaire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_saisonnier",
+    "french": "saisonnier",
+    "translation": "сезонный",
+    "example": "Le travail saisonnier augmente pendant les récoltes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_champ",
+    "french": "un champ",
+    "translation": "поле",
+    "example": "Le tracteur traverse un champ.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_filiere",
+    "french": "une filière",
+    "translation": "отрасль; производственная цепочка",
+    "example": "La filière laitière regroupe producteurs et transformateurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_la_precarite",
+    "french": "la précarité",
+    "translation": "нестабильное; уязвимое материальное положение",
+    "example": "Certains ouvriers agricoles vivent dans la précarité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_rimer",
+    "french": "rimer",
+    "translation": "рифмоваться; ассоциироваться",
+    "example": "Pour certains, campagne rime avec tranquillité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_le_souk",
+    "french": "le souk",
+    "translation": "сук; рынок; базар",
+    "example": "Nous avons acheté des épices au souk.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_marche",
+    "french": "un marché",
+    "translation": "рынок",
+    "example": "Les fermiers vendent leurs produits au marché.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_marge",
+    "french": "une marge",
+    "translation": "маржа; прибыльная разница; край",
+    "example": "La hausse des coûts réduit la marge des producteurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_etre_a_la_pointe_de",
+    "french": "être à la pointe de",
+    "translation": "быть на переднем крае чего-либо",
+    "example": "Cette ferme est à la pointe de l’innovation agricole.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_abeille",
+    "french": "une abeille",
+    "translation": "пчела",
+    "example": "Une abeille butine une fleur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_apiculteur",
+    "french": "un apiculteur",
+    "translation": "пчеловод",
+    "example": "L’apiculteur récolte le miel.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_ruche",
+    "french": "une ruche",
+    "translation": "улей",
+    "example": "Les abeilles vivent dans une ruche.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_une_vache",
+    "french": "une vache",
+    "translation": "корова",
+    "example": "La vache mange de l’herbe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_09_un_mouton",
+    "french": "un mouton",
+    "translation": "овца; баран",
+    "example": "Le mouton suit le troupeau.",
+    "status": "learning"
+  }
+]
