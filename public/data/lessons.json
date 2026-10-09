@@ -668,5 +668,15 @@
     "classLevel": "B2N1",
     "status": "done",
     "path": "data/lessons/b2n1/lesson_67_2026_10_08"
+  },
+  {
+    "id": "lesson_68_2026_10_09",
+    "number": 68,
+    "title": "L’agriculture, l’élevage et le vocabulaire du monde rural",
+    "date": "2026-10-09",
+    "level": "B2",
+    "classLevel": "B2N1",
+    "status": "done",
+    "path": "data/lessons/b2n1/lesson_68_2026_10_09"
   }
 ]
