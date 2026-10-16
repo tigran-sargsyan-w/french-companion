@@ -1,0 +1,450 @@
+[
+  {
+    "id": "v_2026_10_13_la_mondialisation_commerciale",
+    "french": "la mondialisation commerciale",
+    "translation": "торговая глобализация",
+    "example": "La mondialisation commerciale facilite les échanges entre pays.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_se_traduire_par",
+    "french": "se traduire par",
+    "translation": "выражаться в, приводить к",
+    "example": "Cette décision peut se traduire par une hausse des émissions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_lintensification",
+    "french": "l’intensification",
+    "translation": "усиление, интенсификация",
+    "example": "L’intensification des échanges augmente le transport de marchandises.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_les_echanges_internationaux",
+    "french": "les échanges internationaux",
+    "translation": "международный обмен",
+    "example": "Les échanges internationaux concernent aussi les aliments.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_les_produits_alimentaires",
+    "french": "les produits alimentaires",
+    "translation": "продукты питания",
+    "example": "Certains produits alimentaires voyagent très loin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_les_progres",
+    "french": "les progrès",
+    "translation": "достижения, прогресс",
+    "example": "Les progrès techniques ont transformé l’agriculture.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_les_accords_commerciaux",
+    "french": "les accords commerciaux",
+    "translation": "торговые соглашения",
+    "example": "Les accords commerciaux facilitent certaines importations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_un_impact_nocif",
+    "french": "un impact nocif",
+    "translation": "вредное воздействие",
+    "example": "Le transport aérien peut avoir un impact nocif sur le climat.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_parcourir",
+    "french": "parcourir",
+    "translation": "преодолевать (расстояние)",
+    "example": "Ces fruits parcourent plusieurs pays avant leur vente.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_des_milliers_de_kilometres",
+    "french": "des milliers de kilomètres",
+    "translation": "тысячи километров",
+    "example": "Certains aliments voyagent sur des milliers de kilomètres.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_considerablement",
+    "french": "considérablement",
+    "translation": "значительно",
+    "example": "Cette pratique augmente considérablement les émissions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_lempreinte_carbone",
+    "french": "l’empreinte carbone",
+    "translation": "углеродный след",
+    "example": "Nous pouvons réduire notre empreinte carbone.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_designer",
+    "french": "désigner",
+    "translation": "обозначать",
+    "example": "Ce terme désigne la distance parcourue par les aliments.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_un_phenomene",
+    "french": "un phénomène",
+    "translation": "явление",
+    "example": "Le réchauffement climatique est un phénomène mondial.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_a_quel_point",
+    "french": "à quel point",
+    "translation": "насколько",
+    "example": "On ne réalise pas toujours à quel point les transports polluent.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_perdre_la_tete",
+    "french": "perdre la tête",
+    "translation": "потерять голову",
+    "example": "On pourrait perdre la tête devant un tel gaspillage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_le_kilometrage_alimentaire",
+    "french": "le kilométrage alimentaire",
+    "translation": "расстояние, которое проходят продукты питания",
+    "example": "Le kilométrage alimentaire permet d’étudier le transport des aliments.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_les_noix_de_cajou",
+    "french": "les noix de cajou",
+    "translation": "орехи кешью",
+    "example": "Les noix de cajou sont parfois transformées loin de leur lieu de récolte.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_frappant",
+    "french": "frappant",
+    "translation": "поразительный",
+    "example": "L’écart entre les distances est frappant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_les_derives",
+    "french": "les dérives",
+    "translation": "негативные последствия, отклонения",
+    "example": "Ce reportage dénonce les dérives du commerce mondial.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_la_mondialisation_agroalimentaire",
+    "french": "la mondialisation agroalimentaire",
+    "translation": "глобализация агропродовольственной отрасли",
+    "example": "La mondialisation agroalimentaire multiplie les échanges.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_puisque",
+    "french": "puisque",
+    "translation": "поскольку, ведь",
+    "example": "Il faut agir puisque les ressources sont limitées.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_hallucinant",
+    "french": "hallucinant",
+    "translation": "невероятный, ошеломляющий",
+    "example": "Le trajet de ce produit est hallucinant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_principalement",
+    "french": "principalement",
+    "translation": "главным образом",
+    "example": "Ces aliments viennent principalement de l’étranger.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_etre_cultive",
+    "french": "être cultivé",
+    "translation": "выращиваться",
+    "example": "Le riz est cultivé dans plusieurs régions du monde.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_etre_exporte",
+    "french": "être exporté",
+    "translation": "экспортироваться",
+    "example": "Le produit est exporté vers un autre pays.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_etre_traite",
+    "french": "être traité",
+    "translation": "обрабатываться",
+    "example": "Le poisson est traité avant la vente.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_etre_pese",
+    "french": "être pesé",
+    "translation": "взвешиваться",
+    "example": "Chaque colis est pesé avant l’expédition.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_etre_emballe",
+    "french": "être emballé",
+    "translation": "упаковываться",
+    "example": "Le produit est emballé dans une usine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_etre_etiquete",
+    "french": "être étiqueté",
+    "translation": "маркироваться",
+    "example": "Chaque paquet est étiqueté avant sa commercialisation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_la_commercialisation",
+    "french": "la commercialisation",
+    "translation": "сбыт, вывод на рынок",
+    "example": "La commercialisation commence après la production.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_excessivement",
+    "french": "excessivement",
+    "translation": "чрезмерно",
+    "example": "Ces marchandises sont excessivement transportées.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_le_lieu_noir",
+    "french": "le lieu noir",
+    "translation": "сайда (рыба)",
+    "example": "Le lieu noir est un poisson consommé en Europe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_etre_peche",
+    "french": "être pêché",
+    "translation": "вылавливаться",
+    "example": "Ce poisson est pêché dans l’Atlantique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_etre_congele",
+    "french": "être congelé",
+    "translation": "замораживаться",
+    "example": "Le poisson est congelé après la pêche.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_afin_de",
+    "french": "afin de",
+    "translation": "чтобы, с целью",
+    "example": "L’entreprise change son organisation afin de réduire les coûts.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_reduire_nettement",
+    "french": "réduire nettement",
+    "translation": "заметно сократить",
+    "example": "Nous devons réduire nettement les déchets.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_les_couts_de_traitement",
+    "french": "les coûts de traitement",
+    "translation": "затраты на обработку",
+    "example": "Les coûts de traitement varient selon les pays.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_etre_decoupe",
+    "french": "être découpé",
+    "translation": "разделываться, нарезаться",
+    "example": "Le poisson est découpé dans un atelier spécialisé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_etre_reimporte",
+    "french": "être réimporté",
+    "translation": "реимпортироваться",
+    "example": "Le produit est réimporté après transformation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_le_rayon_surgeles",
+    "french": "le rayon surgelés",
+    "translation": "отдел замороженных продуктов",
+    "example": "On trouve ce produit au rayon surgelés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_purement_economique",
+    "french": "purement économique",
+    "translation": "исключительно экономический",
+    "example": "Ce choix est purement économique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_les_crevettes_grises",
+    "french": "les crevettes grises",
+    "translation": "серые креветки",
+    "example": "Les crevettes grises sont vendues dans plusieurs pays.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_etre_decortique",
+    "french": "être décortiqué",
+    "translation": "очищаться от панциря",
+    "example": "Le crustacé est décortiqué avant d’être emballé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_en_matiere_de",
+    "french": "en matière de",
+    "translation": "в области, что касается",
+    "example": "Il reste des progrès à faire en matière de transport.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_sans_hesiter",
+    "french": "sans hésiter",
+    "translation": "не колеблясь",
+    "example": "Je choisirais sans hésiter un produit local.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_la_volaille",
+    "french": "la volaille",
+    "translation": "домашняя птица, мясо птицы",
+    "example": "La volaille est vendue dans les supermarchés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_pourtant",
+    "french": "pourtant",
+    "translation": "однако, тем не менее",
+    "example": "Ce produit est local ; pourtant, son emballage vient de loin.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_insense",
+    "french": "insensé",
+    "translation": "бессмысленный, безрассудный",
+    "example": "Transporter un aliment aussi loin semble insensé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_de_plus",
+    "french": "de plus",
+    "translation": "к тому же",
+    "example": "De plus, le transport augmente les émissions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_invendu",
+    "french": "invendu",
+    "translation": "нераспроданный товар",
+    "example": "Les invendus peuvent être donnés à des associations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_de_moindre_qualite",
+    "french": "de moindre qualité",
+    "translation": "более низкого качества",
+    "example": "Certains produits sont de moindre qualité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_lafrique_subsaharienne",
+    "french": "l’Afrique subsaharienne",
+    "translation": "Африка к югу от Сахары",
+    "example": "L’Afrique subsaharienne importe aussi des produits alimentaires.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_les_industries_agroalimentaires",
+    "french": "les industries agroalimentaires",
+    "translation": "предприятия пищевой промышленности",
+    "example": "Les industries agroalimentaires transforment les matières premières.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_les_benefices",
+    "french": "les bénéfices",
+    "translation": "прибыль, выгода",
+    "example": "Les bénéfices économiques ne compensent pas toujours les dégâts écologiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_se_debarrasser_de_quelque_chose",
+    "french": "se débarrasser de quelque chose",
+    "translation": "избавляться от чего-либо",
+    "example": "Il faut se débarrasser des emballages inutiles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_le_dereglement_climatique",
+    "french": "le dérèglement climatique",
+    "translation": "климатические нарушения",
+    "example": "Nous avons parlé de « le dérèglement climatique » pendant le cours sur l’environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_une_catastrophe_naturelle",
+    "french": "une catastrophe naturelle",
+    "translation": "стихийное бедствие",
+    "example": "Nous avons parlé de « une catastrophe naturelle » pendant le cours sur l’environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_une_nappe_phreatique",
+    "french": "une nappe phréatique",
+    "translation": "грунтовые воды, водоносный горизонт",
+    "example": "Nous avons parlé de « une nappe phréatique » pendant le cours sur l’environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_la_deforestation",
+    "french": "la déforestation",
+    "translation": "вырубка лесов",
+    "example": "Nous avons parlé de « la déforestation » pendant le cours sur l’environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_le_developpement_durable",
+    "french": "le développement durable",
+    "translation": "устойчивое развитие",
+    "example": "Nous avons parlé de « le développement durable » pendant le cours sur l’environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_le_gaz_a_effet_de_serre",
+    "french": "le gaz à effet de serre",
+    "translation": "парниковый газ",
+    "example": "Nous avons parlé de « le gaz à effet de serre » pendant le cours sur l’environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_la_fonte_de_la_banquise",
+    "french": "la fonte de la banquise",
+    "translation": "таяние пакового льда",
+    "example": "Nous avons parlé de « la fonte de la banquise » pendant le cours sur l’environnement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_13_une_extinction_des_especes",
+    "french": "une extinction des espèces",
+    "translation": "вымирание видов",
+    "example": "Nous avons parlé de « une extinction des espèces » pendant le cours sur l’environnement.",
+    "status": "learning"
+  }
+]
