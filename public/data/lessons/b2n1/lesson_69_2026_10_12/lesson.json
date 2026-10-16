@@ -8,5 +8,31 @@
     ]
   ],
   "notes": "Fait en classe:\n- Correction des devoirs et révision du vocabulaire de l’agriculture.\n- Activité « Qui pollue le plus ? » : comparer l’émission de gaz à effet de serre de deux personnes (support « Parler d’écologie avec humour »).\n- Livre, pages 38–39 : exercices 1 à 5 sur l’utilisation des pesticides et l’expression de la subjectivité.\n\nGrammaire:\n- À mon avis, d’après moi, selon moi, pour moi ; je pense que, je trouve que, j’estime que.\n- C’est + adjectif ; il est + adjectif + que + subjonctif ; adjectifs, adverbes et ponctuation expressive.\n\nVocabulaire:\n- Gaz à effet de serre, émissions de gaz, énergies fossiles, GPL, énergie solaire, cellules photovoltaïques, engrais, élevage intensif et pesticides.\n\nDevoir:\n- Page 17, exercices 6 et 7 (pour le 13 octobre 2026).",
-  "photos": []
+  "photos": [
+    {
+      "src": "photos/lesson-summary.png",
+      "caption": "Récapitulatif du cours du 12 octobre",
+      "alt": "Message du professeur : correction des devoirs, écologie, pesticides et expression de la subjectivité"
+    },
+    {
+      "src": "photos/subjectivity-rules.png",
+      "caption": "Exprimer la subjectivité : règles et exemples",
+      "alt": "Page de manuel expliquant les expressions d’opinion, les adjectifs, le subjonctif, les adverbes et la ponctuation expressive"
+    },
+    {
+      "src": "photos/subjectivity-exercise.png",
+      "caption": "Exprimer la subjectivité : fiche d’exercice",
+      "alt": "Fiche à compléter sur l’expression de la subjectivité et les tournures au subjonctif"
+    },
+    {
+      "src": "photos/ecology-comparison.png",
+      "caption": "Qui pollue le plus ? Comparaison et lexique de l’écologie",
+      "alt": "Activité comparant les émissions de gaz à effet de serre de deux personnages et liste de vocabulaire écologique"
+    },
+    {
+      "src": "photos/ecology-characters.png",
+      "caption": "Parler d’écologie avec humour : personnages",
+      "alt": "Tableau de personnages et métiers utilisés dans l’activité de discussion sur l’écologie"
+    }
+  ]
 }
