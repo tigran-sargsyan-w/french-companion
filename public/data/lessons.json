@@ -678,5 +678,15 @@
     "classLevel": "B2N1",
     "status": "done",
     "path": "data/lessons/b2n1/lesson_68_2026_10_09"
+  },
+  {
+    "id": "lesson_69_2026_10_12",
+    "number": 69,
+    "title": "L’écologie, les gaz à effet de serre et l’expression de la subjectivité",
+    "date": "2026-10-12",
+    "level": "B2",
+    "classLevel": "B2N1",
+    "status": "done",
+    "path": "data/lessons/b2n1/lesson_69_2026_10_12"
   }
 ]
