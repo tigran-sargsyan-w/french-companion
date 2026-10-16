@@ -1,0 +1,184 @@
+[
+  {
+    "id": "v_2026_10_12_gaz_effet_serre",
+    "french": "les gaz à effet de serre",
+    "translation": "парниковые газы",
+    "example": "Les gaz à effet de serre contribuent au réchauffement climatique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_emissions_gaz",
+    "french": "les émissions de gaz",
+    "translation": "выбросы газов",
+    "example": "On compare les émissions de gaz de deux personnes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_gpl",
+    "french": "le GPL",
+    "translation": "сжиженный нефтяной газ (СНГ)",
+    "example": "Certains véhicules roulent au GPL.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_energies_fossiles",
+    "french": "les énergies fossiles",
+    "translation": "ископаемые источники энергии",
+    "example": "Le charbon et le pétrole sont des énergies fossiles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_petits_gestes",
+    "french": "les petits gestes qui peuvent sauver la planète",
+    "translation": "маленькие действия, которые могут помочь планете",
+    "example": "Éteindre les lumières fait partie des petits gestes qui peuvent sauver la planète.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_cereales_legumes",
+    "french": "des céréales et des légumes cultivés à la main",
+    "translation": "зерновые и овощи, выращенные вручную",
+    "example": "Il achète des céréales et des légumes cultivés à la main.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_energie_solaire",
+    "french": "l’énergie solaire",
+    "translation": "солнечная энергия",
+    "example": "L’énergie solaire permet de produire de l’électricité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_elevage_intensif",
+    "french": "l’élevage intensif",
+    "translation": "интенсивное животноводство",
+    "example": "L’élevage intensif soulève des questions environnementales.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_cellules_photovoltaiques",
+    "french": "les cellules photovoltaïques",
+    "translation": "фотоэлектрические элементы",
+    "example": "Les cellules photovoltaïques transforment la lumière en électricité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_engrais",
+    "french": "les engrais",
+    "translation": "удобрения",
+    "example": "Les agriculteurs utilisent parfois des engrais.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_vehicule_diesel",
+    "french": "un véhicule diesel",
+    "translation": "дизельный автомобиль",
+    "example": "Ce véhicule diesel consomme beaucoup de carburant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_petrole",
+    "french": "le pétrole",
+    "translation": "нефть",
+    "example": "Le pétrole est une énergie fossile.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_pesticides",
+    "french": "les pesticides",
+    "translation": "пестициды",
+    "example": "On discute de l’utilisation des pesticides.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_polluer",
+    "french": "polluer",
+    "translation": "загрязнять",
+    "example": "Qui pollue le plus ?",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_a_mon_avis",
+    "french": "à mon avis",
+    "translation": "по моему мнению",
+    "example": "À mon avis, il faut réduire l’usage des pesticides.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_d_apres_moi",
+    "french": "d’après moi",
+    "translation": "по моему мнению",
+    "example": "D’après moi, cette décision est insensée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_selon_moi",
+    "french": "selon moi",
+    "translation": "по моему мнению",
+    "example": "Selon moi, il faut changer nos habitudes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_j_estime_que",
+    "french": "j’estime que",
+    "translation": "я считаю, что",
+    "example": "J’estime qu’il faut réduire l’usage des pesticides.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_scandaleux",
+    "french": "scandaleux / scandaleuse",
+    "translation": "возмутительный / возмутительная",
+    "example": "C’est scandaleux !",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_insense",
+    "french": "insensé / insensée",
+    "translation": "безрассудный / безрассудная",
+    "example": "Cette décision est insensée !",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_malheureusement",
+    "french": "malheureusement",
+    "translation": "к сожалению",
+    "example": "Je ne peux malheureusement pas venir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_absolument",
+    "french": "absolument",
+    "translation": "абсолютно; совершенно",
+    "example": "C’est absolument nécessaire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_vraiment",
+    "french": "vraiment",
+    "translation": "действительно; очень",
+    "example": "C’est vraiment une bonne nouvelle !",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_evidemment",
+    "french": "évidemment",
+    "translation": "очевидно; разумеется",
+    "example": "Évidemment, nous devons agir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_point_exclamation",
+    "french": "un point d’exclamation",
+    "translation": "восклицательный знак",
+    "example": "Un point d’exclamation peut marquer une émotion.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_12_points_suspension",
+    "french": "des points de suspension",
+    "translation": "многоточие",
+    "example": "Les points de suspension peuvent exprimer l’hésitation.",
+    "status": "learning"
+  }
+]

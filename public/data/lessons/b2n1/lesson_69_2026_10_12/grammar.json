@@ -1,0 +1,52 @@
+[
+  {
+    "id": "g_2026_10_12_exprimer_subjectivite",
+    "title": "Exprimer la subjectivité",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Donner son avis\n",
+        "- **À mon avis, d’après moi, selon moi, pour moi** + phrase.",
+        "- **Je pense que, je trouve que, j’estime que** + phrase (généralement à l’indicatif dans une affirmation).",
+        "**Exemples :** D’après moi, il faut réduire l’usage des pesticides. / J’estime qu’il faut réduire l’usage des pesticides."
+      ],
+      [
+        "### Porter un jugement\n",
+        "- **C’est + adjectif au masculin singulier** : C’est fantastique ! C’est scandaleux !",
+        "- **Il est + adjectif + que + subjonctif** dans les exemples exprimant une appréciation : Il est scandaleux qu’on autorise les pesticides !",
+        "- Les adjectifs évaluatifs permettent de marquer sa position : C’est un **super** projet."
+      ],
+      [
+        "### Nuancer par les adverbes\n",
+        "- **Malheureusement, absolument, vraiment, évidemment** expriment une attitude ou renforcent le propos.",
+        "- C’est **vraiment** une bonne nouvelle !",
+        "- Je ne peux **malheureusement** pas venir."
+      ],
+      [
+        "### Exprimer une émotion par la ponctuation\n",
+        "- Le **point d’exclamation** peut marquer la joie, la surprise ou l’indignation.",
+        "- Les **points de suspension** peuvent exprimer l’hésitation ou la surprise.",
+        "- Cette décision est insensée ! / Cette décision est insensée…"
+      ]
+    ],
+    "examples": [
+      "À mon avis, il faut réduire l’usage des pesticides.",
+      "J’estime qu’il faut réduire l’usage des pesticides.",
+      "C’est scandaleux !",
+      "Il est scandaleux qu’on autorise les pesticides !",
+      "Il est scandaleux qu’on n’interdise pas l’utilisation des pesticides.",
+      "C’est vraiment une bonne nouvelle !"
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Jugement et subjonctif",
+        "markup": "{{contexte:Il est scandaleux}} {{que:qu’}}{{sujet:on}} {{verbe:autorise}} les pesticides !",
+        "explanation": "La structure **il est + adjectif de jugement + que** appelle ici le **subjonctif** (*autorise*).",
+        "sourceSentences": [
+          "On autorise les pesticides.",
+          "Il est scandaleux qu’on autorise les pesticides !"
+        ]
+      }
+    ]
+  }
+]
