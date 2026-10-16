@@ -1,0 +1,84 @@
+[
+  {
+    "id": "g_2026_10_13_nominalisation",
+    "title": "Nominalisation : verbes et noms de l’environnement",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Transformer un verbe en nom\n",
+        "La nominalisation permet de parler d’une action ou d’un processus sous la forme d’un groupe nominal.",
+        "| Verbe | Nom |",
+        "|---|---|",
+        "| éteindre | l’extinction |",
+        "| développer | le développement |",
+        "| s’effondrer | l’effondrement |",
+        "| fondre | la fonte |",
+        "| déboiser | le déboisement |",
+        "| gaspiller | le gaspillage |",
+        "| assécher | l’assèchement |",
+        "| pulvériser | la pulvérisation |",
+        "| émettre | l’émission |",
+        "| polluer | la pollution |"
+      ],
+      [
+        "### Associations du document\n",
+        "- l’extinction des espèces ;",
+        "- le développement durable ;",
+        "- l’effondrement de la civilisation ;",
+        "- la fonte de la banquise ;",
+        "- le déboisement d’une région ;",
+        "- le gaspillage alimentaire ;",
+        "- l’assèchement des nappes phréatiques ;",
+        "- la pulvérisation des pesticides ;",
+        "- l’émission de dioxyde de carbone ;",
+        "- la pollution marine."
+      ]
+    ],
+    "examples": [
+      "La fonte de la banquise menace certains animaux.",
+      "Le gaspillage alimentaire a un coût écologique."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_10_13_voix_passive",
+    "title": "La voix passive dans le circuit des aliments",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Construction (complément explicatif)\n",
+        "**être + participe passé** : le sujet subit l’action et le participe passé s’accorde avec lui.",
+        "- Le poisson **est pêché**, puis **est congelé**.",
+        "- Les crevettes **sont décortiquées** avant d’être emballées.",
+        "La liste du cours contient également : **être cultivé, exporté, traité, pesé, emballé, étiqueté, découpé, réimporté**."
+      ]
+    ],
+    "examples": [
+      "Le poisson est pêché puis congelé.",
+      "Les crevettes sont décortiquées.",
+      "Ces produits sont exportés."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_10_13_connecteurs",
+    "title": "Connecteurs pour argumenter sur l’environnement",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Cause, but et opposition (complément explicatif)\n",
+        "- **puisque** introduit une cause présentée comme connue ou évidente : *Puisque les trajets sont longs, les émissions augmentent*.",
+        "- **afin de + infinitif** exprime un objectif : *Afin de réduire les coûts, l’entreprise déplace la transformation*.",
+        "- **pourtant** marque une opposition : *Le produit est local ; pourtant, il parcourt des milliers de kilomètres*.",
+        "- **de plus** ajoute un argument : *De plus, les emballages produisent des déchets*.",
+        "- **en matière de** signifie « dans le domaine de » : *En matière de transport, il reste des progrès à faire*."
+      ]
+    ],
+    "examples": [
+      "Puisque les trajets sont longs, les émissions augmentent.",
+      "Afin de réduire les coûts, l’entreprise déplace la transformation.",
+      "Le produit est local ; pourtant, il parcourt des milliers de kilomètres."
+    ],
+    "annotatedExamples": []
+  }
+]
