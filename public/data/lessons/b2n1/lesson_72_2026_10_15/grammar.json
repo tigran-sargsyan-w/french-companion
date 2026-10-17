@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g_2026_10_15_pronom_ca",
+    "title": "Le pronom neutre « ça »",
+    "category": "Pronouns",
+    "summary": [
+      [
+        "### Définition et registre\n",
+        "**Ça** est un pronom neutre qui peut être **sujet** ou **complément** d’un verbe. Il correspond à **cela**, généralement utilisé dans un registre plus soutenu.",
+        "- Sujet : **Ça** marche.",
+        "- Complément : Tu aimes **ça** ?"
+      ],
+      [
+        "### Reprendre une information\n",
+        "**Ça** peut reprendre un groupe de mots, une phrase entière ou une idée.",
+        "- *La coopérative agricole a fermé ? Qui t’a dit **ça** ?* → **ça** reprend toute la proposition « La coopérative agricole a fermé ».",
+        "- **Ça** peut aussi désigner quelque chose qu’on ne nomme pas précisément : *Ça, ce n’est pas respectueux.*"
+      ],
+      [
+        "### Désigner un nom à valeur générale\n",
+        "**Ça** peut reprendre un nom employé dans un sens général : *Le chocolat, tu aimes **ça** ?* → **ça** reprend « le chocolat »."
+      ],
+      [
+        "### Expressions courantes\n",
+        "| Expression | Sens indiqué dans le document |",
+        "|---|---|",
+        "| **Ça va.** | Je vais bien. |",
+        "| **Ça y est.** | C’est terminé. |",
+        "| **Ça alors !** | Ah bon ? |",
+        "| **Ça roule !** | Il n’y a pas de problème. |",
+        "| **Ça suffit.** | Arrête. Stop. |",
+        "| **Ça marche.** | C’est d’accord. |"
+      ]
+    ],
+    "examples": [
+      "La coopérative agricole a fermé ? Qui t’a dit ça ?",
+      "Le chocolat, tu aimes ça ?",
+      "Ça, ce n’est pas respectueux.",
+      "Ça y est !",
+      "Ça marche !"
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Reprise d’une phrase entière",
+        "markup": "La coopérative agricole a fermé ? Qui t’a dit {{pronom:ça}} ?",
+        "explanation": "**Ça** reprend la proposition « La coopérative agricole a fermé ». ",
+        "sourceSentences": [
+          "La coopérative agricole a fermé.",
+          "Qui t’a dit ça ?"
+        ]
+      },
+      {
+        "title": "Valeur générale",
+        "markup": "Le chocolat, tu aimes {{pronom:ça}} ?",
+        "explanation": "**Ça** reprend « le chocolat » comme catégorie générale.",
+        "sourceSentences": [
+          "Tu aimes le chocolat ?"
+        ]
+      }
+    ]
+  }
+]

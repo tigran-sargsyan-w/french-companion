@@ -708,5 +708,15 @@
     "classLevel": "B2N1",
     "status": "done",
     "path": "data/lessons/b2n1/lesson_71_2026_10_14"
+  },
+  {
+    "id": "lesson_72_2026_10_15",
+    "number": 72,
+    "title": "Le pronom « ça » et les expressions courantes",
+    "date": "2026-10-15",
+    "level": "B2",
+    "classLevel": "B2N1",
+    "status": "done",
+    "path": "data/lessons/b2n1/lesson_72_2026_10_15"
   }
 ]
