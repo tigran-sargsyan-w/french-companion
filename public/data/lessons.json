@@ -698,5 +698,15 @@
     "classLevel": "B2N1",
     "status": "done",
     "path": "data/lessons/b2n1/lesson_70_2026_10_13"
+  },
+  {
+    "id": "lesson_71_2026_10_14",
+    "number": 71,
+    "title": "La consommation locale, l’impact environnemental et l’expression de la concession et de l’opposition",
+    "date": "2026-10-14",
+    "level": "B2",
+    "classLevel": "B2N1",
+    "status": "done",
+    "path": "data/lessons/b2n1/lesson_71_2026_10_14"
   }
 ]
