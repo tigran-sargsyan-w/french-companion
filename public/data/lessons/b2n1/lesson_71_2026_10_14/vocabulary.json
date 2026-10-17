@@ -1,0 +1,485 @@
+[
+  {
+    "id": "v_2026_10_14_un_geste_pour_la_planete",
+    "french": "un geste pour la planète",
+    "translation": "жест ради планеты",
+    "example": "Recycler est un geste pour la planète.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_pour_des_raisons_ecologiques",
+    "french": "pour des raisons écologiques",
+    "translation": "по экологическим причинам",
+    "example": "Elle achète local pour des raisons écologiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_reduire_son_empreinte_carbone",
+    "french": "réduire son empreinte carbone",
+    "translation": "сократить свой углеродный след",
+    "example": "Je prends le train pour réduire mon empreinte carbone.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_opter_pour",
+    "french": "opter pour",
+    "translation": "выбирать, отдавать предпочтение",
+    "example": "Nous avons opté pour des fruits de saison.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_une_alimentation_locale",
+    "french": "une alimentation locale",
+    "translation": "местное питание",
+    "example": "Une alimentation locale ne garantit pas toujours un faible impact écologique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_forcement",
+    "french": "forcément",
+    "translation": "обязательно, непременно",
+    "example": "Un produit local n’est pas forcément écologique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_etre_ecolo",
+    "french": "être écolo",
+    "translation": "быть экологически сознательным",
+    "example": "Il essaie d’être écolo au quotidien.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_avant_toute_chose",
+    "french": "avant toute chose",
+    "translation": "прежде всего",
+    "example": "Avant toute chose, regardons la provenance des aliments.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_il_convient_de",
+    "french": "il convient de",
+    "translation": "следует, необходимо",
+    "example": "Il convient de comparer les modes de production.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_la_conservation_des_produits_alimentaires",
+    "french": "la conservation des produits alimentaires",
+    "translation": "хранение пищевых продуктов",
+    "example": "La conservation des produits alimentaires demande parfois beaucoup d’énergie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_la_pollution_due_au_transport",
+    "french": "la pollution due au transport",
+    "translation": "загрязнение от транспорта",
+    "example": "La pollution due au transport dépend du moyen utilisé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_contribuer_a",
+    "french": "contribuer à",
+    "translation": "способствовать, вносить вклад",
+    "example": "Les transports contribuent aux émissions de gaz.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_augmentation_du_trafic",
+    "french": "l’augmentation du trafic",
+    "translation": "увеличение транспортного потока",
+    "example": "L’augmentation du trafic aggrave la pollution.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_le_trafic_routier",
+    "french": "le trafic routier",
+    "translation": "дорожное движение, автомобильный транспорт",
+    "example": "Le trafic routier est dense aux heures de pointe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_le_trafic_maritime",
+    "french": "le trafic maritime",
+    "translation": "морские перевозки",
+    "example": "Le trafic maritime permet de transporter des marchandises.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_le_trafic_aerien",
+    "french": "le trafic aérien",
+    "translation": "воздушное сообщение, авиаперевозки",
+    "example": "Le trafic aérien produit des émissions importantes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_par_consequent",
+    "french": "par conséquent",
+    "translation": "следовательно, поэтому",
+    "example": "Ce mode de culture consomme beaucoup d’énergie ; par conséquent, son bilan est élevé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_la_pollution_de_l_air",
+    "french": "la pollution de l’air",
+    "translation": "загрязнение воздуха",
+    "example": "La pollution de l’air menace notre santé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_un_point_de_vue_ecologique",
+    "french": "d’un point de vue écologique",
+    "translation": "с экологической точки зрения",
+    "example": "D’un point de vue écologique, il faut comparer plusieurs facteurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_etre_responsable_de",
+    "french": "être responsable de",
+    "translation": "быть ответственным за",
+    "example": "Le transport est responsable d’une partie des émissions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_les_emissions_de_gaz_a_effet_de_serre",
+    "french": "les émissions de gaz à effet de serre",
+    "translation": "выбросы парниковых газов",
+    "example": "Il faut réduire les émissions de gaz à effet de serre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_transporter",
+    "french": "transporter",
+    "translation": "перевозить",
+    "example": "On transporte ces tomates en camion.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_au_lieu_de",
+    "french": "au lieu de",
+    "translation": "вместо того чтобы / вместо",
+    "example": "Prenons le train au lieu de l’avion.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_etre_produit",
+    "french": "être produit",
+    "translation": "производиться",
+    "example": "Ce fromage est produit dans la région.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_ne_representer_que",
+    "french": "ne représenter que",
+    "translation": "составлять лишь",
+    "example": "Le transport ne représente qu’une partie du bilan.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_environ",
+    "french": "environ",
+    "translation": "около, приблизительно",
+    "example": "Le trajet dure environ deux heures.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_la_production",
+    "french": "la production",
+    "translation": "производство",
+    "example": "La production agricole utilise de l’énergie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_emettre",
+    "french": "émettre",
+    "translation": "выбрасывать, выделять",
+    "example": "Les avions émettent des gaz à effet de serre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_notamment",
+    "french": "notamment",
+    "translation": "в частности, особенно",
+    "example": "Plusieurs facteurs comptent, notamment le chauffage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_la_deforestation",
+    "french": "la déforestation",
+    "translation": "вырубка лесов",
+    "example": "La déforestation détruit des habitats naturels.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_utilisation_d_engrais",
+    "french": "l’utilisation d’engrais",
+    "translation": "использование удобрений",
+    "example": "L’utilisation d’engrais a des conséquences environnementales.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_les_pesticides",
+    "french": "les pesticides",
+    "translation": "пестициды",
+    "example": "Les pesticides peuvent polluer les sols.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_quoique",
+    "french": "quoique",
+    "translation": "хотя, несмотря на то что",
+    "example": "Quoique ce produit soit local, il coûte cher.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_un_choix_ecologique",
+    "french": "un choix écologique",
+    "translation": "экологичный выбор",
+    "example": "Acheter des légumes de saison peut être un choix écologique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_faire_un_geste_pour_la_planete",
+    "french": "faire un geste pour la planète",
+    "translation": "сделать что-то полезное для планеты",
+    "example": "Éviter le gaspillage, c’est faire un geste pour la planète.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_empecher",
+    "french": "empêcher",
+    "translation": "мешать, препятствовать",
+    "example": "Le froid empêche les plantes de pousser.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_la_production_locale",
+    "french": "la production locale",
+    "translation": "местное производство",
+    "example": "La production locale peut soutenir les agriculteurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_la_demande",
+    "french": "la demande",
+    "translation": "спрос",
+    "example": "La demande de produits biologiques augmente.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_beaucoup_d_energie",
+    "french": "beaucoup d’énergie",
+    "translation": "много энергии",
+    "example": "Une serre chauffée consomme beaucoup d’énergie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_etre_recommande_de",
+    "french": "être recommandé de",
+    "translation": "рекомендуется",
+    "example": "Il est recommandé de manger des fruits de saison.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_considerer",
+    "french": "considérer",
+    "translation": "рассматривать, учитывать",
+    "example": "Il faut considérer l’ensemble du cycle de production.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_les_consequences_environnementales",
+    "french": "les conséquences environnementales",
+    "translation": "экологические последствия",
+    "example": "Étudions les conséquences environnementales de ce choix.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_etre_lie_a",
+    "french": "être lié à",
+    "translation": "быть связанным с",
+    "example": "Ce problème est lié à la consommation d’énergie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_les_productions_venant_d_ailleurs",
+    "french": "les productions venant d’ailleurs",
+    "translation": "продукция из других регионов или стран",
+    "example": "Les productions venant d’ailleurs ne sont pas toutes plus polluantes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_une_etude_suedoise",
+    "french": "une étude suédoise",
+    "translation": "шведское исследование",
+    "example": "Une étude suédoise compare différents modes de culture.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_sur_le_plan_environnemental",
+    "french": "sur le plan environnemental",
+    "translation": "с экологической точки зрения",
+    "example": "Sur le plan environnemental, la saison joue un rôle important.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_il_est_preferable_de",
+    "french": "il est préférable de",
+    "translation": "предпочтительнее",
+    "example": "Il est préférable de choisir des produits de saison.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_les_tomates_importees",
+    "french": "les tomates importées",
+    "translation": "импортные помидоры",
+    "example": "Les tomates importées peuvent venir de pays plus chauds.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_malgre",
+    "french": "malgré",
+    "translation": "несмотря на",
+    "example": "Malgré la distance, ce produit peut avoir un bilan intéressant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_le_rechauffement_climatique",
+    "french": "le réchauffement climatique",
+    "translation": "глобальное потепление",
+    "example": "Le réchauffement climatique modifie les saisons.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_faire_pousser",
+    "french": "faire pousser",
+    "translation": "выращивать",
+    "example": "On peut faire pousser des tomates sous serre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_des_tomates_en_suede",
+    "french": "des tomates en Suède",
+    "translation": "помидоры в Швеции",
+    "example": "Faire pousser des tomates en Suède peut demander du chauffage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_parcourir",
+    "french": "parcourir",
+    "translation": "преодолевать расстояние, проходить",
+    "example": "Ces aliments parcourent de longues distances.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_des_milliers_de_kilometres",
+    "french": "des milliers de kilomètres",
+    "translation": "тысячи километров",
+    "example": "Certains produits voyagent sur des milliers de kilomètres.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_le_climat_favorable",
+    "french": "le climat favorable",
+    "translation": "благоприятный климат",
+    "example": "Un climat favorable réduit les besoins en chauffage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_etre_recolte",
+    "french": "être récolté",
+    "translation": "быть собранным (об урожае)",
+    "example": "Les légumes sont récoltés en été.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_etre_importe",
+    "french": "être importé",
+    "translation": "быть импортированным",
+    "example": "Ce fruit est importé d’Espagne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_pour_resumer",
+    "french": "pour résumer",
+    "translation": "подводя итог",
+    "example": "Pour résumer, le transport n’est pas le seul facteur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_les_cultures",
+    "french": "les cultures",
+    "translation": "сельскохозяйственные культуры",
+    "example": "Certaines cultures demandent beaucoup d’eau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_les_elevages",
+    "french": "les élevages",
+    "translation": "животноводческие хозяйства",
+    "example": "Les élevages ont des impacts environnementaux variés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_etre_adapte_a",
+    "french": "être adapté à",
+    "translation": "быть приспособленным к",
+    "example": "Cette culture est adaptée au climat local.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_il_vaut_mieux_que",
+    "french": "il vaut mieux que",
+    "translation": "лучше, чтобы (+ subjonctif)",
+    "example": "Il vaut mieux que nous choisissions des aliments de saison.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_en_revanche",
+    "french": "en revanche",
+    "translation": "зато, напротив, однако",
+    "example": "Ce légume est local ; en revanche, il pousse sous serre chauffée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_exiger",
+    "french": "exiger",
+    "translation": "требовать",
+    "example": "Certaines productions exigent beaucoup d’eau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_les_conditions_de_production",
+    "french": "les conditions de production",
+    "translation": "условия производства",
+    "example": "Les conditions de production influencent le bilan écologique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_nocif",
+    "french": "nocif",
+    "translation": "вредный",
+    "example": "Un produit nocif peut polluer les sols.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_en_somme",
+    "french": "en somme",
+    "translation": "в общем, в итоге",
+    "example": "En somme, il faut comparer les situations.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_une_question_de_bon_sens",
+    "french": "une question de bon sens",
+    "translation": "вопрос здравого смысла",
+    "example": "Choisir des fruits de saison est une question de bon sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_14_la_maitrise_de_l_energie",
+    "french": "la maîtrise de l’énergie",
+    "translation": "контроль и рациональное использование энергии",
+    "example": "La maîtrise de l’énergie permet de limiter la consommation.",
+    "status": "learning"
+  }
+]

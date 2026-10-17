@@ -1,0 +1,83 @@
+[
+  {
+    "id": "g_2026_10_14_concession",
+    "title": "Exprimer la concession",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Définition\n",
+        "La concession présente deux faits qui semblent contradictoires et permet de nuancer une idée : on reconnaît un fait **sans renoncer** à l’autre."
+      ],
+      [
+        "### Connecteurs suivis d’une proposition indépendante\n",
+        "| Expression | Construction | Exemple |",
+        "|---|---|---|",
+        "| **pourtant / cependant / néanmoins / toutefois** | deux propositions à l’indicatif | J’essaie de consommer local ; **néanmoins**, j’achète des produits exotiques. |",
+        "| **or** | introduit un fait nouveau qui contraste avec ce qui précède | Le transport pollue. **Or**, certains aliments parcourent des milliers de kilomètres. |",
+        "| **quand même** | souvent après le verbe, notamment avec *mais* | J’essaie de consommer local, mais j’achète **quand même** des fruits exotiques. |"
+      ],
+      [
+        "### Concession avec une subordonnée\n",
+        "| Expression | Mode | Exemple |",
+        "|---|---|---|",
+        "| **même si** | indicatif | **Même si** ce produit est local, il n’est pas forcément écologique. |",
+        "| **bien que** | subjonctif | **Bien que** ces tomates soient locales, leur culture consomme beaucoup d’énergie. |",
+        "| **quoique** | subjonctif | **Quoique** ce transport soit long, il reste parfois préférable à une serre chauffée. |"
+      ],
+      [
+        "### Autres constructions\n",
+        "- **malgré + nom / pronom** : *Malgré la distance, ces tomates peuvent être moins énergivores.*",
+        "- **il n’empêche que + indicatif** : *Je souhaite consommer local ; il n’empêche que j’achète aussi des produits importés.*",
+        "- **avoir beau + infinitif** : *J’ai beau essayer de consommer local, j’achète encore des produits exotiques.*",
+        "**À retenir :** *bien que / quoique* demandent le **subjonctif** ; *même si* demande l’**indicatif**."
+      ]
+    ],
+    "examples": [
+      "J’essaie de consommer local ; néanmoins, j’achète souvent des produits exotiques.",
+      "Même si j’essaie de consommer local, j’achète des produits exotiques.",
+      "Bien que j’essaie de consommer local, j’achète des produits exotiques.",
+      "Malgré mon goût pour les produits locaux, j’achète souvent des produits exotiques.",
+      "J’ai beau essayer de consommer local, j’achète souvent des produits exotiques."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Bien que + subjonctif",
+        "markup": "{{contexte:Bien que}} ces tomates {{verbe:soient}} locales, elles demandent beaucoup d’énergie.",
+        "explanation": "Après **bien que**, le verbe est au **subjonctif**.",
+        "sourceSentences": [
+          "Ces tomates sont locales.",
+          "Elles demandent beaucoup d’énergie."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_10_14_opposition",
+    "title": "Exprimer l’opposition",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Opposer deux idées ou deux faits\n",
+        "L’opposition met deux éléments en contraste, sans nécessairement présenter une concession.",
+        "| Expression | Usage | Exemple |",
+        "|---|---|---|",
+        "| **mais** | contraste simple | Je ne mange pas de viande, **mais** je mange du poisson. |",
+        "| **par contre / en revanche** | comparaison de deux faits | Ces tomates sont locales ; **en revanche**, elles poussent sous serre chauffée. |",
+        "| **alors que** | proposition subordonnée à l’indicatif | Certains achètent local **alors que** d’autres préfèrent les produits importés. |",
+        "| **au contraire** | corrige ou contredit l’idée précédente | Cette tomate n’est pas bonne ; **au contraire**, elle n’a aucun goût ! |"
+      ],
+      [
+        "### Concession ou opposition ?\n",
+        "- **Concession** : on admet un fait malgré une contradiction apparente. *Bien que ces tomates soient importées, elles peuvent avoir un meilleur bilan énergétique.*",
+        "- **Opposition** : on compare directement des faits différents. *Ces tomates poussent sous serre, alors que celles-ci poussent en plein air.*",
+        "**Au contraire** s’emploie surtout après une affirmation niée pour présenter l’idée inverse."
+      ]
+    ],
+    "examples": [
+      "Je ne mange pas de viande ; en revanche, je mange du poisson.",
+      "Certains achètent des produits locaux, alors que d’autres choisissent des produits importés.",
+      "Ce n’est pas une bonne idée de vouloir tout consommer local, au contraire !"
+    ],
+    "annotatedExamples": []
+  }
+]

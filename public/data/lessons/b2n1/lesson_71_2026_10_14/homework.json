@@ -1,0 +1,16 @@
+[
+  {
+    "id": "h_2026_10_14_livre_page_45_exercice_8",
+    "title": "Livre : page 45, exercice 8",
+    "description": "Faire l’exercice 8 de la page 45 du livre.",
+    "dueDate": "2026-10-15",
+    "done": false
+  },
+  {
+    "id": "h_2026_10_14_cahier_page_20_exercice_15",
+    "title": "Cahier d’exercices : page 20, exercice 15",
+    "description": "Faire l’exercice 15 de la page 20 du cahier d’exercices.",
+    "dueDate": "2026-10-15",
+    "done": false
+  }
+]
