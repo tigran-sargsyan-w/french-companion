@@ -1,0 +1,121 @@
+[
+  {
+    "id": "v_2026_10_15_un_pronom_neutre",
+    "french": "un pronom neutre",
+    "translation": "нейтральное местоимение",
+    "example": "« Ça » est un pronom neutre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_un_complement",
+    "french": "un complément",
+    "translation": "дополнение",
+    "example": "Dans cette phrase, « ça » est un complément.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_l_equivalent_de",
+    "french": "l’équivalent de",
+    "translation": "эквивалент чего-либо",
+    "example": "« Ça » est l’équivalent courant de « cela ».",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_un_registre_soutenu",
+    "french": "un registre soutenu",
+    "translation": "высокий, формальный стиль речи",
+    "example": "« Cela » est employé dans un registre plus soutenu.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_reprendre",
+    "french": "reprendre",
+    "translation": "заменять, отсылать к ранее сказанному",
+    "example": "Ce pronom peut reprendre une phrase entière.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_un_groupe_de_mots",
+    "french": "un groupe de mots",
+    "translation": "группа слов",
+    "example": "« Ça » peut reprendre un groupe de mots.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_une_phrase_entiere",
+    "french": "une phrase entière",
+    "translation": "целое предложение",
+    "example": "Le pronom remplace une phrase entière.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_une_valeur_generale",
+    "french": "une valeur générale",
+    "translation": "обобщённое значение",
+    "example": "Dans cet exemple, le nom a une valeur générale.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_designer",
+    "french": "désigner",
+    "translation": "обозначать, указывать на",
+    "example": "« Ça » peut désigner une idée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_precisement",
+    "french": "précisément",
+    "translation": "точно, конкретно",
+    "example": "On ne nomme pas précisément cette chose.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_respectueux_respectueuse",
+    "french": "respectueux / respectueuse",
+    "translation": "уважительный / уважительная",
+    "example": "Ça, ce n’est pas respectueux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_une_cooperative_agricole",
+    "french": "une coopérative agricole",
+    "translation": "сельскохозяйственный кооператив",
+    "example": "La coopérative agricole a fermé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_ca_y_est",
+    "french": "Ça y est !",
+    "translation": "Всё, готово! / Вот и всё!",
+    "example": "Ça y est, j’ai terminé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_ca_alors",
+    "french": "Ça alors !",
+    "translation": "Вот это да! / Неужели!",
+    "example": "Ça alors, quelle surprise !",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_ca_roule",
+    "french": "Ça roule !",
+    "translation": "Всё в порядке! / Договорились!",
+    "example": "On se retrouve à huit heures ? Ça roule !",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_ca_suffit",
+    "french": "Ça suffit !",
+    "translation": "Хватит!",
+    "example": "Ça suffit, arrête !",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_15_ca_marche",
+    "french": "Ça marche !",
+    "translation": "Хорошо! / Договорились!",
+    "example": "On se voit demain ? Ça marche !",
+    "status": "learning"
+  }
+]
