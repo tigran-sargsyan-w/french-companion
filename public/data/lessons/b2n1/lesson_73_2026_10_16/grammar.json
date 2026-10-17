@@ -1,0 +1,94 @@
+[
+  {
+    "id": "g_2026_10_16_forme_impersonnelle",
+    "title": "La forme impersonnelle",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Principe\n",
+        "Le pronom **il** est impersonnel quand il ne désigne personne ni aucune chose précise.",
+        "- Phénomènes naturels : **il pleut**, **il neige**, **il fait beau**, **il fait nuit**.",
+        "- Nécessité : **il faut + infinitif** et **il faut que + subjonctif**.",
+        "- Existence : **il y a**.",
+        "- Sujet du propos : **il s’agit de**."
+      ],
+      [
+        "### D’autres constructions impersonnelles\n",
+        "| Expression | Exemple |",
+        "|---|---|",
+        "| **il arrive que** | Il arrive qu’un incident se produise. |",
+        "| **il paraît que** | Il paraît qu’elle a eu des jumeaux. |",
+        "| **il semble que** | Il semble qu’il ait plu cette nuit. |",
+        "| **il vaut mieux + infinitif** | Il vaut mieux rappeler. |",
+        "| **il suffit de + infinitif** | Il suffit de téléphoner pour avoir les informations. |",
+        "| **il était une fois** | Il était une fois… |"
+      ],
+      [
+        "### Tournures impersonnelles passives\n",
+        "Ces constructions peuvent éviter de préciser le sujet qui prend la décision.",
+        "- Il est interdit de fumer dans ce taxi.",
+        "- Il est défendu de marcher sur les pelouses.",
+        "- Il est permis de stationner pendant deux heures.",
+        "- Il a été décidé de fermer ce musée."
+      ],
+      [
+        "### Expressions à compléter dans la fiche\n",
+        "L’exercice contient aussi **il est juste que**, **il est indispensable que**, **il est clair que**, **il est important** et **il est normal que**."
+      ]
+    ],
+    "examples": [
+      "Il neige toujours en janvier.",
+      "Il faut que je lise ce livre.",
+      "Il y a quelqu’un dans le jardin.",
+      "Il semble qu’il ait plu cette nuit.",
+      "Il est interdit de fumer dans ce taxi."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Il faut que et le subjonctif",
+        "markup": "{{contexte:Il faut que}} je {{verbe:lise}} ce livre.",
+        "explanation": "La structure **il faut que** est suivie du subjonctif.",
+        "sourceSentences": [
+          "Il faut que je lise ce livre."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_10_16_adverbes_ment",
+    "title": "Les adverbes en -ment",
+    "category": "Adverbs",
+    "summary": [
+      [
+        "### Formation générale\n",
+        "Beaucoup d’adverbes se forment sur le féminin de l’adjectif suivi de **-ment**.",
+        "- heureux → heureuse → **heureusement** ;",
+        "- facile → facile → **facilement**."
+      ],
+      [
+        "### Formations particulières\n",
+        "| Adjectif | Adverbe |",
+        "|---|---|",
+        "| vrai | **vraiment** |",
+        "| gai | **gaiement** |",
+        "| constant (-ant) | **constamment** |",
+        "| intelligent (-ent) | **intelligemment** |"
+      ],
+      [
+        "### Exceptions\n",
+        "- lent → **lentement** ;",
+        "- gentil → **gentiment** ;",
+        "- précis → **précisément**.",
+        "Le document présente également l’ajout direct de **-ment** pour certaines terminaisons masculines (**-ai, -é, -e, -i, -u**)."
+      ]
+    ],
+    "examples": [
+      "Heureusement, tout va bien.",
+      "C’est vraiment intéressant.",
+      "Il travaille constamment.",
+      "Elle répond intelligemment.",
+      "Il parle lentement."
+    ],
+    "annotatedExamples": []
+  }
+]
