@@ -1,0 +1,16 @@
+[
+  {
+    "id": "h_2026_10_16_cahier_19_page_21",
+    "title": "Cahier : n° 19, page 21",
+    "description": "Faire le travail indiqué par le professeur : cahier n° 19, page 21.",
+    "dueDate": "2026-10-19",
+    "done": false
+  },
+  {
+    "id": "h_2026_10_16_commentaire_dossier",
+    "title": "Commenter le dernier dossier",
+    "description": "Préparer un commentaire du dernier dossier pour lundi.",
+    "dueDate": "2026-10-19",
+    "done": false
+  }
+]
