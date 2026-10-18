@@ -1,0 +1,170 @@
+[
+  {
+    "id": "v_2026_10_16_une_forme_impersonnelle",
+    "french": "une forme impersonnelle",
+    "translation": "безличная форма",
+    "example": "« Il pleut » est une forme impersonnelle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_faut_que",
+    "french": "il faut que",
+    "translation": "нужно, чтобы",
+    "example": "Il faut que je lise ce livre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_s_agit_de",
+    "french": "il s’agit de",
+    "translation": "речь идёт о",
+    "example": "Dans ce roman, il s’agit d’une famille.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_arrive_que",
+    "french": "il arrive que",
+    "translation": "случается, что",
+    "example": "Il arrive qu’un incident se produise.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_parait_que",
+    "french": "il paraît que",
+    "translation": "говорят, что",
+    "example": "Il paraît qu’elle a eu des jumeaux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_semble_que",
+    "french": "il semble que",
+    "translation": "кажется, что",
+    "example": "Il semble qu’il ait plu cette nuit.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_vaut_mieux",
+    "french": "il vaut mieux",
+    "translation": "лучше",
+    "example": "Il vaut mieux rappeler.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_suffit_de",
+    "french": "il suffit de",
+    "translation": "достаточно",
+    "example": "Il suffit de téléphoner.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_est_interdit_de",
+    "french": "il est interdit de",
+    "translation": "запрещено",
+    "example": "Il est interdit de fumer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_est_defendu_de",
+    "french": "il est défendu de",
+    "translation": "запрещено",
+    "example": "Il est défendu de marcher sur les pelouses.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_est_permis_de",
+    "french": "il est permis de",
+    "translation": "разрешено",
+    "example": "Il est permis de stationner ici.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_a_ete_decide_de",
+    "french": "il a été décidé de",
+    "translation": "было решено",
+    "example": "Il a été décidé de fermer ce musée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_est_indispensable_que",
+    "french": "il est indispensable que",
+    "translation": "необходимо, чтобы",
+    "example": "Il est indispensable que nous partions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_il_est_normal_que",
+    "french": "il est normal que",
+    "translation": "естественно, что",
+    "example": "Il est normal que tu sois fatigué.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_heureusement",
+    "french": "heureusement",
+    "translation": "к счастью",
+    "example": "Heureusement, tout va bien.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_vraiment",
+    "french": "vraiment",
+    "translation": "действительно",
+    "example": "C’est vraiment intéressant.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_gaiement",
+    "french": "gaiement",
+    "translation": "весело",
+    "example": "Elle chante gaiement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_constamment",
+    "french": "constamment",
+    "translation": "постоянно",
+    "example": "Il travaille constamment.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_intelligemment",
+    "french": "intelligemment",
+    "translation": "разумно",
+    "example": "Elle répond intelligemment.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_lentement",
+    "french": "lentement",
+    "translation": "медленно",
+    "example": "Il marche lentement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_gentiment",
+    "french": "gentiment",
+    "translation": "любезно",
+    "example": "Elle m’a gentiment aidé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_precisement",
+    "french": "précisément",
+    "translation": "точно",
+    "example": "Il décrit précisément la situation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_un_graphique",
+    "french": "un graphique",
+    "translation": "график",
+    "example": "Nous analysons un graphique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_16_un_incident",
+    "french": "un incident",
+    "translation": "происшествие",
+    "example": "Il arrive qu’un incident se produise.",
+    "status": "learning"
+  }
+]
