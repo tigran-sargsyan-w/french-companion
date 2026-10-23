@@ -1,0 +1,190 @@
+{
+  "infinitive": "étudier",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'étudie",
+      "tu": "tu étudies",
+      "il": "il étudie",
+      "elle": "elle étudie",
+      "on": "on étudie",
+      "nous": "nous étudions",
+      "vous": "vous étudiez",
+      "ils": "ils étudient",
+      "elles": "elles étudient"
+    },
+    "imparfait": {
+      "je": "j'étudiais",
+      "tu": "tu étudiais",
+      "il": "il étudiait",
+      "elle": "elle étudiait",
+      "on": "on étudiait",
+      "nous": "nous étudiions",
+      "vous": "vous étudiiez",
+      "ils": "ils étudiaient",
+      "elles": "elles étudiaient"
+    },
+    "futur_simple": {
+      "je": "j'étudierai",
+      "tu": "tu étudieras",
+      "il": "il étudiera",
+      "elle": "elle étudiera",
+      "on": "on étudiera",
+      "nous": "nous étudierons",
+      "vous": "vous étudierez",
+      "ils": "ils étudieront",
+      "elles": "elles étudieront"
+    },
+    "conditionnel_present": {
+      "je": "j'étudierais",
+      "tu": "tu étudierais",
+      "il": "il étudierait",
+      "elle": "elle étudierait",
+      "on": "on étudierait",
+      "nous": "nous étudierions",
+      "vous": "vous étudieriez",
+      "ils": "ils étudieraient",
+      "elles": "elles étudieraient"
+    },
+    "subjonctif_present": {
+      "je": "j'étudie",
+      "tu": "tu étudies",
+      "il": "il étudie",
+      "elle": "elle étudie",
+      "on": "on étudie",
+      "nous": "nous étudiions",
+      "vous": "vous étudiiez",
+      "ils": "ils étudient",
+      "elles": "elles étudient"
+    },
+    "passe_simple": {
+      "je": "j'étudiai",
+      "tu": "tu étudias",
+      "il": "il étudia",
+      "elle": "elle étudia",
+      "on": "on étudia",
+      "nous": "nous étudiâmes",
+      "vous": "vous étudiâtes",
+      "ils": "ils étudièrent",
+      "elles": "elles étudièrent"
+    },
+    "passe_compose": {
+      "je": "j'ai étudié",
+      "tu": "tu as étudié",
+      "il": "il a étudié",
+      "elle": "elle a étudié",
+      "on": "on a étudié",
+      "nous": "nous avons étudié",
+      "vous": "vous avez étudié",
+      "ils": "ils ont étudié",
+      "elles": "elles ont étudié"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais étudié",
+      "tu": "tu avais étudié",
+      "il": "il avait étudié",
+      "elle": "elle avait étudié",
+      "on": "on avait étudié",
+      "nous": "nous avions étudié",
+      "vous": "vous aviez étudié",
+      "ils": "ils avaient étudié",
+      "elles": "elles avaient étudié"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai étudié",
+      "tu": "tu auras étudié",
+      "il": "il aura étudié",
+      "elle": "elle aura étudié",
+      "on": "on aura étudié",
+      "nous": "nous aurons étudié",
+      "vous": "vous aurez étudié",
+      "ils": "ils auront étudié",
+      "elles": "elles auront étudié"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais étudié",
+      "tu": "tu aurais étudié",
+      "il": "il aurait étudié",
+      "elle": "elle aurait étudié",
+      "on": "on aurait étudié",
+      "nous": "nous aurions étudié",
+      "vous": "vous auriez étudié",
+      "ils": "ils auraient étudié",
+      "elles": "elles auraient étudié"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie étudié",
+      "tu": "tu aies étudié",
+      "il": "il ait étudié",
+      "elle": "elle ait étudié",
+      "on": "on ait étudié",
+      "nous": "nous ayons étudié",
+      "vous": "vous ayez étudié",
+      "ils": "ils aient étudié",
+      "elles": "elles aient étudié"
+    },
+    "futur_proche": {
+      "je": "je vais étudier",
+      "tu": "tu vas étudier",
+      "il": "il va étudier",
+      "elle": "elle va étudier",
+      "on": "on va étudier",
+      "nous": "nous allons étudier",
+      "vous": "vous allez étudier",
+      "ils": "ils vont étudier",
+      "elles": "elles vont étudier"
+    },
+    "imperatif_present": {
+      "tu": "étudie",
+      "nous": "étudions",
+      "vous": "étudiez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'étudiasse",
+      "tu": "tu étudiasses",
+      "il": "il étudiât",
+      "elle": "elle étudiât",
+      "on": "on étudiât",
+      "nous": "nous étudiassions",
+      "vous": "vous étudiassiez",
+      "ils": "ils étudiassent",
+      "elles": "elles étudiassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus étudié",
+      "tu": "tu eus étudié",
+      "il": "il eut étudié",
+      "elle": "elle eut étudié",
+      "on": "on eut étudié",
+      "nous": "nous eûmes étudié",
+      "vous": "vous eûtes étudié",
+      "ils": "ils eurent étudié",
+      "elles": "elles eurent étudié"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse étudié",
+      "tu": "tu eusses étudié",
+      "il": "il eût étudié",
+      "elle": "elle eût étudié",
+      "on": "on eût étudié",
+      "nous": "nous eussions étudié",
+      "vous": "vous eussiez étudié",
+      "ils": "ils eussent étudié",
+      "elles": "elles eussent étudié"
+    },
+    "imperatif_passe": {
+      "tu": "aie étudié",
+      "nous": "ayons étudié",
+      "vous": "ayez étudié"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "étudier",
+    "infinitif_passe": "avoir étudié",
+    "participe_present": "étudiant",
+    "participe_passe": "étudié",
+    "gerondif_present": "en étudiant",
+    "gerondif_passe": "en ayant étudié"
+  }
+}

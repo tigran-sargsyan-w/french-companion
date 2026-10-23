@@ -1,0 +1,190 @@
+{
+  "infinitive": "comprendre",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je comprends",
+      "tu": "tu comprends",
+      "il": "il comprend",
+      "elle": "elle comprend",
+      "on": "on comprend",
+      "nous": "nous comprenons",
+      "vous": "vous comprenez",
+      "ils": "ils comprennent",
+      "elles": "elles comprennent"
+    },
+    "imparfait": {
+      "je": "je comprenais",
+      "tu": "tu comprenais",
+      "il": "il comprenait",
+      "elle": "elle comprenait",
+      "on": "on comprenait",
+      "nous": "nous comprenions",
+      "vous": "vous compreniez",
+      "ils": "ils comprenaient",
+      "elles": "elles comprenaient"
+    },
+    "futur_simple": {
+      "je": "je comprendrai",
+      "tu": "tu comprendras",
+      "il": "il comprendra",
+      "elle": "elle comprendra",
+      "on": "on comprendra",
+      "nous": "nous comprendrons",
+      "vous": "vous comprendrez",
+      "ils": "ils comprendront",
+      "elles": "elles comprendront"
+    },
+    "conditionnel_present": {
+      "je": "je comprendrais",
+      "tu": "tu comprendrais",
+      "il": "il comprendrait",
+      "elle": "elle comprendrait",
+      "on": "on comprendrait",
+      "nous": "nous comprendrions",
+      "vous": "vous comprendriez",
+      "ils": "ils comprendraient",
+      "elles": "elles comprendraient"
+    },
+    "subjonctif_present": {
+      "je": "je comprenne",
+      "tu": "tu comprennes",
+      "il": "il comprenne",
+      "elle": "elle comprenne",
+      "on": "on comprenne",
+      "nous": "nous comprenions",
+      "vous": "vous compreniez",
+      "ils": "ils comprennent",
+      "elles": "elles comprennent"
+    },
+    "passe_simple": {
+      "je": "je compris",
+      "tu": "tu compris",
+      "il": "il comprit",
+      "elle": "elle comprit",
+      "on": "on comprit",
+      "nous": "nous comprîmes",
+      "vous": "vous comprîtes",
+      "ils": "ils comprirent",
+      "elles": "elles comprirent"
+    },
+    "passe_compose": {
+      "je": "j'ai compris",
+      "tu": "tu as compris",
+      "il": "il a compris",
+      "elle": "elle a compris",
+      "on": "on a compris",
+      "nous": "nous avons compris",
+      "vous": "vous avez compris",
+      "ils": "ils ont compris",
+      "elles": "elles ont compris"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais compris",
+      "tu": "tu avais compris",
+      "il": "il avait compris",
+      "elle": "elle avait compris",
+      "on": "on avait compris",
+      "nous": "nous avions compris",
+      "vous": "vous aviez compris",
+      "ils": "ils avaient compris",
+      "elles": "elles avaient compris"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai compris",
+      "tu": "tu auras compris",
+      "il": "il aura compris",
+      "elle": "elle aura compris",
+      "on": "on aura compris",
+      "nous": "nous aurons compris",
+      "vous": "vous aurez compris",
+      "ils": "ils auront compris",
+      "elles": "elles auront compris"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais compris",
+      "tu": "tu aurais compris",
+      "il": "il aurait compris",
+      "elle": "elle aurait compris",
+      "on": "on aurait compris",
+      "nous": "nous aurions compris",
+      "vous": "vous auriez compris",
+      "ils": "ils auraient compris",
+      "elles": "elles auraient compris"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie compris",
+      "tu": "tu aies compris",
+      "il": "il ait compris",
+      "elle": "elle ait compris",
+      "on": "on ait compris",
+      "nous": "nous ayons compris",
+      "vous": "vous ayez compris",
+      "ils": "ils aient compris",
+      "elles": "elles aient compris"
+    },
+    "futur_proche": {
+      "je": "je vais comprendre",
+      "tu": "tu vas comprendre",
+      "il": "il va comprendre",
+      "elle": "elle va comprendre",
+      "on": "on va comprendre",
+      "nous": "nous allons comprendre",
+      "vous": "vous allez comprendre",
+      "ils": "ils vont comprendre",
+      "elles": "elles vont comprendre"
+    },
+    "imperatif_present": {
+      "tu": "comprends",
+      "nous": "comprenons",
+      "vous": "comprenez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je comprisse",
+      "tu": "tu comprisses",
+      "il": "il comprît",
+      "elle": "elle comprît",
+      "on": "on comprît",
+      "nous": "nous comprissions",
+      "vous": "vous comprissiez",
+      "ils": "ils comprissent",
+      "elles": "elles comprissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus compris",
+      "tu": "tu eus compris",
+      "il": "il eut compris",
+      "elle": "elle eut compris",
+      "on": "on eut compris",
+      "nous": "nous eûmes compris",
+      "vous": "vous eûtes compris",
+      "ils": "ils eurent compris",
+      "elles": "elles eurent compris"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse compris",
+      "tu": "tu eusses compris",
+      "il": "il eût compris",
+      "elle": "elle eût compris",
+      "on": "on eût compris",
+      "nous": "nous eussions compris",
+      "vous": "vous eussiez compris",
+      "ils": "ils eussent compris",
+      "elles": "elles eussent compris"
+    },
+    "imperatif_passe": {
+      "tu": "aie compris",
+      "nous": "ayons compris",
+      "vous": "ayez compris"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "comprendre",
+    "infinitif_passe": "avoir compris",
+    "participe_present": "comprenant",
+    "participe_passe": "compris",
+    "gerondif_present": "en comprenant",
+    "gerondif_passe": "en ayant compris"
+  }
+}

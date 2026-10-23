@@ -1,0 +1,190 @@
+{
+  "infinitive": "punir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je punis",
+      "tu": "tu punis",
+      "il": "il punit",
+      "elle": "elle punit",
+      "on": "on punit",
+      "nous": "nous punissons",
+      "vous": "vous punissez",
+      "ils": "ils punissent",
+      "elles": "elles punissent"
+    },
+    "imparfait": {
+      "je": "je punissais",
+      "tu": "tu punissais",
+      "il": "il punissait",
+      "elle": "elle punissait",
+      "on": "on punissait",
+      "nous": "nous punissions",
+      "vous": "vous punissiez",
+      "ils": "ils punissaient",
+      "elles": "elles punissaient"
+    },
+    "futur_simple": {
+      "je": "je punirai",
+      "tu": "tu puniras",
+      "il": "il punira",
+      "elle": "elle punira",
+      "on": "on punira",
+      "nous": "nous punirons",
+      "vous": "vous punirez",
+      "ils": "ils puniront",
+      "elles": "elles puniront"
+    },
+    "conditionnel_present": {
+      "je": "je punirais",
+      "tu": "tu punirais",
+      "il": "il punirait",
+      "elle": "elle punirait",
+      "on": "on punirait",
+      "nous": "nous punirions",
+      "vous": "vous puniriez",
+      "ils": "ils puniraient",
+      "elles": "elles puniraient"
+    },
+    "subjonctif_present": {
+      "je": "je punisse",
+      "tu": "tu punisses",
+      "il": "il punisse",
+      "elle": "elle punisse",
+      "on": "on punisse",
+      "nous": "nous punissions",
+      "vous": "vous punissiez",
+      "ils": "ils punissent",
+      "elles": "elles punissent"
+    },
+    "passe_simple": {
+      "je": "je punis",
+      "tu": "tu punis",
+      "il": "il punit",
+      "elle": "elle punit",
+      "on": "on punit",
+      "nous": "nous punîmes",
+      "vous": "vous punîtes",
+      "ils": "ils punirent",
+      "elles": "elles punirent"
+    },
+    "passe_compose": {
+      "je": "j'ai puni",
+      "tu": "tu as puni",
+      "il": "il a puni",
+      "elle": "elle a puni",
+      "on": "on a puni",
+      "nous": "nous avons puni",
+      "vous": "vous avez puni",
+      "ils": "ils ont puni",
+      "elles": "elles ont puni"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais puni",
+      "tu": "tu avais puni",
+      "il": "il avait puni",
+      "elle": "elle avait puni",
+      "on": "on avait puni",
+      "nous": "nous avions puni",
+      "vous": "vous aviez puni",
+      "ils": "ils avaient puni",
+      "elles": "elles avaient puni"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai puni",
+      "tu": "tu auras puni",
+      "il": "il aura puni",
+      "elle": "elle aura puni",
+      "on": "on aura puni",
+      "nous": "nous aurons puni",
+      "vous": "vous aurez puni",
+      "ils": "ils auront puni",
+      "elles": "elles auront puni"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais puni",
+      "tu": "tu aurais puni",
+      "il": "il aurait puni",
+      "elle": "elle aurait puni",
+      "on": "on aurait puni",
+      "nous": "nous aurions puni",
+      "vous": "vous auriez puni",
+      "ils": "ils auraient puni",
+      "elles": "elles auraient puni"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie puni",
+      "tu": "tu aies puni",
+      "il": "il ait puni",
+      "elle": "elle ait puni",
+      "on": "on ait puni",
+      "nous": "nous ayons puni",
+      "vous": "vous ayez puni",
+      "ils": "ils aient puni",
+      "elles": "elles aient puni"
+    },
+    "futur_proche": {
+      "je": "je vais punir",
+      "tu": "tu vas punir",
+      "il": "il va punir",
+      "elle": "elle va punir",
+      "on": "on va punir",
+      "nous": "nous allons punir",
+      "vous": "vous allez punir",
+      "ils": "ils vont punir",
+      "elles": "elles vont punir"
+    },
+    "imperatif_present": {
+      "tu": "punis",
+      "nous": "punissons",
+      "vous": "punissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je punisse",
+      "tu": "tu punisses",
+      "il": "il punît",
+      "elle": "elle punît",
+      "on": "on punît",
+      "nous": "nous punissions",
+      "vous": "vous punissiez",
+      "ils": "ils punissent",
+      "elles": "elles punissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus puni",
+      "tu": "tu eus puni",
+      "il": "il eut puni",
+      "elle": "elle eut puni",
+      "on": "on eut puni",
+      "nous": "nous eûmes puni",
+      "vous": "vous eûtes puni",
+      "ils": "ils eurent puni",
+      "elles": "elles eurent puni"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse puni",
+      "tu": "tu eusses puni",
+      "il": "il eût puni",
+      "elle": "elle eût puni",
+      "on": "on eût puni",
+      "nous": "nous eussions puni",
+      "vous": "vous eussiez puni",
+      "ils": "ils eussent puni",
+      "elles": "elles eussent puni"
+    },
+    "imperatif_passe": {
+      "tu": "aie puni",
+      "nous": "ayons puni",
+      "vous": "ayez puni"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "punir",
+    "infinitif_passe": "avoir puni",
+    "participe_present": "punissant",
+    "participe_passe": "puni",
+    "gerondif_present": "en punissant",
+    "gerondif_passe": "en ayant puni"
+  }
+}

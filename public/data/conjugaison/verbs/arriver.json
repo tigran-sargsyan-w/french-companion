@@ -1,0 +1,190 @@
+{
+  "infinitive": "arriver",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'arrive",
+      "tu": "tu arrives",
+      "il": "il arrive",
+      "elle": "elle arrive",
+      "on": "on arrive",
+      "nous": "nous arrivons",
+      "vous": "vous arrivez",
+      "ils": "ils arrivent",
+      "elles": "elles arrivent"
+    },
+    "imparfait": {
+      "je": "j'arrivais",
+      "tu": "tu arrivais",
+      "il": "il arrivait",
+      "elle": "elle arrivait",
+      "on": "on arrivait",
+      "nous": "nous arrivions",
+      "vous": "vous arriviez",
+      "ils": "ils arrivaient",
+      "elles": "elles arrivaient"
+    },
+    "futur_simple": {
+      "je": "j'arriverai",
+      "tu": "tu arriveras",
+      "il": "il arrivera",
+      "elle": "elle arrivera",
+      "on": "on arrivera",
+      "nous": "nous arriverons",
+      "vous": "vous arriverez",
+      "ils": "ils arriveront",
+      "elles": "elles arriveront"
+    },
+    "conditionnel_present": {
+      "je": "j'arriverais",
+      "tu": "tu arriverais",
+      "il": "il arriverait",
+      "elle": "elle arriverait",
+      "on": "on arriverait",
+      "nous": "nous arriverions",
+      "vous": "vous arriveriez",
+      "ils": "ils arriveraient",
+      "elles": "elles arriveraient"
+    },
+    "subjonctif_present": {
+      "je": "j'arrive",
+      "tu": "tu arrives",
+      "il": "il arrive",
+      "elle": "elle arrive",
+      "on": "on arrive",
+      "nous": "nous arrivions",
+      "vous": "vous arriviez",
+      "ils": "ils arrivent",
+      "elles": "elles arrivent"
+    },
+    "passe_simple": {
+      "je": "j'arrivai",
+      "tu": "tu arrivas",
+      "il": "il arriva",
+      "elle": "elle arriva",
+      "on": "on arriva",
+      "nous": "nous arrivâmes",
+      "vous": "vous arrivâtes",
+      "ils": "ils arrivèrent",
+      "elles": "elles arrivèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai arrivé",
+      "tu": "tu as arrivé",
+      "il": "il a arrivé",
+      "elle": "elle a arrivé",
+      "on": "on a arrivé",
+      "nous": "nous avons arrivé",
+      "vous": "vous avez arrivé",
+      "ils": "ils ont arrivé",
+      "elles": "elles ont arrivé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais arrivé",
+      "tu": "tu avais arrivé",
+      "il": "il avait arrivé",
+      "elle": "elle avait arrivé",
+      "on": "on avait arrivé",
+      "nous": "nous avions arrivé",
+      "vous": "vous aviez arrivé",
+      "ils": "ils avaient arrivé",
+      "elles": "elles avaient arrivé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai arrivé",
+      "tu": "tu auras arrivé",
+      "il": "il aura arrivé",
+      "elle": "elle aura arrivé",
+      "on": "on aura arrivé",
+      "nous": "nous aurons arrivé",
+      "vous": "vous aurez arrivé",
+      "ils": "ils auront arrivé",
+      "elles": "elles auront arrivé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais arrivé",
+      "tu": "tu aurais arrivé",
+      "il": "il aurait arrivé",
+      "elle": "elle aurait arrivé",
+      "on": "on aurait arrivé",
+      "nous": "nous aurions arrivé",
+      "vous": "vous auriez arrivé",
+      "ils": "ils auraient arrivé",
+      "elles": "elles auraient arrivé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie arrivé",
+      "tu": "tu aies arrivé",
+      "il": "il ait arrivé",
+      "elle": "elle ait arrivé",
+      "on": "on ait arrivé",
+      "nous": "nous ayons arrivé",
+      "vous": "vous ayez arrivé",
+      "ils": "ils aient arrivé",
+      "elles": "elles aient arrivé"
+    },
+    "futur_proche": {
+      "je": "je vais arriver",
+      "tu": "tu vas arriver",
+      "il": "il va arriver",
+      "elle": "elle va arriver",
+      "on": "on va arriver",
+      "nous": "nous allons arriver",
+      "vous": "vous allez arriver",
+      "ils": "ils vont arriver",
+      "elles": "elles vont arriver"
+    },
+    "imperatif_present": {
+      "tu": "arrive",
+      "nous": "arrivons",
+      "vous": "arrivez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'arrivasse",
+      "tu": "tu arrivasses",
+      "il": "il arrivât",
+      "elle": "elle arrivât",
+      "on": "on arrivât",
+      "nous": "nous arrivassions",
+      "vous": "vous arrivassiez",
+      "ils": "ils arrivassent",
+      "elles": "elles arrivassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus arrivé",
+      "tu": "tu eus arrivé",
+      "il": "il eut arrivé",
+      "elle": "elle eut arrivé",
+      "on": "on eut arrivé",
+      "nous": "nous eûmes arrivé",
+      "vous": "vous eûtes arrivé",
+      "ils": "ils eurent arrivé",
+      "elles": "elles eurent arrivé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse arrivé",
+      "tu": "tu eusses arrivé",
+      "il": "il eût arrivé",
+      "elle": "elle eût arrivé",
+      "on": "on eût arrivé",
+      "nous": "nous eussions arrivé",
+      "vous": "vous eussiez arrivé",
+      "ils": "ils eussent arrivé",
+      "elles": "elles eussent arrivé"
+    },
+    "imperatif_passe": {
+      "tu": "aie arrivé",
+      "nous": "ayons arrivé",
+      "vous": "ayez arrivé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "arriver",
+    "infinitif_passe": "avoir arrivé",
+    "participe_present": "arrivant",
+    "participe_passe": "arrivé",
+    "gerondif_present": "en arrivant",
+    "gerondif_passe": "en ayant arrivé"
+  }
+}

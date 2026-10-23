@@ -1,0 +1,190 @@
+{
+  "infinitive": "courir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je cours",
+      "tu": "tu cours",
+      "il": "il court",
+      "elle": "elle court",
+      "on": "on court",
+      "nous": "nous courons",
+      "vous": "vous courez",
+      "ils": "ils courent",
+      "elles": "elles courent"
+    },
+    "imparfait": {
+      "je": "je courais",
+      "tu": "tu courais",
+      "il": "il courait",
+      "elle": "elle courait",
+      "on": "on courait",
+      "nous": "nous courions",
+      "vous": "vous couriez",
+      "ils": "ils couraient",
+      "elles": "elles couraient"
+    },
+    "futur_simple": {
+      "je": "je courrai",
+      "tu": "tu courras",
+      "il": "il courra",
+      "elle": "elle courra",
+      "on": "on courra",
+      "nous": "nous courrons",
+      "vous": "vous courrez",
+      "ils": "ils courront",
+      "elles": "elles courront"
+    },
+    "conditionnel_present": {
+      "je": "je courrais",
+      "tu": "tu courrais",
+      "il": "il courrait",
+      "elle": "elle courrait",
+      "on": "on courrait",
+      "nous": "nous courrions",
+      "vous": "vous courriez",
+      "ils": "ils courraient",
+      "elles": "elles courraient"
+    },
+    "subjonctif_present": {
+      "je": "je coure",
+      "tu": "tu coures",
+      "il": "il coure",
+      "elle": "elle coure",
+      "on": "on coure",
+      "nous": "nous courions",
+      "vous": "vous couriez",
+      "ils": "ils courent",
+      "elles": "elles courent"
+    },
+    "passe_simple": {
+      "je": "je courus",
+      "tu": "tu courus",
+      "il": "il courut",
+      "elle": "elle courut",
+      "on": "on courut",
+      "nous": "nous courûmes",
+      "vous": "vous courûtes",
+      "ils": "ils coururent",
+      "elles": "elles coururent"
+    },
+    "passe_compose": {
+      "je": "j'ai couru",
+      "tu": "tu as couru",
+      "il": "il a couru",
+      "elle": "elle a couru",
+      "on": "on a couru",
+      "nous": "nous avons couru",
+      "vous": "vous avez couru",
+      "ils": "ils ont couru",
+      "elles": "elles ont couru"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais couru",
+      "tu": "tu avais couru",
+      "il": "il avait couru",
+      "elle": "elle avait couru",
+      "on": "on avait couru",
+      "nous": "nous avions couru",
+      "vous": "vous aviez couru",
+      "ils": "ils avaient couru",
+      "elles": "elles avaient couru"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai couru",
+      "tu": "tu auras couru",
+      "il": "il aura couru",
+      "elle": "elle aura couru",
+      "on": "on aura couru",
+      "nous": "nous aurons couru",
+      "vous": "vous aurez couru",
+      "ils": "ils auront couru",
+      "elles": "elles auront couru"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais couru",
+      "tu": "tu aurais couru",
+      "il": "il aurait couru",
+      "elle": "elle aurait couru",
+      "on": "on aurait couru",
+      "nous": "nous aurions couru",
+      "vous": "vous auriez couru",
+      "ils": "ils auraient couru",
+      "elles": "elles auraient couru"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie couru",
+      "tu": "tu aies couru",
+      "il": "il ait couru",
+      "elle": "elle ait couru",
+      "on": "on ait couru",
+      "nous": "nous ayons couru",
+      "vous": "vous ayez couru",
+      "ils": "ils aient couru",
+      "elles": "elles aient couru"
+    },
+    "futur_proche": {
+      "je": "je vais courir",
+      "tu": "tu vas courir",
+      "il": "il va courir",
+      "elle": "elle va courir",
+      "on": "on va courir",
+      "nous": "nous allons courir",
+      "vous": "vous allez courir",
+      "ils": "ils vont courir",
+      "elles": "elles vont courir"
+    },
+    "imperatif_present": {
+      "tu": "cours",
+      "nous": "courons",
+      "vous": "courez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je courusse",
+      "tu": "tu courusses",
+      "il": "il courût",
+      "elle": "elle courût",
+      "on": "on courût",
+      "nous": "nous courussions",
+      "vous": "vous courussiez",
+      "ils": "ils courussent",
+      "elles": "elles courussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus couru",
+      "tu": "tu eus couru",
+      "il": "il eut couru",
+      "elle": "elle eut couru",
+      "on": "on eut couru",
+      "nous": "nous eûmes couru",
+      "vous": "vous eûtes couru",
+      "ils": "ils eurent couru",
+      "elles": "elles eurent couru"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse couru",
+      "tu": "tu eusses couru",
+      "il": "il eût couru",
+      "elle": "elle eût couru",
+      "on": "on eût couru",
+      "nous": "nous eussions couru",
+      "vous": "vous eussiez couru",
+      "ils": "ils eussent couru",
+      "elles": "elles eussent couru"
+    },
+    "imperatif_passe": {
+      "tu": "aie couru",
+      "nous": "ayons couru",
+      "vous": "ayez couru"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "courir",
+    "infinitif_passe": "avoir couru",
+    "participe_present": "courant",
+    "participe_passe": "couru",
+    "gerondif_present": "en courant",
+    "gerondif_passe": "en ayant couru"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "infinitive": "annoncer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'annonce",
+      "tu": "tu annonces",
+      "il": "il annonce",
+      "elle": "elle annonce",
+      "on": "on annonce",
+      "nous": "nous annoncçons",
+      "vous": "vous annoncez",
+      "ils": "ils annoncent",
+      "elles": "elles annoncent"
+    },
+    "imparfait": {
+      "je": "j'annoncçais",
+      "tu": "tu annoncçais",
+      "il": "il annoncçait",
+      "elle": "elle annoncçait",
+      "on": "on annoncçait",
+      "nous": "nous annoncions",
+      "vous": "vous annonciez",
+      "ils": "ils annoncçaient",
+      "elles": "elles annoncçaient"
+    },
+    "futur_simple": {
+      "je": "j'annoncerai",
+      "tu": "tu annonceras",
+      "il": "il annoncera",
+      "elle": "elle annoncera",
+      "on": "on annoncera",
+      "nous": "nous annoncerons",
+      "vous": "vous annoncerez",
+      "ils": "ils annonceront",
+      "elles": "elles annonceront"
+    },
+    "conditionnel_present": {
+      "je": "j'annoncerais",
+      "tu": "tu annoncerais",
+      "il": "il annoncerait",
+      "elle": "elle annoncerait",
+      "on": "on annoncerait",
+      "nous": "nous annoncerions",
+      "vous": "vous annonceriez",
+      "ils": "ils annonceraient",
+      "elles": "elles annonceraient"
+    },
+    "subjonctif_present": {
+      "je": "j'annonce",
+      "tu": "tu annonces",
+      "il": "il annonce",
+      "elle": "elle annonce",
+      "on": "on annonce",
+      "nous": "nous annoncions",
+      "vous": "vous annonciez",
+      "ils": "ils annoncent",
+      "elles": "elles annoncent"
+    },
+    "passe_simple": {
+      "je": "j'annonçai",
+      "tu": "tu annonças",
+      "il": "il annonça",
+      "elle": "elle annonça",
+      "on": "on annonça",
+      "nous": "nous annonçâmes",
+      "vous": "vous annonçâtes",
+      "ils": "ils annoncèrent",
+      "elles": "elles annoncèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai annoncé",
+      "tu": "tu as annoncé",
+      "il": "il a annoncé",
+      "elle": "elle a annoncé",
+      "on": "on a annoncé",
+      "nous": "nous avons annoncé",
+      "vous": "vous avez annoncé",
+      "ils": "ils ont annoncé",
+      "elles": "elles ont annoncé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais annoncé",
+      "tu": "tu avais annoncé",
+      "il": "il avait annoncé",
+      "elle": "elle avait annoncé",
+      "on": "on avait annoncé",
+      "nous": "nous avions annoncé",
+      "vous": "vous aviez annoncé",
+      "ils": "ils avaient annoncé",
+      "elles": "elles avaient annoncé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai annoncé",
+      "tu": "tu auras annoncé",
+      "il": "il aura annoncé",
+      "elle": "elle aura annoncé",
+      "on": "on aura annoncé",
+      "nous": "nous aurons annoncé",
+      "vous": "vous aurez annoncé",
+      "ils": "ils auront annoncé",
+      "elles": "elles auront annoncé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais annoncé",
+      "tu": "tu aurais annoncé",
+      "il": "il aurait annoncé",
+      "elle": "elle aurait annoncé",
+      "on": "on aurait annoncé",
+      "nous": "nous aurions annoncé",
+      "vous": "vous auriez annoncé",
+      "ils": "ils auraient annoncé",
+      "elles": "elles auraient annoncé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie annoncé",
+      "tu": "tu aies annoncé",
+      "il": "il ait annoncé",
+      "elle": "elle ait annoncé",
+      "on": "on ait annoncé",
+      "nous": "nous ayons annoncé",
+      "vous": "vous ayez annoncé",
+      "ils": "ils aient annoncé",
+      "elles": "elles aient annoncé"
+    },
+    "futur_proche": {
+      "je": "je vais annoncer",
+      "tu": "tu vas annoncer",
+      "il": "il va annoncer",
+      "elle": "elle va annoncer",
+      "on": "on va annoncer",
+      "nous": "nous allons annoncer",
+      "vous": "vous allez annoncer",
+      "ils": "ils vont annoncer",
+      "elles": "elles vont annoncer"
+    },
+    "imperatif_present": {
+      "tu": "annonce",
+      "nous": "annoncçons",
+      "vous": "annoncez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'annonçasse",
+      "tu": "tu annonçasses",
+      "il": "il annonçât",
+      "elle": "elle annonçât",
+      "on": "on annonçât",
+      "nous": "nous annonçassions",
+      "vous": "vous annonçassiez",
+      "ils": "ils annonçassent",
+      "elles": "elles annonçassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus annoncé",
+      "tu": "tu eus annoncé",
+      "il": "il eut annoncé",
+      "elle": "elle eut annoncé",
+      "on": "on eut annoncé",
+      "nous": "nous eûmes annoncé",
+      "vous": "vous eûtes annoncé",
+      "ils": "ils eurent annoncé",
+      "elles": "elles eurent annoncé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse annoncé",
+      "tu": "tu eusses annoncé",
+      "il": "il eût annoncé",
+      "elle": "elle eût annoncé",
+      "on": "on eût annoncé",
+      "nous": "nous eussions annoncé",
+      "vous": "vous eussiez annoncé",
+      "ils": "ils eussent annoncé",
+      "elles": "elles eussent annoncé"
+    },
+    "imperatif_passe": {
+      "tu": "aie annoncé",
+      "nous": "ayons annoncé",
+      "vous": "ayez annoncé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "annoncer",
+    "infinitif_passe": "avoir annoncé",
+    "participe_present": "annoncçant",
+    "participe_passe": "annoncé",
+    "gerondif_present": "en annoncçant",
+    "gerondif_passe": "en ayant annoncé"
+  }
+}

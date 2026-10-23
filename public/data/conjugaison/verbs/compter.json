@@ -1,0 +1,190 @@
+{
+  "infinitive": "compter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je compte",
+      "tu": "tu comptes",
+      "il": "il compte",
+      "elle": "elle compte",
+      "on": "on compte",
+      "nous": "nous comptons",
+      "vous": "vous comptez",
+      "ils": "ils comptent",
+      "elles": "elles comptent"
+    },
+    "imparfait": {
+      "je": "je comptais",
+      "tu": "tu comptais",
+      "il": "il comptait",
+      "elle": "elle comptait",
+      "on": "on comptait",
+      "nous": "nous comptions",
+      "vous": "vous comptiez",
+      "ils": "ils comptaient",
+      "elles": "elles comptaient"
+    },
+    "futur_simple": {
+      "je": "je compterai",
+      "tu": "tu compteras",
+      "il": "il comptera",
+      "elle": "elle comptera",
+      "on": "on comptera",
+      "nous": "nous compterons",
+      "vous": "vous compterez",
+      "ils": "ils compteront",
+      "elles": "elles compteront"
+    },
+    "conditionnel_present": {
+      "je": "je compterais",
+      "tu": "tu compterais",
+      "il": "il compterait",
+      "elle": "elle compterait",
+      "on": "on compterait",
+      "nous": "nous compterions",
+      "vous": "vous compteriez",
+      "ils": "ils compteraient",
+      "elles": "elles compteraient"
+    },
+    "subjonctif_present": {
+      "je": "je compte",
+      "tu": "tu comptes",
+      "il": "il compte",
+      "elle": "elle compte",
+      "on": "on compte",
+      "nous": "nous comptions",
+      "vous": "vous comptiez",
+      "ils": "ils comptent",
+      "elles": "elles comptent"
+    },
+    "passe_simple": {
+      "je": "je comptai",
+      "tu": "tu comptas",
+      "il": "il compta",
+      "elle": "elle compta",
+      "on": "on compta",
+      "nous": "nous comptâmes",
+      "vous": "vous comptâtes",
+      "ils": "ils comptèrent",
+      "elles": "elles comptèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai compté",
+      "tu": "tu as compté",
+      "il": "il a compté",
+      "elle": "elle a compté",
+      "on": "on a compté",
+      "nous": "nous avons compté",
+      "vous": "vous avez compté",
+      "ils": "ils ont compté",
+      "elles": "elles ont compté"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais compté",
+      "tu": "tu avais compté",
+      "il": "il avait compté",
+      "elle": "elle avait compté",
+      "on": "on avait compté",
+      "nous": "nous avions compté",
+      "vous": "vous aviez compté",
+      "ils": "ils avaient compté",
+      "elles": "elles avaient compté"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai compté",
+      "tu": "tu auras compté",
+      "il": "il aura compté",
+      "elle": "elle aura compté",
+      "on": "on aura compté",
+      "nous": "nous aurons compté",
+      "vous": "vous aurez compté",
+      "ils": "ils auront compté",
+      "elles": "elles auront compté"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais compté",
+      "tu": "tu aurais compté",
+      "il": "il aurait compté",
+      "elle": "elle aurait compté",
+      "on": "on aurait compté",
+      "nous": "nous aurions compté",
+      "vous": "vous auriez compté",
+      "ils": "ils auraient compté",
+      "elles": "elles auraient compté"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie compté",
+      "tu": "tu aies compté",
+      "il": "il ait compté",
+      "elle": "elle ait compté",
+      "on": "on ait compté",
+      "nous": "nous ayons compté",
+      "vous": "vous ayez compté",
+      "ils": "ils aient compté",
+      "elles": "elles aient compté"
+    },
+    "futur_proche": {
+      "je": "je vais compter",
+      "tu": "tu vas compter",
+      "il": "il va compter",
+      "elle": "elle va compter",
+      "on": "on va compter",
+      "nous": "nous allons compter",
+      "vous": "vous allez compter",
+      "ils": "ils vont compter",
+      "elles": "elles vont compter"
+    },
+    "imperatif_present": {
+      "tu": "compte",
+      "nous": "comptons",
+      "vous": "comptez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je comptasse",
+      "tu": "tu comptasses",
+      "il": "il comptât",
+      "elle": "elle comptât",
+      "on": "on comptât",
+      "nous": "nous comptassions",
+      "vous": "vous comptassiez",
+      "ils": "ils comptassent",
+      "elles": "elles comptassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus compté",
+      "tu": "tu eus compté",
+      "il": "il eut compté",
+      "elle": "elle eut compté",
+      "on": "on eut compté",
+      "nous": "nous eûmes compté",
+      "vous": "vous eûtes compté",
+      "ils": "ils eurent compté",
+      "elles": "elles eurent compté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse compté",
+      "tu": "tu eusses compté",
+      "il": "il eût compté",
+      "elle": "elle eût compté",
+      "on": "on eût compté",
+      "nous": "nous eussions compté",
+      "vous": "vous eussiez compté",
+      "ils": "ils eussent compté",
+      "elles": "elles eussent compté"
+    },
+    "imperatif_passe": {
+      "tu": "aie compté",
+      "nous": "ayons compté",
+      "vous": "ayez compté"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "compter",
+    "infinitif_passe": "avoir compté",
+    "participe_present": "comptant",
+    "participe_passe": "compté",
+    "gerondif_present": "en comptant",
+    "gerondif_passe": "en ayant compté"
+  }
+}

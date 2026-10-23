@@ -1,0 +1,190 @@
+{
+  "infinitive": "rester",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je reste",
+      "tu": "tu restes",
+      "il": "il reste",
+      "elle": "elle reste",
+      "on": "on reste",
+      "nous": "nous restons",
+      "vous": "vous restez",
+      "ils": "ils restent",
+      "elles": "elles restent"
+    },
+    "imparfait": {
+      "je": "je restais",
+      "tu": "tu restais",
+      "il": "il restait",
+      "elle": "elle restait",
+      "on": "on restait",
+      "nous": "nous restions",
+      "vous": "vous restiez",
+      "ils": "ils restaient",
+      "elles": "elles restaient"
+    },
+    "futur_simple": {
+      "je": "je resterai",
+      "tu": "tu resteras",
+      "il": "il restera",
+      "elle": "elle restera",
+      "on": "on restera",
+      "nous": "nous resterons",
+      "vous": "vous resterez",
+      "ils": "ils resteront",
+      "elles": "elles resteront"
+    },
+    "conditionnel_present": {
+      "je": "je resterais",
+      "tu": "tu resterais",
+      "il": "il resterait",
+      "elle": "elle resterait",
+      "on": "on resterait",
+      "nous": "nous resterions",
+      "vous": "vous resteriez",
+      "ils": "ils resteraient",
+      "elles": "elles resteraient"
+    },
+    "subjonctif_present": {
+      "je": "je reste",
+      "tu": "tu restes",
+      "il": "il reste",
+      "elle": "elle reste",
+      "on": "on reste",
+      "nous": "nous restions",
+      "vous": "vous restiez",
+      "ils": "ils restent",
+      "elles": "elles restent"
+    },
+    "passe_simple": {
+      "je": "je restai",
+      "tu": "tu restas",
+      "il": "il resta",
+      "elle": "elle resta",
+      "on": "on resta",
+      "nous": "nous restâmes",
+      "vous": "vous restâtes",
+      "ils": "ils restèrent",
+      "elles": "elles restèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai resté",
+      "tu": "tu as resté",
+      "il": "il a resté",
+      "elle": "elle a resté",
+      "on": "on a resté",
+      "nous": "nous avons resté",
+      "vous": "vous avez resté",
+      "ils": "ils ont resté",
+      "elles": "elles ont resté"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais resté",
+      "tu": "tu avais resté",
+      "il": "il avait resté",
+      "elle": "elle avait resté",
+      "on": "on avait resté",
+      "nous": "nous avions resté",
+      "vous": "vous aviez resté",
+      "ils": "ils avaient resté",
+      "elles": "elles avaient resté"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai resté",
+      "tu": "tu auras resté",
+      "il": "il aura resté",
+      "elle": "elle aura resté",
+      "on": "on aura resté",
+      "nous": "nous aurons resté",
+      "vous": "vous aurez resté",
+      "ils": "ils auront resté",
+      "elles": "elles auront resté"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais resté",
+      "tu": "tu aurais resté",
+      "il": "il aurait resté",
+      "elle": "elle aurait resté",
+      "on": "on aurait resté",
+      "nous": "nous aurions resté",
+      "vous": "vous auriez resté",
+      "ils": "ils auraient resté",
+      "elles": "elles auraient resté"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie resté",
+      "tu": "tu aies resté",
+      "il": "il ait resté",
+      "elle": "elle ait resté",
+      "on": "on ait resté",
+      "nous": "nous ayons resté",
+      "vous": "vous ayez resté",
+      "ils": "ils aient resté",
+      "elles": "elles aient resté"
+    },
+    "futur_proche": {
+      "je": "je vais rester",
+      "tu": "tu vas rester",
+      "il": "il va rester",
+      "elle": "elle va rester",
+      "on": "on va rester",
+      "nous": "nous allons rester",
+      "vous": "vous allez rester",
+      "ils": "ils vont rester",
+      "elles": "elles vont rester"
+    },
+    "imperatif_present": {
+      "tu": "reste",
+      "nous": "restons",
+      "vous": "restez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je restasse",
+      "tu": "tu restasses",
+      "il": "il restât",
+      "elle": "elle restât",
+      "on": "on restât",
+      "nous": "nous restassions",
+      "vous": "vous restassiez",
+      "ils": "ils restassent",
+      "elles": "elles restassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus resté",
+      "tu": "tu eus resté",
+      "il": "il eut resté",
+      "elle": "elle eut resté",
+      "on": "on eut resté",
+      "nous": "nous eûmes resté",
+      "vous": "vous eûtes resté",
+      "ils": "ils eurent resté",
+      "elles": "elles eurent resté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse resté",
+      "tu": "tu eusses resté",
+      "il": "il eût resté",
+      "elle": "elle eût resté",
+      "on": "on eût resté",
+      "nous": "nous eussions resté",
+      "vous": "vous eussiez resté",
+      "ils": "ils eussent resté",
+      "elles": "elles eussent resté"
+    },
+    "imperatif_passe": {
+      "tu": "aie resté",
+      "nous": "ayons resté",
+      "vous": "ayez resté"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "rester",
+    "infinitif_passe": "avoir resté",
+    "participe_present": "restant",
+    "participe_passe": "resté",
+    "gerondif_present": "en restant",
+    "gerondif_passe": "en ayant resté"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "infinitive": "suivre",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je suis",
+      "tu": "tu suis",
+      "il": "il suit",
+      "elle": "elle suit",
+      "on": "on suit",
+      "nous": "nous suivons",
+      "vous": "vous suivez",
+      "ils": "ils suivent",
+      "elles": "elles suivent"
+    },
+    "imparfait": {
+      "je": "je suivais",
+      "tu": "tu suivais",
+      "il": "il suivait",
+      "elle": "elle suivait",
+      "on": "on suivait",
+      "nous": "nous suivions",
+      "vous": "vous suiviez",
+      "ils": "ils suivaient",
+      "elles": "elles suivaient"
+    },
+    "futur_simple": {
+      "je": "je suivrai",
+      "tu": "tu suivras",
+      "il": "il suivra",
+      "elle": "elle suivra",
+      "on": "on suivra",
+      "nous": "nous suivrons",
+      "vous": "vous suivrez",
+      "ils": "ils suivront",
+      "elles": "elles suivront"
+    },
+    "conditionnel_present": {
+      "je": "je suivrais",
+      "tu": "tu suivrais",
+      "il": "il suivrait",
+      "elle": "elle suivrait",
+      "on": "on suivrait",
+      "nous": "nous suivrions",
+      "vous": "vous suivriez",
+      "ils": "ils suivraient",
+      "elles": "elles suivraient"
+    },
+    "subjonctif_present": {
+      "je": "je suive",
+      "tu": "tu suives",
+      "il": "il suive",
+      "elle": "elle suive",
+      "on": "on suive",
+      "nous": "nous suivions",
+      "vous": "vous suiviez",
+      "ils": "ils suivent",
+      "elles": "elles suivent"
+    },
+    "passe_simple": {
+      "je": "je suivis",
+      "tu": "tu suivis",
+      "il": "il suivit",
+      "elle": "elle suivit",
+      "on": "on suivit",
+      "nous": "nous suivîmes",
+      "vous": "vous suivîtes",
+      "ils": "ils suivirent",
+      "elles": "elles suivirent"
+    },
+    "passe_compose": {
+      "je": "j'ai suivi",
+      "tu": "tu as suivi",
+      "il": "il a suivi",
+      "elle": "elle a suivi",
+      "on": "on a suivi",
+      "nous": "nous avons suivi",
+      "vous": "vous avez suivi",
+      "ils": "ils ont suivi",
+      "elles": "elles ont suivi"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais suivi",
+      "tu": "tu avais suivi",
+      "il": "il avait suivi",
+      "elle": "elle avait suivi",
+      "on": "on avait suivi",
+      "nous": "nous avions suivi",
+      "vous": "vous aviez suivi",
+      "ils": "ils avaient suivi",
+      "elles": "elles avaient suivi"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai suivi",
+      "tu": "tu auras suivi",
+      "il": "il aura suivi",
+      "elle": "elle aura suivi",
+      "on": "on aura suivi",
+      "nous": "nous aurons suivi",
+      "vous": "vous aurez suivi",
+      "ils": "ils auront suivi",
+      "elles": "elles auront suivi"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais suivi",
+      "tu": "tu aurais suivi",
+      "il": "il aurait suivi",
+      "elle": "elle aurait suivi",
+      "on": "on aurait suivi",
+      "nous": "nous aurions suivi",
+      "vous": "vous auriez suivi",
+      "ils": "ils auraient suivi",
+      "elles": "elles auraient suivi"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie suivi",
+      "tu": "tu aies suivi",
+      "il": "il ait suivi",
+      "elle": "elle ait suivi",
+      "on": "on ait suivi",
+      "nous": "nous ayons suivi",
+      "vous": "vous ayez suivi",
+      "ils": "ils aient suivi",
+      "elles": "elles aient suivi"
+    },
+    "futur_proche": {
+      "je": "je vais suivre",
+      "tu": "tu vas suivre",
+      "il": "il va suivre",
+      "elle": "elle va suivre",
+      "on": "on va suivre",
+      "nous": "nous allons suivre",
+      "vous": "vous allez suivre",
+      "ils": "ils vont suivre",
+      "elles": "elles vont suivre"
+    },
+    "imperatif_present": {
+      "tu": "suis",
+      "nous": "suivons",
+      "vous": "suivez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je suivisse",
+      "tu": "tu suivisses",
+      "il": "il suivît",
+      "elle": "elle suivît",
+      "on": "on suivît",
+      "nous": "nous suivissions",
+      "vous": "vous suivissiez",
+      "ils": "ils suivissent",
+      "elles": "elles suivissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus suivi",
+      "tu": "tu eus suivi",
+      "il": "il eut suivi",
+      "elle": "elle eut suivi",
+      "on": "on eut suivi",
+      "nous": "nous eûmes suivi",
+      "vous": "vous eûtes suivi",
+      "ils": "ils eurent suivi",
+      "elles": "elles eurent suivi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse suivi",
+      "tu": "tu eusses suivi",
+      "il": "il eût suivi",
+      "elle": "elle eût suivi",
+      "on": "on eût suivi",
+      "nous": "nous eussions suivi",
+      "vous": "vous eussiez suivi",
+      "ils": "ils eussent suivi",
+      "elles": "elles eussent suivi"
+    },
+    "imperatif_passe": {
+      "tu": "aie suivi",
+      "nous": "ayons suivi",
+      "vous": "ayez suivi"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "suivre",
+    "infinitif_passe": "avoir suivi",
+    "participe_present": "suivant",
+    "participe_passe": "suivi",
+    "gerondif_present": "en suivant",
+    "gerondif_passe": "en ayant suivi"
+  }
+}

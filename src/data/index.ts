@@ -187,12 +187,16 @@ export async function loadLearningData(contentVersion: ContentVersion): Promise<
   };
 }
 
-export function useLearningData() {
-  const contentVersionQuery = useQuery({
+export function useContentVersion() {
+  return useQuery({
     queryKey: ["content-version"],
     queryFn: fetchContentVersion,
     staleTime: CONTENT_VERSION_STALE_TIME,
   });
+}
+
+export function useLearningData() {
+  const contentVersionQuery = useContentVersion();
   const contentVersion = contentVersionQuery.data;
 
   return useQuery({

@@ -1,0 +1,190 @@
+{
+  "infinitive": "entendre",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'entends",
+      "tu": "tu entends",
+      "il": "il entend",
+      "elle": "elle entend",
+      "on": "on entend",
+      "nous": "nous entendons",
+      "vous": "vous entendez",
+      "ils": "ils entendent",
+      "elles": "elles entendent"
+    },
+    "imparfait": {
+      "je": "j'entendais",
+      "tu": "tu entendais",
+      "il": "il entendait",
+      "elle": "elle entendait",
+      "on": "on entendait",
+      "nous": "nous entendions",
+      "vous": "vous entendiez",
+      "ils": "ils entendaient",
+      "elles": "elles entendaient"
+    },
+    "futur_simple": {
+      "je": "j'entendai",
+      "tu": "tu entendas",
+      "il": "il entenda",
+      "elle": "elle entenda",
+      "on": "on entenda",
+      "nous": "nous entendons",
+      "vous": "vous entendez",
+      "ils": "ils entendont",
+      "elles": "elles entendont"
+    },
+    "conditionnel_present": {
+      "je": "j'entendais",
+      "tu": "tu entendais",
+      "il": "il entendait",
+      "elle": "elle entendait",
+      "on": "on entendait",
+      "nous": "nous entendions",
+      "vous": "vous entendiez",
+      "ils": "ils entendaient",
+      "elles": "elles entendaient"
+    },
+    "subjonctif_present": {
+      "je": "j'entende",
+      "tu": "tu entendes",
+      "il": "il entende",
+      "elle": "elle entende",
+      "on": "on entende",
+      "nous": "nous entendions",
+      "vous": "vous entendiez",
+      "ils": "ils entendent",
+      "elles": "elles entendent"
+    },
+    "passe_simple": {
+      "je": "j'entendis",
+      "tu": "tu entendis",
+      "il": "il entendit",
+      "elle": "elle entendit",
+      "on": "on entendit",
+      "nous": "nous entendîmes",
+      "vous": "vous entendîtes",
+      "ils": "ils entendirent",
+      "elles": "elles entendirent"
+    },
+    "passe_compose": {
+      "je": "j'ai entendu",
+      "tu": "tu as entendu",
+      "il": "il a entendu",
+      "elle": "elle a entendu",
+      "on": "on a entendu",
+      "nous": "nous avons entendu",
+      "vous": "vous avez entendu",
+      "ils": "ils ont entendu",
+      "elles": "elles ont entendu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais entendu",
+      "tu": "tu avais entendu",
+      "il": "il avait entendu",
+      "elle": "elle avait entendu",
+      "on": "on avait entendu",
+      "nous": "nous avions entendu",
+      "vous": "vous aviez entendu",
+      "ils": "ils avaient entendu",
+      "elles": "elles avaient entendu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai entendu",
+      "tu": "tu auras entendu",
+      "il": "il aura entendu",
+      "elle": "elle aura entendu",
+      "on": "on aura entendu",
+      "nous": "nous aurons entendu",
+      "vous": "vous aurez entendu",
+      "ils": "ils auront entendu",
+      "elles": "elles auront entendu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais entendu",
+      "tu": "tu aurais entendu",
+      "il": "il aurait entendu",
+      "elle": "elle aurait entendu",
+      "on": "on aurait entendu",
+      "nous": "nous aurions entendu",
+      "vous": "vous auriez entendu",
+      "ils": "ils auraient entendu",
+      "elles": "elles auraient entendu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie entendu",
+      "tu": "tu aies entendu",
+      "il": "il ait entendu",
+      "elle": "elle ait entendu",
+      "on": "on ait entendu",
+      "nous": "nous ayons entendu",
+      "vous": "vous ayez entendu",
+      "ils": "ils aient entendu",
+      "elles": "elles aient entendu"
+    },
+    "futur_proche": {
+      "je": "je vais entendre",
+      "tu": "tu vas entendre",
+      "il": "il va entendre",
+      "elle": "elle va entendre",
+      "on": "on va entendre",
+      "nous": "nous allons entendre",
+      "vous": "vous allez entendre",
+      "ils": "ils vont entendre",
+      "elles": "elles vont entendre"
+    },
+    "imperatif_present": {
+      "tu": "entends",
+      "nous": "entendons",
+      "vous": "entendez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'entendisse",
+      "tu": "tu entendisses",
+      "il": "il entendît",
+      "elle": "elle entendît",
+      "on": "on entendît",
+      "nous": "nous entendissions",
+      "vous": "vous entendissiez",
+      "ils": "ils entendissent",
+      "elles": "elles entendissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus entendu",
+      "tu": "tu eus entendu",
+      "il": "il eut entendu",
+      "elle": "elle eut entendu",
+      "on": "on eut entendu",
+      "nous": "nous eûmes entendu",
+      "vous": "vous eûtes entendu",
+      "ils": "ils eurent entendu",
+      "elles": "elles eurent entendu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse entendu",
+      "tu": "tu eusses entendu",
+      "il": "il eût entendu",
+      "elle": "elle eût entendu",
+      "on": "on eût entendu",
+      "nous": "nous eussions entendu",
+      "vous": "vous eussiez entendu",
+      "ils": "ils eussent entendu",
+      "elles": "elles eussent entendu"
+    },
+    "imperatif_passe": {
+      "tu": "aie entendu",
+      "nous": "ayons entendu",
+      "vous": "ayez entendu"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "entendre",
+    "infinitif_passe": "avoir entendu",
+    "participe_present": "entendant",
+    "participe_passe": "entendu",
+    "gerondif_present": "en entendant",
+    "gerondif_passe": "en ayant entendu"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "infinitive": "finir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je finis",
+      "tu": "tu finis",
+      "il": "il finit",
+      "elle": "elle finit",
+      "on": "on finit",
+      "nous": "nous finissons",
+      "vous": "vous finissez",
+      "ils": "ils finissent",
+      "elles": "elles finissent"
+    },
+    "imparfait": {
+      "je": "je finissais",
+      "tu": "tu finissais",
+      "il": "il finissait",
+      "elle": "elle finissait",
+      "on": "on finissait",
+      "nous": "nous finissions",
+      "vous": "vous finissiez",
+      "ils": "ils finissaient",
+      "elles": "elles finissaient"
+    },
+    "futur_simple": {
+      "je": "je finirai",
+      "tu": "tu finiras",
+      "il": "il finira",
+      "elle": "elle finira",
+      "on": "on finira",
+      "nous": "nous finirons",
+      "vous": "vous finirez",
+      "ils": "ils finiront",
+      "elles": "elles finiront"
+    },
+    "conditionnel_present": {
+      "je": "je finirais",
+      "tu": "tu finirais",
+      "il": "il finirait",
+      "elle": "elle finirait",
+      "on": "on finirait",
+      "nous": "nous finirions",
+      "vous": "vous finiriez",
+      "ils": "ils finiraient",
+      "elles": "elles finiraient"
+    },
+    "subjonctif_present": {
+      "je": "je finisse",
+      "tu": "tu finisses",
+      "il": "il finisse",
+      "elle": "elle finisse",
+      "on": "on finisse",
+      "nous": "nous finissions",
+      "vous": "vous finissiez",
+      "ils": "ils finissent",
+      "elles": "elles finissent"
+    },
+    "passe_simple": {
+      "je": "je finis",
+      "tu": "tu finis",
+      "il": "il finit",
+      "elle": "elle finit",
+      "on": "on finit",
+      "nous": "nous finîmes",
+      "vous": "vous finîtes",
+      "ils": "ils finirent",
+      "elles": "elles finirent"
+    },
+    "passe_compose": {
+      "je": "j'ai fini",
+      "tu": "tu as fini",
+      "il": "il a fini",
+      "elle": "elle a fini",
+      "on": "on a fini",
+      "nous": "nous avons fini",
+      "vous": "vous avez fini",
+      "ils": "ils ont fini",
+      "elles": "elles ont fini"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais fini",
+      "tu": "tu avais fini",
+      "il": "il avait fini",
+      "elle": "elle avait fini",
+      "on": "on avait fini",
+      "nous": "nous avions fini",
+      "vous": "vous aviez fini",
+      "ils": "ils avaient fini",
+      "elles": "elles avaient fini"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai fini",
+      "tu": "tu auras fini",
+      "il": "il aura fini",
+      "elle": "elle aura fini",
+      "on": "on aura fini",
+      "nous": "nous aurons fini",
+      "vous": "vous aurez fini",
+      "ils": "ils auront fini",
+      "elles": "elles auront fini"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais fini",
+      "tu": "tu aurais fini",
+      "il": "il aurait fini",
+      "elle": "elle aurait fini",
+      "on": "on aurait fini",
+      "nous": "nous aurions fini",
+      "vous": "vous auriez fini",
+      "ils": "ils auraient fini",
+      "elles": "elles auraient fini"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie fini",
+      "tu": "tu aies fini",
+      "il": "il ait fini",
+      "elle": "elle ait fini",
+      "on": "on ait fini",
+      "nous": "nous ayons fini",
+      "vous": "vous ayez fini",
+      "ils": "ils aient fini",
+      "elles": "elles aient fini"
+    },
+    "futur_proche": {
+      "je": "je vais finir",
+      "tu": "tu vas finir",
+      "il": "il va finir",
+      "elle": "elle va finir",
+      "on": "on va finir",
+      "nous": "nous allons finir",
+      "vous": "vous allez finir",
+      "ils": "ils vont finir",
+      "elles": "elles vont finir"
+    },
+    "imperatif_present": {
+      "tu": "finis",
+      "nous": "finissons",
+      "vous": "finissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je finisse",
+      "tu": "tu finisses",
+      "il": "il finît",
+      "elle": "elle finît",
+      "on": "on finît",
+      "nous": "nous finissions",
+      "vous": "vous finissiez",
+      "ils": "ils finissent",
+      "elles": "elles finissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus fini",
+      "tu": "tu eus fini",
+      "il": "il eut fini",
+      "elle": "elle eut fini",
+      "on": "on eut fini",
+      "nous": "nous eûmes fini",
+      "vous": "vous eûtes fini",
+      "ils": "ils eurent fini",
+      "elles": "elles eurent fini"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse fini",
+      "tu": "tu eusses fini",
+      "il": "il eût fini",
+      "elle": "elle eût fini",
+      "on": "on eût fini",
+      "nous": "nous eussions fini",
+      "vous": "vous eussiez fini",
+      "ils": "ils eussent fini",
+      "elles": "elles eussent fini"
+    },
+    "imperatif_passe": {
+      "tu": "aie fini",
+      "nous": "ayons fini",
+      "vous": "ayez fini"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "finir",
+    "infinitif_passe": "avoir fini",
+    "participe_present": "finissant",
+    "participe_passe": "fini",
+    "gerondif_present": "en finissant",
+    "gerondif_passe": "en ayant fini"
+  }
+}

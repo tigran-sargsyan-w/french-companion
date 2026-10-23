@@ -1,0 +1,190 @@
+{
+  "infinitive": "faire",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je fais",
+      "tu": "tu fais",
+      "il": "il fait",
+      "elle": "elle fait",
+      "on": "on fait",
+      "nous": "nous faisons",
+      "vous": "vous faites",
+      "ils": "ils font",
+      "elles": "elles font"
+    },
+    "imparfait": {
+      "je": "je faisais",
+      "tu": "tu faisais",
+      "il": "il faisait",
+      "elle": "elle faisait",
+      "on": "on faisait",
+      "nous": "nous faisions",
+      "vous": "vous faisiez",
+      "ils": "ils faisaient",
+      "elles": "elles faisaient"
+    },
+    "futur_simple": {
+      "je": "je ferai",
+      "tu": "tu feras",
+      "il": "il fera",
+      "elle": "elle fera",
+      "on": "on fera",
+      "nous": "nous ferons",
+      "vous": "vous ferez",
+      "ils": "ils feront",
+      "elles": "elles feront"
+    },
+    "conditionnel_present": {
+      "je": "je ferais",
+      "tu": "tu ferais",
+      "il": "il ferait",
+      "elle": "elle ferait",
+      "on": "on ferait",
+      "nous": "nous ferions",
+      "vous": "vous feriez",
+      "ils": "ils feraient",
+      "elles": "elles feraient"
+    },
+    "subjonctif_present": {
+      "je": "je fasse",
+      "tu": "tu fasses",
+      "il": "il fasse",
+      "elle": "elle fasse",
+      "on": "on fasse",
+      "nous": "nous fassions",
+      "vous": "vous fassiez",
+      "ils": "ils fassent",
+      "elles": "elles fassent"
+    },
+    "passe_simple": {
+      "je": "je fis",
+      "tu": "tu fis",
+      "il": "il fit",
+      "elle": "elle fit",
+      "on": "on fit",
+      "nous": "nous fîmes",
+      "vous": "vous fîtes",
+      "ils": "ils firent",
+      "elles": "elles firent"
+    },
+    "passe_compose": {
+      "je": "j'ai fait",
+      "tu": "tu as fait",
+      "il": "il a fait",
+      "elle": "elle a fait",
+      "on": "on a fait",
+      "nous": "nous avons fait",
+      "vous": "vous avez fait",
+      "ils": "ils ont fait",
+      "elles": "elles ont fait"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais fait",
+      "tu": "tu avais fait",
+      "il": "il avait fait",
+      "elle": "elle avait fait",
+      "on": "on avait fait",
+      "nous": "nous avions fait",
+      "vous": "vous aviez fait",
+      "ils": "ils avaient fait",
+      "elles": "elles avaient fait"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai fait",
+      "tu": "tu auras fait",
+      "il": "il aura fait",
+      "elle": "elle aura fait",
+      "on": "on aura fait",
+      "nous": "nous aurons fait",
+      "vous": "vous aurez fait",
+      "ils": "ils auront fait",
+      "elles": "elles auront fait"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais fait",
+      "tu": "tu aurais fait",
+      "il": "il aurait fait",
+      "elle": "elle aurait fait",
+      "on": "on aurait fait",
+      "nous": "nous aurions fait",
+      "vous": "vous auriez fait",
+      "ils": "ils auraient fait",
+      "elles": "elles auraient fait"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie fait",
+      "tu": "tu aies fait",
+      "il": "il ait fait",
+      "elle": "elle ait fait",
+      "on": "on ait fait",
+      "nous": "nous ayons fait",
+      "vous": "vous ayez fait",
+      "ils": "ils aient fait",
+      "elles": "elles aient fait"
+    },
+    "futur_proche": {
+      "je": "je vais faire",
+      "tu": "tu vas faire",
+      "il": "il va faire",
+      "elle": "elle va faire",
+      "on": "on va faire",
+      "nous": "nous allons faire",
+      "vous": "vous allez faire",
+      "ils": "ils vont faire",
+      "elles": "elles vont faire"
+    },
+    "imperatif_present": {
+      "tu": "fais",
+      "nous": "faisons",
+      "vous": "faites"
+    },
+    "subjonctif_imparfait": {
+      "je": "je fisse",
+      "tu": "tu fisses",
+      "il": "il fît",
+      "elle": "elle fît",
+      "on": "on fît",
+      "nous": "nous fissions",
+      "vous": "vous fissiez",
+      "ils": "ils fissent",
+      "elles": "elles fissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus fait",
+      "tu": "tu eus fait",
+      "il": "il eut fait",
+      "elle": "elle eut fait",
+      "on": "on eut fait",
+      "nous": "nous eûmes fait",
+      "vous": "vous eûtes fait",
+      "ils": "ils eurent fait",
+      "elles": "elles eurent fait"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse fait",
+      "tu": "tu eusses fait",
+      "il": "il eût fait",
+      "elle": "elle eût fait",
+      "on": "on eût fait",
+      "nous": "nous eussions fait",
+      "vous": "vous eussiez fait",
+      "ils": "ils eussent fait",
+      "elles": "elles eussent fait"
+    },
+    "imperatif_passe": {
+      "tu": "aie fait",
+      "nous": "ayons fait",
+      "vous": "ayez fait"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "faire",
+    "infinitif_passe": "avoir fait",
+    "participe_present": "faisant",
+    "participe_passe": "fait",
+    "gerondif_present": "en faisant",
+    "gerondif_passe": "en ayant fait"
+  }
+}

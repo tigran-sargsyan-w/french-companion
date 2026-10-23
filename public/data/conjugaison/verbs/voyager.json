@@ -1,0 +1,190 @@
+{
+  "infinitive": "voyager",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je voyage",
+      "tu": "tu voyages",
+      "il": "il voyage",
+      "elle": "elle voyage",
+      "on": "on voyage",
+      "nous": "nous voyageons",
+      "vous": "vous voyagez",
+      "ils": "ils voyagent",
+      "elles": "elles voyagent"
+    },
+    "imparfait": {
+      "je": "je voyageais",
+      "tu": "tu voyageais",
+      "il": "il voyageait",
+      "elle": "elle voyageait",
+      "on": "on voyageait",
+      "nous": "nous voyagions",
+      "vous": "vous voyagiez",
+      "ils": "ils voyageaient",
+      "elles": "elles voyageaient"
+    },
+    "futur_simple": {
+      "je": "je voyagerai",
+      "tu": "tu voyageras",
+      "il": "il voyagera",
+      "elle": "elle voyagera",
+      "on": "on voyagera",
+      "nous": "nous voyagerons",
+      "vous": "vous voyagerez",
+      "ils": "ils voyageront",
+      "elles": "elles voyageront"
+    },
+    "conditionnel_present": {
+      "je": "je voyagerais",
+      "tu": "tu voyagerais",
+      "il": "il voyagerait",
+      "elle": "elle voyagerait",
+      "on": "on voyagerait",
+      "nous": "nous voyagerions",
+      "vous": "vous voyageriez",
+      "ils": "ils voyageraient",
+      "elles": "elles voyageraient"
+    },
+    "subjonctif_present": {
+      "je": "je voyage",
+      "tu": "tu voyages",
+      "il": "il voyage",
+      "elle": "elle voyage",
+      "on": "on voyage",
+      "nous": "nous voyagions",
+      "vous": "vous voyagiez",
+      "ils": "ils voyagent",
+      "elles": "elles voyagent"
+    },
+    "passe_simple": {
+      "je": "je voyageai",
+      "tu": "tu voyageas",
+      "il": "il voyagea",
+      "elle": "elle voyagea",
+      "on": "on voyagea",
+      "nous": "nous voyageâmes",
+      "vous": "vous voyageâtes",
+      "ils": "ils voyagèrent",
+      "elles": "elles voyagèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai voyagé",
+      "tu": "tu as voyagé",
+      "il": "il a voyagé",
+      "elle": "elle a voyagé",
+      "on": "on a voyagé",
+      "nous": "nous avons voyagé",
+      "vous": "vous avez voyagé",
+      "ils": "ils ont voyagé",
+      "elles": "elles ont voyagé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais voyagé",
+      "tu": "tu avais voyagé",
+      "il": "il avait voyagé",
+      "elle": "elle avait voyagé",
+      "on": "on avait voyagé",
+      "nous": "nous avions voyagé",
+      "vous": "vous aviez voyagé",
+      "ils": "ils avaient voyagé",
+      "elles": "elles avaient voyagé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai voyagé",
+      "tu": "tu auras voyagé",
+      "il": "il aura voyagé",
+      "elle": "elle aura voyagé",
+      "on": "on aura voyagé",
+      "nous": "nous aurons voyagé",
+      "vous": "vous aurez voyagé",
+      "ils": "ils auront voyagé",
+      "elles": "elles auront voyagé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais voyagé",
+      "tu": "tu aurais voyagé",
+      "il": "il aurait voyagé",
+      "elle": "elle aurait voyagé",
+      "on": "on aurait voyagé",
+      "nous": "nous aurions voyagé",
+      "vous": "vous auriez voyagé",
+      "ils": "ils auraient voyagé",
+      "elles": "elles auraient voyagé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie voyagé",
+      "tu": "tu aies voyagé",
+      "il": "il ait voyagé",
+      "elle": "elle ait voyagé",
+      "on": "on ait voyagé",
+      "nous": "nous ayons voyagé",
+      "vous": "vous ayez voyagé",
+      "ils": "ils aient voyagé",
+      "elles": "elles aient voyagé"
+    },
+    "futur_proche": {
+      "je": "je vais voyager",
+      "tu": "tu vas voyager",
+      "il": "il va voyager",
+      "elle": "elle va voyager",
+      "on": "on va voyager",
+      "nous": "nous allons voyager",
+      "vous": "vous allez voyager",
+      "ils": "ils vont voyager",
+      "elles": "elles vont voyager"
+    },
+    "imperatif_present": {
+      "tu": "voyage",
+      "nous": "voyageons",
+      "vous": "voyagez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je voyageasse",
+      "tu": "tu voyageasses",
+      "il": "il voyageât",
+      "elle": "elle voyageât",
+      "on": "on voyageât",
+      "nous": "nous voyageassions",
+      "vous": "vous voyageassiez",
+      "ils": "ils voyageassent",
+      "elles": "elles voyageassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus voyagé",
+      "tu": "tu eus voyagé",
+      "il": "il eut voyagé",
+      "elle": "elle eut voyagé",
+      "on": "on eut voyagé",
+      "nous": "nous eûmes voyagé",
+      "vous": "vous eûtes voyagé",
+      "ils": "ils eurent voyagé",
+      "elles": "elles eurent voyagé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse voyagé",
+      "tu": "tu eusses voyagé",
+      "il": "il eût voyagé",
+      "elle": "elle eût voyagé",
+      "on": "on eût voyagé",
+      "nous": "nous eussions voyagé",
+      "vous": "vous eussiez voyagé",
+      "ils": "ils eussent voyagé",
+      "elles": "elles eussent voyagé"
+    },
+    "imperatif_passe": {
+      "tu": "aie voyagé",
+      "nous": "ayons voyagé",
+      "vous": "ayez voyagé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "voyager",
+    "infinitif_passe": "avoir voyagé",
+    "participe_present": "voyageant",
+    "participe_passe": "voyagé",
+    "gerondif_present": "en voyageant",
+    "gerondif_passe": "en ayant voyagé"
+  }
+}

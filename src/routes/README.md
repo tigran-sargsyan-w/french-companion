@@ -18,4 +18,4 @@ is `src/routes/__root.tsx`.
 | `_layout.tsx` | layout route (renders children via `<Outlet />`) |
 | `__root.tsx` | app shell — wraps every page; preserve `<Outlet />` |
 
-`routeTree.gen.ts` is auto-generated. Don't edit it by hand.
+`routeTree.gen.ts` is auto-generated. Don't edit it by hand. Run `npm run dev` (or `npm run build`) after adding/removing a route, then **commit the generated change**. The CI build checks that this tracked file is up to date.

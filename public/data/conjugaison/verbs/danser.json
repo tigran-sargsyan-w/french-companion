@@ -1,0 +1,190 @@
+{
+  "infinitive": "danser",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je danse",
+      "tu": "tu danses",
+      "il": "il danse",
+      "elle": "elle danse",
+      "on": "on danse",
+      "nous": "nous dansons",
+      "vous": "vous dansez",
+      "ils": "ils dansent",
+      "elles": "elles dansent"
+    },
+    "imparfait": {
+      "je": "je dansais",
+      "tu": "tu dansais",
+      "il": "il dansait",
+      "elle": "elle dansait",
+      "on": "on dansait",
+      "nous": "nous dansions",
+      "vous": "vous dansiez",
+      "ils": "ils dansaient",
+      "elles": "elles dansaient"
+    },
+    "futur_simple": {
+      "je": "je danserai",
+      "tu": "tu danseras",
+      "il": "il dansera",
+      "elle": "elle dansera",
+      "on": "on dansera",
+      "nous": "nous danserons",
+      "vous": "vous danserez",
+      "ils": "ils danseront",
+      "elles": "elles danseront"
+    },
+    "conditionnel_present": {
+      "je": "je danserais",
+      "tu": "tu danserais",
+      "il": "il danserait",
+      "elle": "elle danserait",
+      "on": "on danserait",
+      "nous": "nous danserions",
+      "vous": "vous danseriez",
+      "ils": "ils danseraient",
+      "elles": "elles danseraient"
+    },
+    "subjonctif_present": {
+      "je": "je danse",
+      "tu": "tu danses",
+      "il": "il danse",
+      "elle": "elle danse",
+      "on": "on danse",
+      "nous": "nous dansions",
+      "vous": "vous dansiez",
+      "ils": "ils dansent",
+      "elles": "elles dansent"
+    },
+    "passe_simple": {
+      "je": "je dansai",
+      "tu": "tu dansas",
+      "il": "il dansa",
+      "elle": "elle dansa",
+      "on": "on dansa",
+      "nous": "nous dansâmes",
+      "vous": "vous dansâtes",
+      "ils": "ils dansèrent",
+      "elles": "elles dansèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai dansé",
+      "tu": "tu as dansé",
+      "il": "il a dansé",
+      "elle": "elle a dansé",
+      "on": "on a dansé",
+      "nous": "nous avons dansé",
+      "vous": "vous avez dansé",
+      "ils": "ils ont dansé",
+      "elles": "elles ont dansé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais dansé",
+      "tu": "tu avais dansé",
+      "il": "il avait dansé",
+      "elle": "elle avait dansé",
+      "on": "on avait dansé",
+      "nous": "nous avions dansé",
+      "vous": "vous aviez dansé",
+      "ils": "ils avaient dansé",
+      "elles": "elles avaient dansé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai dansé",
+      "tu": "tu auras dansé",
+      "il": "il aura dansé",
+      "elle": "elle aura dansé",
+      "on": "on aura dansé",
+      "nous": "nous aurons dansé",
+      "vous": "vous aurez dansé",
+      "ils": "ils auront dansé",
+      "elles": "elles auront dansé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais dansé",
+      "tu": "tu aurais dansé",
+      "il": "il aurait dansé",
+      "elle": "elle aurait dansé",
+      "on": "on aurait dansé",
+      "nous": "nous aurions dansé",
+      "vous": "vous auriez dansé",
+      "ils": "ils auraient dansé",
+      "elles": "elles auraient dansé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie dansé",
+      "tu": "tu aies dansé",
+      "il": "il ait dansé",
+      "elle": "elle ait dansé",
+      "on": "on ait dansé",
+      "nous": "nous ayons dansé",
+      "vous": "vous ayez dansé",
+      "ils": "ils aient dansé",
+      "elles": "elles aient dansé"
+    },
+    "futur_proche": {
+      "je": "je vais danser",
+      "tu": "tu vas danser",
+      "il": "il va danser",
+      "elle": "elle va danser",
+      "on": "on va danser",
+      "nous": "nous allons danser",
+      "vous": "vous allez danser",
+      "ils": "ils vont danser",
+      "elles": "elles vont danser"
+    },
+    "imperatif_present": {
+      "tu": "danse",
+      "nous": "dansons",
+      "vous": "dansez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je dansasse",
+      "tu": "tu dansasses",
+      "il": "il dansât",
+      "elle": "elle dansât",
+      "on": "on dansât",
+      "nous": "nous dansassions",
+      "vous": "vous dansassiez",
+      "ils": "ils dansassent",
+      "elles": "elles dansassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus dansé",
+      "tu": "tu eus dansé",
+      "il": "il eut dansé",
+      "elle": "elle eut dansé",
+      "on": "on eut dansé",
+      "nous": "nous eûmes dansé",
+      "vous": "vous eûtes dansé",
+      "ils": "ils eurent dansé",
+      "elles": "elles eurent dansé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse dansé",
+      "tu": "tu eusses dansé",
+      "il": "il eût dansé",
+      "elle": "elle eût dansé",
+      "on": "on eût dansé",
+      "nous": "nous eussions dansé",
+      "vous": "vous eussiez dansé",
+      "ils": "ils eussent dansé",
+      "elles": "elles eussent dansé"
+    },
+    "imperatif_passe": {
+      "tu": "aie dansé",
+      "nous": "ayons dansé",
+      "vous": "ayez dansé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "danser",
+    "infinitif_passe": "avoir dansé",
+    "participe_present": "dansant",
+    "participe_passe": "dansé",
+    "gerondif_present": "en dansant",
+    "gerondif_passe": "en ayant dansé"
+  }
+}

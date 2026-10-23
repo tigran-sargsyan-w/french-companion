@@ -1,0 +1,190 @@
+{
+  "infinitive": "contacter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je contacte",
+      "tu": "tu contactes",
+      "il": "il contacte",
+      "elle": "elle contacte",
+      "on": "on contacte",
+      "nous": "nous contactons",
+      "vous": "vous contactez",
+      "ils": "ils contactent",
+      "elles": "elles contactent"
+    },
+    "imparfait": {
+      "je": "je contactais",
+      "tu": "tu contactais",
+      "il": "il contactait",
+      "elle": "elle contactait",
+      "on": "on contactait",
+      "nous": "nous contactions",
+      "vous": "vous contactiez",
+      "ils": "ils contactaient",
+      "elles": "elles contactaient"
+    },
+    "futur_simple": {
+      "je": "je contacterai",
+      "tu": "tu contacteras",
+      "il": "il contactera",
+      "elle": "elle contactera",
+      "on": "on contactera",
+      "nous": "nous contacterons",
+      "vous": "vous contacterez",
+      "ils": "ils contacteront",
+      "elles": "elles contacteront"
+    },
+    "conditionnel_present": {
+      "je": "je contacterais",
+      "tu": "tu contacterais",
+      "il": "il contacterait",
+      "elle": "elle contacterait",
+      "on": "on contacterait",
+      "nous": "nous contacterions",
+      "vous": "vous contacteriez",
+      "ils": "ils contacteraient",
+      "elles": "elles contacteraient"
+    },
+    "subjonctif_present": {
+      "je": "je contacte",
+      "tu": "tu contactes",
+      "il": "il contacte",
+      "elle": "elle contacte",
+      "on": "on contacte",
+      "nous": "nous contactions",
+      "vous": "vous contactiez",
+      "ils": "ils contactent",
+      "elles": "elles contactent"
+    },
+    "passe_simple": {
+      "je": "je contactai",
+      "tu": "tu contactas",
+      "il": "il contacta",
+      "elle": "elle contacta",
+      "on": "on contacta",
+      "nous": "nous contactâmes",
+      "vous": "vous contactâtes",
+      "ils": "ils contactèrent",
+      "elles": "elles contactèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai contacté",
+      "tu": "tu as contacté",
+      "il": "il a contacté",
+      "elle": "elle a contacté",
+      "on": "on a contacté",
+      "nous": "nous avons contacté",
+      "vous": "vous avez contacté",
+      "ils": "ils ont contacté",
+      "elles": "elles ont contacté"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais contacté",
+      "tu": "tu avais contacté",
+      "il": "il avait contacté",
+      "elle": "elle avait contacté",
+      "on": "on avait contacté",
+      "nous": "nous avions contacté",
+      "vous": "vous aviez contacté",
+      "ils": "ils avaient contacté",
+      "elles": "elles avaient contacté"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai contacté",
+      "tu": "tu auras contacté",
+      "il": "il aura contacté",
+      "elle": "elle aura contacté",
+      "on": "on aura contacté",
+      "nous": "nous aurons contacté",
+      "vous": "vous aurez contacté",
+      "ils": "ils auront contacté",
+      "elles": "elles auront contacté"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais contacté",
+      "tu": "tu aurais contacté",
+      "il": "il aurait contacté",
+      "elle": "elle aurait contacté",
+      "on": "on aurait contacté",
+      "nous": "nous aurions contacté",
+      "vous": "vous auriez contacté",
+      "ils": "ils auraient contacté",
+      "elles": "elles auraient contacté"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie contacté",
+      "tu": "tu aies contacté",
+      "il": "il ait contacté",
+      "elle": "elle ait contacté",
+      "on": "on ait contacté",
+      "nous": "nous ayons contacté",
+      "vous": "vous ayez contacté",
+      "ils": "ils aient contacté",
+      "elles": "elles aient contacté"
+    },
+    "futur_proche": {
+      "je": "je vais contacter",
+      "tu": "tu vas contacter",
+      "il": "il va contacter",
+      "elle": "elle va contacter",
+      "on": "on va contacter",
+      "nous": "nous allons contacter",
+      "vous": "vous allez contacter",
+      "ils": "ils vont contacter",
+      "elles": "elles vont contacter"
+    },
+    "imperatif_present": {
+      "tu": "contacte",
+      "nous": "contactons",
+      "vous": "contactez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je contactasse",
+      "tu": "tu contactasses",
+      "il": "il contactât",
+      "elle": "elle contactât",
+      "on": "on contactât",
+      "nous": "nous contactassions",
+      "vous": "vous contactassiez",
+      "ils": "ils contactassent",
+      "elles": "elles contactassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus contacté",
+      "tu": "tu eus contacté",
+      "il": "il eut contacté",
+      "elle": "elle eut contacté",
+      "on": "on eut contacté",
+      "nous": "nous eûmes contacté",
+      "vous": "vous eûtes contacté",
+      "ils": "ils eurent contacté",
+      "elles": "elles eurent contacté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse contacté",
+      "tu": "tu eusses contacté",
+      "il": "il eût contacté",
+      "elle": "elle eût contacté",
+      "on": "on eût contacté",
+      "nous": "nous eussions contacté",
+      "vous": "vous eussiez contacté",
+      "ils": "ils eussent contacté",
+      "elles": "elles eussent contacté"
+    },
+    "imperatif_passe": {
+      "tu": "aie contacté",
+      "nous": "ayons contacté",
+      "vous": "ayez contacté"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "contacter",
+    "infinitif_passe": "avoir contacté",
+    "participe_present": "contactant",
+    "participe_passe": "contacté",
+    "gerondif_present": "en contactant",
+    "gerondif_passe": "en ayant contacté"
+  }
+}

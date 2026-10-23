@@ -1,0 +1,190 @@
+{
+  "infinitive": "revoir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je revois",
+      "tu": "tu revois",
+      "il": "il revoit",
+      "elle": "elle revoit",
+      "on": "on revoit",
+      "nous": "nous revoyons",
+      "vous": "vous revoyez",
+      "ils": "ils revoient",
+      "elles": "elles revoient"
+    },
+    "imparfait": {
+      "je": "je revoyais",
+      "tu": "tu revoyais",
+      "il": "il revoyait",
+      "elle": "elle revoyait",
+      "on": "on revoyait",
+      "nous": "nous revoyions",
+      "vous": "vous revoyiez",
+      "ils": "ils revoyaient",
+      "elles": "elles revoyaient"
+    },
+    "futur_simple": {
+      "je": "je reverrai",
+      "tu": "tu reverras",
+      "il": "il reverra",
+      "elle": "elle reverra",
+      "on": "on reverra",
+      "nous": "nous reverrons",
+      "vous": "vous reverrez",
+      "ils": "ils reverront",
+      "elles": "elles reverront"
+    },
+    "conditionnel_present": {
+      "je": "je reverrais",
+      "tu": "tu reverrais",
+      "il": "il reverrait",
+      "elle": "elle reverrait",
+      "on": "on reverrait",
+      "nous": "nous reverrions",
+      "vous": "vous reverriez",
+      "ils": "ils reverraient",
+      "elles": "elles reverraient"
+    },
+    "subjonctif_present": {
+      "je": "je revoie",
+      "tu": "tu revoies",
+      "il": "il revoie",
+      "elle": "elle revoie",
+      "on": "on revoie",
+      "nous": "nous revoyions",
+      "vous": "vous revoyiez",
+      "ils": "ils revoient",
+      "elles": "elles revoient"
+    },
+    "passe_simple": {
+      "je": "je revis",
+      "tu": "tu revis",
+      "il": "il revit",
+      "elle": "elle revit",
+      "on": "on revit",
+      "nous": "nous revîmes",
+      "vous": "vous revîtes",
+      "ils": "ils revirent",
+      "elles": "elles revirent"
+    },
+    "passe_compose": {
+      "je": "j'ai revu",
+      "tu": "tu as revu",
+      "il": "il a revu",
+      "elle": "elle a revu",
+      "on": "on a revu",
+      "nous": "nous avons revu",
+      "vous": "vous avez revu",
+      "ils": "ils ont revu",
+      "elles": "elles ont revu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais revu",
+      "tu": "tu avais revu",
+      "il": "il avait revu",
+      "elle": "elle avait revu",
+      "on": "on avait revu",
+      "nous": "nous avions revu",
+      "vous": "vous aviez revu",
+      "ils": "ils avaient revu",
+      "elles": "elles avaient revu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai revu",
+      "tu": "tu auras revu",
+      "il": "il aura revu",
+      "elle": "elle aura revu",
+      "on": "on aura revu",
+      "nous": "nous aurons revu",
+      "vous": "vous aurez revu",
+      "ils": "ils auront revu",
+      "elles": "elles auront revu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais revu",
+      "tu": "tu aurais revu",
+      "il": "il aurait revu",
+      "elle": "elle aurait revu",
+      "on": "on aurait revu",
+      "nous": "nous aurions revu",
+      "vous": "vous auriez revu",
+      "ils": "ils auraient revu",
+      "elles": "elles auraient revu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie revu",
+      "tu": "tu aies revu",
+      "il": "il ait revu",
+      "elle": "elle ait revu",
+      "on": "on ait revu",
+      "nous": "nous ayons revu",
+      "vous": "vous ayez revu",
+      "ils": "ils aient revu",
+      "elles": "elles aient revu"
+    },
+    "futur_proche": {
+      "je": "je vais revoir",
+      "tu": "tu vas revoir",
+      "il": "il va revoir",
+      "elle": "elle va revoir",
+      "on": "on va revoir",
+      "nous": "nous allons revoir",
+      "vous": "vous allez revoir",
+      "ils": "ils vont revoir",
+      "elles": "elles vont revoir"
+    },
+    "imperatif_present": {
+      "tu": "revois",
+      "nous": "revoyons",
+      "vous": "revoyez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je revisse",
+      "tu": "tu revisses",
+      "il": "il revît",
+      "elle": "elle revît",
+      "on": "on revît",
+      "nous": "nous revissions",
+      "vous": "vous revissiez",
+      "ils": "ils revissent",
+      "elles": "elles revissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus revu",
+      "tu": "tu eus revu",
+      "il": "il eut revu",
+      "elle": "elle eut revu",
+      "on": "on eut revu",
+      "nous": "nous eûmes revu",
+      "vous": "vous eûtes revu",
+      "ils": "ils eurent revu",
+      "elles": "elles eurent revu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse revu",
+      "tu": "tu eusses revu",
+      "il": "il eût revu",
+      "elle": "elle eût revu",
+      "on": "on eût revu",
+      "nous": "nous eussions revu",
+      "vous": "vous eussiez revu",
+      "ils": "ils eussent revu",
+      "elles": "elles eussent revu"
+    },
+    "imperatif_passe": {
+      "tu": "aie revu",
+      "nous": "ayons revu",
+      "vous": "ayez revu"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "revoir",
+    "infinitif_passe": "avoir revu",
+    "participe_present": "revoyant",
+    "participe_passe": "revu",
+    "gerondif_present": "en revoyant",
+    "gerondif_passe": "en ayant revu"
+  }
+}

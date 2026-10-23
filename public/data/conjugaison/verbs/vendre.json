@@ -1,0 +1,190 @@
+{
+  "infinitive": "vendre",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je vends",
+      "tu": "tu vends",
+      "il": "il vend",
+      "elle": "elle vend",
+      "on": "on vend",
+      "nous": "nous vendons",
+      "vous": "vous vendez",
+      "ils": "ils vendent",
+      "elles": "elles vendent"
+    },
+    "imparfait": {
+      "je": "je vendais",
+      "tu": "tu vendais",
+      "il": "il vendait",
+      "elle": "elle vendait",
+      "on": "on vendait",
+      "nous": "nous vendions",
+      "vous": "vous vendiez",
+      "ils": "ils vendaient",
+      "elles": "elles vendaient"
+    },
+    "futur_simple": {
+      "je": "je vendai",
+      "tu": "tu vendas",
+      "il": "il venda",
+      "elle": "elle venda",
+      "on": "on venda",
+      "nous": "nous vendons",
+      "vous": "vous vendez",
+      "ils": "ils vendont",
+      "elles": "elles vendont"
+    },
+    "conditionnel_present": {
+      "je": "je vendais",
+      "tu": "tu vendais",
+      "il": "il vendait",
+      "elle": "elle vendait",
+      "on": "on vendait",
+      "nous": "nous vendions",
+      "vous": "vous vendiez",
+      "ils": "ils vendaient",
+      "elles": "elles vendaient"
+    },
+    "subjonctif_present": {
+      "je": "je vende",
+      "tu": "tu vendes",
+      "il": "il vende",
+      "elle": "elle vende",
+      "on": "on vende",
+      "nous": "nous vendions",
+      "vous": "vous vendiez",
+      "ils": "ils vendent",
+      "elles": "elles vendent"
+    },
+    "passe_simple": {
+      "je": "je vendis",
+      "tu": "tu vendis",
+      "il": "il vendit",
+      "elle": "elle vendit",
+      "on": "on vendit",
+      "nous": "nous vendîmes",
+      "vous": "vous vendîtes",
+      "ils": "ils vendirent",
+      "elles": "elles vendirent"
+    },
+    "passe_compose": {
+      "je": "j'ai vendu",
+      "tu": "tu as vendu",
+      "il": "il a vendu",
+      "elle": "elle a vendu",
+      "on": "on a vendu",
+      "nous": "nous avons vendu",
+      "vous": "vous avez vendu",
+      "ils": "ils ont vendu",
+      "elles": "elles ont vendu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais vendu",
+      "tu": "tu avais vendu",
+      "il": "il avait vendu",
+      "elle": "elle avait vendu",
+      "on": "on avait vendu",
+      "nous": "nous avions vendu",
+      "vous": "vous aviez vendu",
+      "ils": "ils avaient vendu",
+      "elles": "elles avaient vendu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai vendu",
+      "tu": "tu auras vendu",
+      "il": "il aura vendu",
+      "elle": "elle aura vendu",
+      "on": "on aura vendu",
+      "nous": "nous aurons vendu",
+      "vous": "vous aurez vendu",
+      "ils": "ils auront vendu",
+      "elles": "elles auront vendu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais vendu",
+      "tu": "tu aurais vendu",
+      "il": "il aurait vendu",
+      "elle": "elle aurait vendu",
+      "on": "on aurait vendu",
+      "nous": "nous aurions vendu",
+      "vous": "vous auriez vendu",
+      "ils": "ils auraient vendu",
+      "elles": "elles auraient vendu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie vendu",
+      "tu": "tu aies vendu",
+      "il": "il ait vendu",
+      "elle": "elle ait vendu",
+      "on": "on ait vendu",
+      "nous": "nous ayons vendu",
+      "vous": "vous ayez vendu",
+      "ils": "ils aient vendu",
+      "elles": "elles aient vendu"
+    },
+    "futur_proche": {
+      "je": "je vais vendre",
+      "tu": "tu vas vendre",
+      "il": "il va vendre",
+      "elle": "elle va vendre",
+      "on": "on va vendre",
+      "nous": "nous allons vendre",
+      "vous": "vous allez vendre",
+      "ils": "ils vont vendre",
+      "elles": "elles vont vendre"
+    },
+    "imperatif_present": {
+      "tu": "vends",
+      "nous": "vendons",
+      "vous": "vendez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je vendisse",
+      "tu": "tu vendisses",
+      "il": "il vendît",
+      "elle": "elle vendît",
+      "on": "on vendît",
+      "nous": "nous vendissions",
+      "vous": "vous vendissiez",
+      "ils": "ils vendissent",
+      "elles": "elles vendissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus vendu",
+      "tu": "tu eus vendu",
+      "il": "il eut vendu",
+      "elle": "elle eut vendu",
+      "on": "on eut vendu",
+      "nous": "nous eûmes vendu",
+      "vous": "vous eûtes vendu",
+      "ils": "ils eurent vendu",
+      "elles": "elles eurent vendu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse vendu",
+      "tu": "tu eusses vendu",
+      "il": "il eût vendu",
+      "elle": "elle eût vendu",
+      "on": "on eût vendu",
+      "nous": "nous eussions vendu",
+      "vous": "vous eussiez vendu",
+      "ils": "ils eussent vendu",
+      "elles": "elles eussent vendu"
+    },
+    "imperatif_passe": {
+      "tu": "aie vendu",
+      "nous": "ayons vendu",
+      "vous": "ayez vendu"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "vendre",
+    "infinitif_passe": "avoir vendu",
+    "participe_present": "vendant",
+    "participe_passe": "vendu",
+    "gerondif_present": "en vendant",
+    "gerondif_passe": "en ayant vendu"
+  }
+}

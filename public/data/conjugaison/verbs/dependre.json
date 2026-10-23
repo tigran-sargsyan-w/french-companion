@@ -1,0 +1,190 @@
+{
+  "infinitive": "dépendre",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je dépends",
+      "tu": "tu dépends",
+      "il": "il dépend",
+      "elle": "elle dépend",
+      "on": "on dépend",
+      "nous": "nous dépendons",
+      "vous": "vous dépendez",
+      "ils": "ils dépendent",
+      "elles": "elles dépendent"
+    },
+    "imparfait": {
+      "je": "je dépendais",
+      "tu": "tu dépendais",
+      "il": "il dépendait",
+      "elle": "elle dépendait",
+      "on": "on dépendait",
+      "nous": "nous dépendions",
+      "vous": "vous dépendiez",
+      "ils": "ils dépendaient",
+      "elles": "elles dépendaient"
+    },
+    "futur_simple": {
+      "je": "je dépendai",
+      "tu": "tu dépendas",
+      "il": "il dépenda",
+      "elle": "elle dépenda",
+      "on": "on dépenda",
+      "nous": "nous dépendons",
+      "vous": "vous dépendez",
+      "ils": "ils dépendont",
+      "elles": "elles dépendont"
+    },
+    "conditionnel_present": {
+      "je": "je dépendais",
+      "tu": "tu dépendais",
+      "il": "il dépendait",
+      "elle": "elle dépendait",
+      "on": "on dépendait",
+      "nous": "nous dépendions",
+      "vous": "vous dépendiez",
+      "ils": "ils dépendaient",
+      "elles": "elles dépendaient"
+    },
+    "subjonctif_present": {
+      "je": "je dépende",
+      "tu": "tu dépendes",
+      "il": "il dépende",
+      "elle": "elle dépende",
+      "on": "on dépende",
+      "nous": "nous dépendions",
+      "vous": "vous dépendiez",
+      "ils": "ils dépendent",
+      "elles": "elles dépendent"
+    },
+    "passe_simple": {
+      "je": "je dépendis",
+      "tu": "tu dépendis",
+      "il": "il dépendit",
+      "elle": "elle dépendit",
+      "on": "on dépendit",
+      "nous": "nous dépendîmes",
+      "vous": "vous dépendîtes",
+      "ils": "ils dépendirent",
+      "elles": "elles dépendirent"
+    },
+    "passe_compose": {
+      "je": "j'ai dépendu",
+      "tu": "tu as dépendu",
+      "il": "il a dépendu",
+      "elle": "elle a dépendu",
+      "on": "on a dépendu",
+      "nous": "nous avons dépendu",
+      "vous": "vous avez dépendu",
+      "ils": "ils ont dépendu",
+      "elles": "elles ont dépendu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais dépendu",
+      "tu": "tu avais dépendu",
+      "il": "il avait dépendu",
+      "elle": "elle avait dépendu",
+      "on": "on avait dépendu",
+      "nous": "nous avions dépendu",
+      "vous": "vous aviez dépendu",
+      "ils": "ils avaient dépendu",
+      "elles": "elles avaient dépendu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai dépendu",
+      "tu": "tu auras dépendu",
+      "il": "il aura dépendu",
+      "elle": "elle aura dépendu",
+      "on": "on aura dépendu",
+      "nous": "nous aurons dépendu",
+      "vous": "vous aurez dépendu",
+      "ils": "ils auront dépendu",
+      "elles": "elles auront dépendu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais dépendu",
+      "tu": "tu aurais dépendu",
+      "il": "il aurait dépendu",
+      "elle": "elle aurait dépendu",
+      "on": "on aurait dépendu",
+      "nous": "nous aurions dépendu",
+      "vous": "vous auriez dépendu",
+      "ils": "ils auraient dépendu",
+      "elles": "elles auraient dépendu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie dépendu",
+      "tu": "tu aies dépendu",
+      "il": "il ait dépendu",
+      "elle": "elle ait dépendu",
+      "on": "on ait dépendu",
+      "nous": "nous ayons dépendu",
+      "vous": "vous ayez dépendu",
+      "ils": "ils aient dépendu",
+      "elles": "elles aient dépendu"
+    },
+    "futur_proche": {
+      "je": "je vais dépendre",
+      "tu": "tu vas dépendre",
+      "il": "il va dépendre",
+      "elle": "elle va dépendre",
+      "on": "on va dépendre",
+      "nous": "nous allons dépendre",
+      "vous": "vous allez dépendre",
+      "ils": "ils vont dépendre",
+      "elles": "elles vont dépendre"
+    },
+    "imperatif_present": {
+      "tu": "dépends",
+      "nous": "dépendons",
+      "vous": "dépendez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je dépendisse",
+      "tu": "tu dépendisses",
+      "il": "il dépendît",
+      "elle": "elle dépendît",
+      "on": "on dépendît",
+      "nous": "nous dépendissions",
+      "vous": "vous dépendissiez",
+      "ils": "ils dépendissent",
+      "elles": "elles dépendissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus dépendu",
+      "tu": "tu eus dépendu",
+      "il": "il eut dépendu",
+      "elle": "elle eut dépendu",
+      "on": "on eut dépendu",
+      "nous": "nous eûmes dépendu",
+      "vous": "vous eûtes dépendu",
+      "ils": "ils eurent dépendu",
+      "elles": "elles eurent dépendu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse dépendu",
+      "tu": "tu eusses dépendu",
+      "il": "il eût dépendu",
+      "elle": "elle eût dépendu",
+      "on": "on eût dépendu",
+      "nous": "nous eussions dépendu",
+      "vous": "vous eussiez dépendu",
+      "ils": "ils eussent dépendu",
+      "elles": "elles eussent dépendu"
+    },
+    "imperatif_passe": {
+      "tu": "aie dépendu",
+      "nous": "ayons dépendu",
+      "vous": "ayez dépendu"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "dépendre",
+    "infinitif_passe": "avoir dépendu",
+    "participe_present": "dépendant",
+    "participe_passe": "dépendu",
+    "gerondif_present": "en dépendant",
+    "gerondif_passe": "en ayant dépendu"
+  }
+}

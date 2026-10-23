@@ -1,0 +1,190 @@
+{
+  "infinitive": "donner",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je donne",
+      "tu": "tu donnes",
+      "il": "il donne",
+      "elle": "elle donne",
+      "on": "on donne",
+      "nous": "nous donnons",
+      "vous": "vous donnez",
+      "ils": "ils donnent",
+      "elles": "elles donnent"
+    },
+    "imparfait": {
+      "je": "je donnais",
+      "tu": "tu donnais",
+      "il": "il donnait",
+      "elle": "elle donnait",
+      "on": "on donnait",
+      "nous": "nous donnions",
+      "vous": "vous donniez",
+      "ils": "ils donnaient",
+      "elles": "elles donnaient"
+    },
+    "futur_simple": {
+      "je": "je donnerai",
+      "tu": "tu donneras",
+      "il": "il donnera",
+      "elle": "elle donnera",
+      "on": "on donnera",
+      "nous": "nous donnerons",
+      "vous": "vous donnerez",
+      "ils": "ils donneront",
+      "elles": "elles donneront"
+    },
+    "conditionnel_present": {
+      "je": "je donnerais",
+      "tu": "tu donnerais",
+      "il": "il donnerait",
+      "elle": "elle donnerait",
+      "on": "on donnerait",
+      "nous": "nous donnerions",
+      "vous": "vous donneriez",
+      "ils": "ils donneraient",
+      "elles": "elles donneraient"
+    },
+    "subjonctif_present": {
+      "je": "je donne",
+      "tu": "tu donnes",
+      "il": "il donne",
+      "elle": "elle donne",
+      "on": "on donne",
+      "nous": "nous donnions",
+      "vous": "vous donniez",
+      "ils": "ils donnent",
+      "elles": "elles donnent"
+    },
+    "passe_simple": {
+      "je": "je donnai",
+      "tu": "tu donnas",
+      "il": "il donna",
+      "elle": "elle donna",
+      "on": "on donna",
+      "nous": "nous donnâmes",
+      "vous": "vous donnâtes",
+      "ils": "ils donnèrent",
+      "elles": "elles donnèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai donné",
+      "tu": "tu as donné",
+      "il": "il a donné",
+      "elle": "elle a donné",
+      "on": "on a donné",
+      "nous": "nous avons donné",
+      "vous": "vous avez donné",
+      "ils": "ils ont donné",
+      "elles": "elles ont donné"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais donné",
+      "tu": "tu avais donné",
+      "il": "il avait donné",
+      "elle": "elle avait donné",
+      "on": "on avait donné",
+      "nous": "nous avions donné",
+      "vous": "vous aviez donné",
+      "ils": "ils avaient donné",
+      "elles": "elles avaient donné"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai donné",
+      "tu": "tu auras donné",
+      "il": "il aura donné",
+      "elle": "elle aura donné",
+      "on": "on aura donné",
+      "nous": "nous aurons donné",
+      "vous": "vous aurez donné",
+      "ils": "ils auront donné",
+      "elles": "elles auront donné"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais donné",
+      "tu": "tu aurais donné",
+      "il": "il aurait donné",
+      "elle": "elle aurait donné",
+      "on": "on aurait donné",
+      "nous": "nous aurions donné",
+      "vous": "vous auriez donné",
+      "ils": "ils auraient donné",
+      "elles": "elles auraient donné"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie donné",
+      "tu": "tu aies donné",
+      "il": "il ait donné",
+      "elle": "elle ait donné",
+      "on": "on ait donné",
+      "nous": "nous ayons donné",
+      "vous": "vous ayez donné",
+      "ils": "ils aient donné",
+      "elles": "elles aient donné"
+    },
+    "futur_proche": {
+      "je": "je vais donner",
+      "tu": "tu vas donner",
+      "il": "il va donner",
+      "elle": "elle va donner",
+      "on": "on va donner",
+      "nous": "nous allons donner",
+      "vous": "vous allez donner",
+      "ils": "ils vont donner",
+      "elles": "elles vont donner"
+    },
+    "imperatif_present": {
+      "tu": "donne",
+      "nous": "donnons",
+      "vous": "donnez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je donnasse",
+      "tu": "tu donnasses",
+      "il": "il donnât",
+      "elle": "elle donnât",
+      "on": "on donnât",
+      "nous": "nous donnassions",
+      "vous": "vous donnassiez",
+      "ils": "ils donnassent",
+      "elles": "elles donnassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus donné",
+      "tu": "tu eus donné",
+      "il": "il eut donné",
+      "elle": "elle eut donné",
+      "on": "on eut donné",
+      "nous": "nous eûmes donné",
+      "vous": "vous eûtes donné",
+      "ils": "ils eurent donné",
+      "elles": "elles eurent donné"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse donné",
+      "tu": "tu eusses donné",
+      "il": "il eût donné",
+      "elle": "elle eût donné",
+      "on": "on eût donné",
+      "nous": "nous eussions donné",
+      "vous": "vous eussiez donné",
+      "ils": "ils eussent donné",
+      "elles": "elles eussent donné"
+    },
+    "imperatif_passe": {
+      "tu": "aie donné",
+      "nous": "ayons donné",
+      "vous": "ayez donné"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "donner",
+    "infinitif_passe": "avoir donné",
+    "participe_present": "donnant",
+    "participe_passe": "donné",
+    "gerondif_present": "en donnant",
+    "gerondif_passe": "en ayant donné"
+  }
+}

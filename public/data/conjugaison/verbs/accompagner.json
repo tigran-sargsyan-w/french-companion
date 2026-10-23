@@ -1,0 +1,190 @@
+{
+  "infinitive": "accompagner",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'accompagne",
+      "tu": "tu accompagnes",
+      "il": "il accompagne",
+      "elle": "elle accompagne",
+      "on": "on accompagne",
+      "nous": "nous accompagnons",
+      "vous": "vous accompagnez",
+      "ils": "ils accompagnent",
+      "elles": "elles accompagnent"
+    },
+    "imparfait": {
+      "je": "j'accompagnais",
+      "tu": "tu accompagnais",
+      "il": "il accompagnait",
+      "elle": "elle accompagnait",
+      "on": "on accompagnait",
+      "nous": "nous accompagnions",
+      "vous": "vous accompagniez",
+      "ils": "ils accompagnaient",
+      "elles": "elles accompagnaient"
+    },
+    "futur_simple": {
+      "je": "j'accompagnerai",
+      "tu": "tu accompagneras",
+      "il": "il accompagnera",
+      "elle": "elle accompagnera",
+      "on": "on accompagnera",
+      "nous": "nous accompagnerons",
+      "vous": "vous accompagnerez",
+      "ils": "ils accompagneront",
+      "elles": "elles accompagneront"
+    },
+    "conditionnel_present": {
+      "je": "j'accompagnerais",
+      "tu": "tu accompagnerais",
+      "il": "il accompagnerait",
+      "elle": "elle accompagnerait",
+      "on": "on accompagnerait",
+      "nous": "nous accompagnerions",
+      "vous": "vous accompagneriez",
+      "ils": "ils accompagneraient",
+      "elles": "elles accompagneraient"
+    },
+    "subjonctif_present": {
+      "je": "j'accompagne",
+      "tu": "tu accompagnes",
+      "il": "il accompagne",
+      "elle": "elle accompagne",
+      "on": "on accompagne",
+      "nous": "nous accompagnions",
+      "vous": "vous accompagniez",
+      "ils": "ils accompagnent",
+      "elles": "elles accompagnent"
+    },
+    "passe_simple": {
+      "je": "j'accompagnai",
+      "tu": "tu accompagnas",
+      "il": "il accompagna",
+      "elle": "elle accompagna",
+      "on": "on accompagna",
+      "nous": "nous accompagnâmes",
+      "vous": "vous accompagnâtes",
+      "ils": "ils accompagnèrent",
+      "elles": "elles accompagnèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai accompagné",
+      "tu": "tu as accompagné",
+      "il": "il a accompagné",
+      "elle": "elle a accompagné",
+      "on": "on a accompagné",
+      "nous": "nous avons accompagné",
+      "vous": "vous avez accompagné",
+      "ils": "ils ont accompagné",
+      "elles": "elles ont accompagné"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais accompagné",
+      "tu": "tu avais accompagné",
+      "il": "il avait accompagné",
+      "elle": "elle avait accompagné",
+      "on": "on avait accompagné",
+      "nous": "nous avions accompagné",
+      "vous": "vous aviez accompagné",
+      "ils": "ils avaient accompagné",
+      "elles": "elles avaient accompagné"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai accompagné",
+      "tu": "tu auras accompagné",
+      "il": "il aura accompagné",
+      "elle": "elle aura accompagné",
+      "on": "on aura accompagné",
+      "nous": "nous aurons accompagné",
+      "vous": "vous aurez accompagné",
+      "ils": "ils auront accompagné",
+      "elles": "elles auront accompagné"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais accompagné",
+      "tu": "tu aurais accompagné",
+      "il": "il aurait accompagné",
+      "elle": "elle aurait accompagné",
+      "on": "on aurait accompagné",
+      "nous": "nous aurions accompagné",
+      "vous": "vous auriez accompagné",
+      "ils": "ils auraient accompagné",
+      "elles": "elles auraient accompagné"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie accompagné",
+      "tu": "tu aies accompagné",
+      "il": "il ait accompagné",
+      "elle": "elle ait accompagné",
+      "on": "on ait accompagné",
+      "nous": "nous ayons accompagné",
+      "vous": "vous ayez accompagné",
+      "ils": "ils aient accompagné",
+      "elles": "elles aient accompagné"
+    },
+    "futur_proche": {
+      "je": "je vais accompagner",
+      "tu": "tu vas accompagner",
+      "il": "il va accompagner",
+      "elle": "elle va accompagner",
+      "on": "on va accompagner",
+      "nous": "nous allons accompagner",
+      "vous": "vous allez accompagner",
+      "ils": "ils vont accompagner",
+      "elles": "elles vont accompagner"
+    },
+    "imperatif_present": {
+      "tu": "accompagne",
+      "nous": "accompagnons",
+      "vous": "accompagnez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'accompagnasse",
+      "tu": "tu accompagnasses",
+      "il": "il accompagnât",
+      "elle": "elle accompagnât",
+      "on": "on accompagnât",
+      "nous": "nous accompagnassions",
+      "vous": "vous accompagnassiez",
+      "ils": "ils accompagnassent",
+      "elles": "elles accompagnassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus accompagné",
+      "tu": "tu eus accompagné",
+      "il": "il eut accompagné",
+      "elle": "elle eut accompagné",
+      "on": "on eut accompagné",
+      "nous": "nous eûmes accompagné",
+      "vous": "vous eûtes accompagné",
+      "ils": "ils eurent accompagné",
+      "elles": "elles eurent accompagné"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse accompagné",
+      "tu": "tu eusses accompagné",
+      "il": "il eût accompagné",
+      "elle": "elle eût accompagné",
+      "on": "on eût accompagné",
+      "nous": "nous eussions accompagné",
+      "vous": "vous eussiez accompagné",
+      "ils": "ils eussent accompagné",
+      "elles": "elles eussent accompagné"
+    },
+    "imperatif_passe": {
+      "tu": "aie accompagné",
+      "nous": "ayons accompagné",
+      "vous": "ayez accompagné"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "accompagner",
+    "infinitif_passe": "avoir accompagné",
+    "participe_present": "accompagnant",
+    "participe_passe": "accompagné",
+    "gerondif_present": "en accompagnant",
+    "gerondif_passe": "en ayant accompagné"
+  }
+}

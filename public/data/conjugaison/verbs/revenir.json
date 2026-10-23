@@ -1,0 +1,190 @@
+{
+  "infinitive": "revenir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je reviens",
+      "tu": "tu reviens",
+      "il": "il revient",
+      "elle": "elle revient",
+      "on": "on revient",
+      "nous": "nous revenons",
+      "vous": "vous revenez",
+      "ils": "ils reviennent",
+      "elles": "elles reviennent"
+    },
+    "imparfait": {
+      "je": "je revenais",
+      "tu": "tu revenais",
+      "il": "il revenait",
+      "elle": "elle revenait",
+      "on": "on revenait",
+      "nous": "nous revenions",
+      "vous": "vous reveniez",
+      "ils": "ils revenaient",
+      "elles": "elles revenaient"
+    },
+    "futur_simple": {
+      "je": "je reviendrai",
+      "tu": "tu reviendras",
+      "il": "il reviendra",
+      "elle": "elle reviendra",
+      "on": "on reviendra",
+      "nous": "nous reviendrons",
+      "vous": "vous reviendrez",
+      "ils": "ils reviendront",
+      "elles": "elles reviendront"
+    },
+    "conditionnel_present": {
+      "je": "je reviendrais",
+      "tu": "tu reviendrais",
+      "il": "il reviendrait",
+      "elle": "elle reviendrait",
+      "on": "on reviendrait",
+      "nous": "nous reviendrions",
+      "vous": "vous reviendriez",
+      "ils": "ils reviendraient",
+      "elles": "elles reviendraient"
+    },
+    "subjonctif_present": {
+      "je": "je revienne",
+      "tu": "tu reviennes",
+      "il": "il revienne",
+      "elle": "elle revienne",
+      "on": "on revienne",
+      "nous": "nous revenions",
+      "vous": "vous reveniez",
+      "ils": "ils reviennent",
+      "elles": "elles reviennent"
+    },
+    "passe_simple": {
+      "je": "je revins",
+      "tu": "tu revins",
+      "il": "il revint",
+      "elle": "elle revint",
+      "on": "on revint",
+      "nous": "nous revînmes",
+      "vous": "vous revîntes",
+      "ils": "ils revinrent",
+      "elles": "elles revinrent"
+    },
+    "passe_compose": {
+      "je": "je suis revenu",
+      "tu": "tu es revenu",
+      "il": "il est revenu",
+      "elle": "elle est revenue",
+      "on": "on est revenu",
+      "nous": "nous sommes revenus",
+      "vous": "vous êtes revenus",
+      "ils": "ils sont revenus",
+      "elles": "elles sont revenues"
+    },
+    "plus_que_parfait": {
+      "je": "j'étais revenu",
+      "tu": "tu étais revenu",
+      "il": "il était revenu",
+      "elle": "elle était revenue",
+      "on": "on était revenu",
+      "nous": "nous étions revenus",
+      "vous": "vous étiez revenus",
+      "ils": "ils étaient revenus",
+      "elles": "elles étaient revenues"
+    },
+    "futur_anterieur": {
+      "je": "je serai revenu",
+      "tu": "tu seras revenu",
+      "il": "il sera revenu",
+      "elle": "elle sera revenue",
+      "on": "on sera revenu",
+      "nous": "nous serons revenus",
+      "vous": "vous serez revenus",
+      "ils": "ils seront revenus",
+      "elles": "elles seront revenues"
+    },
+    "conditionnel_passe": {
+      "je": "je serais revenu",
+      "tu": "tu serais revenu",
+      "il": "il serait revenu",
+      "elle": "elle serait revenue",
+      "on": "on serait revenu",
+      "nous": "nous serions revenus",
+      "vous": "vous seriez revenus",
+      "ils": "ils seraient revenus",
+      "elles": "elles seraient revenues"
+    },
+    "subjonctif_passe": {
+      "je": "je sois revenu",
+      "tu": "tu sois revenu",
+      "il": "il soit revenu",
+      "elle": "elle soit revenue",
+      "on": "on soit revenu",
+      "nous": "nous soyons revenus",
+      "vous": "vous soyez revenus",
+      "ils": "ils soient revenus",
+      "elles": "elles soient revenues"
+    },
+    "futur_proche": {
+      "je": "je vais revenir",
+      "tu": "tu vas revenir",
+      "il": "il va revenir",
+      "elle": "elle va revenir",
+      "on": "on va revenir",
+      "nous": "nous allons revenir",
+      "vous": "vous allez revenir",
+      "ils": "ils vont revenir",
+      "elles": "elles vont revenir"
+    },
+    "imperatif_present": {
+      "tu": "reviens",
+      "nous": "revenons",
+      "vous": "revenez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je revinsse",
+      "tu": "tu revinsses",
+      "il": "il revînt",
+      "elle": "elle revînt",
+      "on": "on revînt",
+      "nous": "nous revinssions",
+      "vous": "vous revinssiez",
+      "ils": "ils revinssent",
+      "elles": "elles revinssent"
+    },
+    "passe_anterieur": {
+      "je": "je fus revenu",
+      "tu": "tu fus revenu",
+      "il": "il fut revenu",
+      "elle": "elle fut revenue",
+      "on": "on fut revenu",
+      "nous": "nous fûmes revenus",
+      "vous": "vous fûtes revenus",
+      "ils": "ils furent revenus",
+      "elles": "elles furent revenues"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je fusse revenu",
+      "tu": "tu fusses revenu",
+      "il": "il fût revenu",
+      "elle": "elle fût revenue",
+      "on": "on fût revenu",
+      "nous": "nous fussions revenus",
+      "vous": "vous fussiez revenus",
+      "ils": "ils fussent revenus",
+      "elles": "elles fussent revenues"
+    },
+    "imperatif_passe": {
+      "tu": "sois revenu",
+      "nous": "soyons revenus",
+      "vous": "soyez revenus"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "revenir",
+    "infinitif_passe": "être revenu",
+    "participe_present": "revenant",
+    "participe_passe": "revenu",
+    "gerondif_present": "en revenant",
+    "gerondif_passe": "en étant revenu"
+  }
+}

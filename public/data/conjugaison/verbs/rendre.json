@@ -1,0 +1,190 @@
+{
+  "infinitive": "rendre",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je rends",
+      "tu": "tu rends",
+      "il": "il rend",
+      "elle": "elle rend",
+      "on": "on rend",
+      "nous": "nous rendons",
+      "vous": "vous rendez",
+      "ils": "ils rendent",
+      "elles": "elles rendent"
+    },
+    "imparfait": {
+      "je": "je rendais",
+      "tu": "tu rendais",
+      "il": "il rendait",
+      "elle": "elle rendait",
+      "on": "on rendait",
+      "nous": "nous rendions",
+      "vous": "vous rendiez",
+      "ils": "ils rendaient",
+      "elles": "elles rendaient"
+    },
+    "futur_simple": {
+      "je": "je rendai",
+      "tu": "tu rendas",
+      "il": "il renda",
+      "elle": "elle renda",
+      "on": "on renda",
+      "nous": "nous rendons",
+      "vous": "vous rendez",
+      "ils": "ils rendont",
+      "elles": "elles rendont"
+    },
+    "conditionnel_present": {
+      "je": "je rendais",
+      "tu": "tu rendais",
+      "il": "il rendait",
+      "elle": "elle rendait",
+      "on": "on rendait",
+      "nous": "nous rendions",
+      "vous": "vous rendiez",
+      "ils": "ils rendaient",
+      "elles": "elles rendaient"
+    },
+    "subjonctif_present": {
+      "je": "je rende",
+      "tu": "tu rendes",
+      "il": "il rende",
+      "elle": "elle rende",
+      "on": "on rende",
+      "nous": "nous rendions",
+      "vous": "vous rendiez",
+      "ils": "ils rendent",
+      "elles": "elles rendent"
+    },
+    "passe_simple": {
+      "je": "je rendis",
+      "tu": "tu rendis",
+      "il": "il rendit",
+      "elle": "elle rendit",
+      "on": "on rendit",
+      "nous": "nous rendîmes",
+      "vous": "vous rendîtes",
+      "ils": "ils rendirent",
+      "elles": "elles rendirent"
+    },
+    "passe_compose": {
+      "je": "j'ai rendu",
+      "tu": "tu as rendu",
+      "il": "il a rendu",
+      "elle": "elle a rendu",
+      "on": "on a rendu",
+      "nous": "nous avons rendu",
+      "vous": "vous avez rendu",
+      "ils": "ils ont rendu",
+      "elles": "elles ont rendu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais rendu",
+      "tu": "tu avais rendu",
+      "il": "il avait rendu",
+      "elle": "elle avait rendu",
+      "on": "on avait rendu",
+      "nous": "nous avions rendu",
+      "vous": "vous aviez rendu",
+      "ils": "ils avaient rendu",
+      "elles": "elles avaient rendu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai rendu",
+      "tu": "tu auras rendu",
+      "il": "il aura rendu",
+      "elle": "elle aura rendu",
+      "on": "on aura rendu",
+      "nous": "nous aurons rendu",
+      "vous": "vous aurez rendu",
+      "ils": "ils auront rendu",
+      "elles": "elles auront rendu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais rendu",
+      "tu": "tu aurais rendu",
+      "il": "il aurait rendu",
+      "elle": "elle aurait rendu",
+      "on": "on aurait rendu",
+      "nous": "nous aurions rendu",
+      "vous": "vous auriez rendu",
+      "ils": "ils auraient rendu",
+      "elles": "elles auraient rendu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie rendu",
+      "tu": "tu aies rendu",
+      "il": "il ait rendu",
+      "elle": "elle ait rendu",
+      "on": "on ait rendu",
+      "nous": "nous ayons rendu",
+      "vous": "vous ayez rendu",
+      "ils": "ils aient rendu",
+      "elles": "elles aient rendu"
+    },
+    "futur_proche": {
+      "je": "je vais rendre",
+      "tu": "tu vas rendre",
+      "il": "il va rendre",
+      "elle": "elle va rendre",
+      "on": "on va rendre",
+      "nous": "nous allons rendre",
+      "vous": "vous allez rendre",
+      "ils": "ils vont rendre",
+      "elles": "elles vont rendre"
+    },
+    "imperatif_present": {
+      "tu": "rends",
+      "nous": "rendons",
+      "vous": "rendez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je rendisse",
+      "tu": "tu rendisses",
+      "il": "il rendît",
+      "elle": "elle rendît",
+      "on": "on rendît",
+      "nous": "nous rendissions",
+      "vous": "vous rendissiez",
+      "ils": "ils rendissent",
+      "elles": "elles rendissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus rendu",
+      "tu": "tu eus rendu",
+      "il": "il eut rendu",
+      "elle": "elle eut rendu",
+      "on": "on eut rendu",
+      "nous": "nous eûmes rendu",
+      "vous": "vous eûtes rendu",
+      "ils": "ils eurent rendu",
+      "elles": "elles eurent rendu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse rendu",
+      "tu": "tu eusses rendu",
+      "il": "il eût rendu",
+      "elle": "elle eût rendu",
+      "on": "on eût rendu",
+      "nous": "nous eussions rendu",
+      "vous": "vous eussiez rendu",
+      "ils": "ils eussent rendu",
+      "elles": "elles eussent rendu"
+    },
+    "imperatif_passe": {
+      "tu": "aie rendu",
+      "nous": "ayons rendu",
+      "vous": "ayez rendu"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "rendre",
+    "infinitif_passe": "avoir rendu",
+    "participe_present": "rendant",
+    "participe_passe": "rendu",
+    "gerondif_present": "en rendant",
+    "gerondif_passe": "en ayant rendu"
+  }
+}

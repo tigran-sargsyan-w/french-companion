@@ -1,0 +1,190 @@
+{
+  "infinitive": "organiser",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'organise",
+      "tu": "tu organises",
+      "il": "il organise",
+      "elle": "elle organise",
+      "on": "on organise",
+      "nous": "nous organisons",
+      "vous": "vous organisez",
+      "ils": "ils organisent",
+      "elles": "elles organisent"
+    },
+    "imparfait": {
+      "je": "j'organisais",
+      "tu": "tu organisais",
+      "il": "il organisait",
+      "elle": "elle organisait",
+      "on": "on organisait",
+      "nous": "nous organisions",
+      "vous": "vous organisiez",
+      "ils": "ils organisaient",
+      "elles": "elles organisaient"
+    },
+    "futur_simple": {
+      "je": "j'organiserai",
+      "tu": "tu organiseras",
+      "il": "il organisera",
+      "elle": "elle organisera",
+      "on": "on organisera",
+      "nous": "nous organiserons",
+      "vous": "vous organiserez",
+      "ils": "ils organiseront",
+      "elles": "elles organiseront"
+    },
+    "conditionnel_present": {
+      "je": "j'organiserais",
+      "tu": "tu organiserais",
+      "il": "il organiserait",
+      "elle": "elle organiserait",
+      "on": "on organiserait",
+      "nous": "nous organiserions",
+      "vous": "vous organiseriez",
+      "ils": "ils organiseraient",
+      "elles": "elles organiseraient"
+    },
+    "subjonctif_present": {
+      "je": "j'organise",
+      "tu": "tu organises",
+      "il": "il organise",
+      "elle": "elle organise",
+      "on": "on organise",
+      "nous": "nous organisions",
+      "vous": "vous organisiez",
+      "ils": "ils organisent",
+      "elles": "elles organisent"
+    },
+    "passe_simple": {
+      "je": "j'organisai",
+      "tu": "tu organisas",
+      "il": "il organisa",
+      "elle": "elle organisa",
+      "on": "on organisa",
+      "nous": "nous organisâmes",
+      "vous": "vous organisâtes",
+      "ils": "ils organisèrent",
+      "elles": "elles organisèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai organisé",
+      "tu": "tu as organisé",
+      "il": "il a organisé",
+      "elle": "elle a organisé",
+      "on": "on a organisé",
+      "nous": "nous avons organisé",
+      "vous": "vous avez organisé",
+      "ils": "ils ont organisé",
+      "elles": "elles ont organisé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais organisé",
+      "tu": "tu avais organisé",
+      "il": "il avait organisé",
+      "elle": "elle avait organisé",
+      "on": "on avait organisé",
+      "nous": "nous avions organisé",
+      "vous": "vous aviez organisé",
+      "ils": "ils avaient organisé",
+      "elles": "elles avaient organisé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai organisé",
+      "tu": "tu auras organisé",
+      "il": "il aura organisé",
+      "elle": "elle aura organisé",
+      "on": "on aura organisé",
+      "nous": "nous aurons organisé",
+      "vous": "vous aurez organisé",
+      "ils": "ils auront organisé",
+      "elles": "elles auront organisé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais organisé",
+      "tu": "tu aurais organisé",
+      "il": "il aurait organisé",
+      "elle": "elle aurait organisé",
+      "on": "on aurait organisé",
+      "nous": "nous aurions organisé",
+      "vous": "vous auriez organisé",
+      "ils": "ils auraient organisé",
+      "elles": "elles auraient organisé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie organisé",
+      "tu": "tu aies organisé",
+      "il": "il ait organisé",
+      "elle": "elle ait organisé",
+      "on": "on ait organisé",
+      "nous": "nous ayons organisé",
+      "vous": "vous ayez organisé",
+      "ils": "ils aient organisé",
+      "elles": "elles aient organisé"
+    },
+    "futur_proche": {
+      "je": "je vais organiser",
+      "tu": "tu vas organiser",
+      "il": "il va organiser",
+      "elle": "elle va organiser",
+      "on": "on va organiser",
+      "nous": "nous allons organiser",
+      "vous": "vous allez organiser",
+      "ils": "ils vont organiser",
+      "elles": "elles vont organiser"
+    },
+    "imperatif_present": {
+      "tu": "organise",
+      "nous": "organisons",
+      "vous": "organisez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'organisasse",
+      "tu": "tu organisasses",
+      "il": "il organisât",
+      "elle": "elle organisât",
+      "on": "on organisât",
+      "nous": "nous organisassions",
+      "vous": "vous organisassiez",
+      "ils": "ils organisassent",
+      "elles": "elles organisassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus organisé",
+      "tu": "tu eus organisé",
+      "il": "il eut organisé",
+      "elle": "elle eut organisé",
+      "on": "on eut organisé",
+      "nous": "nous eûmes organisé",
+      "vous": "vous eûtes organisé",
+      "ils": "ils eurent organisé",
+      "elles": "elles eurent organisé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse organisé",
+      "tu": "tu eusses organisé",
+      "il": "il eût organisé",
+      "elle": "elle eût organisé",
+      "on": "on eût organisé",
+      "nous": "nous eussions organisé",
+      "vous": "vous eussiez organisé",
+      "ils": "ils eussent organisé",
+      "elles": "elles eussent organisé"
+    },
+    "imperatif_passe": {
+      "tu": "aie organisé",
+      "nous": "ayons organisé",
+      "vous": "ayez organisé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "organiser",
+    "infinitif_passe": "avoir organisé",
+    "participe_present": "organisant",
+    "participe_passe": "organisé",
+    "gerondif_present": "en organisant",
+    "gerondif_passe": "en ayant organisé"
+  }
+}

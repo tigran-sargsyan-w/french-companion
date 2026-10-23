@@ -1,0 +1,185 @@
+{
+  "infinitive": "se laver",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je me lave",
+      "tu": "tu te laves",
+      "il": "il se lave",
+      "elle": "elle se lave",
+      "on": "on se lave",
+      "nous": "nous nous lavons",
+      "vous": "vous vous lavez",
+      "ils": "ils se lavent",
+      "elles": "elles se lavent"
+    },
+    "imparfait": {
+      "je": "je me lavais",
+      "tu": "tu te lavais",
+      "il": "il se lavait",
+      "elle": "elle se lavait",
+      "on": "on se lavait",
+      "nous": "nous nous lavions",
+      "vous": "vous vous laviez",
+      "ils": "ils se lavaient",
+      "elles": "elles se lavaient"
+    },
+    "passe_simple": {
+      "je": "je me lavai",
+      "tu": "tu te lavas",
+      "il": "il se lava",
+      "elle": "elle se lava",
+      "on": "on se lava",
+      "nous": "nous nous lavâmes",
+      "vous": "vous vous lavâtes",
+      "ils": "ils se lavèrent",
+      "elles": "elles se lavèrent"
+    },
+    "futur_simple": {
+      "je": "je me laverai",
+      "tu": "tu te laveras",
+      "il": "il se lavera",
+      "elle": "elle se lavera",
+      "on": "on se lavera",
+      "nous": "nous nous laverons",
+      "vous": "vous vous laverez",
+      "ils": "ils se laveront",
+      "elles": "elles se laveront"
+    },
+    "conditionnel_present": {
+      "je": "je me laverais",
+      "tu": "tu te laverais",
+      "il": "il se laverait",
+      "elle": "elle se laverait",
+      "on": "on se laverait",
+      "nous": "nous nous laverions",
+      "vous": "vous vous laveriez",
+      "ils": "ils se laveraient",
+      "elles": "elles se laveraient"
+    },
+    "subjonctif_present": {
+      "je": "je me lave",
+      "tu": "tu te laves",
+      "il": "il se lave",
+      "elle": "elle se lave",
+      "on": "on se lave",
+      "nous": "nous nous lavions",
+      "vous": "vous vous laviez",
+      "ils": "ils se lavent",
+      "elles": "elles se lavent"
+    },
+    "futur_proche": {
+      "je": "je vais me laver",
+      "tu": "tu vas te laver",
+      "il": "il va se laver",
+      "elle": "elle va se laver",
+      "on": "on va se laver",
+      "nous": "nous allons nous laver",
+      "vous": "vous allez vous laver",
+      "ils": "ils vont se laver",
+      "elles": "elles vont se laver"
+    },
+    "passe_compose": {
+      "je": "je me suis lavé",
+      "tu": "tu t'es lavé",
+      "il": "il s'est lavé",
+      "elle": "elle s'est lavée",
+      "on": "on s'est lavé",
+      "nous": "nous nous sommes lavés",
+      "vous": "vous vous êtes lavés",
+      "ils": "ils se sont lavés",
+      "elles": "elles se sont lavées"
+    },
+    "plus_que_parfait": {
+      "je": "je m'étais lavé",
+      "tu": "tu t'étais lavé",
+      "il": "il s'était lavé",
+      "elle": "elle s'était lavée",
+      "on": "on s'était lavé",
+      "nous": "nous nous étions lavés",
+      "vous": "vous vous étiez lavés",
+      "ils": "ils s'étaient lavés",
+      "elles": "elles s'étaient lavées"
+    },
+    "futur_anterieur": {
+      "je": "je me serai lavé",
+      "tu": "tu te seras lavé",
+      "il": "il se sera lavé",
+      "elle": "elle se sera lavée",
+      "on": "on se sera lavé",
+      "nous": "nous nous serons lavés",
+      "vous": "vous vous serez lavés",
+      "ils": "ils se seront lavés",
+      "elles": "elles se seront lavées"
+    },
+    "conditionnel_passe": {
+      "je": "je me serais lavé",
+      "tu": "tu te serais lavé",
+      "il": "il se serait lavé",
+      "elle": "elle se serait lavée",
+      "on": "on se serait lavé",
+      "nous": "nous nous serions lavés",
+      "vous": "vous vous seriez lavés",
+      "ils": "ils se seraient lavés",
+      "elles": "elles se seraient lavées"
+    },
+    "subjonctif_passe": {
+      "je": "je me sois lavé",
+      "tu": "tu te sois lavé",
+      "il": "il se soit lavé",
+      "elle": "elle se soit lavée",
+      "on": "on se soit lavé",
+      "nous": "nous nous soyons lavés",
+      "vous": "vous vous soyez lavés",
+      "ils": "ils se soient lavés",
+      "elles": "elles se soient lavées"
+    },
+    "imperatif_present": {
+      "tu": "lave-toi",
+      "nous": "lavons-nous",
+      "vous": "lavez-vous"
+    },
+    "subjonctif_imparfait": {
+      "je": "je me lavasse",
+      "tu": "tu te lavasses",
+      "il": "il se lavât",
+      "elle": "elle se lavât",
+      "on": "on se lavât",
+      "nous": "nous nous lavassions",
+      "vous": "vous vous lavassiez",
+      "ils": "ils se lavassent",
+      "elles": "elles se lavassent"
+    },
+    "passe_anterieur": {
+      "je": "je me fus lavé",
+      "tu": "tu te fus lavé",
+      "il": "il se fut lavé",
+      "elle": "elle se fut lavée",
+      "on": "on se fut lavé",
+      "nous": "nous nous fûmes lavés",
+      "vous": "vous vous fûtes lavés",
+      "ils": "ils se furent lavés",
+      "elles": "elles se furent lavées"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je me fusse lavé",
+      "tu": "tu te fusses lavé",
+      "il": "il se fût lavé",
+      "elle": "elle se fût lavée",
+      "on": "on se fût lavé",
+      "nous": "nous nous fussions lavés",
+      "vous": "vous vous fussiez lavés",
+      "ils": "ils se fussent lavés",
+      "elles": "elles se fussent lavées"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "se laver",
+    "infinitif_passe": "s'être lavé",
+    "participe_present": "se lavant",
+    "participe_passe": "lavé",
+    "gerondif_present": "en se lavant",
+    "gerondif_passe": "en s'étant lavé"
+  }
+}

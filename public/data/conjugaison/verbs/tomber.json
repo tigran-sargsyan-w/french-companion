@@ -1,0 +1,190 @@
+{
+  "infinitive": "tomber",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je tombe",
+      "tu": "tu tombes",
+      "il": "il tombe",
+      "elle": "elle tombe",
+      "on": "on tombe",
+      "nous": "nous tombons",
+      "vous": "vous tombez",
+      "ils": "ils tombent",
+      "elles": "elles tombent"
+    },
+    "imparfait": {
+      "je": "je tombais",
+      "tu": "tu tombais",
+      "il": "il tombait",
+      "elle": "elle tombait",
+      "on": "on tombait",
+      "nous": "nous tombions",
+      "vous": "vous tombiez",
+      "ils": "ils tombaient",
+      "elles": "elles tombaient"
+    },
+    "futur_simple": {
+      "je": "je tomberai",
+      "tu": "tu tomberas",
+      "il": "il tombera",
+      "elle": "elle tombera",
+      "on": "on tombera",
+      "nous": "nous tomberons",
+      "vous": "vous tomberez",
+      "ils": "ils tomberont",
+      "elles": "elles tomberont"
+    },
+    "conditionnel_present": {
+      "je": "je tomberais",
+      "tu": "tu tomberais",
+      "il": "il tomberait",
+      "elle": "elle tomberait",
+      "on": "on tomberait",
+      "nous": "nous tomberions",
+      "vous": "vous tomberiez",
+      "ils": "ils tomberaient",
+      "elles": "elles tomberaient"
+    },
+    "subjonctif_present": {
+      "je": "je tombe",
+      "tu": "tu tombes",
+      "il": "il tombe",
+      "elle": "elle tombe",
+      "on": "on tombe",
+      "nous": "nous tombions",
+      "vous": "vous tombiez",
+      "ils": "ils tombent",
+      "elles": "elles tombent"
+    },
+    "passe_simple": {
+      "je": "je tombai",
+      "tu": "tu tombas",
+      "il": "il tomba",
+      "elle": "elle tomba",
+      "on": "on tomba",
+      "nous": "nous tombâmes",
+      "vous": "vous tombâtes",
+      "ils": "ils tombèrent",
+      "elles": "elles tombèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai tombé",
+      "tu": "tu as tombé",
+      "il": "il a tombé",
+      "elle": "elle a tombé",
+      "on": "on a tombé",
+      "nous": "nous avons tombé",
+      "vous": "vous avez tombé",
+      "ils": "ils ont tombé",
+      "elles": "elles ont tombé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais tombé",
+      "tu": "tu avais tombé",
+      "il": "il avait tombé",
+      "elle": "elle avait tombé",
+      "on": "on avait tombé",
+      "nous": "nous avions tombé",
+      "vous": "vous aviez tombé",
+      "ils": "ils avaient tombé",
+      "elles": "elles avaient tombé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai tombé",
+      "tu": "tu auras tombé",
+      "il": "il aura tombé",
+      "elle": "elle aura tombé",
+      "on": "on aura tombé",
+      "nous": "nous aurons tombé",
+      "vous": "vous aurez tombé",
+      "ils": "ils auront tombé",
+      "elles": "elles auront tombé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais tombé",
+      "tu": "tu aurais tombé",
+      "il": "il aurait tombé",
+      "elle": "elle aurait tombé",
+      "on": "on aurait tombé",
+      "nous": "nous aurions tombé",
+      "vous": "vous auriez tombé",
+      "ils": "ils auraient tombé",
+      "elles": "elles auraient tombé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie tombé",
+      "tu": "tu aies tombé",
+      "il": "il ait tombé",
+      "elle": "elle ait tombé",
+      "on": "on ait tombé",
+      "nous": "nous ayons tombé",
+      "vous": "vous ayez tombé",
+      "ils": "ils aient tombé",
+      "elles": "elles aient tombé"
+    },
+    "futur_proche": {
+      "je": "je vais tomber",
+      "tu": "tu vas tomber",
+      "il": "il va tomber",
+      "elle": "elle va tomber",
+      "on": "on va tomber",
+      "nous": "nous allons tomber",
+      "vous": "vous allez tomber",
+      "ils": "ils vont tomber",
+      "elles": "elles vont tomber"
+    },
+    "imperatif_present": {
+      "tu": "tombe",
+      "nous": "tombons",
+      "vous": "tombez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je tombasse",
+      "tu": "tu tombasses",
+      "il": "il tombât",
+      "elle": "elle tombât",
+      "on": "on tombât",
+      "nous": "nous tombassions",
+      "vous": "vous tombassiez",
+      "ils": "ils tombassent",
+      "elles": "elles tombassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus tombé",
+      "tu": "tu eus tombé",
+      "il": "il eut tombé",
+      "elle": "elle eut tombé",
+      "on": "on eut tombé",
+      "nous": "nous eûmes tombé",
+      "vous": "vous eûtes tombé",
+      "ils": "ils eurent tombé",
+      "elles": "elles eurent tombé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse tombé",
+      "tu": "tu eusses tombé",
+      "il": "il eût tombé",
+      "elle": "elle eût tombé",
+      "on": "on eût tombé",
+      "nous": "nous eussions tombé",
+      "vous": "vous eussiez tombé",
+      "ils": "ils eussent tombé",
+      "elles": "elles eussent tombé"
+    },
+    "imperatif_passe": {
+      "tu": "aie tombé",
+      "nous": "ayons tombé",
+      "vous": "ayez tombé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "tomber",
+    "infinitif_passe": "avoir tombé",
+    "participe_present": "tombant",
+    "participe_passe": "tombé",
+    "gerondif_present": "en tombant",
+    "gerondif_passe": "en ayant tombé"
+  }
+}

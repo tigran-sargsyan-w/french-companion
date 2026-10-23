@@ -1,0 +1,190 @@
+{
+  "infinitive": "avertir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'avertis",
+      "tu": "tu avertis",
+      "il": "il avertit",
+      "elle": "elle avertit",
+      "on": "on avertit",
+      "nous": "nous avertissons",
+      "vous": "vous avertissez",
+      "ils": "ils avertissent",
+      "elles": "elles avertissent"
+    },
+    "imparfait": {
+      "je": "j'avertissais",
+      "tu": "tu avertissais",
+      "il": "il avertissait",
+      "elle": "elle avertissait",
+      "on": "on avertissait",
+      "nous": "nous avertissions",
+      "vous": "vous avertissiez",
+      "ils": "ils avertissaient",
+      "elles": "elles avertissaient"
+    },
+    "futur_simple": {
+      "je": "j'avertirai",
+      "tu": "tu avertiras",
+      "il": "il avertira",
+      "elle": "elle avertira",
+      "on": "on avertira",
+      "nous": "nous avertirons",
+      "vous": "vous avertirez",
+      "ils": "ils avertiront",
+      "elles": "elles avertiront"
+    },
+    "conditionnel_present": {
+      "je": "j'avertirais",
+      "tu": "tu avertirais",
+      "il": "il avertirait",
+      "elle": "elle avertirait",
+      "on": "on avertirait",
+      "nous": "nous avertirions",
+      "vous": "vous avertiriez",
+      "ils": "ils avertiraient",
+      "elles": "elles avertiraient"
+    },
+    "subjonctif_present": {
+      "je": "j'avertisse",
+      "tu": "tu avertisses",
+      "il": "il avertisse",
+      "elle": "elle avertisse",
+      "on": "on avertisse",
+      "nous": "nous avertissions",
+      "vous": "vous avertissiez",
+      "ils": "ils avertissent",
+      "elles": "elles avertissent"
+    },
+    "passe_simple": {
+      "je": "j'avertis",
+      "tu": "tu avertis",
+      "il": "il avertit",
+      "elle": "elle avertit",
+      "on": "on avertit",
+      "nous": "nous avertîmes",
+      "vous": "vous avertîtes",
+      "ils": "ils avertirent",
+      "elles": "elles avertirent"
+    },
+    "passe_compose": {
+      "je": "j'ai averti",
+      "tu": "tu as averti",
+      "il": "il a averti",
+      "elle": "elle a averti",
+      "on": "on a averti",
+      "nous": "nous avons averti",
+      "vous": "vous avez averti",
+      "ils": "ils ont averti",
+      "elles": "elles ont averti"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais averti",
+      "tu": "tu avais averti",
+      "il": "il avait averti",
+      "elle": "elle avait averti",
+      "on": "on avait averti",
+      "nous": "nous avions averti",
+      "vous": "vous aviez averti",
+      "ils": "ils avaient averti",
+      "elles": "elles avaient averti"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai averti",
+      "tu": "tu auras averti",
+      "il": "il aura averti",
+      "elle": "elle aura averti",
+      "on": "on aura averti",
+      "nous": "nous aurons averti",
+      "vous": "vous aurez averti",
+      "ils": "ils auront averti",
+      "elles": "elles auront averti"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais averti",
+      "tu": "tu aurais averti",
+      "il": "il aurait averti",
+      "elle": "elle aurait averti",
+      "on": "on aurait averti",
+      "nous": "nous aurions averti",
+      "vous": "vous auriez averti",
+      "ils": "ils auraient averti",
+      "elles": "elles auraient averti"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie averti",
+      "tu": "tu aies averti",
+      "il": "il ait averti",
+      "elle": "elle ait averti",
+      "on": "on ait averti",
+      "nous": "nous ayons averti",
+      "vous": "vous ayez averti",
+      "ils": "ils aient averti",
+      "elles": "elles aient averti"
+    },
+    "futur_proche": {
+      "je": "je vais avertir",
+      "tu": "tu vas avertir",
+      "il": "il va avertir",
+      "elle": "elle va avertir",
+      "on": "on va avertir",
+      "nous": "nous allons avertir",
+      "vous": "vous allez avertir",
+      "ils": "ils vont avertir",
+      "elles": "elles vont avertir"
+    },
+    "imperatif_present": {
+      "tu": "avertis",
+      "nous": "avertissons",
+      "vous": "avertissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'avertisse",
+      "tu": "tu avertisses",
+      "il": "il avertît",
+      "elle": "elle avertît",
+      "on": "on avertît",
+      "nous": "nous avertissions",
+      "vous": "vous avertissiez",
+      "ils": "ils avertissent",
+      "elles": "elles avertissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus averti",
+      "tu": "tu eus averti",
+      "il": "il eut averti",
+      "elle": "elle eut averti",
+      "on": "on eut averti",
+      "nous": "nous eûmes averti",
+      "vous": "vous eûtes averti",
+      "ils": "ils eurent averti",
+      "elles": "elles eurent averti"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse averti",
+      "tu": "tu eusses averti",
+      "il": "il eût averti",
+      "elle": "elle eût averti",
+      "on": "on eût averti",
+      "nous": "nous eussions averti",
+      "vous": "vous eussiez averti",
+      "ils": "ils eussent averti",
+      "elles": "elles eussent averti"
+    },
+    "imperatif_passe": {
+      "tu": "aie averti",
+      "nous": "ayons averti",
+      "vous": "ayez averti"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "avertir",
+    "infinitif_passe": "avoir averti",
+    "participe_present": "avertissant",
+    "participe_passe": "averti",
+    "gerondif_present": "en avertissant",
+    "gerondif_passe": "en ayant averti"
+  }
+}

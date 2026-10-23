@@ -1,0 +1,190 @@
+{
+  "infinitive": "naître",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je nais",
+      "tu": "tu nais",
+      "il": "il naît",
+      "elle": "elle naît",
+      "on": "on naît",
+      "nous": "nous naissons",
+      "vous": "vous naissez",
+      "ils": "ils naissent",
+      "elles": "elles naissent"
+    },
+    "imparfait": {
+      "je": "je naissais",
+      "tu": "tu naissais",
+      "il": "il naissait",
+      "elle": "elle naissait",
+      "on": "on naissait",
+      "nous": "nous naissions",
+      "vous": "vous naissiez",
+      "ils": "ils naissaient",
+      "elles": "elles naissaient"
+    },
+    "futur_simple": {
+      "je": "je naîtrai",
+      "tu": "tu naîtras",
+      "il": "il naîtra",
+      "elle": "elle naîtra",
+      "on": "on naîtra",
+      "nous": "nous naîtrons",
+      "vous": "vous naîtrez",
+      "ils": "ils naîtront",
+      "elles": "elles naîtront"
+    },
+    "conditionnel_present": {
+      "je": "je naîtrais",
+      "tu": "tu naîtrais",
+      "il": "il naîtrait",
+      "elle": "elle naîtrait",
+      "on": "on naîtrait",
+      "nous": "nous naîtrions",
+      "vous": "vous naîtriez",
+      "ils": "ils naîtraient",
+      "elles": "elles naîtraient"
+    },
+    "subjonctif_present": {
+      "je": "je naisse",
+      "tu": "tu naisses",
+      "il": "il naisse",
+      "elle": "elle naisse",
+      "on": "on naisse",
+      "nous": "nous naissions",
+      "vous": "vous naissiez",
+      "ils": "ils naissent",
+      "elles": "elles naissent"
+    },
+    "passe_simple": {
+      "je": "je naquis",
+      "tu": "tu naquis",
+      "il": "il naquit",
+      "elle": "elle naquit",
+      "on": "on naquit",
+      "nous": "nous naquîmes",
+      "vous": "vous naquîtes",
+      "ils": "ils naquirent",
+      "elles": "elles naquirent"
+    },
+    "passe_compose": {
+      "je": "je suis né",
+      "tu": "tu es né",
+      "il": "il est né",
+      "elle": "elle est née",
+      "on": "on est né",
+      "nous": "nous sommes nés",
+      "vous": "vous êtes nés",
+      "ils": "ils sont nés",
+      "elles": "elles sont nées"
+    },
+    "plus_que_parfait": {
+      "je": "j'étais né",
+      "tu": "tu étais né",
+      "il": "il était né",
+      "elle": "elle était née",
+      "on": "on était né",
+      "nous": "nous étions nés",
+      "vous": "vous étiez nés",
+      "ils": "ils étaient nés",
+      "elles": "elles étaient nées"
+    },
+    "futur_anterieur": {
+      "je": "je serai né",
+      "tu": "tu seras né",
+      "il": "il sera né",
+      "elle": "elle sera née",
+      "on": "on sera né",
+      "nous": "nous serons nés",
+      "vous": "vous serez nés",
+      "ils": "ils seront nés",
+      "elles": "elles seront nées"
+    },
+    "conditionnel_passe": {
+      "je": "je serais né",
+      "tu": "tu serais né",
+      "il": "il serait né",
+      "elle": "elle serait née",
+      "on": "on serait né",
+      "nous": "nous serions nés",
+      "vous": "vous seriez nés",
+      "ils": "ils seraient nés",
+      "elles": "elles seraient nées"
+    },
+    "subjonctif_passe": {
+      "je": "je sois né",
+      "tu": "tu sois né",
+      "il": "il soit né",
+      "elle": "elle soit née",
+      "on": "on soit né",
+      "nous": "nous soyons nés",
+      "vous": "vous soyez nés",
+      "ils": "ils soient nés",
+      "elles": "elles soient nées"
+    },
+    "futur_proche": {
+      "je": "je vais naître",
+      "tu": "tu vas naître",
+      "il": "il va naître",
+      "elle": "elle va naître",
+      "on": "on va naître",
+      "nous": "nous allons naître",
+      "vous": "vous allez naître",
+      "ils": "ils vont naître",
+      "elles": "elles vont naître"
+    },
+    "imperatif_present": {
+      "tu": "nais",
+      "nous": "naissons",
+      "vous": "naissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je naquisse",
+      "tu": "tu naquisses",
+      "il": "il naquît",
+      "elle": "elle naquît",
+      "on": "on naquît",
+      "nous": "nous naquissions",
+      "vous": "vous naquissiez",
+      "ils": "ils naquissent",
+      "elles": "elles naquissent"
+    },
+    "passe_anterieur": {
+      "je": "je fus né",
+      "tu": "tu fus né",
+      "il": "il fut né",
+      "elle": "elle fut née",
+      "on": "on fut né",
+      "nous": "nous fûmes nés",
+      "vous": "vous fûtes nés",
+      "ils": "ils furent nés",
+      "elles": "elles furent nées"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je fusse né",
+      "tu": "tu fusses né",
+      "il": "il fût né",
+      "elle": "elle fût née",
+      "on": "on fût né",
+      "nous": "nous fussions nés",
+      "vous": "vous fussiez nés",
+      "ils": "ils fussent nés",
+      "elles": "elles fussent nées"
+    },
+    "imperatif_passe": {
+      "tu": "sois né",
+      "nous": "soyons nés",
+      "vous": "soyez nés"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "naître",
+    "infinitif_passe": "être né",
+    "participe_present": "naissant",
+    "participe_passe": "né",
+    "gerondif_present": "en naissant",
+    "gerondif_passe": "en étant né"
+  }
+}

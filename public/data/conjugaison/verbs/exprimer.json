@@ -1,0 +1,190 @@
+{
+  "infinitive": "exprimer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'exprime",
+      "tu": "tu exprimes",
+      "il": "il exprime",
+      "elle": "elle exprime",
+      "on": "on exprime",
+      "nous": "nous exprimons",
+      "vous": "vous exprimez",
+      "ils": "ils expriment",
+      "elles": "elles expriment"
+    },
+    "imparfait": {
+      "je": "j'exprimais",
+      "tu": "tu exprimais",
+      "il": "il exprimait",
+      "elle": "elle exprimait",
+      "on": "on exprimait",
+      "nous": "nous exprimions",
+      "vous": "vous exprimiez",
+      "ils": "ils exprimaient",
+      "elles": "elles exprimaient"
+    },
+    "futur_simple": {
+      "je": "j'exprimerai",
+      "tu": "tu exprimeras",
+      "il": "il exprimera",
+      "elle": "elle exprimera",
+      "on": "on exprimera",
+      "nous": "nous exprimerons",
+      "vous": "vous exprimerez",
+      "ils": "ils exprimeront",
+      "elles": "elles exprimeront"
+    },
+    "conditionnel_present": {
+      "je": "j'exprimerais",
+      "tu": "tu exprimerais",
+      "il": "il exprimerait",
+      "elle": "elle exprimerait",
+      "on": "on exprimerait",
+      "nous": "nous exprimerions",
+      "vous": "vous exprimeriez",
+      "ils": "ils exprimeraient",
+      "elles": "elles exprimeraient"
+    },
+    "subjonctif_present": {
+      "je": "j'exprime",
+      "tu": "tu exprimes",
+      "il": "il exprime",
+      "elle": "elle exprime",
+      "on": "on exprime",
+      "nous": "nous exprimions",
+      "vous": "vous exprimiez",
+      "ils": "ils expriment",
+      "elles": "elles expriment"
+    },
+    "passe_simple": {
+      "je": "j'exprimai",
+      "tu": "tu exprimas",
+      "il": "il exprima",
+      "elle": "elle exprima",
+      "on": "on exprima",
+      "nous": "nous exprimâmes",
+      "vous": "vous exprimâtes",
+      "ils": "ils exprimèrent",
+      "elles": "elles exprimèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai exprimé",
+      "tu": "tu as exprimé",
+      "il": "il a exprimé",
+      "elle": "elle a exprimé",
+      "on": "on a exprimé",
+      "nous": "nous avons exprimé",
+      "vous": "vous avez exprimé",
+      "ils": "ils ont exprimé",
+      "elles": "elles ont exprimé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais exprimé",
+      "tu": "tu avais exprimé",
+      "il": "il avait exprimé",
+      "elle": "elle avait exprimé",
+      "on": "on avait exprimé",
+      "nous": "nous avions exprimé",
+      "vous": "vous aviez exprimé",
+      "ils": "ils avaient exprimé",
+      "elles": "elles avaient exprimé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai exprimé",
+      "tu": "tu auras exprimé",
+      "il": "il aura exprimé",
+      "elle": "elle aura exprimé",
+      "on": "on aura exprimé",
+      "nous": "nous aurons exprimé",
+      "vous": "vous aurez exprimé",
+      "ils": "ils auront exprimé",
+      "elles": "elles auront exprimé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais exprimé",
+      "tu": "tu aurais exprimé",
+      "il": "il aurait exprimé",
+      "elle": "elle aurait exprimé",
+      "on": "on aurait exprimé",
+      "nous": "nous aurions exprimé",
+      "vous": "vous auriez exprimé",
+      "ils": "ils auraient exprimé",
+      "elles": "elles auraient exprimé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie exprimé",
+      "tu": "tu aies exprimé",
+      "il": "il ait exprimé",
+      "elle": "elle ait exprimé",
+      "on": "on ait exprimé",
+      "nous": "nous ayons exprimé",
+      "vous": "vous ayez exprimé",
+      "ils": "ils aient exprimé",
+      "elles": "elles aient exprimé"
+    },
+    "futur_proche": {
+      "je": "je vais exprimer",
+      "tu": "tu vas exprimer",
+      "il": "il va exprimer",
+      "elle": "elle va exprimer",
+      "on": "on va exprimer",
+      "nous": "nous allons exprimer",
+      "vous": "vous allez exprimer",
+      "ils": "ils vont exprimer",
+      "elles": "elles vont exprimer"
+    },
+    "imperatif_present": {
+      "tu": "exprime",
+      "nous": "exprimons",
+      "vous": "exprimez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'exprimasse",
+      "tu": "tu exprimasses",
+      "il": "il exprimât",
+      "elle": "elle exprimât",
+      "on": "on exprimât",
+      "nous": "nous exprimassions",
+      "vous": "vous exprimassiez",
+      "ils": "ils exprimassent",
+      "elles": "elles exprimassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus exprimé",
+      "tu": "tu eus exprimé",
+      "il": "il eut exprimé",
+      "elle": "elle eut exprimé",
+      "on": "on eut exprimé",
+      "nous": "nous eûmes exprimé",
+      "vous": "vous eûtes exprimé",
+      "ils": "ils eurent exprimé",
+      "elles": "elles eurent exprimé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse exprimé",
+      "tu": "tu eusses exprimé",
+      "il": "il eût exprimé",
+      "elle": "elle eût exprimé",
+      "on": "on eût exprimé",
+      "nous": "nous eussions exprimé",
+      "vous": "vous eussiez exprimé",
+      "ils": "ils eussent exprimé",
+      "elles": "elles eussent exprimé"
+    },
+    "imperatif_passe": {
+      "tu": "aie exprimé",
+      "nous": "ayons exprimé",
+      "vous": "ayez exprimé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "exprimer",
+    "infinitif_passe": "avoir exprimé",
+    "participe_present": "exprimant",
+    "participe_passe": "exprimé",
+    "gerondif_present": "en exprimant",
+    "gerondif_passe": "en ayant exprimé"
+  }
+}

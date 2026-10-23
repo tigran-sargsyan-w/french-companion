@@ -1,0 +1,190 @@
+{
+  "infinitive": "porter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je porte",
+      "tu": "tu portes",
+      "il": "il porte",
+      "elle": "elle porte",
+      "on": "on porte",
+      "nous": "nous portons",
+      "vous": "vous portez",
+      "ils": "ils portent",
+      "elles": "elles portent"
+    },
+    "imparfait": {
+      "je": "je portais",
+      "tu": "tu portais",
+      "il": "il portait",
+      "elle": "elle portait",
+      "on": "on portait",
+      "nous": "nous portions",
+      "vous": "vous portiez",
+      "ils": "ils portaient",
+      "elles": "elles portaient"
+    },
+    "futur_simple": {
+      "je": "je porterai",
+      "tu": "tu porteras",
+      "il": "il portera",
+      "elle": "elle portera",
+      "on": "on portera",
+      "nous": "nous porterons",
+      "vous": "vous porterez",
+      "ils": "ils porteront",
+      "elles": "elles porteront"
+    },
+    "conditionnel_present": {
+      "je": "je porterais",
+      "tu": "tu porterais",
+      "il": "il porterait",
+      "elle": "elle porterait",
+      "on": "on porterait",
+      "nous": "nous porterions",
+      "vous": "vous porteriez",
+      "ils": "ils porteraient",
+      "elles": "elles porteraient"
+    },
+    "subjonctif_present": {
+      "je": "je porte",
+      "tu": "tu portes",
+      "il": "il porte",
+      "elle": "elle porte",
+      "on": "on porte",
+      "nous": "nous portions",
+      "vous": "vous portiez",
+      "ils": "ils portent",
+      "elles": "elles portent"
+    },
+    "passe_simple": {
+      "je": "je portai",
+      "tu": "tu portas",
+      "il": "il porta",
+      "elle": "elle porta",
+      "on": "on porta",
+      "nous": "nous portâmes",
+      "vous": "vous portâtes",
+      "ils": "ils portèrent",
+      "elles": "elles portèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai porté",
+      "tu": "tu as porté",
+      "il": "il a porté",
+      "elle": "elle a porté",
+      "on": "on a porté",
+      "nous": "nous avons porté",
+      "vous": "vous avez porté",
+      "ils": "ils ont porté",
+      "elles": "elles ont porté"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais porté",
+      "tu": "tu avais porté",
+      "il": "il avait porté",
+      "elle": "elle avait porté",
+      "on": "on avait porté",
+      "nous": "nous avions porté",
+      "vous": "vous aviez porté",
+      "ils": "ils avaient porté",
+      "elles": "elles avaient porté"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai porté",
+      "tu": "tu auras porté",
+      "il": "il aura porté",
+      "elle": "elle aura porté",
+      "on": "on aura porté",
+      "nous": "nous aurons porté",
+      "vous": "vous aurez porté",
+      "ils": "ils auront porté",
+      "elles": "elles auront porté"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais porté",
+      "tu": "tu aurais porté",
+      "il": "il aurait porté",
+      "elle": "elle aurait porté",
+      "on": "on aurait porté",
+      "nous": "nous aurions porté",
+      "vous": "vous auriez porté",
+      "ils": "ils auraient porté",
+      "elles": "elles auraient porté"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie porté",
+      "tu": "tu aies porté",
+      "il": "il ait porté",
+      "elle": "elle ait porté",
+      "on": "on ait porté",
+      "nous": "nous ayons porté",
+      "vous": "vous ayez porté",
+      "ils": "ils aient porté",
+      "elles": "elles aient porté"
+    },
+    "futur_proche": {
+      "je": "je vais porter",
+      "tu": "tu vas porter",
+      "il": "il va porter",
+      "elle": "elle va porter",
+      "on": "on va porter",
+      "nous": "nous allons porter",
+      "vous": "vous allez porter",
+      "ils": "ils vont porter",
+      "elles": "elles vont porter"
+    },
+    "imperatif_present": {
+      "tu": "porte",
+      "nous": "portons",
+      "vous": "portez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je portasse",
+      "tu": "tu portasses",
+      "il": "il portât",
+      "elle": "elle portât",
+      "on": "on portât",
+      "nous": "nous portassions",
+      "vous": "vous portassiez",
+      "ils": "ils portassent",
+      "elles": "elles portassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus porté",
+      "tu": "tu eus porté",
+      "il": "il eut porté",
+      "elle": "elle eut porté",
+      "on": "on eut porté",
+      "nous": "nous eûmes porté",
+      "vous": "vous eûtes porté",
+      "ils": "ils eurent porté",
+      "elles": "elles eurent porté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse porté",
+      "tu": "tu eusses porté",
+      "il": "il eût porté",
+      "elle": "elle eût porté",
+      "on": "on eût porté",
+      "nous": "nous eussions porté",
+      "vous": "vous eussiez porté",
+      "ils": "ils eussent porté",
+      "elles": "elles eussent porté"
+    },
+    "imperatif_passe": {
+      "tu": "aie porté",
+      "nous": "ayons porté",
+      "vous": "ayez porté"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "porter",
+    "infinitif_passe": "avoir porté",
+    "participe_present": "portant",
+    "participe_passe": "porté",
+    "gerondif_present": "en portant",
+    "gerondif_passe": "en ayant porté"
+  }
+}

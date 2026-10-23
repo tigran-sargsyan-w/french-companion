@@ -1,0 +1,190 @@
+{
+  "infinitive": "visiter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je visite",
+      "tu": "tu visites",
+      "il": "il visite",
+      "elle": "elle visite",
+      "on": "on visite",
+      "nous": "nous visitons",
+      "vous": "vous visitez",
+      "ils": "ils visitent",
+      "elles": "elles visitent"
+    },
+    "imparfait": {
+      "je": "je visitais",
+      "tu": "tu visitais",
+      "il": "il visitait",
+      "elle": "elle visitait",
+      "on": "on visitait",
+      "nous": "nous visitions",
+      "vous": "vous visitiez",
+      "ils": "ils visitaient",
+      "elles": "elles visitaient"
+    },
+    "futur_simple": {
+      "je": "je visiterai",
+      "tu": "tu visiteras",
+      "il": "il visitera",
+      "elle": "elle visitera",
+      "on": "on visitera",
+      "nous": "nous visiterons",
+      "vous": "vous visiterez",
+      "ils": "ils visiteront",
+      "elles": "elles visiteront"
+    },
+    "conditionnel_present": {
+      "je": "je visiterais",
+      "tu": "tu visiterais",
+      "il": "il visiterait",
+      "elle": "elle visiterait",
+      "on": "on visiterait",
+      "nous": "nous visiterions",
+      "vous": "vous visiteriez",
+      "ils": "ils visiteraient",
+      "elles": "elles visiteraient"
+    },
+    "subjonctif_present": {
+      "je": "je visite",
+      "tu": "tu visites",
+      "il": "il visite",
+      "elle": "elle visite",
+      "on": "on visite",
+      "nous": "nous visitions",
+      "vous": "vous visitiez",
+      "ils": "ils visitent",
+      "elles": "elles visitent"
+    },
+    "passe_simple": {
+      "je": "je visitai",
+      "tu": "tu visitas",
+      "il": "il visita",
+      "elle": "elle visita",
+      "on": "on visita",
+      "nous": "nous visitâmes",
+      "vous": "vous visitâtes",
+      "ils": "ils visitèrent",
+      "elles": "elles visitèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai visité",
+      "tu": "tu as visité",
+      "il": "il a visité",
+      "elle": "elle a visité",
+      "on": "on a visité",
+      "nous": "nous avons visité",
+      "vous": "vous avez visité",
+      "ils": "ils ont visité",
+      "elles": "elles ont visité"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais visité",
+      "tu": "tu avais visité",
+      "il": "il avait visité",
+      "elle": "elle avait visité",
+      "on": "on avait visité",
+      "nous": "nous avions visité",
+      "vous": "vous aviez visité",
+      "ils": "ils avaient visité",
+      "elles": "elles avaient visité"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai visité",
+      "tu": "tu auras visité",
+      "il": "il aura visité",
+      "elle": "elle aura visité",
+      "on": "on aura visité",
+      "nous": "nous aurons visité",
+      "vous": "vous aurez visité",
+      "ils": "ils auront visité",
+      "elles": "elles auront visité"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais visité",
+      "tu": "tu aurais visité",
+      "il": "il aurait visité",
+      "elle": "elle aurait visité",
+      "on": "on aurait visité",
+      "nous": "nous aurions visité",
+      "vous": "vous auriez visité",
+      "ils": "ils auraient visité",
+      "elles": "elles auraient visité"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie visité",
+      "tu": "tu aies visité",
+      "il": "il ait visité",
+      "elle": "elle ait visité",
+      "on": "on ait visité",
+      "nous": "nous ayons visité",
+      "vous": "vous ayez visité",
+      "ils": "ils aient visité",
+      "elles": "elles aient visité"
+    },
+    "futur_proche": {
+      "je": "je vais visiter",
+      "tu": "tu vas visiter",
+      "il": "il va visiter",
+      "elle": "elle va visiter",
+      "on": "on va visiter",
+      "nous": "nous allons visiter",
+      "vous": "vous allez visiter",
+      "ils": "ils vont visiter",
+      "elles": "elles vont visiter"
+    },
+    "imperatif_present": {
+      "tu": "visite",
+      "nous": "visitons",
+      "vous": "visitez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je visitasse",
+      "tu": "tu visitasses",
+      "il": "il visitât",
+      "elle": "elle visitât",
+      "on": "on visitât",
+      "nous": "nous visitassions",
+      "vous": "vous visitassiez",
+      "ils": "ils visitassent",
+      "elles": "elles visitassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus visité",
+      "tu": "tu eus visité",
+      "il": "il eut visité",
+      "elle": "elle eut visité",
+      "on": "on eut visité",
+      "nous": "nous eûmes visité",
+      "vous": "vous eûtes visité",
+      "ils": "ils eurent visité",
+      "elles": "elles eurent visité"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse visité",
+      "tu": "tu eusses visité",
+      "il": "il eût visité",
+      "elle": "elle eût visité",
+      "on": "on eût visité",
+      "nous": "nous eussions visité",
+      "vous": "vous eussiez visité",
+      "ils": "ils eussent visité",
+      "elles": "elles eussent visité"
+    },
+    "imperatif_passe": {
+      "tu": "aie visité",
+      "nous": "ayons visité",
+      "vous": "ayez visité"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "visiter",
+    "infinitif_passe": "avoir visité",
+    "participe_present": "visitant",
+    "participe_passe": "visité",
+    "gerondif_present": "en visitant",
+    "gerondif_passe": "en ayant visité"
+  }
+}

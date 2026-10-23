@@ -1,0 +1,190 @@
+{
+  "infinitive": "réunir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je réunis",
+      "tu": "tu réunis",
+      "il": "il réunit",
+      "elle": "elle réunit",
+      "on": "on réunit",
+      "nous": "nous réunissons",
+      "vous": "vous réunissez",
+      "ils": "ils réunissent",
+      "elles": "elles réunissent"
+    },
+    "imparfait": {
+      "je": "je réunissais",
+      "tu": "tu réunissais",
+      "il": "il réunissait",
+      "elle": "elle réunissait",
+      "on": "on réunissait",
+      "nous": "nous réunissions",
+      "vous": "vous réunissiez",
+      "ils": "ils réunissaient",
+      "elles": "elles réunissaient"
+    },
+    "futur_simple": {
+      "je": "je réunirai",
+      "tu": "tu réuniras",
+      "il": "il réunira",
+      "elle": "elle réunira",
+      "on": "on réunira",
+      "nous": "nous réunirons",
+      "vous": "vous réunirez",
+      "ils": "ils réuniront",
+      "elles": "elles réuniront"
+    },
+    "conditionnel_present": {
+      "je": "je réunirais",
+      "tu": "tu réunirais",
+      "il": "il réunirait",
+      "elle": "elle réunirait",
+      "on": "on réunirait",
+      "nous": "nous réunirions",
+      "vous": "vous réuniriez",
+      "ils": "ils réuniraient",
+      "elles": "elles réuniraient"
+    },
+    "subjonctif_present": {
+      "je": "je réunisse",
+      "tu": "tu réunisses",
+      "il": "il réunisse",
+      "elle": "elle réunisse",
+      "on": "on réunisse",
+      "nous": "nous réunissions",
+      "vous": "vous réunissiez",
+      "ils": "ils réunissent",
+      "elles": "elles réunissent"
+    },
+    "passe_simple": {
+      "je": "je réunis",
+      "tu": "tu réunis",
+      "il": "il réunit",
+      "elle": "elle réunit",
+      "on": "on réunit",
+      "nous": "nous réunîmes",
+      "vous": "vous réunîtes",
+      "ils": "ils réunirent",
+      "elles": "elles réunirent"
+    },
+    "passe_compose": {
+      "je": "j'ai réuni",
+      "tu": "tu as réuni",
+      "il": "il a réuni",
+      "elle": "elle a réuni",
+      "on": "on a réuni",
+      "nous": "nous avons réuni",
+      "vous": "vous avez réuni",
+      "ils": "ils ont réuni",
+      "elles": "elles ont réuni"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais réuni",
+      "tu": "tu avais réuni",
+      "il": "il avait réuni",
+      "elle": "elle avait réuni",
+      "on": "on avait réuni",
+      "nous": "nous avions réuni",
+      "vous": "vous aviez réuni",
+      "ils": "ils avaient réuni",
+      "elles": "elles avaient réuni"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai réuni",
+      "tu": "tu auras réuni",
+      "il": "il aura réuni",
+      "elle": "elle aura réuni",
+      "on": "on aura réuni",
+      "nous": "nous aurons réuni",
+      "vous": "vous aurez réuni",
+      "ils": "ils auront réuni",
+      "elles": "elles auront réuni"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais réuni",
+      "tu": "tu aurais réuni",
+      "il": "il aurait réuni",
+      "elle": "elle aurait réuni",
+      "on": "on aurait réuni",
+      "nous": "nous aurions réuni",
+      "vous": "vous auriez réuni",
+      "ils": "ils auraient réuni",
+      "elles": "elles auraient réuni"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie réuni",
+      "tu": "tu aies réuni",
+      "il": "il ait réuni",
+      "elle": "elle ait réuni",
+      "on": "on ait réuni",
+      "nous": "nous ayons réuni",
+      "vous": "vous ayez réuni",
+      "ils": "ils aient réuni",
+      "elles": "elles aient réuni"
+    },
+    "futur_proche": {
+      "je": "je vais réunir",
+      "tu": "tu vas réunir",
+      "il": "il va réunir",
+      "elle": "elle va réunir",
+      "on": "on va réunir",
+      "nous": "nous allons réunir",
+      "vous": "vous allez réunir",
+      "ils": "ils vont réunir",
+      "elles": "elles vont réunir"
+    },
+    "imperatif_present": {
+      "tu": "réunis",
+      "nous": "réunissons",
+      "vous": "réunissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je réunisse",
+      "tu": "tu réunisses",
+      "il": "il réunît",
+      "elle": "elle réunît",
+      "on": "on réunît",
+      "nous": "nous réunissions",
+      "vous": "vous réunissiez",
+      "ils": "ils réunissent",
+      "elles": "elles réunissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus réuni",
+      "tu": "tu eus réuni",
+      "il": "il eut réuni",
+      "elle": "elle eut réuni",
+      "on": "on eut réuni",
+      "nous": "nous eûmes réuni",
+      "vous": "vous eûtes réuni",
+      "ils": "ils eurent réuni",
+      "elles": "elles eurent réuni"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse réuni",
+      "tu": "tu eusses réuni",
+      "il": "il eût réuni",
+      "elle": "elle eût réuni",
+      "on": "on eût réuni",
+      "nous": "nous eussions réuni",
+      "vous": "vous eussiez réuni",
+      "ils": "ils eussent réuni",
+      "elles": "elles eussent réuni"
+    },
+    "imperatif_passe": {
+      "tu": "aie réuni",
+      "nous": "ayons réuni",
+      "vous": "ayez réuni"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "réunir",
+    "infinitif_passe": "avoir réuni",
+    "participe_present": "réunissant",
+    "participe_passe": "réuni",
+    "gerondif_present": "en réunissant",
+    "gerondif_passe": "en ayant réuni"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "infinitive": "manger",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je mange",
+      "tu": "tu manges",
+      "il": "il mange",
+      "elle": "elle mange",
+      "on": "on mange",
+      "nous": "nous mangeons",
+      "vous": "vous mangez",
+      "ils": "ils mangent",
+      "elles": "elles mangent"
+    },
+    "imparfait": {
+      "je": "je mangeais",
+      "tu": "tu mangeais",
+      "il": "il mangeait",
+      "elle": "elle mangeait",
+      "on": "on mangeait",
+      "nous": "nous mangions",
+      "vous": "vous mangiez",
+      "ils": "ils mangeaient",
+      "elles": "elles mangeaient"
+    },
+    "futur_simple": {
+      "je": "je mangerai",
+      "tu": "tu mangeras",
+      "il": "il mangera",
+      "elle": "elle mangera",
+      "on": "on mangera",
+      "nous": "nous mangerons",
+      "vous": "vous mangerez",
+      "ils": "ils mangeront",
+      "elles": "elles mangeront"
+    },
+    "conditionnel_present": {
+      "je": "je mangerais",
+      "tu": "tu mangerais",
+      "il": "il mangerait",
+      "elle": "elle mangerait",
+      "on": "on mangerait",
+      "nous": "nous mangerions",
+      "vous": "vous mangeriez",
+      "ils": "ils mangeraient",
+      "elles": "elles mangeraient"
+    },
+    "subjonctif_present": {
+      "je": "je mange",
+      "tu": "tu manges",
+      "il": "il mange",
+      "elle": "elle mange",
+      "on": "on mange",
+      "nous": "nous mangions",
+      "vous": "vous mangiez",
+      "ils": "ils mangent",
+      "elles": "elles mangent"
+    },
+    "passe_simple": {
+      "je": "je mangeai",
+      "tu": "tu mangeas",
+      "il": "il mangea",
+      "elle": "elle mangea",
+      "on": "on mangea",
+      "nous": "nous mangeâmes",
+      "vous": "vous mangeâtes",
+      "ils": "ils mangèrent",
+      "elles": "elles mangèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai mangé",
+      "tu": "tu as mangé",
+      "il": "il a mangé",
+      "elle": "elle a mangé",
+      "on": "on a mangé",
+      "nous": "nous avons mangé",
+      "vous": "vous avez mangé",
+      "ils": "ils ont mangé",
+      "elles": "elles ont mangé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais mangé",
+      "tu": "tu avais mangé",
+      "il": "il avait mangé",
+      "elle": "elle avait mangé",
+      "on": "on avait mangé",
+      "nous": "nous avions mangé",
+      "vous": "vous aviez mangé",
+      "ils": "ils avaient mangé",
+      "elles": "elles avaient mangé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai mangé",
+      "tu": "tu auras mangé",
+      "il": "il aura mangé",
+      "elle": "elle aura mangé",
+      "on": "on aura mangé",
+      "nous": "nous aurons mangé",
+      "vous": "vous aurez mangé",
+      "ils": "ils auront mangé",
+      "elles": "elles auront mangé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais mangé",
+      "tu": "tu aurais mangé",
+      "il": "il aurait mangé",
+      "elle": "elle aurait mangé",
+      "on": "on aurait mangé",
+      "nous": "nous aurions mangé",
+      "vous": "vous auriez mangé",
+      "ils": "ils auraient mangé",
+      "elles": "elles auraient mangé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie mangé",
+      "tu": "tu aies mangé",
+      "il": "il ait mangé",
+      "elle": "elle ait mangé",
+      "on": "on ait mangé",
+      "nous": "nous ayons mangé",
+      "vous": "vous ayez mangé",
+      "ils": "ils aient mangé",
+      "elles": "elles aient mangé"
+    },
+    "futur_proche": {
+      "je": "je vais manger",
+      "tu": "tu vas manger",
+      "il": "il va manger",
+      "elle": "elle va manger",
+      "on": "on va manger",
+      "nous": "nous allons manger",
+      "vous": "vous allez manger",
+      "ils": "ils vont manger",
+      "elles": "elles vont manger"
+    },
+    "imperatif_present": {
+      "tu": "mange",
+      "nous": "mangeons",
+      "vous": "mangez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je mangeasse",
+      "tu": "tu mangeasses",
+      "il": "il mangeât",
+      "elle": "elle mangeât",
+      "on": "on mangeât",
+      "nous": "nous mangeassions",
+      "vous": "vous mangeassiez",
+      "ils": "ils mangeassent",
+      "elles": "elles mangeassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus mangé",
+      "tu": "tu eus mangé",
+      "il": "il eut mangé",
+      "elle": "elle eut mangé",
+      "on": "on eut mangé",
+      "nous": "nous eûmes mangé",
+      "vous": "vous eûtes mangé",
+      "ils": "ils eurent mangé",
+      "elles": "elles eurent mangé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse mangé",
+      "tu": "tu eusses mangé",
+      "il": "il eût mangé",
+      "elle": "elle eût mangé",
+      "on": "on eût mangé",
+      "nous": "nous eussions mangé",
+      "vous": "vous eussiez mangé",
+      "ils": "ils eussent mangé",
+      "elles": "elles eussent mangé"
+    },
+    "imperatif_passe": {
+      "tu": "aie mangé",
+      "nous": "ayons mangé",
+      "vous": "ayez mangé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "manger",
+    "infinitif_passe": "avoir mangé",
+    "participe_present": "mangeant",
+    "participe_passe": "mangé",
+    "gerondif_present": "en mangeant",
+    "gerondif_passe": "en ayant mangé"
+  }
+}

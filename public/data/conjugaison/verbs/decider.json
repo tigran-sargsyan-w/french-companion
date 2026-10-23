@@ -1,0 +1,190 @@
+{
+  "infinitive": "décider",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je décide",
+      "tu": "tu décides",
+      "il": "il décide",
+      "elle": "elle décide",
+      "on": "on décide",
+      "nous": "nous décidons",
+      "vous": "vous décidez",
+      "ils": "ils décident",
+      "elles": "elles décident"
+    },
+    "imparfait": {
+      "je": "je décidais",
+      "tu": "tu décidais",
+      "il": "il décidait",
+      "elle": "elle décidait",
+      "on": "on décidait",
+      "nous": "nous décidions",
+      "vous": "vous décidiez",
+      "ils": "ils décidaient",
+      "elles": "elles décidaient"
+    },
+    "futur_simple": {
+      "je": "je déciderai",
+      "tu": "tu décideras",
+      "il": "il décidera",
+      "elle": "elle décidera",
+      "on": "on décidera",
+      "nous": "nous déciderons",
+      "vous": "vous déciderez",
+      "ils": "ils décideront",
+      "elles": "elles décideront"
+    },
+    "conditionnel_present": {
+      "je": "je déciderais",
+      "tu": "tu déciderais",
+      "il": "il déciderait",
+      "elle": "elle déciderait",
+      "on": "on déciderait",
+      "nous": "nous déciderions",
+      "vous": "vous décideriez",
+      "ils": "ils décideraient",
+      "elles": "elles décideraient"
+    },
+    "subjonctif_present": {
+      "je": "je décide",
+      "tu": "tu décides",
+      "il": "il décide",
+      "elle": "elle décide",
+      "on": "on décide",
+      "nous": "nous décidions",
+      "vous": "vous décidiez",
+      "ils": "ils décident",
+      "elles": "elles décident"
+    },
+    "passe_simple": {
+      "je": "je décidai",
+      "tu": "tu décidas",
+      "il": "il décida",
+      "elle": "elle décida",
+      "on": "on décida",
+      "nous": "nous décidâmes",
+      "vous": "vous décidâtes",
+      "ils": "ils décidèrent",
+      "elles": "elles décidèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai décidé",
+      "tu": "tu as décidé",
+      "il": "il a décidé",
+      "elle": "elle a décidé",
+      "on": "on a décidé",
+      "nous": "nous avons décidé",
+      "vous": "vous avez décidé",
+      "ils": "ils ont décidé",
+      "elles": "elles ont décidé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais décidé",
+      "tu": "tu avais décidé",
+      "il": "il avait décidé",
+      "elle": "elle avait décidé",
+      "on": "on avait décidé",
+      "nous": "nous avions décidé",
+      "vous": "vous aviez décidé",
+      "ils": "ils avaient décidé",
+      "elles": "elles avaient décidé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai décidé",
+      "tu": "tu auras décidé",
+      "il": "il aura décidé",
+      "elle": "elle aura décidé",
+      "on": "on aura décidé",
+      "nous": "nous aurons décidé",
+      "vous": "vous aurez décidé",
+      "ils": "ils auront décidé",
+      "elles": "elles auront décidé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais décidé",
+      "tu": "tu aurais décidé",
+      "il": "il aurait décidé",
+      "elle": "elle aurait décidé",
+      "on": "on aurait décidé",
+      "nous": "nous aurions décidé",
+      "vous": "vous auriez décidé",
+      "ils": "ils auraient décidé",
+      "elles": "elles auraient décidé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie décidé",
+      "tu": "tu aies décidé",
+      "il": "il ait décidé",
+      "elle": "elle ait décidé",
+      "on": "on ait décidé",
+      "nous": "nous ayons décidé",
+      "vous": "vous ayez décidé",
+      "ils": "ils aient décidé",
+      "elles": "elles aient décidé"
+    },
+    "futur_proche": {
+      "je": "je vais décider",
+      "tu": "tu vas décider",
+      "il": "il va décider",
+      "elle": "elle va décider",
+      "on": "on va décider",
+      "nous": "nous allons décider",
+      "vous": "vous allez décider",
+      "ils": "ils vont décider",
+      "elles": "elles vont décider"
+    },
+    "imperatif_present": {
+      "tu": "décide",
+      "nous": "décidons",
+      "vous": "décidez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je décidasse",
+      "tu": "tu décidasses",
+      "il": "il décidât",
+      "elle": "elle décidât",
+      "on": "on décidât",
+      "nous": "nous décidassions",
+      "vous": "vous décidassiez",
+      "ils": "ils décidassent",
+      "elles": "elles décidassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus décidé",
+      "tu": "tu eus décidé",
+      "il": "il eut décidé",
+      "elle": "elle eut décidé",
+      "on": "on eut décidé",
+      "nous": "nous eûmes décidé",
+      "vous": "vous eûtes décidé",
+      "ils": "ils eurent décidé",
+      "elles": "elles eurent décidé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse décidé",
+      "tu": "tu eusses décidé",
+      "il": "il eût décidé",
+      "elle": "elle eût décidé",
+      "on": "on eût décidé",
+      "nous": "nous eussions décidé",
+      "vous": "vous eussiez décidé",
+      "ils": "ils eussent décidé",
+      "elles": "elles eussent décidé"
+    },
+    "imperatif_passe": {
+      "tu": "aie décidé",
+      "nous": "ayons décidé",
+      "vous": "ayez décidé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "décider",
+    "infinitif_passe": "avoir décidé",
+    "participe_present": "décidant",
+    "participe_passe": "décidé",
+    "gerondif_present": "en décidant",
+    "gerondif_passe": "en ayant décidé"
+  }
+}

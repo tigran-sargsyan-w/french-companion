@@ -35,11 +35,22 @@ jobs:
       - name: Validate learning data
         run: node scripts/validate-data.mjs
 
+      - name: Validate conjugaison data
+        run: node scripts/validate-conjugaison.mjs
+
       - name: Install dependencies
         run: npm install
 
       - name: Build
         run: npm run build
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Verify generated routes are committed
+        run: |
+          git diff -- src/routeTree.gen.ts
+          git diff --exit-code -- src/routeTree.gen.ts
 
       - name: Upload GitHub Pages artifact
         if: github.ref == 'refs/heads/main'

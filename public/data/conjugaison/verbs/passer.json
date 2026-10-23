@@ -1,0 +1,190 @@
+{
+  "infinitive": "passer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je passe",
+      "tu": "tu passes",
+      "il": "il passe",
+      "elle": "elle passe",
+      "on": "on passe",
+      "nous": "nous passons",
+      "vous": "vous passez",
+      "ils": "ils passent",
+      "elles": "elles passent"
+    },
+    "imparfait": {
+      "je": "je passais",
+      "tu": "tu passais",
+      "il": "il passait",
+      "elle": "elle passait",
+      "on": "on passait",
+      "nous": "nous passions",
+      "vous": "vous passiez",
+      "ils": "ils passaient",
+      "elles": "elles passaient"
+    },
+    "futur_simple": {
+      "je": "je passerai",
+      "tu": "tu passeras",
+      "il": "il passera",
+      "elle": "elle passera",
+      "on": "on passera",
+      "nous": "nous passerons",
+      "vous": "vous passerez",
+      "ils": "ils passeront",
+      "elles": "elles passeront"
+    },
+    "conditionnel_present": {
+      "je": "je passerais",
+      "tu": "tu passerais",
+      "il": "il passerait",
+      "elle": "elle passerait",
+      "on": "on passerait",
+      "nous": "nous passerions",
+      "vous": "vous passeriez",
+      "ils": "ils passeraient",
+      "elles": "elles passeraient"
+    },
+    "subjonctif_present": {
+      "je": "je passe",
+      "tu": "tu passes",
+      "il": "il passe",
+      "elle": "elle passe",
+      "on": "on passe",
+      "nous": "nous passions",
+      "vous": "vous passiez",
+      "ils": "ils passent",
+      "elles": "elles passent"
+    },
+    "passe_simple": {
+      "je": "je passai",
+      "tu": "tu passas",
+      "il": "il passa",
+      "elle": "elle passa",
+      "on": "on passa",
+      "nous": "nous passâmes",
+      "vous": "vous passâtes",
+      "ils": "ils passèrent",
+      "elles": "elles passèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai passé",
+      "tu": "tu as passé",
+      "il": "il a passé",
+      "elle": "elle a passé",
+      "on": "on a passé",
+      "nous": "nous avons passé",
+      "vous": "vous avez passé",
+      "ils": "ils ont passé",
+      "elles": "elles ont passé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais passé",
+      "tu": "tu avais passé",
+      "il": "il avait passé",
+      "elle": "elle avait passé",
+      "on": "on avait passé",
+      "nous": "nous avions passé",
+      "vous": "vous aviez passé",
+      "ils": "ils avaient passé",
+      "elles": "elles avaient passé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai passé",
+      "tu": "tu auras passé",
+      "il": "il aura passé",
+      "elle": "elle aura passé",
+      "on": "on aura passé",
+      "nous": "nous aurons passé",
+      "vous": "vous aurez passé",
+      "ils": "ils auront passé",
+      "elles": "elles auront passé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais passé",
+      "tu": "tu aurais passé",
+      "il": "il aurait passé",
+      "elle": "elle aurait passé",
+      "on": "on aurait passé",
+      "nous": "nous aurions passé",
+      "vous": "vous auriez passé",
+      "ils": "ils auraient passé",
+      "elles": "elles auraient passé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie passé",
+      "tu": "tu aies passé",
+      "il": "il ait passé",
+      "elle": "elle ait passé",
+      "on": "on ait passé",
+      "nous": "nous ayons passé",
+      "vous": "vous ayez passé",
+      "ils": "ils aient passé",
+      "elles": "elles aient passé"
+    },
+    "futur_proche": {
+      "je": "je vais passer",
+      "tu": "tu vas passer",
+      "il": "il va passer",
+      "elle": "elle va passer",
+      "on": "on va passer",
+      "nous": "nous allons passer",
+      "vous": "vous allez passer",
+      "ils": "ils vont passer",
+      "elles": "elles vont passer"
+    },
+    "imperatif_present": {
+      "tu": "passe",
+      "nous": "passons",
+      "vous": "passez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je passasse",
+      "tu": "tu passasses",
+      "il": "il passât",
+      "elle": "elle passât",
+      "on": "on passât",
+      "nous": "nous passassions",
+      "vous": "vous passassiez",
+      "ils": "ils passassent",
+      "elles": "elles passassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus passé",
+      "tu": "tu eus passé",
+      "il": "il eut passé",
+      "elle": "elle eut passé",
+      "on": "on eut passé",
+      "nous": "nous eûmes passé",
+      "vous": "vous eûtes passé",
+      "ils": "ils eurent passé",
+      "elles": "elles eurent passé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse passé",
+      "tu": "tu eusses passé",
+      "il": "il eût passé",
+      "elle": "elle eût passé",
+      "on": "on eût passé",
+      "nous": "nous eussions passé",
+      "vous": "vous eussiez passé",
+      "ils": "ils eussent passé",
+      "elles": "elles eussent passé"
+    },
+    "imperatif_passe": {
+      "tu": "aie passé",
+      "nous": "ayons passé",
+      "vous": "ayez passé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "passer",
+    "infinitif_passe": "avoir passé",
+    "participe_present": "passant",
+    "participe_passe": "passé",
+    "gerondif_present": "en passant",
+    "gerondif_passe": "en ayant passé"
+  }
+}

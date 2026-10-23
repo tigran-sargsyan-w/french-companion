@@ -1,0 +1,190 @@
+{
+  "infinitive": "souffrir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je souffre",
+      "tu": "tu souffres",
+      "il": "il souffre",
+      "elle": "elle souffre",
+      "on": "on souffre",
+      "nous": "nous souffrons",
+      "vous": "vous souffrez",
+      "ils": "ils souffrent",
+      "elles": "elles souffrent"
+    },
+    "imparfait": {
+      "je": "je souffrais",
+      "tu": "tu souffrais",
+      "il": "il souffrait",
+      "elle": "elle souffrait",
+      "on": "on souffrait",
+      "nous": "nous souffrions",
+      "vous": "vous souffriez",
+      "ils": "ils souffraient",
+      "elles": "elles souffraient"
+    },
+    "futur_simple": {
+      "je": "je souffrirai",
+      "tu": "tu souffriras",
+      "il": "il souffrira",
+      "elle": "elle souffrira",
+      "on": "on souffrira",
+      "nous": "nous souffrirons",
+      "vous": "vous souffrirez",
+      "ils": "ils souffriront",
+      "elles": "elles souffriront"
+    },
+    "conditionnel_present": {
+      "je": "je souffrirais",
+      "tu": "tu souffrirais",
+      "il": "il souffrirait",
+      "elle": "elle souffrirait",
+      "on": "on souffrirait",
+      "nous": "nous souffririons",
+      "vous": "vous souffririez",
+      "ils": "ils souffriraient",
+      "elles": "elles souffriraient"
+    },
+    "subjonctif_present": {
+      "je": "je souffre",
+      "tu": "tu souffres",
+      "il": "il souffre",
+      "elle": "elle souffre",
+      "on": "on souffre",
+      "nous": "nous souffrions",
+      "vous": "vous souffriez",
+      "ils": "ils souffrent",
+      "elles": "elles souffrent"
+    },
+    "passe_simple": {
+      "je": "je souffris",
+      "tu": "tu souffris",
+      "il": "il souffrit",
+      "elle": "elle souffrit",
+      "on": "on souffrit",
+      "nous": "nous souffrîmes",
+      "vous": "vous souffrîtes",
+      "ils": "ils souffrirent",
+      "elles": "elles souffrirent"
+    },
+    "passe_compose": {
+      "je": "j'ai souffert",
+      "tu": "tu as souffert",
+      "il": "il a souffert",
+      "elle": "elle a souffert",
+      "on": "on a souffert",
+      "nous": "nous avons souffert",
+      "vous": "vous avez souffert",
+      "ils": "ils ont souffert",
+      "elles": "elles ont souffert"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais souffert",
+      "tu": "tu avais souffert",
+      "il": "il avait souffert",
+      "elle": "elle avait souffert",
+      "on": "on avait souffert",
+      "nous": "nous avions souffert",
+      "vous": "vous aviez souffert",
+      "ils": "ils avaient souffert",
+      "elles": "elles avaient souffert"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai souffert",
+      "tu": "tu auras souffert",
+      "il": "il aura souffert",
+      "elle": "elle aura souffert",
+      "on": "on aura souffert",
+      "nous": "nous aurons souffert",
+      "vous": "vous aurez souffert",
+      "ils": "ils auront souffert",
+      "elles": "elles auront souffert"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais souffert",
+      "tu": "tu aurais souffert",
+      "il": "il aurait souffert",
+      "elle": "elle aurait souffert",
+      "on": "on aurait souffert",
+      "nous": "nous aurions souffert",
+      "vous": "vous auriez souffert",
+      "ils": "ils auraient souffert",
+      "elles": "elles auraient souffert"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie souffert",
+      "tu": "tu aies souffert",
+      "il": "il ait souffert",
+      "elle": "elle ait souffert",
+      "on": "on ait souffert",
+      "nous": "nous ayons souffert",
+      "vous": "vous ayez souffert",
+      "ils": "ils aient souffert",
+      "elles": "elles aient souffert"
+    },
+    "futur_proche": {
+      "je": "je vais souffrir",
+      "tu": "tu vas souffrir",
+      "il": "il va souffrir",
+      "elle": "elle va souffrir",
+      "on": "on va souffrir",
+      "nous": "nous allons souffrir",
+      "vous": "vous allez souffrir",
+      "ils": "ils vont souffrir",
+      "elles": "elles vont souffrir"
+    },
+    "imperatif_present": {
+      "tu": "souffre",
+      "nous": "souffrons",
+      "vous": "souffrez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je souffrisse",
+      "tu": "tu souffrisses",
+      "il": "il souffrît",
+      "elle": "elle souffrît",
+      "on": "on souffrît",
+      "nous": "nous souffrissions",
+      "vous": "vous souffrissiez",
+      "ils": "ils souffrissent",
+      "elles": "elles souffrissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus souffert",
+      "tu": "tu eus souffert",
+      "il": "il eut souffert",
+      "elle": "elle eut souffert",
+      "on": "on eut souffert",
+      "nous": "nous eûmes souffert",
+      "vous": "vous eûtes souffert",
+      "ils": "ils eurent souffert",
+      "elles": "elles eurent souffert"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse souffert",
+      "tu": "tu eusses souffert",
+      "il": "il eût souffert",
+      "elle": "elle eût souffert",
+      "on": "on eût souffert",
+      "nous": "nous eussions souffert",
+      "vous": "vous eussiez souffert",
+      "ils": "ils eussent souffert",
+      "elles": "elles eussent souffert"
+    },
+    "imperatif_passe": {
+      "tu": "aie souffert",
+      "nous": "ayons souffert",
+      "vous": "ayez souffert"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "souffrir",
+    "infinitif_passe": "avoir souffert",
+    "participe_present": "souffrant",
+    "participe_passe": "souffert",
+    "gerondif_present": "en souffrant",
+    "gerondif_passe": "en ayant souffert"
+  }
+}

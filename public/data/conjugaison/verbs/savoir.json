@@ -1,0 +1,190 @@
+{
+  "infinitive": "savoir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je sais",
+      "tu": "tu sais",
+      "il": "il sait",
+      "elle": "elle sait",
+      "on": "on sait",
+      "nous": "nous savons",
+      "vous": "vous savez",
+      "ils": "ils savent",
+      "elles": "elles savent"
+    },
+    "imparfait": {
+      "je": "je savais",
+      "tu": "tu savais",
+      "il": "il savait",
+      "elle": "elle savait",
+      "on": "on savait",
+      "nous": "nous savions",
+      "vous": "vous saviez",
+      "ils": "ils savaient",
+      "elles": "elles savaient"
+    },
+    "futur_simple": {
+      "je": "je saurai",
+      "tu": "tu sauras",
+      "il": "il saura",
+      "elle": "elle saura",
+      "on": "on saura",
+      "nous": "nous saurons",
+      "vous": "vous saurez",
+      "ils": "ils sauront",
+      "elles": "elles sauront"
+    },
+    "conditionnel_present": {
+      "je": "je saurais",
+      "tu": "tu saurais",
+      "il": "il saurait",
+      "elle": "elle saurait",
+      "on": "on saurait",
+      "nous": "nous saurions",
+      "vous": "vous sauriez",
+      "ils": "ils sauraient",
+      "elles": "elles sauraient"
+    },
+    "subjonctif_present": {
+      "je": "je sache",
+      "tu": "tu saches",
+      "il": "il sache",
+      "elle": "elle sache",
+      "on": "on sache",
+      "nous": "nous sachions",
+      "vous": "vous sachiez",
+      "ils": "ils sachent",
+      "elles": "elles sachent"
+    },
+    "passe_simple": {
+      "je": "je sus",
+      "tu": "tu sus",
+      "il": "il sut",
+      "elle": "elle sut",
+      "on": "on sut",
+      "nous": "nous sûmes",
+      "vous": "vous sûtes",
+      "ils": "ils surent",
+      "elles": "elles surent"
+    },
+    "passe_compose": {
+      "je": "j'ai su",
+      "tu": "tu as su",
+      "il": "il a su",
+      "elle": "elle a su",
+      "on": "on a su",
+      "nous": "nous avons su",
+      "vous": "vous avez su",
+      "ils": "ils ont su",
+      "elles": "elles ont su"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais su",
+      "tu": "tu avais su",
+      "il": "il avait su",
+      "elle": "elle avait su",
+      "on": "on avait su",
+      "nous": "nous avions su",
+      "vous": "vous aviez su",
+      "ils": "ils avaient su",
+      "elles": "elles avaient su"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai su",
+      "tu": "tu auras su",
+      "il": "il aura su",
+      "elle": "elle aura su",
+      "on": "on aura su",
+      "nous": "nous aurons su",
+      "vous": "vous aurez su",
+      "ils": "ils auront su",
+      "elles": "elles auront su"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais su",
+      "tu": "tu aurais su",
+      "il": "il aurait su",
+      "elle": "elle aurait su",
+      "on": "on aurait su",
+      "nous": "nous aurions su",
+      "vous": "vous auriez su",
+      "ils": "ils auraient su",
+      "elles": "elles auraient su"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie su",
+      "tu": "tu aies su",
+      "il": "il ait su",
+      "elle": "elle ait su",
+      "on": "on ait su",
+      "nous": "nous ayons su",
+      "vous": "vous ayez su",
+      "ils": "ils aient su",
+      "elles": "elles aient su"
+    },
+    "futur_proche": {
+      "je": "je vais savoir",
+      "tu": "tu vas savoir",
+      "il": "il va savoir",
+      "elle": "elle va savoir",
+      "on": "on va savoir",
+      "nous": "nous allons savoir",
+      "vous": "vous allez savoir",
+      "ils": "ils vont savoir",
+      "elles": "elles vont savoir"
+    },
+    "imperatif_present": {
+      "tu": "sache",
+      "nous": "sachons",
+      "vous": "sachez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je susse",
+      "tu": "tu susses",
+      "il": "il sût",
+      "elle": "elle sût",
+      "on": "on sût",
+      "nous": "nous sussions",
+      "vous": "vous sussiez",
+      "ils": "ils sussent",
+      "elles": "elles sussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus su",
+      "tu": "tu eus su",
+      "il": "il eut su",
+      "elle": "elle eut su",
+      "on": "on eut su",
+      "nous": "nous eûmes su",
+      "vous": "vous eûtes su",
+      "ils": "ils eurent su",
+      "elles": "elles eurent su"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse su",
+      "tu": "tu eusses su",
+      "il": "il eût su",
+      "elle": "elle eût su",
+      "on": "on eût su",
+      "nous": "nous eussions su",
+      "vous": "vous eussiez su",
+      "ils": "ils eussent su",
+      "elles": "elles eussent su"
+    },
+    "imperatif_passe": {
+      "tu": "aie su",
+      "nous": "ayons su",
+      "vous": "ayez su"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "savoir",
+    "infinitif_passe": "avoir su",
+    "participe_present": "sachant",
+    "participe_passe": "su",
+    "gerondif_present": "en sachant",
+    "gerondif_passe": "en ayant su"
+  }
+}

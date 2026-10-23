@@ -1,0 +1,190 @@
+{
+  "infinitive": "inviter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'invite",
+      "tu": "tu invites",
+      "il": "il invite",
+      "elle": "elle invite",
+      "on": "on invite",
+      "nous": "nous invitons",
+      "vous": "vous invitez",
+      "ils": "ils invitent",
+      "elles": "elles invitent"
+    },
+    "imparfait": {
+      "je": "j'invitais",
+      "tu": "tu invitais",
+      "il": "il invitait",
+      "elle": "elle invitait",
+      "on": "on invitait",
+      "nous": "nous invitions",
+      "vous": "vous invitiez",
+      "ils": "ils invitaient",
+      "elles": "elles invitaient"
+    },
+    "futur_simple": {
+      "je": "j'inviterai",
+      "tu": "tu inviteras",
+      "il": "il invitera",
+      "elle": "elle invitera",
+      "on": "on invitera",
+      "nous": "nous inviterons",
+      "vous": "vous inviterez",
+      "ils": "ils inviteront",
+      "elles": "elles inviteront"
+    },
+    "conditionnel_present": {
+      "je": "j'inviterais",
+      "tu": "tu inviterais",
+      "il": "il inviterait",
+      "elle": "elle inviterait",
+      "on": "on inviterait",
+      "nous": "nous inviterions",
+      "vous": "vous inviteriez",
+      "ils": "ils inviteraient",
+      "elles": "elles inviteraient"
+    },
+    "subjonctif_present": {
+      "je": "j'invite",
+      "tu": "tu invites",
+      "il": "il invite",
+      "elle": "elle invite",
+      "on": "on invite",
+      "nous": "nous invitions",
+      "vous": "vous invitiez",
+      "ils": "ils invitent",
+      "elles": "elles invitent"
+    },
+    "passe_simple": {
+      "je": "j'invitai",
+      "tu": "tu invitas",
+      "il": "il invita",
+      "elle": "elle invita",
+      "on": "on invita",
+      "nous": "nous invitâmes",
+      "vous": "vous invitâtes",
+      "ils": "ils invitèrent",
+      "elles": "elles invitèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai invité",
+      "tu": "tu as invité",
+      "il": "il a invité",
+      "elle": "elle a invité",
+      "on": "on a invité",
+      "nous": "nous avons invité",
+      "vous": "vous avez invité",
+      "ils": "ils ont invité",
+      "elles": "elles ont invité"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais invité",
+      "tu": "tu avais invité",
+      "il": "il avait invité",
+      "elle": "elle avait invité",
+      "on": "on avait invité",
+      "nous": "nous avions invité",
+      "vous": "vous aviez invité",
+      "ils": "ils avaient invité",
+      "elles": "elles avaient invité"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai invité",
+      "tu": "tu auras invité",
+      "il": "il aura invité",
+      "elle": "elle aura invité",
+      "on": "on aura invité",
+      "nous": "nous aurons invité",
+      "vous": "vous aurez invité",
+      "ils": "ils auront invité",
+      "elles": "elles auront invité"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais invité",
+      "tu": "tu aurais invité",
+      "il": "il aurait invité",
+      "elle": "elle aurait invité",
+      "on": "on aurait invité",
+      "nous": "nous aurions invité",
+      "vous": "vous auriez invité",
+      "ils": "ils auraient invité",
+      "elles": "elles auraient invité"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie invité",
+      "tu": "tu aies invité",
+      "il": "il ait invité",
+      "elle": "elle ait invité",
+      "on": "on ait invité",
+      "nous": "nous ayons invité",
+      "vous": "vous ayez invité",
+      "ils": "ils aient invité",
+      "elles": "elles aient invité"
+    },
+    "futur_proche": {
+      "je": "je vais inviter",
+      "tu": "tu vas inviter",
+      "il": "il va inviter",
+      "elle": "elle va inviter",
+      "on": "on va inviter",
+      "nous": "nous allons inviter",
+      "vous": "vous allez inviter",
+      "ils": "ils vont inviter",
+      "elles": "elles vont inviter"
+    },
+    "imperatif_present": {
+      "tu": "invite",
+      "nous": "invitons",
+      "vous": "invitez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'invitasse",
+      "tu": "tu invitasses",
+      "il": "il invitât",
+      "elle": "elle invitât",
+      "on": "on invitât",
+      "nous": "nous invitassions",
+      "vous": "vous invitassiez",
+      "ils": "ils invitassent",
+      "elles": "elles invitassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus invité",
+      "tu": "tu eus invité",
+      "il": "il eut invité",
+      "elle": "elle eut invité",
+      "on": "on eut invité",
+      "nous": "nous eûmes invité",
+      "vous": "vous eûtes invité",
+      "ils": "ils eurent invité",
+      "elles": "elles eurent invité"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse invité",
+      "tu": "tu eusses invité",
+      "il": "il eût invité",
+      "elle": "elle eût invité",
+      "on": "on eût invité",
+      "nous": "nous eussions invité",
+      "vous": "vous eussiez invité",
+      "ils": "ils eussent invité",
+      "elles": "elles eussent invité"
+    },
+    "imperatif_passe": {
+      "tu": "aie invité",
+      "nous": "ayons invité",
+      "vous": "ayez invité"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "inviter",
+    "infinitif_passe": "avoir invité",
+    "participe_present": "invitant",
+    "participe_passe": "invité",
+    "gerondif_present": "en invitant",
+    "gerondif_passe": "en ayant invité"
+  }
+}

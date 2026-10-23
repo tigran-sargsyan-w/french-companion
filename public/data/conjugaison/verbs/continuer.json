@@ -1,0 +1,190 @@
+{
+  "infinitive": "continuer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je continue",
+      "tu": "tu continues",
+      "il": "il continue",
+      "elle": "elle continue",
+      "on": "on continue",
+      "nous": "nous continuons",
+      "vous": "vous continuez",
+      "ils": "ils continuent",
+      "elles": "elles continuent"
+    },
+    "imparfait": {
+      "je": "je continuais",
+      "tu": "tu continuais",
+      "il": "il continuait",
+      "elle": "elle continuait",
+      "on": "on continuait",
+      "nous": "nous continuions",
+      "vous": "vous continuiez",
+      "ils": "ils continuaient",
+      "elles": "elles continuaient"
+    },
+    "futur_simple": {
+      "je": "je continuerai",
+      "tu": "tu continueras",
+      "il": "il continuera",
+      "elle": "elle continuera",
+      "on": "on continuera",
+      "nous": "nous continuerons",
+      "vous": "vous continuerez",
+      "ils": "ils continueront",
+      "elles": "elles continueront"
+    },
+    "conditionnel_present": {
+      "je": "je continuerais",
+      "tu": "tu continuerais",
+      "il": "il continuerait",
+      "elle": "elle continuerait",
+      "on": "on continuerait",
+      "nous": "nous continuerions",
+      "vous": "vous continueriez",
+      "ils": "ils continueraient",
+      "elles": "elles continueraient"
+    },
+    "subjonctif_present": {
+      "je": "je continue",
+      "tu": "tu continues",
+      "il": "il continue",
+      "elle": "elle continue",
+      "on": "on continue",
+      "nous": "nous continuions",
+      "vous": "vous continuiez",
+      "ils": "ils continuent",
+      "elles": "elles continuent"
+    },
+    "passe_simple": {
+      "je": "je continuai",
+      "tu": "tu continuas",
+      "il": "il continua",
+      "elle": "elle continua",
+      "on": "on continua",
+      "nous": "nous continuâmes",
+      "vous": "vous continuâtes",
+      "ils": "ils continuèrent",
+      "elles": "elles continuèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai continué",
+      "tu": "tu as continué",
+      "il": "il a continué",
+      "elle": "elle a continué",
+      "on": "on a continué",
+      "nous": "nous avons continué",
+      "vous": "vous avez continué",
+      "ils": "ils ont continué",
+      "elles": "elles ont continué"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais continué",
+      "tu": "tu avais continué",
+      "il": "il avait continué",
+      "elle": "elle avait continué",
+      "on": "on avait continué",
+      "nous": "nous avions continué",
+      "vous": "vous aviez continué",
+      "ils": "ils avaient continué",
+      "elles": "elles avaient continué"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai continué",
+      "tu": "tu auras continué",
+      "il": "il aura continué",
+      "elle": "elle aura continué",
+      "on": "on aura continué",
+      "nous": "nous aurons continué",
+      "vous": "vous aurez continué",
+      "ils": "ils auront continué",
+      "elles": "elles auront continué"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais continué",
+      "tu": "tu aurais continué",
+      "il": "il aurait continué",
+      "elle": "elle aurait continué",
+      "on": "on aurait continué",
+      "nous": "nous aurions continué",
+      "vous": "vous auriez continué",
+      "ils": "ils auraient continué",
+      "elles": "elles auraient continué"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie continué",
+      "tu": "tu aies continué",
+      "il": "il ait continué",
+      "elle": "elle ait continué",
+      "on": "on ait continué",
+      "nous": "nous ayons continué",
+      "vous": "vous ayez continué",
+      "ils": "ils aient continué",
+      "elles": "elles aient continué"
+    },
+    "futur_proche": {
+      "je": "je vais continuer",
+      "tu": "tu vas continuer",
+      "il": "il va continuer",
+      "elle": "elle va continuer",
+      "on": "on va continuer",
+      "nous": "nous allons continuer",
+      "vous": "vous allez continuer",
+      "ils": "ils vont continuer",
+      "elles": "elles vont continuer"
+    },
+    "imperatif_present": {
+      "tu": "continue",
+      "nous": "continuons",
+      "vous": "continuez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je continuasse",
+      "tu": "tu continuasses",
+      "il": "il continuât",
+      "elle": "elle continuât",
+      "on": "on continuât",
+      "nous": "nous continuassions",
+      "vous": "vous continuassiez",
+      "ils": "ils continuassent",
+      "elles": "elles continuassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus continué",
+      "tu": "tu eus continué",
+      "il": "il eut continué",
+      "elle": "elle eut continué",
+      "on": "on eut continué",
+      "nous": "nous eûmes continué",
+      "vous": "vous eûtes continué",
+      "ils": "ils eurent continué",
+      "elles": "elles eurent continué"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse continué",
+      "tu": "tu eusses continué",
+      "il": "il eût continué",
+      "elle": "elle eût continué",
+      "on": "on eût continué",
+      "nous": "nous eussions continué",
+      "vous": "vous eussiez continué",
+      "ils": "ils eussent continué",
+      "elles": "elles eussent continué"
+    },
+    "imperatif_passe": {
+      "tu": "aie continué",
+      "nous": "ayons continué",
+      "vous": "ayez continué"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "continuer",
+    "infinitif_passe": "avoir continué",
+    "participe_present": "continuant",
+    "participe_passe": "continué",
+    "gerondif_present": "en continuant",
+    "gerondif_passe": "en ayant continué"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "infinitive": "ouvrir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "j'ouvre",
+      "tu": "tu ouvres",
+      "il": "il ouvre",
+      "elle": "elle ouvre",
+      "on": "on ouvre",
+      "nous": "nous ouvrons",
+      "vous": "vous ouvrez",
+      "ils": "ils ouvrent",
+      "elles": "elles ouvrent"
+    },
+    "imparfait": {
+      "je": "j'ouvrais",
+      "tu": "tu ouvrais",
+      "il": "il ouvrait",
+      "elle": "elle ouvrait",
+      "on": "on ouvrait",
+      "nous": "nous ouvrions",
+      "vous": "vous ouvriez",
+      "ils": "ils ouvraient",
+      "elles": "elles ouvraient"
+    },
+    "futur_simple": {
+      "je": "j'ouvrirai",
+      "tu": "tu ouvriras",
+      "il": "il ouvrira",
+      "elle": "elle ouvrira",
+      "on": "on ouvrira",
+      "nous": "nous ouvrirons",
+      "vous": "vous ouvrirez",
+      "ils": "ils ouvriront",
+      "elles": "elles ouvriront"
+    },
+    "conditionnel_present": {
+      "je": "j'ouvrirais",
+      "tu": "tu ouvrirais",
+      "il": "il ouvrirait",
+      "elle": "elle ouvrirait",
+      "on": "on ouvrirait",
+      "nous": "nous ouvririons",
+      "vous": "vous ouvririez",
+      "ils": "ils ouvriraient",
+      "elles": "elles ouvriraient"
+    },
+    "subjonctif_present": {
+      "je": "j'ouvre",
+      "tu": "tu ouvres",
+      "il": "il ouvre",
+      "elle": "elle ouvre",
+      "on": "on ouvre",
+      "nous": "nous ouvrions",
+      "vous": "vous ouvriez",
+      "ils": "ils ouvrent",
+      "elles": "elles ouvrent"
+    },
+    "passe_simple": {
+      "je": "j'ouvris",
+      "tu": "tu ouvris",
+      "il": "il ouvrit",
+      "elle": "elle ouvrit",
+      "on": "on ouvrit",
+      "nous": "nous ouvrîmes",
+      "vous": "vous ouvrîtes",
+      "ils": "ils ouvrirent",
+      "elles": "elles ouvrirent"
+    },
+    "passe_compose": {
+      "je": "j'ai ouvert",
+      "tu": "tu as ouvert",
+      "il": "il a ouvert",
+      "elle": "elle a ouvert",
+      "on": "on a ouvert",
+      "nous": "nous avons ouvert",
+      "vous": "vous avez ouvert",
+      "ils": "ils ont ouvert",
+      "elles": "elles ont ouvert"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais ouvert",
+      "tu": "tu avais ouvert",
+      "il": "il avait ouvert",
+      "elle": "elle avait ouvert",
+      "on": "on avait ouvert",
+      "nous": "nous avions ouvert",
+      "vous": "vous aviez ouvert",
+      "ils": "ils avaient ouvert",
+      "elles": "elles avaient ouvert"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai ouvert",
+      "tu": "tu auras ouvert",
+      "il": "il aura ouvert",
+      "elle": "elle aura ouvert",
+      "on": "on aura ouvert",
+      "nous": "nous aurons ouvert",
+      "vous": "vous aurez ouvert",
+      "ils": "ils auront ouvert",
+      "elles": "elles auront ouvert"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais ouvert",
+      "tu": "tu aurais ouvert",
+      "il": "il aurait ouvert",
+      "elle": "elle aurait ouvert",
+      "on": "on aurait ouvert",
+      "nous": "nous aurions ouvert",
+      "vous": "vous auriez ouvert",
+      "ils": "ils auraient ouvert",
+      "elles": "elles auraient ouvert"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie ouvert",
+      "tu": "tu aies ouvert",
+      "il": "il ait ouvert",
+      "elle": "elle ait ouvert",
+      "on": "on ait ouvert",
+      "nous": "nous ayons ouvert",
+      "vous": "vous ayez ouvert",
+      "ils": "ils aient ouvert",
+      "elles": "elles aient ouvert"
+    },
+    "futur_proche": {
+      "je": "je vais ouvrir",
+      "tu": "tu vas ouvrir",
+      "il": "il va ouvrir",
+      "elle": "elle va ouvrir",
+      "on": "on va ouvrir",
+      "nous": "nous allons ouvrir",
+      "vous": "vous allez ouvrir",
+      "ils": "ils vont ouvrir",
+      "elles": "elles vont ouvrir"
+    },
+    "imperatif_present": {
+      "tu": "ouvre",
+      "nous": "ouvrons",
+      "vous": "ouvrez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'ouvrisse",
+      "tu": "tu ouvrisses",
+      "il": "il ouvrît",
+      "elle": "elle ouvrît",
+      "on": "on ouvrît",
+      "nous": "nous ouvrissions",
+      "vous": "vous ouvrissiez",
+      "ils": "ils ouvrissent",
+      "elles": "elles ouvrissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus ouvert",
+      "tu": "tu eus ouvert",
+      "il": "il eut ouvert",
+      "elle": "elle eut ouvert",
+      "on": "on eut ouvert",
+      "nous": "nous eûmes ouvert",
+      "vous": "vous eûtes ouvert",
+      "ils": "ils eurent ouvert",
+      "elles": "elles eurent ouvert"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse ouvert",
+      "tu": "tu eusses ouvert",
+      "il": "il eût ouvert",
+      "elle": "elle eût ouvert",
+      "on": "on eût ouvert",
+      "nous": "nous eussions ouvert",
+      "vous": "vous eussiez ouvert",
+      "ils": "ils eussent ouvert",
+      "elles": "elles eussent ouvert"
+    },
+    "imperatif_passe": {
+      "tu": "aie ouvert",
+      "nous": "ayons ouvert",
+      "vous": "ayez ouvert"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "ouvrir",
+    "infinitif_passe": "avoir ouvert",
+    "participe_present": "ouvrant",
+    "participe_passe": "ouvert",
+    "gerondif_present": "en ouvrant",
+    "gerondif_passe": "en ayant ouvert"
+  }
+}

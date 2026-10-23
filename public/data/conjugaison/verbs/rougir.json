@@ -1,0 +1,190 @@
+{
+  "infinitive": "rougir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je rougis",
+      "tu": "tu rougis",
+      "il": "il rougit",
+      "elle": "elle rougit",
+      "on": "on rougit",
+      "nous": "nous rougissons",
+      "vous": "vous rougissez",
+      "ils": "ils rougissent",
+      "elles": "elles rougissent"
+    },
+    "imparfait": {
+      "je": "je rougissais",
+      "tu": "tu rougissais",
+      "il": "il rougissait",
+      "elle": "elle rougissait",
+      "on": "on rougissait",
+      "nous": "nous rougissions",
+      "vous": "vous rougissiez",
+      "ils": "ils rougissaient",
+      "elles": "elles rougissaient"
+    },
+    "futur_simple": {
+      "je": "je rougirai",
+      "tu": "tu rougiras",
+      "il": "il rougira",
+      "elle": "elle rougira",
+      "on": "on rougira",
+      "nous": "nous rougirons",
+      "vous": "vous rougirez",
+      "ils": "ils rougiront",
+      "elles": "elles rougiront"
+    },
+    "conditionnel_present": {
+      "je": "je rougirais",
+      "tu": "tu rougirais",
+      "il": "il rougirait",
+      "elle": "elle rougirait",
+      "on": "on rougirait",
+      "nous": "nous rougirions",
+      "vous": "vous rougiriez",
+      "ils": "ils rougiraient",
+      "elles": "elles rougiraient"
+    },
+    "subjonctif_present": {
+      "je": "je rougisse",
+      "tu": "tu rougisses",
+      "il": "il rougisse",
+      "elle": "elle rougisse",
+      "on": "on rougisse",
+      "nous": "nous rougissions",
+      "vous": "vous rougissiez",
+      "ils": "ils rougissent",
+      "elles": "elles rougissent"
+    },
+    "passe_simple": {
+      "je": "je rougis",
+      "tu": "tu rougis",
+      "il": "il rougit",
+      "elle": "elle rougit",
+      "on": "on rougit",
+      "nous": "nous rougîmes",
+      "vous": "vous rougîtes",
+      "ils": "ils rougirent",
+      "elles": "elles rougirent"
+    },
+    "passe_compose": {
+      "je": "j'ai rougi",
+      "tu": "tu as rougi",
+      "il": "il a rougi",
+      "elle": "elle a rougi",
+      "on": "on a rougi",
+      "nous": "nous avons rougi",
+      "vous": "vous avez rougi",
+      "ils": "ils ont rougi",
+      "elles": "elles ont rougi"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais rougi",
+      "tu": "tu avais rougi",
+      "il": "il avait rougi",
+      "elle": "elle avait rougi",
+      "on": "on avait rougi",
+      "nous": "nous avions rougi",
+      "vous": "vous aviez rougi",
+      "ils": "ils avaient rougi",
+      "elles": "elles avaient rougi"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai rougi",
+      "tu": "tu auras rougi",
+      "il": "il aura rougi",
+      "elle": "elle aura rougi",
+      "on": "on aura rougi",
+      "nous": "nous aurons rougi",
+      "vous": "vous aurez rougi",
+      "ils": "ils auront rougi",
+      "elles": "elles auront rougi"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais rougi",
+      "tu": "tu aurais rougi",
+      "il": "il aurait rougi",
+      "elle": "elle aurait rougi",
+      "on": "on aurait rougi",
+      "nous": "nous aurions rougi",
+      "vous": "vous auriez rougi",
+      "ils": "ils auraient rougi",
+      "elles": "elles auraient rougi"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie rougi",
+      "tu": "tu aies rougi",
+      "il": "il ait rougi",
+      "elle": "elle ait rougi",
+      "on": "on ait rougi",
+      "nous": "nous ayons rougi",
+      "vous": "vous ayez rougi",
+      "ils": "ils aient rougi",
+      "elles": "elles aient rougi"
+    },
+    "futur_proche": {
+      "je": "je vais rougir",
+      "tu": "tu vas rougir",
+      "il": "il va rougir",
+      "elle": "elle va rougir",
+      "on": "on va rougir",
+      "nous": "nous allons rougir",
+      "vous": "vous allez rougir",
+      "ils": "ils vont rougir",
+      "elles": "elles vont rougir"
+    },
+    "imperatif_present": {
+      "tu": "rougis",
+      "nous": "rougissons",
+      "vous": "rougissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je rougisse",
+      "tu": "tu rougisses",
+      "il": "il rougît",
+      "elle": "elle rougît",
+      "on": "on rougît",
+      "nous": "nous rougissions",
+      "vous": "vous rougissiez",
+      "ils": "ils rougissent",
+      "elles": "elles rougissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus rougi",
+      "tu": "tu eus rougi",
+      "il": "il eut rougi",
+      "elle": "elle eut rougi",
+      "on": "on eut rougi",
+      "nous": "nous eûmes rougi",
+      "vous": "vous eûtes rougi",
+      "ils": "ils eurent rougi",
+      "elles": "elles eurent rougi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse rougi",
+      "tu": "tu eusses rougi",
+      "il": "il eût rougi",
+      "elle": "elle eût rougi",
+      "on": "on eût rougi",
+      "nous": "nous eussions rougi",
+      "vous": "vous eussiez rougi",
+      "ils": "ils eussent rougi",
+      "elles": "elles eussent rougi"
+    },
+    "imperatif_passe": {
+      "tu": "aie rougi",
+      "nous": "ayons rougi",
+      "vous": "ayez rougi"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "rougir",
+    "infinitif_passe": "avoir rougi",
+    "participe_present": "rougissant",
+    "participe_passe": "rougi",
+    "gerondif_present": "en rougissant",
+    "gerondif_passe": "en ayant rougi"
+  }
+}

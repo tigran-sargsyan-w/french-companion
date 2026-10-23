@@ -1,0 +1,190 @@
+{
+  "infinitive": "accepter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'accepte",
+      "tu": "tu acceptes",
+      "il": "il accepte",
+      "elle": "elle accepte",
+      "on": "on accepte",
+      "nous": "nous acceptons",
+      "vous": "vous acceptez",
+      "ils": "ils acceptent",
+      "elles": "elles acceptent"
+    },
+    "imparfait": {
+      "je": "j'acceptais",
+      "tu": "tu acceptais",
+      "il": "il acceptait",
+      "elle": "elle acceptait",
+      "on": "on acceptait",
+      "nous": "nous acceptions",
+      "vous": "vous acceptiez",
+      "ils": "ils acceptaient",
+      "elles": "elles acceptaient"
+    },
+    "futur_simple": {
+      "je": "j'accepterai",
+      "tu": "tu accepteras",
+      "il": "il acceptera",
+      "elle": "elle acceptera",
+      "on": "on acceptera",
+      "nous": "nous accepterons",
+      "vous": "vous accepterez",
+      "ils": "ils accepteront",
+      "elles": "elles accepteront"
+    },
+    "conditionnel_present": {
+      "je": "j'accepterais",
+      "tu": "tu accepterais",
+      "il": "il accepterait",
+      "elle": "elle accepterait",
+      "on": "on accepterait",
+      "nous": "nous accepterions",
+      "vous": "vous accepteriez",
+      "ils": "ils accepteraient",
+      "elles": "elles accepteraient"
+    },
+    "subjonctif_present": {
+      "je": "j'accepte",
+      "tu": "tu acceptes",
+      "il": "il accepte",
+      "elle": "elle accepte",
+      "on": "on accepte",
+      "nous": "nous acceptions",
+      "vous": "vous acceptiez",
+      "ils": "ils acceptent",
+      "elles": "elles acceptent"
+    },
+    "passe_simple": {
+      "je": "j'acceptai",
+      "tu": "tu acceptas",
+      "il": "il accepta",
+      "elle": "elle accepta",
+      "on": "on accepta",
+      "nous": "nous acceptâmes",
+      "vous": "vous acceptâtes",
+      "ils": "ils acceptèrent",
+      "elles": "elles acceptèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai accepté",
+      "tu": "tu as accepté",
+      "il": "il a accepté",
+      "elle": "elle a accepté",
+      "on": "on a accepté",
+      "nous": "nous avons accepté",
+      "vous": "vous avez accepté",
+      "ils": "ils ont accepté",
+      "elles": "elles ont accepté"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais accepté",
+      "tu": "tu avais accepté",
+      "il": "il avait accepté",
+      "elle": "elle avait accepté",
+      "on": "on avait accepté",
+      "nous": "nous avions accepté",
+      "vous": "vous aviez accepté",
+      "ils": "ils avaient accepté",
+      "elles": "elles avaient accepté"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai accepté",
+      "tu": "tu auras accepté",
+      "il": "il aura accepté",
+      "elle": "elle aura accepté",
+      "on": "on aura accepté",
+      "nous": "nous aurons accepté",
+      "vous": "vous aurez accepté",
+      "ils": "ils auront accepté",
+      "elles": "elles auront accepté"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais accepté",
+      "tu": "tu aurais accepté",
+      "il": "il aurait accepté",
+      "elle": "elle aurait accepté",
+      "on": "on aurait accepté",
+      "nous": "nous aurions accepté",
+      "vous": "vous auriez accepté",
+      "ils": "ils auraient accepté",
+      "elles": "elles auraient accepté"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie accepté",
+      "tu": "tu aies accepté",
+      "il": "il ait accepté",
+      "elle": "elle ait accepté",
+      "on": "on ait accepté",
+      "nous": "nous ayons accepté",
+      "vous": "vous ayez accepté",
+      "ils": "ils aient accepté",
+      "elles": "elles aient accepté"
+    },
+    "futur_proche": {
+      "je": "je vais accepter",
+      "tu": "tu vas accepter",
+      "il": "il va accepter",
+      "elle": "elle va accepter",
+      "on": "on va accepter",
+      "nous": "nous allons accepter",
+      "vous": "vous allez accepter",
+      "ils": "ils vont accepter",
+      "elles": "elles vont accepter"
+    },
+    "imperatif_present": {
+      "tu": "accepte",
+      "nous": "acceptons",
+      "vous": "acceptez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'acceptasse",
+      "tu": "tu acceptasses",
+      "il": "il acceptât",
+      "elle": "elle acceptât",
+      "on": "on acceptât",
+      "nous": "nous acceptassions",
+      "vous": "vous acceptassiez",
+      "ils": "ils acceptassent",
+      "elles": "elles acceptassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus accepté",
+      "tu": "tu eus accepté",
+      "il": "il eut accepté",
+      "elle": "elle eut accepté",
+      "on": "on eut accepté",
+      "nous": "nous eûmes accepté",
+      "vous": "vous eûtes accepté",
+      "ils": "ils eurent accepté",
+      "elles": "elles eurent accepté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse accepté",
+      "tu": "tu eusses accepté",
+      "il": "il eût accepté",
+      "elle": "elle eût accepté",
+      "on": "on eût accepté",
+      "nous": "nous eussions accepté",
+      "vous": "vous eussiez accepté",
+      "ils": "ils eussent accepté",
+      "elles": "elles eussent accepté"
+    },
+    "imperatif_passe": {
+      "tu": "aie accepté",
+      "nous": "ayons accepté",
+      "vous": "ayez accepté"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "accepter",
+    "infinitif_passe": "avoir accepté",
+    "participe_present": "acceptant",
+    "participe_passe": "accepté",
+    "gerondif_present": "en acceptant",
+    "gerondif_passe": "en ayant accepté"
+  }
+}

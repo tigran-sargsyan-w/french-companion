@@ -31,3 +31,6 @@ dist-ssr
 *.sln
 *.sw?
 
+
+# Generated from individual public/data/conjugaison/verbs/*.json
+public/data/conjugaison/verbs-bundle.json

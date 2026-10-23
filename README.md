@@ -68,3 +68,7 @@ GitHub Actions will rebuild and redeploy the site automatically after push.
 ## Routing
 
 The app uses hash-based routing so it can work reliably on GitHub Pages without a backend server.
+
+## Conjugaison trainer
+
+The `/review/conjugaison` route provides configurable multiple-choice conjugation practice covering personal and non-finite forms. Its 136 verb JSON source files are under `public/data/conjugaison/verbs/`; `npm run build` automatically creates the lazy-loaded, versioned conjugation bundle. Individual verbs opt in with `status: "learning"` and opt out with `status: "learned"`. See `src/data/conjugaison/README.md` for the schema and validation rules.

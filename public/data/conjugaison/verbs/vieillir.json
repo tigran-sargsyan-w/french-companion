@@ -1,0 +1,190 @@
+{
+  "infinitive": "vieillir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je vieillis",
+      "tu": "tu vieillis",
+      "il": "il vieillit",
+      "elle": "elle vieillit",
+      "on": "on vieillit",
+      "nous": "nous vieillissons",
+      "vous": "vous vieillissez",
+      "ils": "ils vieillissent",
+      "elles": "elles vieillissent"
+    },
+    "imparfait": {
+      "je": "je vieillissais",
+      "tu": "tu vieillissais",
+      "il": "il vieillissait",
+      "elle": "elle vieillissait",
+      "on": "on vieillissait",
+      "nous": "nous vieillissions",
+      "vous": "vous vieillissiez",
+      "ils": "ils vieillissaient",
+      "elles": "elles vieillissaient"
+    },
+    "futur_simple": {
+      "je": "je vieillirai",
+      "tu": "tu vieilliras",
+      "il": "il vieillira",
+      "elle": "elle vieillira",
+      "on": "on vieillira",
+      "nous": "nous vieillirons",
+      "vous": "vous vieillirez",
+      "ils": "ils vieilliront",
+      "elles": "elles vieilliront"
+    },
+    "conditionnel_present": {
+      "je": "je vieillirais",
+      "tu": "tu vieillirais",
+      "il": "il vieillirait",
+      "elle": "elle vieillirait",
+      "on": "on vieillirait",
+      "nous": "nous vieillirions",
+      "vous": "vous vieilliriez",
+      "ils": "ils vieilliraient",
+      "elles": "elles vieilliraient"
+    },
+    "subjonctif_present": {
+      "je": "je vieillisse",
+      "tu": "tu vieillisses",
+      "il": "il vieillisse",
+      "elle": "elle vieillisse",
+      "on": "on vieillisse",
+      "nous": "nous vieillissions",
+      "vous": "vous vieillissiez",
+      "ils": "ils vieillissent",
+      "elles": "elles vieillissent"
+    },
+    "passe_simple": {
+      "je": "je vieillis",
+      "tu": "tu vieillis",
+      "il": "il vieillit",
+      "elle": "elle vieillit",
+      "on": "on vieillit",
+      "nous": "nous vieillîmes",
+      "vous": "vous vieillîtes",
+      "ils": "ils vieillirent",
+      "elles": "elles vieillirent"
+    },
+    "passe_compose": {
+      "je": "j'ai vieilli",
+      "tu": "tu as vieilli",
+      "il": "il a vieilli",
+      "elle": "elle a vieilli",
+      "on": "on a vieilli",
+      "nous": "nous avons vieilli",
+      "vous": "vous avez vieilli",
+      "ils": "ils ont vieilli",
+      "elles": "elles ont vieilli"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais vieilli",
+      "tu": "tu avais vieilli",
+      "il": "il avait vieilli",
+      "elle": "elle avait vieilli",
+      "on": "on avait vieilli",
+      "nous": "nous avions vieilli",
+      "vous": "vous aviez vieilli",
+      "ils": "ils avaient vieilli",
+      "elles": "elles avaient vieilli"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai vieilli",
+      "tu": "tu auras vieilli",
+      "il": "il aura vieilli",
+      "elle": "elle aura vieilli",
+      "on": "on aura vieilli",
+      "nous": "nous aurons vieilli",
+      "vous": "vous aurez vieilli",
+      "ils": "ils auront vieilli",
+      "elles": "elles auront vieilli"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais vieilli",
+      "tu": "tu aurais vieilli",
+      "il": "il aurait vieilli",
+      "elle": "elle aurait vieilli",
+      "on": "on aurait vieilli",
+      "nous": "nous aurions vieilli",
+      "vous": "vous auriez vieilli",
+      "ils": "ils auraient vieilli",
+      "elles": "elles auraient vieilli"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie vieilli",
+      "tu": "tu aies vieilli",
+      "il": "il ait vieilli",
+      "elle": "elle ait vieilli",
+      "on": "on ait vieilli",
+      "nous": "nous ayons vieilli",
+      "vous": "vous ayez vieilli",
+      "ils": "ils aient vieilli",
+      "elles": "elles aient vieilli"
+    },
+    "futur_proche": {
+      "je": "je vais vieillir",
+      "tu": "tu vas vieillir",
+      "il": "il va vieillir",
+      "elle": "elle va vieillir",
+      "on": "on va vieillir",
+      "nous": "nous allons vieillir",
+      "vous": "vous allez vieillir",
+      "ils": "ils vont vieillir",
+      "elles": "elles vont vieillir"
+    },
+    "imperatif_present": {
+      "tu": "vieillis",
+      "nous": "vieillissons",
+      "vous": "vieillissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je vieillisse",
+      "tu": "tu vieillisses",
+      "il": "il vieillît",
+      "elle": "elle vieillît",
+      "on": "on vieillît",
+      "nous": "nous vieillissions",
+      "vous": "vous vieillissiez",
+      "ils": "ils vieillissent",
+      "elles": "elles vieillissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus vieilli",
+      "tu": "tu eus vieilli",
+      "il": "il eut vieilli",
+      "elle": "elle eut vieilli",
+      "on": "on eut vieilli",
+      "nous": "nous eûmes vieilli",
+      "vous": "vous eûtes vieilli",
+      "ils": "ils eurent vieilli",
+      "elles": "elles eurent vieilli"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse vieilli",
+      "tu": "tu eusses vieilli",
+      "il": "il eût vieilli",
+      "elle": "elle eût vieilli",
+      "on": "on eût vieilli",
+      "nous": "nous eussions vieilli",
+      "vous": "vous eussiez vieilli",
+      "ils": "ils eussent vieilli",
+      "elles": "elles eussent vieilli"
+    },
+    "imperatif_passe": {
+      "tu": "aie vieilli",
+      "nous": "ayons vieilli",
+      "vous": "ayez vieilli"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "vieillir",
+    "infinitif_passe": "avoir vieilli",
+    "participe_present": "vieillissant",
+    "participe_passe": "vieilli",
+    "gerondif_present": "en vieillissant",
+    "gerondif_passe": "en ayant vieilli"
+  }
+}

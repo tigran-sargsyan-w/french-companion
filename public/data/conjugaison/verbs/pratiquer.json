@@ -1,0 +1,190 @@
+{
+  "infinitive": "pratiquer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je pratique",
+      "tu": "tu pratiques",
+      "il": "il pratique",
+      "elle": "elle pratique",
+      "on": "on pratique",
+      "nous": "nous pratiquons",
+      "vous": "vous pratiquez",
+      "ils": "ils pratiquent",
+      "elles": "elles pratiquent"
+    },
+    "imparfait": {
+      "je": "je pratiquais",
+      "tu": "tu pratiquais",
+      "il": "il pratiquait",
+      "elle": "elle pratiquait",
+      "on": "on pratiquait",
+      "nous": "nous pratiquions",
+      "vous": "vous pratiquiez",
+      "ils": "ils pratiquaient",
+      "elles": "elles pratiquaient"
+    },
+    "futur_simple": {
+      "je": "je pratiquerai",
+      "tu": "tu pratiqueras",
+      "il": "il pratiquera",
+      "elle": "elle pratiquera",
+      "on": "on pratiquera",
+      "nous": "nous pratiquerons",
+      "vous": "vous pratiquerez",
+      "ils": "ils pratiqueront",
+      "elles": "elles pratiqueront"
+    },
+    "conditionnel_present": {
+      "je": "je pratiquerais",
+      "tu": "tu pratiquerais",
+      "il": "il pratiquerait",
+      "elle": "elle pratiquerait",
+      "on": "on pratiquerait",
+      "nous": "nous pratiquerions",
+      "vous": "vous pratiqueriez",
+      "ils": "ils pratiqueraient",
+      "elles": "elles pratiqueraient"
+    },
+    "subjonctif_present": {
+      "je": "je pratique",
+      "tu": "tu pratiques",
+      "il": "il pratique",
+      "elle": "elle pratique",
+      "on": "on pratique",
+      "nous": "nous pratiquions",
+      "vous": "vous pratiquiez",
+      "ils": "ils pratiquent",
+      "elles": "elles pratiquent"
+    },
+    "passe_simple": {
+      "je": "je pratiquai",
+      "tu": "tu pratiquas",
+      "il": "il pratiqua",
+      "elle": "elle pratiqua",
+      "on": "on pratiqua",
+      "nous": "nous pratiquâmes",
+      "vous": "vous pratiquâtes",
+      "ils": "ils pratiquèrent",
+      "elles": "elles pratiquèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai pratiqué",
+      "tu": "tu as pratiqué",
+      "il": "il a pratiqué",
+      "elle": "elle a pratiqué",
+      "on": "on a pratiqué",
+      "nous": "nous avons pratiqué",
+      "vous": "vous avez pratiqué",
+      "ils": "ils ont pratiqué",
+      "elles": "elles ont pratiqué"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais pratiqué",
+      "tu": "tu avais pratiqué",
+      "il": "il avait pratiqué",
+      "elle": "elle avait pratiqué",
+      "on": "on avait pratiqué",
+      "nous": "nous avions pratiqué",
+      "vous": "vous aviez pratiqué",
+      "ils": "ils avaient pratiqué",
+      "elles": "elles avaient pratiqué"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai pratiqué",
+      "tu": "tu auras pratiqué",
+      "il": "il aura pratiqué",
+      "elle": "elle aura pratiqué",
+      "on": "on aura pratiqué",
+      "nous": "nous aurons pratiqué",
+      "vous": "vous aurez pratiqué",
+      "ils": "ils auront pratiqué",
+      "elles": "elles auront pratiqué"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais pratiqué",
+      "tu": "tu aurais pratiqué",
+      "il": "il aurait pratiqué",
+      "elle": "elle aurait pratiqué",
+      "on": "on aurait pratiqué",
+      "nous": "nous aurions pratiqué",
+      "vous": "vous auriez pratiqué",
+      "ils": "ils auraient pratiqué",
+      "elles": "elles auraient pratiqué"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie pratiqué",
+      "tu": "tu aies pratiqué",
+      "il": "il ait pratiqué",
+      "elle": "elle ait pratiqué",
+      "on": "on ait pratiqué",
+      "nous": "nous ayons pratiqué",
+      "vous": "vous ayez pratiqué",
+      "ils": "ils aient pratiqué",
+      "elles": "elles aient pratiqué"
+    },
+    "futur_proche": {
+      "je": "je vais pratiquer",
+      "tu": "tu vas pratiquer",
+      "il": "il va pratiquer",
+      "elle": "elle va pratiquer",
+      "on": "on va pratiquer",
+      "nous": "nous allons pratiquer",
+      "vous": "vous allez pratiquer",
+      "ils": "ils vont pratiquer",
+      "elles": "elles vont pratiquer"
+    },
+    "imperatif_present": {
+      "tu": "pratique",
+      "nous": "pratiquons",
+      "vous": "pratiquez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je pratiquasse",
+      "tu": "tu pratiquasses",
+      "il": "il pratiquât",
+      "elle": "elle pratiquât",
+      "on": "on pratiquât",
+      "nous": "nous pratiquassions",
+      "vous": "vous pratiquassiez",
+      "ils": "ils pratiquassent",
+      "elles": "elles pratiquassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus pratiqué",
+      "tu": "tu eus pratiqué",
+      "il": "il eut pratiqué",
+      "elle": "elle eut pratiqué",
+      "on": "on eut pratiqué",
+      "nous": "nous eûmes pratiqué",
+      "vous": "vous eûtes pratiqué",
+      "ils": "ils eurent pratiqué",
+      "elles": "elles eurent pratiqué"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse pratiqué",
+      "tu": "tu eusses pratiqué",
+      "il": "il eût pratiqué",
+      "elle": "elle eût pratiqué",
+      "on": "on eût pratiqué",
+      "nous": "nous eussions pratiqué",
+      "vous": "vous eussiez pratiqué",
+      "ils": "ils eussent pratiqué",
+      "elles": "elles eussent pratiqué"
+    },
+    "imperatif_passe": {
+      "tu": "aie pratiqué",
+      "nous": "ayons pratiqué",
+      "vous": "ayez pratiqué"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "pratiquer",
+    "infinitif_passe": "avoir pratiqué",
+    "participe_present": "pratiquant",
+    "participe_passe": "pratiqué",
+    "gerondif_present": "en pratiquant",
+    "gerondif_passe": "en ayant pratiqué"
+  }
+}

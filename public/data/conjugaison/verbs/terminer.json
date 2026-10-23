@@ -1,0 +1,190 @@
+{
+  "infinitive": "terminer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je termine",
+      "tu": "tu termines",
+      "il": "il termine",
+      "elle": "elle termine",
+      "on": "on termine",
+      "nous": "nous terminons",
+      "vous": "vous terminez",
+      "ils": "ils terminent",
+      "elles": "elles terminent"
+    },
+    "imparfait": {
+      "je": "je terminais",
+      "tu": "tu terminais",
+      "il": "il terminait",
+      "elle": "elle terminait",
+      "on": "on terminait",
+      "nous": "nous terminions",
+      "vous": "vous terminiez",
+      "ils": "ils terminaient",
+      "elles": "elles terminaient"
+    },
+    "futur_simple": {
+      "je": "je terminerai",
+      "tu": "tu termineras",
+      "il": "il terminera",
+      "elle": "elle terminera",
+      "on": "on terminera",
+      "nous": "nous terminerons",
+      "vous": "vous terminerez",
+      "ils": "ils termineront",
+      "elles": "elles termineront"
+    },
+    "conditionnel_present": {
+      "je": "je terminerais",
+      "tu": "tu terminerais",
+      "il": "il terminerait",
+      "elle": "elle terminerait",
+      "on": "on terminerait",
+      "nous": "nous terminerions",
+      "vous": "vous termineriez",
+      "ils": "ils termineraient",
+      "elles": "elles termineraient"
+    },
+    "subjonctif_present": {
+      "je": "je termine",
+      "tu": "tu termines",
+      "il": "il termine",
+      "elle": "elle termine",
+      "on": "on termine",
+      "nous": "nous terminions",
+      "vous": "vous terminiez",
+      "ils": "ils terminent",
+      "elles": "elles terminent"
+    },
+    "passe_simple": {
+      "je": "je terminai",
+      "tu": "tu terminas",
+      "il": "il termina",
+      "elle": "elle termina",
+      "on": "on termina",
+      "nous": "nous terminâmes",
+      "vous": "vous terminâtes",
+      "ils": "ils terminèrent",
+      "elles": "elles terminèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai terminé",
+      "tu": "tu as terminé",
+      "il": "il a terminé",
+      "elle": "elle a terminé",
+      "on": "on a terminé",
+      "nous": "nous avons terminé",
+      "vous": "vous avez terminé",
+      "ils": "ils ont terminé",
+      "elles": "elles ont terminé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais terminé",
+      "tu": "tu avais terminé",
+      "il": "il avait terminé",
+      "elle": "elle avait terminé",
+      "on": "on avait terminé",
+      "nous": "nous avions terminé",
+      "vous": "vous aviez terminé",
+      "ils": "ils avaient terminé",
+      "elles": "elles avaient terminé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai terminé",
+      "tu": "tu auras terminé",
+      "il": "il aura terminé",
+      "elle": "elle aura terminé",
+      "on": "on aura terminé",
+      "nous": "nous aurons terminé",
+      "vous": "vous aurez terminé",
+      "ils": "ils auront terminé",
+      "elles": "elles auront terminé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais terminé",
+      "tu": "tu aurais terminé",
+      "il": "il aurait terminé",
+      "elle": "elle aurait terminé",
+      "on": "on aurait terminé",
+      "nous": "nous aurions terminé",
+      "vous": "vous auriez terminé",
+      "ils": "ils auraient terminé",
+      "elles": "elles auraient terminé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie terminé",
+      "tu": "tu aies terminé",
+      "il": "il ait terminé",
+      "elle": "elle ait terminé",
+      "on": "on ait terminé",
+      "nous": "nous ayons terminé",
+      "vous": "vous ayez terminé",
+      "ils": "ils aient terminé",
+      "elles": "elles aient terminé"
+    },
+    "futur_proche": {
+      "je": "je vais terminer",
+      "tu": "tu vas terminer",
+      "il": "il va terminer",
+      "elle": "elle va terminer",
+      "on": "on va terminer",
+      "nous": "nous allons terminer",
+      "vous": "vous allez terminer",
+      "ils": "ils vont terminer",
+      "elles": "elles vont terminer"
+    },
+    "imperatif_present": {
+      "tu": "termine",
+      "nous": "terminons",
+      "vous": "terminez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je terminasse",
+      "tu": "tu terminasses",
+      "il": "il terminât",
+      "elle": "elle terminât",
+      "on": "on terminât",
+      "nous": "nous terminassions",
+      "vous": "vous terminassiez",
+      "ils": "ils terminassent",
+      "elles": "elles terminassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus terminé",
+      "tu": "tu eus terminé",
+      "il": "il eut terminé",
+      "elle": "elle eut terminé",
+      "on": "on eut terminé",
+      "nous": "nous eûmes terminé",
+      "vous": "vous eûtes terminé",
+      "ils": "ils eurent terminé",
+      "elles": "elles eurent terminé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse terminé",
+      "tu": "tu eusses terminé",
+      "il": "il eût terminé",
+      "elle": "elle eût terminé",
+      "on": "on eût terminé",
+      "nous": "nous eussions terminé",
+      "vous": "vous eussiez terminé",
+      "ils": "ils eussent terminé",
+      "elles": "elles eussent terminé"
+    },
+    "imperatif_passe": {
+      "tu": "aie terminé",
+      "nous": "ayons terminé",
+      "vous": "ayez terminé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "terminer",
+    "infinitif_passe": "avoir terminé",
+    "participe_present": "terminant",
+    "participe_passe": "terminé",
+    "gerondif_present": "en terminant",
+    "gerondif_passe": "en ayant terminé"
+  }
+}

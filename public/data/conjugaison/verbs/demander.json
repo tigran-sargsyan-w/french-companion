@@ -1,0 +1,190 @@
+{
+  "infinitive": "demander",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je demande",
+      "tu": "tu demandes",
+      "il": "il demande",
+      "elle": "elle demande",
+      "on": "on demande",
+      "nous": "nous demandons",
+      "vous": "vous demandez",
+      "ils": "ils demandent",
+      "elles": "elles demandent"
+    },
+    "imparfait": {
+      "je": "je demandais",
+      "tu": "tu demandais",
+      "il": "il demandait",
+      "elle": "elle demandait",
+      "on": "on demandait",
+      "nous": "nous demandions",
+      "vous": "vous demandiez",
+      "ils": "ils demandaient",
+      "elles": "elles demandaient"
+    },
+    "futur_simple": {
+      "je": "je demanderai",
+      "tu": "tu demanderas",
+      "il": "il demandera",
+      "elle": "elle demandera",
+      "on": "on demandera",
+      "nous": "nous demanderons",
+      "vous": "vous demanderez",
+      "ils": "ils demanderont",
+      "elles": "elles demanderont"
+    },
+    "conditionnel_present": {
+      "je": "je demanderais",
+      "tu": "tu demanderais",
+      "il": "il demanderait",
+      "elle": "elle demanderait",
+      "on": "on demanderait",
+      "nous": "nous demanderions",
+      "vous": "vous demanderiez",
+      "ils": "ils demanderaient",
+      "elles": "elles demanderaient"
+    },
+    "subjonctif_present": {
+      "je": "je demande",
+      "tu": "tu demandes",
+      "il": "il demande",
+      "elle": "elle demande",
+      "on": "on demande",
+      "nous": "nous demandions",
+      "vous": "vous demandiez",
+      "ils": "ils demandent",
+      "elles": "elles demandent"
+    },
+    "passe_simple": {
+      "je": "je demandai",
+      "tu": "tu demandas",
+      "il": "il demanda",
+      "elle": "elle demanda",
+      "on": "on demanda",
+      "nous": "nous demandâmes",
+      "vous": "vous demandâtes",
+      "ils": "ils demandèrent",
+      "elles": "elles demandèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai demandé",
+      "tu": "tu as demandé",
+      "il": "il a demandé",
+      "elle": "elle a demandé",
+      "on": "on a demandé",
+      "nous": "nous avons demandé",
+      "vous": "vous avez demandé",
+      "ils": "ils ont demandé",
+      "elles": "elles ont demandé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais demandé",
+      "tu": "tu avais demandé",
+      "il": "il avait demandé",
+      "elle": "elle avait demandé",
+      "on": "on avait demandé",
+      "nous": "nous avions demandé",
+      "vous": "vous aviez demandé",
+      "ils": "ils avaient demandé",
+      "elles": "elles avaient demandé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai demandé",
+      "tu": "tu auras demandé",
+      "il": "il aura demandé",
+      "elle": "elle aura demandé",
+      "on": "on aura demandé",
+      "nous": "nous aurons demandé",
+      "vous": "vous aurez demandé",
+      "ils": "ils auront demandé",
+      "elles": "elles auront demandé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais demandé",
+      "tu": "tu aurais demandé",
+      "il": "il aurait demandé",
+      "elle": "elle aurait demandé",
+      "on": "on aurait demandé",
+      "nous": "nous aurions demandé",
+      "vous": "vous auriez demandé",
+      "ils": "ils auraient demandé",
+      "elles": "elles auraient demandé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie demandé",
+      "tu": "tu aies demandé",
+      "il": "il ait demandé",
+      "elle": "elle ait demandé",
+      "on": "on ait demandé",
+      "nous": "nous ayons demandé",
+      "vous": "vous ayez demandé",
+      "ils": "ils aient demandé",
+      "elles": "elles aient demandé"
+    },
+    "futur_proche": {
+      "je": "je vais demander",
+      "tu": "tu vas demander",
+      "il": "il va demander",
+      "elle": "elle va demander",
+      "on": "on va demander",
+      "nous": "nous allons demander",
+      "vous": "vous allez demander",
+      "ils": "ils vont demander",
+      "elles": "elles vont demander"
+    },
+    "imperatif_present": {
+      "tu": "demande",
+      "nous": "demandons",
+      "vous": "demandez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je demandasse",
+      "tu": "tu demandasses",
+      "il": "il demandât",
+      "elle": "elle demandât",
+      "on": "on demandât",
+      "nous": "nous demandassions",
+      "vous": "vous demandassiez",
+      "ils": "ils demandassent",
+      "elles": "elles demandassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus demandé",
+      "tu": "tu eus demandé",
+      "il": "il eut demandé",
+      "elle": "elle eut demandé",
+      "on": "on eut demandé",
+      "nous": "nous eûmes demandé",
+      "vous": "vous eûtes demandé",
+      "ils": "ils eurent demandé",
+      "elles": "elles eurent demandé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse demandé",
+      "tu": "tu eusses demandé",
+      "il": "il eût demandé",
+      "elle": "elle eût demandé",
+      "on": "on eût demandé",
+      "nous": "nous eussions demandé",
+      "vous": "vous eussiez demandé",
+      "ils": "ils eussent demandé",
+      "elles": "elles eussent demandé"
+    },
+    "imperatif_passe": {
+      "tu": "aie demandé",
+      "nous": "ayons demandé",
+      "vous": "ayez demandé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "demander",
+    "infinitif_passe": "avoir demandé",
+    "participe_present": "demandant",
+    "participe_passe": "demandé",
+    "gerondif_present": "en demandant",
+    "gerondif_passe": "en ayant demandé"
+  }
+}

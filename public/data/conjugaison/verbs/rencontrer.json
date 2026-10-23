@@ -1,0 +1,190 @@
+{
+  "infinitive": "rencontrer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je rencontre",
+      "tu": "tu rencontres",
+      "il": "il rencontre",
+      "elle": "elle rencontre",
+      "on": "on rencontre",
+      "nous": "nous rencontrons",
+      "vous": "vous rencontrez",
+      "ils": "ils rencontrent",
+      "elles": "elles rencontrent"
+    },
+    "imparfait": {
+      "je": "je rencontrais",
+      "tu": "tu rencontrais",
+      "il": "il rencontrait",
+      "elle": "elle rencontrait",
+      "on": "on rencontrait",
+      "nous": "nous rencontrions",
+      "vous": "vous rencontriez",
+      "ils": "ils rencontraient",
+      "elles": "elles rencontraient"
+    },
+    "futur_simple": {
+      "je": "je rencontrerai",
+      "tu": "tu rencontreras",
+      "il": "il rencontrera",
+      "elle": "elle rencontrera",
+      "on": "on rencontrera",
+      "nous": "nous rencontrerons",
+      "vous": "vous rencontrerez",
+      "ils": "ils rencontreront",
+      "elles": "elles rencontreront"
+    },
+    "conditionnel_present": {
+      "je": "je rencontrerais",
+      "tu": "tu rencontrerais",
+      "il": "il rencontrerait",
+      "elle": "elle rencontrerait",
+      "on": "on rencontrerait",
+      "nous": "nous rencontrerions",
+      "vous": "vous rencontreriez",
+      "ils": "ils rencontreraient",
+      "elles": "elles rencontreraient"
+    },
+    "subjonctif_present": {
+      "je": "je rencontre",
+      "tu": "tu rencontres",
+      "il": "il rencontre",
+      "elle": "elle rencontre",
+      "on": "on rencontre",
+      "nous": "nous rencontrions",
+      "vous": "vous rencontriez",
+      "ils": "ils rencontrent",
+      "elles": "elles rencontrent"
+    },
+    "passe_simple": {
+      "je": "je rencontrai",
+      "tu": "tu rencontras",
+      "il": "il rencontra",
+      "elle": "elle rencontra",
+      "on": "on rencontra",
+      "nous": "nous rencontrâmes",
+      "vous": "vous rencontrâtes",
+      "ils": "ils rencontrèrent",
+      "elles": "elles rencontrèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai rencontré",
+      "tu": "tu as rencontré",
+      "il": "il a rencontré",
+      "elle": "elle a rencontré",
+      "on": "on a rencontré",
+      "nous": "nous avons rencontré",
+      "vous": "vous avez rencontré",
+      "ils": "ils ont rencontré",
+      "elles": "elles ont rencontré"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais rencontré",
+      "tu": "tu avais rencontré",
+      "il": "il avait rencontré",
+      "elle": "elle avait rencontré",
+      "on": "on avait rencontré",
+      "nous": "nous avions rencontré",
+      "vous": "vous aviez rencontré",
+      "ils": "ils avaient rencontré",
+      "elles": "elles avaient rencontré"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai rencontré",
+      "tu": "tu auras rencontré",
+      "il": "il aura rencontré",
+      "elle": "elle aura rencontré",
+      "on": "on aura rencontré",
+      "nous": "nous aurons rencontré",
+      "vous": "vous aurez rencontré",
+      "ils": "ils auront rencontré",
+      "elles": "elles auront rencontré"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais rencontré",
+      "tu": "tu aurais rencontré",
+      "il": "il aurait rencontré",
+      "elle": "elle aurait rencontré",
+      "on": "on aurait rencontré",
+      "nous": "nous aurions rencontré",
+      "vous": "vous auriez rencontré",
+      "ils": "ils auraient rencontré",
+      "elles": "elles auraient rencontré"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie rencontré",
+      "tu": "tu aies rencontré",
+      "il": "il ait rencontré",
+      "elle": "elle ait rencontré",
+      "on": "on ait rencontré",
+      "nous": "nous ayons rencontré",
+      "vous": "vous ayez rencontré",
+      "ils": "ils aient rencontré",
+      "elles": "elles aient rencontré"
+    },
+    "futur_proche": {
+      "je": "je vais rencontrer",
+      "tu": "tu vas rencontrer",
+      "il": "il va rencontrer",
+      "elle": "elle va rencontrer",
+      "on": "on va rencontrer",
+      "nous": "nous allons rencontrer",
+      "vous": "vous allez rencontrer",
+      "ils": "ils vont rencontrer",
+      "elles": "elles vont rencontrer"
+    },
+    "imperatif_present": {
+      "tu": "rencontre",
+      "nous": "rencontrons",
+      "vous": "rencontrez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je rencontrasse",
+      "tu": "tu rencontrasses",
+      "il": "il rencontrât",
+      "elle": "elle rencontrât",
+      "on": "on rencontrât",
+      "nous": "nous rencontrassions",
+      "vous": "vous rencontrassiez",
+      "ils": "ils rencontrassent",
+      "elles": "elles rencontrassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus rencontré",
+      "tu": "tu eus rencontré",
+      "il": "il eut rencontré",
+      "elle": "elle eut rencontré",
+      "on": "on eut rencontré",
+      "nous": "nous eûmes rencontré",
+      "vous": "vous eûtes rencontré",
+      "ils": "ils eurent rencontré",
+      "elles": "elles eurent rencontré"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse rencontré",
+      "tu": "tu eusses rencontré",
+      "il": "il eût rencontré",
+      "elle": "elle eût rencontré",
+      "on": "on eût rencontré",
+      "nous": "nous eussions rencontré",
+      "vous": "vous eussiez rencontré",
+      "ils": "ils eussent rencontré",
+      "elles": "elles eussent rencontré"
+    },
+    "imperatif_passe": {
+      "tu": "aie rencontré",
+      "nous": "ayons rencontré",
+      "vous": "ayez rencontré"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "rencontrer",
+    "infinitif_passe": "avoir rencontré",
+    "participe_present": "rencontrant",
+    "participe_passe": "rencontré",
+    "gerondif_present": "en rencontrant",
+    "gerondif_passe": "en ayant rencontré"
+  }
+}

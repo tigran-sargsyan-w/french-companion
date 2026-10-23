@@ -1,0 +1,190 @@
+{
+  "infinitive": "partir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je pars",
+      "tu": "tu pars",
+      "il": "il part",
+      "elle": "elle part",
+      "on": "on part",
+      "nous": "nous partons",
+      "vous": "vous partez",
+      "ils": "ils partent",
+      "elles": "elles partent"
+    },
+    "imparfait": {
+      "je": "je partais",
+      "tu": "tu partais",
+      "il": "il partait",
+      "elle": "elle partait",
+      "on": "on partait",
+      "nous": "nous partions",
+      "vous": "vous partiez",
+      "ils": "ils partaient",
+      "elles": "elles partaient"
+    },
+    "futur_simple": {
+      "je": "je partirai",
+      "tu": "tu partiras",
+      "il": "il partira",
+      "elle": "elle partira",
+      "on": "on partira",
+      "nous": "nous partirons",
+      "vous": "vous partirez",
+      "ils": "ils partiront",
+      "elles": "elles partiront"
+    },
+    "conditionnel_present": {
+      "je": "je partirais",
+      "tu": "tu partirais",
+      "il": "il partirait",
+      "elle": "elle partirait",
+      "on": "on partirait",
+      "nous": "nous partirions",
+      "vous": "vous partiriez",
+      "ils": "ils partiraient",
+      "elles": "elles partiraient"
+    },
+    "subjonctif_present": {
+      "je": "je parte",
+      "tu": "tu partes",
+      "il": "il parte",
+      "elle": "elle parte",
+      "on": "on parte",
+      "nous": "nous partions",
+      "vous": "vous partiez",
+      "ils": "ils partent",
+      "elles": "elles partent"
+    },
+    "passe_simple": {
+      "je": "je partis",
+      "tu": "tu partis",
+      "il": "il partit",
+      "elle": "elle partit",
+      "on": "on partit",
+      "nous": "nous partîmes",
+      "vous": "vous partîtes",
+      "ils": "ils partirent",
+      "elles": "elles partirent"
+    },
+    "passe_compose": {
+      "je": "je suis parti",
+      "tu": "tu es parti",
+      "il": "il est parti",
+      "elle": "elle est partie",
+      "on": "on est parti",
+      "nous": "nous sommes partis",
+      "vous": "vous êtes partis",
+      "ils": "ils sont partis",
+      "elles": "elles sont parties"
+    },
+    "plus_que_parfait": {
+      "je": "j'étais parti",
+      "tu": "tu étais parti",
+      "il": "il était parti",
+      "elle": "elle était partie",
+      "on": "on était parti",
+      "nous": "nous étions partis",
+      "vous": "vous étiez partis",
+      "ils": "ils étaient partis",
+      "elles": "elles étaient parties"
+    },
+    "futur_anterieur": {
+      "je": "je serai parti",
+      "tu": "tu seras parti",
+      "il": "il sera parti",
+      "elle": "elle sera partie",
+      "on": "on sera parti",
+      "nous": "nous serons partis",
+      "vous": "vous serez partis",
+      "ils": "ils seront partis",
+      "elles": "elles seront parties"
+    },
+    "conditionnel_passe": {
+      "je": "je serais parti",
+      "tu": "tu serais parti",
+      "il": "il serait parti",
+      "elle": "elle serait partie",
+      "on": "on serait parti",
+      "nous": "nous serions partis",
+      "vous": "vous seriez partis",
+      "ils": "ils seraient partis",
+      "elles": "elles seraient parties"
+    },
+    "subjonctif_passe": {
+      "je": "je sois parti",
+      "tu": "tu sois parti",
+      "il": "il soit parti",
+      "elle": "elle soit partie",
+      "on": "on soit parti",
+      "nous": "nous soyons partis",
+      "vous": "vous soyez partis",
+      "ils": "ils soient partis",
+      "elles": "elles soient parties"
+    },
+    "futur_proche": {
+      "je": "je vais partir",
+      "tu": "tu vas partir",
+      "il": "il va partir",
+      "elle": "elle va partir",
+      "on": "on va partir",
+      "nous": "nous allons partir",
+      "vous": "vous allez partir",
+      "ils": "ils vont partir",
+      "elles": "elles vont partir"
+    },
+    "imperatif_present": {
+      "tu": "pars",
+      "nous": "partons",
+      "vous": "partez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je partisse",
+      "tu": "tu partisses",
+      "il": "il partît",
+      "elle": "elle partît",
+      "on": "on partît",
+      "nous": "nous partissions",
+      "vous": "vous partissiez",
+      "ils": "ils partissent",
+      "elles": "elles partissent"
+    },
+    "passe_anterieur": {
+      "je": "je fus parti",
+      "tu": "tu fus parti",
+      "il": "il fut parti",
+      "elle": "elle fut partie",
+      "on": "on fut parti",
+      "nous": "nous fûmes partis",
+      "vous": "vous fûtes partis",
+      "ils": "ils furent partis",
+      "elles": "elles furent parties"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je fusse parti",
+      "tu": "tu fusses parti",
+      "il": "il fût parti",
+      "elle": "elle fût partie",
+      "on": "on fût parti",
+      "nous": "nous fussions partis",
+      "vous": "vous fussiez partis",
+      "ils": "ils fussent partis",
+      "elles": "elles fussent parties"
+    },
+    "imperatif_passe": {
+      "tu": "sois parti",
+      "nous": "soyons partis",
+      "vous": "soyez partis"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "partir",
+    "infinitif_passe": "être parti",
+    "participe_present": "partant",
+    "participe_passe": "parti",
+    "gerondif_present": "en partant",
+    "gerondif_passe": "en étant parti"
+  }
+}

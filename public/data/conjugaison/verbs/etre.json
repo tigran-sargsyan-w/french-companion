@@ -1,0 +1,190 @@
+{
+  "infinitive": "être",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je suis",
+      "tu": "tu es",
+      "il": "il est",
+      "elle": "elle est",
+      "on": "on est",
+      "nous": "nous sommes",
+      "vous": "vous êtes",
+      "ils": "ils sont",
+      "elles": "elles sont"
+    },
+    "imparfait": {
+      "je": "j'étais",
+      "tu": "tu étais",
+      "il": "il était",
+      "elle": "elle était",
+      "on": "on était",
+      "nous": "nous étions",
+      "vous": "vous étiez",
+      "ils": "ils étaient",
+      "elles": "elles étaient"
+    },
+    "futur_simple": {
+      "je": "je serai",
+      "tu": "tu seras",
+      "il": "il sera",
+      "elle": "elle sera",
+      "on": "on sera",
+      "nous": "nous serons",
+      "vous": "vous serez",
+      "ils": "ils seront",
+      "elles": "elles seront"
+    },
+    "conditionnel_present": {
+      "je": "je serais",
+      "tu": "tu serais",
+      "il": "il serait",
+      "elle": "elle serait",
+      "on": "on serait",
+      "nous": "nous serions",
+      "vous": "vous seriez",
+      "ils": "ils seraient",
+      "elles": "elles seraient"
+    },
+    "subjonctif_present": {
+      "je": "je sois",
+      "tu": "tu sois",
+      "il": "il soit",
+      "elle": "elle soit",
+      "on": "on soit",
+      "nous": "nous soyons",
+      "vous": "vous soyez",
+      "ils": "ils soient",
+      "elles": "elles soient"
+    },
+    "passe_simple": {
+      "je": "je fus",
+      "tu": "tu fus",
+      "il": "il fut",
+      "elle": "elle fut",
+      "on": "on fut",
+      "nous": "nous fûmes",
+      "vous": "vous fûtes",
+      "ils": "ils furent",
+      "elles": "elles furent"
+    },
+    "passe_compose": {
+      "je": "j'ai été",
+      "tu": "tu as été",
+      "il": "il a été",
+      "elle": "elle a été",
+      "on": "on a été",
+      "nous": "nous avons été",
+      "vous": "vous avez été",
+      "ils": "ils ont été",
+      "elles": "elles ont été"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais été",
+      "tu": "tu avais été",
+      "il": "il avait été",
+      "elle": "elle avait été",
+      "on": "on avait été",
+      "nous": "nous avions été",
+      "vous": "vous aviez été",
+      "ils": "ils avaient été",
+      "elles": "elles avaient été"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai été",
+      "tu": "tu auras été",
+      "il": "il aura été",
+      "elle": "elle aura été",
+      "on": "on aura été",
+      "nous": "nous aurons été",
+      "vous": "vous aurez été",
+      "ils": "ils auront été",
+      "elles": "elles auront été"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais été",
+      "tu": "tu aurais été",
+      "il": "il aurait été",
+      "elle": "elle aurait été",
+      "on": "on aurait été",
+      "nous": "nous aurions été",
+      "vous": "vous auriez été",
+      "ils": "ils auraient été",
+      "elles": "elles auraient été"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie été",
+      "tu": "tu aies été",
+      "il": "il ait été",
+      "elle": "elle ait été",
+      "on": "on ait été",
+      "nous": "nous ayons été",
+      "vous": "vous ayez été",
+      "ils": "ils aient été",
+      "elles": "elles aient été"
+    },
+    "futur_proche": {
+      "je": "je vais être",
+      "tu": "tu vas être",
+      "il": "il va être",
+      "elle": "elle va être",
+      "on": "on va être",
+      "nous": "nous allons être",
+      "vous": "vous allez être",
+      "ils": "ils vont être",
+      "elles": "elles vont être"
+    },
+    "imperatif_present": {
+      "tu": "sois",
+      "nous": "soyons",
+      "vous": "soyez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je fusse",
+      "tu": "tu fusses",
+      "il": "il fût",
+      "elle": "elle fût",
+      "on": "on fût",
+      "nous": "nous fussions",
+      "vous": "vous fussiez",
+      "ils": "ils fussent",
+      "elles": "elles fussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus été",
+      "tu": "tu eus été",
+      "il": "il eut été",
+      "elle": "elle eut été",
+      "on": "on eut été",
+      "nous": "nous eûmes été",
+      "vous": "vous eûtes été",
+      "ils": "ils eurent été",
+      "elles": "elles eurent été"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse été",
+      "tu": "tu eusses été",
+      "il": "il eût été",
+      "elle": "elle eût été",
+      "on": "on eût été",
+      "nous": "nous eussions été",
+      "vous": "vous eussiez été",
+      "ils": "ils eussent été",
+      "elles": "elles eussent été"
+    },
+    "imperatif_passe": {
+      "tu": "aie été",
+      "nous": "ayons été",
+      "vous": "ayez été"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "être",
+    "infinitif_passe": "avoir été",
+    "participe_present": "étant",
+    "participe_passe": "été",
+    "gerondif_present": "en étant",
+    "gerondif_passe": "en ayant été"
+  }
+}

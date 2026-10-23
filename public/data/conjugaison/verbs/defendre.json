@@ -1,0 +1,190 @@
+{
+  "infinitive": "défendre",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je défends",
+      "tu": "tu défends",
+      "il": "il défend",
+      "elle": "elle défend",
+      "on": "on défend",
+      "nous": "nous défendons",
+      "vous": "vous défendez",
+      "ils": "ils défendent",
+      "elles": "elles défendent"
+    },
+    "imparfait": {
+      "je": "je défendais",
+      "tu": "tu défendais",
+      "il": "il défendait",
+      "elle": "elle défendait",
+      "on": "on défendait",
+      "nous": "nous défendions",
+      "vous": "vous défendiez",
+      "ils": "ils défendaient",
+      "elles": "elles défendaient"
+    },
+    "futur_simple": {
+      "je": "je défendai",
+      "tu": "tu défendas",
+      "il": "il défenda",
+      "elle": "elle défenda",
+      "on": "on défenda",
+      "nous": "nous défendons",
+      "vous": "vous défendez",
+      "ils": "ils défendont",
+      "elles": "elles défendont"
+    },
+    "conditionnel_present": {
+      "je": "je défendais",
+      "tu": "tu défendais",
+      "il": "il défendait",
+      "elle": "elle défendait",
+      "on": "on défendait",
+      "nous": "nous défendions",
+      "vous": "vous défendiez",
+      "ils": "ils défendaient",
+      "elles": "elles défendaient"
+    },
+    "subjonctif_present": {
+      "je": "je défende",
+      "tu": "tu défendes",
+      "il": "il défende",
+      "elle": "elle défende",
+      "on": "on défende",
+      "nous": "nous défendions",
+      "vous": "vous défendiez",
+      "ils": "ils défendent",
+      "elles": "elles défendent"
+    },
+    "passe_simple": {
+      "je": "je défendis",
+      "tu": "tu défendis",
+      "il": "il défendit",
+      "elle": "elle défendit",
+      "on": "on défendit",
+      "nous": "nous défendîmes",
+      "vous": "vous défendîtes",
+      "ils": "ils défendirent",
+      "elles": "elles défendirent"
+    },
+    "passe_compose": {
+      "je": "j'ai défendu",
+      "tu": "tu as défendu",
+      "il": "il a défendu",
+      "elle": "elle a défendu",
+      "on": "on a défendu",
+      "nous": "nous avons défendu",
+      "vous": "vous avez défendu",
+      "ils": "ils ont défendu",
+      "elles": "elles ont défendu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais défendu",
+      "tu": "tu avais défendu",
+      "il": "il avait défendu",
+      "elle": "elle avait défendu",
+      "on": "on avait défendu",
+      "nous": "nous avions défendu",
+      "vous": "vous aviez défendu",
+      "ils": "ils avaient défendu",
+      "elles": "elles avaient défendu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai défendu",
+      "tu": "tu auras défendu",
+      "il": "il aura défendu",
+      "elle": "elle aura défendu",
+      "on": "on aura défendu",
+      "nous": "nous aurons défendu",
+      "vous": "vous aurez défendu",
+      "ils": "ils auront défendu",
+      "elles": "elles auront défendu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais défendu",
+      "tu": "tu aurais défendu",
+      "il": "il aurait défendu",
+      "elle": "elle aurait défendu",
+      "on": "on aurait défendu",
+      "nous": "nous aurions défendu",
+      "vous": "vous auriez défendu",
+      "ils": "ils auraient défendu",
+      "elles": "elles auraient défendu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie défendu",
+      "tu": "tu aies défendu",
+      "il": "il ait défendu",
+      "elle": "elle ait défendu",
+      "on": "on ait défendu",
+      "nous": "nous ayons défendu",
+      "vous": "vous ayez défendu",
+      "ils": "ils aient défendu",
+      "elles": "elles aient défendu"
+    },
+    "futur_proche": {
+      "je": "je vais défendre",
+      "tu": "tu vas défendre",
+      "il": "il va défendre",
+      "elle": "elle va défendre",
+      "on": "on va défendre",
+      "nous": "nous allons défendre",
+      "vous": "vous allez défendre",
+      "ils": "ils vont défendre",
+      "elles": "elles vont défendre"
+    },
+    "imperatif_present": {
+      "tu": "défends",
+      "nous": "défendons",
+      "vous": "défendez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je défendisse",
+      "tu": "tu défendisses",
+      "il": "il défendît",
+      "elle": "elle défendît",
+      "on": "on défendît",
+      "nous": "nous défendissions",
+      "vous": "vous défendissiez",
+      "ils": "ils défendissent",
+      "elles": "elles défendissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus défendu",
+      "tu": "tu eus défendu",
+      "il": "il eut défendu",
+      "elle": "elle eut défendu",
+      "on": "on eut défendu",
+      "nous": "nous eûmes défendu",
+      "vous": "vous eûtes défendu",
+      "ils": "ils eurent défendu",
+      "elles": "elles eurent défendu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse défendu",
+      "tu": "tu eusses défendu",
+      "il": "il eût défendu",
+      "elle": "elle eût défendu",
+      "on": "on eût défendu",
+      "nous": "nous eussions défendu",
+      "vous": "vous eussiez défendu",
+      "ils": "ils eussent défendu",
+      "elles": "elles eussent défendu"
+    },
+    "imperatif_passe": {
+      "tu": "aie défendu",
+      "nous": "ayons défendu",
+      "vous": "ayez défendu"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "défendre",
+    "infinitif_passe": "avoir défendu",
+    "participe_present": "défendant",
+    "participe_passe": "défendu",
+    "gerondif_present": "en défendant",
+    "gerondif_passe": "en ayant défendu"
+  }
+}

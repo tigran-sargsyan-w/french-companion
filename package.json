@@ -4,12 +4,14 @@
   "sideEffects": false,
   "type": "module",
   "scripts": {
-    "dev": "vite dev",
-    "build": "vite build",
-    "build:dev": "vite build --mode development",
+    "dev": "node scripts/build-conjugaison.mjs && vite dev",
+    "build": "node scripts/build-conjugaison.mjs && vite build",
+    "build:dev": "node scripts/build-conjugaison.mjs && vite build --mode development",
     "preview": "vite preview",
     "lint": "eslint .",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "validate:conjugaison": "node scripts/validate-conjugaison.mjs",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

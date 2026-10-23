@@ -1,0 +1,190 @@
+{
+  "infinitive": "utiliser",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'utilise",
+      "tu": "tu utilises",
+      "il": "il utilise",
+      "elle": "elle utilise",
+      "on": "on utilise",
+      "nous": "nous utilisons",
+      "vous": "vous utilisez",
+      "ils": "ils utilisent",
+      "elles": "elles utilisent"
+    },
+    "imparfait": {
+      "je": "j'utilisais",
+      "tu": "tu utilisais",
+      "il": "il utilisait",
+      "elle": "elle utilisait",
+      "on": "on utilisait",
+      "nous": "nous utilisions",
+      "vous": "vous utilisiez",
+      "ils": "ils utilisaient",
+      "elles": "elles utilisaient"
+    },
+    "futur_simple": {
+      "je": "j'utiliserai",
+      "tu": "tu utiliseras",
+      "il": "il utilisera",
+      "elle": "elle utilisera",
+      "on": "on utilisera",
+      "nous": "nous utiliserons",
+      "vous": "vous utiliserez",
+      "ils": "ils utiliseront",
+      "elles": "elles utiliseront"
+    },
+    "conditionnel_present": {
+      "je": "j'utiliserais",
+      "tu": "tu utiliserais",
+      "il": "il utiliserait",
+      "elle": "elle utiliserait",
+      "on": "on utiliserait",
+      "nous": "nous utiliserions",
+      "vous": "vous utiliseriez",
+      "ils": "ils utiliseraient",
+      "elles": "elles utiliseraient"
+    },
+    "subjonctif_present": {
+      "je": "j'utilise",
+      "tu": "tu utilises",
+      "il": "il utilise",
+      "elle": "elle utilise",
+      "on": "on utilise",
+      "nous": "nous utilisions",
+      "vous": "vous utilisiez",
+      "ils": "ils utilisent",
+      "elles": "elles utilisent"
+    },
+    "passe_simple": {
+      "je": "j'utilisai",
+      "tu": "tu utilisas",
+      "il": "il utilisa",
+      "elle": "elle utilisa",
+      "on": "on utilisa",
+      "nous": "nous utilisâmes",
+      "vous": "vous utilisâtes",
+      "ils": "ils utilisèrent",
+      "elles": "elles utilisèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai utilisé",
+      "tu": "tu as utilisé",
+      "il": "il a utilisé",
+      "elle": "elle a utilisé",
+      "on": "on a utilisé",
+      "nous": "nous avons utilisé",
+      "vous": "vous avez utilisé",
+      "ils": "ils ont utilisé",
+      "elles": "elles ont utilisé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais utilisé",
+      "tu": "tu avais utilisé",
+      "il": "il avait utilisé",
+      "elle": "elle avait utilisé",
+      "on": "on avait utilisé",
+      "nous": "nous avions utilisé",
+      "vous": "vous aviez utilisé",
+      "ils": "ils avaient utilisé",
+      "elles": "elles avaient utilisé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai utilisé",
+      "tu": "tu auras utilisé",
+      "il": "il aura utilisé",
+      "elle": "elle aura utilisé",
+      "on": "on aura utilisé",
+      "nous": "nous aurons utilisé",
+      "vous": "vous aurez utilisé",
+      "ils": "ils auront utilisé",
+      "elles": "elles auront utilisé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais utilisé",
+      "tu": "tu aurais utilisé",
+      "il": "il aurait utilisé",
+      "elle": "elle aurait utilisé",
+      "on": "on aurait utilisé",
+      "nous": "nous aurions utilisé",
+      "vous": "vous auriez utilisé",
+      "ils": "ils auraient utilisé",
+      "elles": "elles auraient utilisé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie utilisé",
+      "tu": "tu aies utilisé",
+      "il": "il ait utilisé",
+      "elle": "elle ait utilisé",
+      "on": "on ait utilisé",
+      "nous": "nous ayons utilisé",
+      "vous": "vous ayez utilisé",
+      "ils": "ils aient utilisé",
+      "elles": "elles aient utilisé"
+    },
+    "futur_proche": {
+      "je": "je vais utiliser",
+      "tu": "tu vas utiliser",
+      "il": "il va utiliser",
+      "elle": "elle va utiliser",
+      "on": "on va utiliser",
+      "nous": "nous allons utiliser",
+      "vous": "vous allez utiliser",
+      "ils": "ils vont utiliser",
+      "elles": "elles vont utiliser"
+    },
+    "imperatif_present": {
+      "tu": "utilise",
+      "nous": "utilisons",
+      "vous": "utilisez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'utilisasse",
+      "tu": "tu utilisasses",
+      "il": "il utilisât",
+      "elle": "elle utilisât",
+      "on": "on utilisât",
+      "nous": "nous utilisassions",
+      "vous": "vous utilisassiez",
+      "ils": "ils utilisassent",
+      "elles": "elles utilisassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus utilisé",
+      "tu": "tu eus utilisé",
+      "il": "il eut utilisé",
+      "elle": "elle eut utilisé",
+      "on": "on eut utilisé",
+      "nous": "nous eûmes utilisé",
+      "vous": "vous eûtes utilisé",
+      "ils": "ils eurent utilisé",
+      "elles": "elles eurent utilisé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse utilisé",
+      "tu": "tu eusses utilisé",
+      "il": "il eût utilisé",
+      "elle": "elle eût utilisé",
+      "on": "on eût utilisé",
+      "nous": "nous eussions utilisé",
+      "vous": "vous eussiez utilisé",
+      "ils": "ils eussent utilisé",
+      "elles": "elles eussent utilisé"
+    },
+    "imperatif_passe": {
+      "tu": "aie utilisé",
+      "nous": "ayons utilisé",
+      "vous": "ayez utilisé"
+    }
+  },
+  "nonFinite": {
+    "infinitif_present": "utiliser",
+    "infinitif_passe": "avoir utilisé",
+    "participe_present": "utilisant",
+    "participe_passe": "utilisé",
+    "gerondif_present": "en utilisant",
+    "gerondif_passe": "en ayant utilisé"
+  }
+}
