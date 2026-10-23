@@ -141,15 +141,15 @@
       "vous": "souvenez-vous"
     },
     "subjonctif_imparfait": {
-      "je": "je me se souvinsse",
-      "tu": "tu te se souvinsses",
-      "il": "il se se souvînt",
-      "elle": "elle se se souvînt",
-      "on": "on se se souvînt",
-      "nous": "nous nous se souvinssions",
-      "vous": "vous vous se souvinssiez",
-      "ils": "ils se se souvinssent",
-      "elles": "elles se se souvinssent"
+      "je": "je me souvinsse",
+      "tu": "tu te souvinsses",
+      "il": "il se souvînt",
+      "elle": "elle se souvînt",
+      "on": "on se souvînt",
+      "nous": "nous nous souvinssions",
+      "vous": "vous vous souvinssiez",
+      "ils": "ils se souvinssent",
+      "elles": "elles se souvinssent"
     },
     "passe_anterieur": {
       "je": "je me fus souvenu",

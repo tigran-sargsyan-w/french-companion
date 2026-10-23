@@ -141,15 +141,15 @@
       "vous": "habillez-vous"
     },
     "subjonctif_imparfait": {
-      "je": "je me s'habillasse",
-      "tu": "tu te s'habillasses",
-      "il": "il se s'habillât",
-      "elle": "elle se s'habillât",
-      "on": "on se s'habillât",
-      "nous": "nous nous s'habillassions",
-      "vous": "vous vous s'habillassiez",
-      "ils": "ils se s'habillassent",
-      "elles": "elles se s'habillassent"
+      "je": "je m'habillasse",
+      "tu": "tu t'habillasses",
+      "il": "il s'habillât",
+      "elle": "elle s'habillât",
+      "on": "on s'habillât",
+      "nous": "nous nous habillassions",
+      "vous": "vous vous habillassiez",
+      "ils": "ils se habillassent",
+      "elles": "elles se habillassent"
     },
     "passe_anterieur": {
       "je": "je me fus habillé",

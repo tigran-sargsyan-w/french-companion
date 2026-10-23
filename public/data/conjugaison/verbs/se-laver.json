@@ -141,15 +141,15 @@
       "vous": "lavez-vous"
     },
     "subjonctif_imparfait": {
-      "je": "je me se lavasse",
-      "tu": "tu te se lavasses",
-      "il": "il se se lavât",
-      "elle": "elle se se lavât",
-      "on": "on se se lavât",
-      "nous": "nous nous se lavassions",
-      "vous": "vous vous se lavassiez",
-      "ils": "ils se se lavassent",
-      "elles": "elles se se lavassent"
+      "je": "je me lavasse",
+      "tu": "tu te lavasses",
+      "il": "il se lavât",
+      "elle": "elle se lavât",
+      "on": "on se lavât",
+      "nous": "nous nous lavassions",
+      "vous": "vous vous lavassiez",
+      "ils": "ils se lavassent",
+      "elles": "elles se lavassent"
     },
     "passe_anterieur": {
       "je": "je me fus lavé",

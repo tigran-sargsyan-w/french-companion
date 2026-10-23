@@ -141,15 +141,15 @@
       "vous": "levez-vous"
     },
     "subjonctif_imparfait": {
-      "je": "je me se levasse",
-      "tu": "tu te se levasses",
-      "il": "il se se levât",
-      "elle": "elle se se levât",
-      "on": "on se se levât",
-      "nous": "nous nous se levassions",
-      "vous": "vous vous se levassiez",
-      "ils": "ils se se levassent",
-      "elles": "elles se se levassent"
+      "je": "je me levasse",
+      "tu": "tu te levasses",
+      "il": "il se levât",
+      "elle": "elle se levât",
+      "on": "on se levât",
+      "nous": "nous nous levassions",
+      "vous": "vous vous levassiez",
+      "ils": "ils se levassent",
+      "elles": "elles se levassent"
     },
     "passe_anterieur": {
       "je": "je me fus levé",
