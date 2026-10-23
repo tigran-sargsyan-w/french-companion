@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "lint": "eslint .",
     "format": "prettier --write .",
-    "validate:conjugaison": "node scripts/validate-conjugaison.mjs"
+    "validate:conjugaison": "node scripts/validate-conjugaison.mjs",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
