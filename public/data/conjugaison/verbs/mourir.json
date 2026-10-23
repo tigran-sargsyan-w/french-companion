@@ -139,6 +139,52 @@
       "tu": "meurs",
       "nous": "mourons",
       "vous": "mourez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je mourusse",
+      "tu": "tu mourusses",
+      "il": "il mourût",
+      "elle": "elle mourût",
+      "on": "on mourût",
+      "nous": "nous mourussions",
+      "vous": "vous mourussiez",
+      "ils": "ils mourussent",
+      "elles": "elles mourussent"
+    },
+    "passe_anterieur": {
+      "je": "je fus mort",
+      "tu": "tu fus mort",
+      "il": "il fut mort",
+      "elle": "elle fut morte",
+      "on": "on fut mort",
+      "nous": "nous fûmes morts",
+      "vous": "vous fûtes morts",
+      "ils": "ils furent morts",
+      "elles": "elles furent mortes"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je fusse mort",
+      "tu": "tu fusses mort",
+      "il": "il fût mort",
+      "elle": "elle fût morte",
+      "on": "on fût mort",
+      "nous": "nous fussions morts",
+      "vous": "vous fussiez morts",
+      "ils": "ils fussent morts",
+      "elles": "elles fussent mortes"
+    },
+    "imperatif_passe": {
+      "tu": "sois mort",
+      "nous": "soyons morts",
+      "vous": "soyez morts"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "mourir",
+    "infinitif_passe": "être mort",
+    "participe_present": "mourant",
+    "participe_passe": "mort",
+    "gerondif_present": "en mourant",
+    "gerondif_passe": "en étant mort"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "invite",
       "nous": "invitons",
       "vous": "invitez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'invitasse",
+      "tu": "tu invitasses",
+      "il": "il invitât",
+      "elle": "elle invitât",
+      "on": "on invitât",
+      "nous": "nous invitassions",
+      "vous": "vous invitassiez",
+      "ils": "ils invitassent",
+      "elles": "elles invitassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus invité",
+      "tu": "tu eus invité",
+      "il": "il eut invité",
+      "elle": "elle eut invité",
+      "on": "on eut invité",
+      "nous": "nous eûmes invité",
+      "vous": "vous eûtes invité",
+      "ils": "ils eurent invité",
+      "elles": "elles eurent invité"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse invité",
+      "tu": "tu eusses invité",
+      "il": "il eût invité",
+      "elle": "elle eût invité",
+      "on": "on eût invité",
+      "nous": "nous eussions invité",
+      "vous": "vous eussiez invité",
+      "ils": "ils eussent invité",
+      "elles": "elles eussent invité"
+    },
+    "imperatif_passe": {
+      "tu": "aie invité",
+      "nous": "ayons invité",
+      "vous": "ayez invité"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "inviter",
+    "infinitif_passe": "avoir invité",
+    "participe_present": "invitant",
+    "participe_passe": "invité",
+    "gerondif_present": "en invitant",
+    "gerondif_passe": "en ayant invité"
   }
 }

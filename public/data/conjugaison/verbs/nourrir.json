@@ -139,6 +139,52 @@
       "tu": "nourris",
       "nous": "nourrissons",
       "vous": "nourrissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je nourrisse",
+      "tu": "tu nourrisses",
+      "il": "il nourrît",
+      "elle": "elle nourrît",
+      "on": "on nourrît",
+      "nous": "nous nourrissions",
+      "vous": "vous nourrissiez",
+      "ils": "ils nourrissent",
+      "elles": "elles nourrissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus nourri",
+      "tu": "tu eus nourri",
+      "il": "il eut nourri",
+      "elle": "elle eut nourri",
+      "on": "on eut nourri",
+      "nous": "nous eûmes nourri",
+      "vous": "vous eûtes nourri",
+      "ils": "ils eurent nourri",
+      "elles": "elles eurent nourri"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse nourri",
+      "tu": "tu eusses nourri",
+      "il": "il eût nourri",
+      "elle": "elle eût nourri",
+      "on": "on eût nourri",
+      "nous": "nous eussions nourri",
+      "vous": "vous eussiez nourri",
+      "ils": "ils eussent nourri",
+      "elles": "elles eussent nourri"
+    },
+    "imperatif_passe": {
+      "tu": "aie nourri",
+      "nous": "ayons nourri",
+      "vous": "ayez nourri"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "nourrir",
+    "infinitif_passe": "avoir nourri",
+    "participe_present": "nourrissant",
+    "participe_passe": "nourri",
+    "gerondif_present": "en nourrissant",
+    "gerondif_passe": "en ayant nourri"
   }
 }

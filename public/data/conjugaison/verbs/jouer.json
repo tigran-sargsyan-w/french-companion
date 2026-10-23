@@ -139,6 +139,52 @@
       "tu": "joue",
       "nous": "jouons",
       "vous": "jouez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je jouasse",
+      "tu": "tu jouasses",
+      "il": "il jouât",
+      "elle": "elle jouât",
+      "on": "on jouât",
+      "nous": "nous jouassions",
+      "vous": "vous jouassiez",
+      "ils": "ils jouassent",
+      "elles": "elles jouassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus joué",
+      "tu": "tu eus joué",
+      "il": "il eut joué",
+      "elle": "elle eut joué",
+      "on": "on eut joué",
+      "nous": "nous eûmes joué",
+      "vous": "vous eûtes joué",
+      "ils": "ils eurent joué",
+      "elles": "elles eurent joué"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse joué",
+      "tu": "tu eusses joué",
+      "il": "il eût joué",
+      "elle": "elle eût joué",
+      "on": "on eût joué",
+      "nous": "nous eussions joué",
+      "vous": "vous eussiez joué",
+      "ils": "ils eussent joué",
+      "elles": "elles eussent joué"
+    },
+    "imperatif_passe": {
+      "tu": "aie joué",
+      "nous": "ayons joué",
+      "vous": "ayez joué"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "jouer",
+    "infinitif_passe": "avoir joué",
+    "participe_present": "jouant",
+    "participe_passe": "joué",
+    "gerondif_present": "en jouant",
+    "gerondif_passe": "en ayant joué"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "montre",
       "nous": "montrons",
       "vous": "montrez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je montrasse",
+      "tu": "tu montrasses",
+      "il": "il montrât",
+      "elle": "elle montrât",
+      "on": "on montrât",
+      "nous": "nous montrassions",
+      "vous": "vous montrassiez",
+      "ils": "ils montrassent",
+      "elles": "elles montrassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus montré",
+      "tu": "tu eus montré",
+      "il": "il eut montré",
+      "elle": "elle eut montré",
+      "on": "on eut montré",
+      "nous": "nous eûmes montré",
+      "vous": "vous eûtes montré",
+      "ils": "ils eurent montré",
+      "elles": "elles eurent montré"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse montré",
+      "tu": "tu eusses montré",
+      "il": "il eût montré",
+      "elle": "elle eût montré",
+      "on": "on eût montré",
+      "nous": "nous eussions montré",
+      "vous": "vous eussiez montré",
+      "ils": "ils eussent montré",
+      "elles": "elles eussent montré"
+    },
+    "imperatif_passe": {
+      "tu": "aie montré",
+      "nous": "ayons montré",
+      "vous": "ayez montré"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "montrer",
+    "infinitif_passe": "avoir montré",
+    "participe_present": "montrant",
+    "participe_passe": "montré",
+    "gerondif_present": "en montrant",
+    "gerondif_passe": "en ayant montré"
   }
 }

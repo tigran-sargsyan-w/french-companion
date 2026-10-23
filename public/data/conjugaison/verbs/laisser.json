@@ -139,6 +139,52 @@
       "tu": "laisse",
       "nous": "laissons",
       "vous": "laissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je laissasse",
+      "tu": "tu laissasses",
+      "il": "il laissât",
+      "elle": "elle laissât",
+      "on": "on laissât",
+      "nous": "nous laissassions",
+      "vous": "vous laissassiez",
+      "ils": "ils laissassent",
+      "elles": "elles laissassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus laissé",
+      "tu": "tu eus laissé",
+      "il": "il eut laissé",
+      "elle": "elle eut laissé",
+      "on": "on eut laissé",
+      "nous": "nous eûmes laissé",
+      "vous": "vous eûtes laissé",
+      "ils": "ils eurent laissé",
+      "elles": "elles eurent laissé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse laissé",
+      "tu": "tu eusses laissé",
+      "il": "il eût laissé",
+      "elle": "elle eût laissé",
+      "on": "on eût laissé",
+      "nous": "nous eussions laissé",
+      "vous": "vous eussiez laissé",
+      "ils": "ils eussent laissé",
+      "elles": "elles eussent laissé"
+    },
+    "imperatif_passe": {
+      "tu": "aie laissé",
+      "nous": "ayons laissé",
+      "vous": "ayez laissé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "laisser",
+    "infinitif_passe": "avoir laissé",
+    "participe_present": "laissant",
+    "participe_passe": "laissé",
+    "gerondif_present": "en laissant",
+    "gerondif_passe": "en ayant laissé"
   }
 }

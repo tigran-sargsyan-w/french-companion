@@ -139,6 +139,52 @@
       "tu": "mange",
       "nous": "mangeons",
       "vous": "mangez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je mangeasse",
+      "tu": "tu mangeasses",
+      "il": "il mangeât",
+      "elle": "elle mangeât",
+      "on": "on mangeât",
+      "nous": "nous mangeassions",
+      "vous": "vous mangeassiez",
+      "ils": "ils mangeassent",
+      "elles": "elles mangeassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus mangé",
+      "tu": "tu eus mangé",
+      "il": "il eut mangé",
+      "elle": "elle eut mangé",
+      "on": "on eut mangé",
+      "nous": "nous eûmes mangé",
+      "vous": "vous eûtes mangé",
+      "ils": "ils eurent mangé",
+      "elles": "elles eurent mangé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse mangé",
+      "tu": "tu eusses mangé",
+      "il": "il eût mangé",
+      "elle": "elle eût mangé",
+      "on": "on eût mangé",
+      "nous": "nous eussions mangé",
+      "vous": "vous eussiez mangé",
+      "ils": "ils eussent mangé",
+      "elles": "elles eussent mangé"
+    },
+    "imperatif_passe": {
+      "tu": "aie mangé",
+      "nous": "ayons mangé",
+      "vous": "ayez mangé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "manger",
+    "infinitif_passe": "avoir mangé",
+    "participe_present": "mangeant",
+    "participe_passe": "mangé",
+    "gerondif_present": "en mangeant",
+    "gerondif_passe": "en ayant mangé"
   }
 }

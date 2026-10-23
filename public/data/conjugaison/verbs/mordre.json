@@ -139,6 +139,52 @@
       "tu": "mords",
       "nous": "mordons",
       "vous": "mordez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je mordisse",
+      "tu": "tu mordisses",
+      "il": "il mordît",
+      "elle": "elle mordît",
+      "on": "on mordît",
+      "nous": "nous mordissions",
+      "vous": "vous mordissiez",
+      "ils": "ils mordissent",
+      "elles": "elles mordissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus mordu",
+      "tu": "tu eus mordu",
+      "il": "il eut mordu",
+      "elle": "elle eut mordu",
+      "on": "on eut mordu",
+      "nous": "nous eûmes mordu",
+      "vous": "vous eûtes mordu",
+      "ils": "ils eurent mordu",
+      "elles": "elles eurent mordu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse mordu",
+      "tu": "tu eusses mordu",
+      "il": "il eût mordu",
+      "elle": "elle eût mordu",
+      "on": "on eût mordu",
+      "nous": "nous eussions mordu",
+      "vous": "vous eussiez mordu",
+      "ils": "ils eussent mordu",
+      "elles": "elles eussent mordu"
+    },
+    "imperatif_passe": {
+      "tu": "aie mordu",
+      "nous": "ayons mordu",
+      "vous": "ayez mordu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "mordre",
+    "infinitif_passe": "avoir mordu",
+    "participe_present": "mordant",
+    "participe_passe": "mordu",
+    "gerondif_present": "en mordant",
+    "gerondif_passe": "en ayant mordu"
   }
 }

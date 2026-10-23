@@ -139,6 +139,52 @@
       "tu": "guéris",
       "nous": "guérissons",
       "vous": "guérissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je guérisse",
+      "tu": "tu guérisses",
+      "il": "il guérît",
+      "elle": "elle guérît",
+      "on": "on guérît",
+      "nous": "nous guérissions",
+      "vous": "vous guérissiez",
+      "ils": "ils guérissent",
+      "elles": "elles guérissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus guéri",
+      "tu": "tu eus guéri",
+      "il": "il eut guéri",
+      "elle": "elle eut guéri",
+      "on": "on eut guéri",
+      "nous": "nous eûmes guéri",
+      "vous": "vous eûtes guéri",
+      "ils": "ils eurent guéri",
+      "elles": "elles eurent guéri"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse guéri",
+      "tu": "tu eusses guéri",
+      "il": "il eût guéri",
+      "elle": "elle eût guéri",
+      "on": "on eût guéri",
+      "nous": "nous eussions guéri",
+      "vous": "vous eussiez guéri",
+      "ils": "ils eussent guéri",
+      "elles": "elles eussent guéri"
+    },
+    "imperatif_passe": {
+      "tu": "aie guéri",
+      "nous": "ayons guéri",
+      "vous": "ayez guéri"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "guérir",
+    "infinitif_passe": "avoir guéri",
+    "participe_present": "guérissant",
+    "participe_passe": "guéri",
+    "gerondif_present": "en guérissant",
+    "gerondif_passe": "en ayant guéri"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "nais",
       "nous": "naissons",
       "vous": "naissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je naquisse",
+      "tu": "tu naquisses",
+      "il": "il naquît",
+      "elle": "elle naquît",
+      "on": "on naquît",
+      "nous": "nous naquissions",
+      "vous": "vous naquissiez",
+      "ils": "ils naquissent",
+      "elles": "elles naquissent"
+    },
+    "passe_anterieur": {
+      "je": "je fus né",
+      "tu": "tu fus né",
+      "il": "il fut né",
+      "elle": "elle fut née",
+      "on": "on fut né",
+      "nous": "nous fûmes nés",
+      "vous": "vous fûtes nés",
+      "ils": "ils furent nés",
+      "elles": "elles furent nées"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je fusse né",
+      "tu": "tu fusses né",
+      "il": "il fût né",
+      "elle": "elle fût née",
+      "on": "on fût né",
+      "nous": "nous fussions nés",
+      "vous": "vous fussiez nés",
+      "ils": "ils fussent nés",
+      "elles": "elles fussent nées"
+    },
+    "imperatif_passe": {
+      "tu": "sois né",
+      "nous": "soyons nés",
+      "vous": "soyez nés"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "naître",
+    "infinitif_passe": "être né",
+    "participe_present": "naissant",
+    "participe_passe": "né",
+    "gerondif_present": "en naissant",
+    "gerondif_passe": "en étant né"
   }
 }

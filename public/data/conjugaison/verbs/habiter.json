@@ -139,6 +139,52 @@
       "tu": "habite",
       "nous": "habitons",
       "vous": "habitez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'habitasse",
+      "tu": "tu habitasses",
+      "il": "il habitât",
+      "elle": "elle habitât",
+      "on": "on habitât",
+      "nous": "nous habitassions",
+      "vous": "vous habitassiez",
+      "ils": "ils habitassent",
+      "elles": "elles habitassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus habité",
+      "tu": "tu eus habité",
+      "il": "il eut habité",
+      "elle": "elle eut habité",
+      "on": "on eut habité",
+      "nous": "nous eûmes habité",
+      "vous": "vous eûtes habité",
+      "ils": "ils eurent habité",
+      "elles": "elles eurent habité"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse habité",
+      "tu": "tu eusses habité",
+      "il": "il eût habité",
+      "elle": "elle eût habité",
+      "on": "on eût habité",
+      "nous": "nous eussions habité",
+      "vous": "vous eussiez habité",
+      "ils": "ils eussent habité",
+      "elles": "elles eussent habité"
+    },
+    "imperatif_passe": {
+      "tu": "aie habité",
+      "nous": "ayons habité",
+      "vous": "ayez habité"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "habiter",
+    "infinitif_passe": "avoir habité",
+    "participe_present": "habitant",
+    "participe_passe": "habité",
+    "gerondif_present": "en habitant",
+    "gerondif_passe": "en ayant habité"
   }
 }

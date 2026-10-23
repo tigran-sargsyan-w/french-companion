@@ -139,6 +139,52 @@
       "tu": "nettoie",
       "nous": "nettoyons",
       "vous": "nettoyez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je nettoyasse",
+      "tu": "tu nettoyasses",
+      "il": "il nettoyât",
+      "elle": "elle nettoyât",
+      "on": "on nettoyât",
+      "nous": "nous nettoyassions",
+      "vous": "vous nettoyassiez",
+      "ils": "ils nettoyassent",
+      "elles": "elles nettoyassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus nettoyé",
+      "tu": "tu eus nettoyé",
+      "il": "il eut nettoyé",
+      "elle": "elle eut nettoyé",
+      "on": "on eut nettoyé",
+      "nous": "nous eûmes nettoyé",
+      "vous": "vous eûtes nettoyé",
+      "ils": "ils eurent nettoyé",
+      "elles": "elles eurent nettoyé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse nettoyé",
+      "tu": "tu eusses nettoyé",
+      "il": "il eût nettoyé",
+      "elle": "elle eût nettoyé",
+      "on": "on eût nettoyé",
+      "nous": "nous eussions nettoyé",
+      "vous": "vous eussiez nettoyé",
+      "ils": "ils eussent nettoyé",
+      "elles": "elles eussent nettoyé"
+    },
+    "imperatif_passe": {
+      "tu": "aie nettoyé",
+      "nous": "ayons nettoyé",
+      "vous": "ayez nettoyé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "nettoyer",
+    "infinitif_passe": "avoir nettoyé",
+    "participe_present": "nettoyant",
+    "participe_passe": "nettoyé",
+    "gerondif_present": "en nettoyant",
+    "gerondif_passe": "en ayant nettoyé"
   }
 }

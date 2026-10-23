@@ -139,6 +139,52 @@
       "tu": "mets",
       "nous": "mettons",
       "vous": "mettez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je misse",
+      "tu": "tu misses",
+      "il": "il mît",
+      "elle": "elle mît",
+      "on": "on mît",
+      "nous": "nous missions",
+      "vous": "vous missiez",
+      "ils": "ils missent",
+      "elles": "elles missent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus mis",
+      "tu": "tu eus mis",
+      "il": "il eut mis",
+      "elle": "elle eut mis",
+      "on": "on eut mis",
+      "nous": "nous eûmes mis",
+      "vous": "vous eûtes mis",
+      "ils": "ils eurent mis",
+      "elles": "elles eurent mis"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse mis",
+      "tu": "tu eusses mis",
+      "il": "il eût mis",
+      "elle": "elle eût mis",
+      "on": "on eût mis",
+      "nous": "nous eussions mis",
+      "vous": "vous eussiez mis",
+      "ils": "ils eussent mis",
+      "elles": "elles eussent mis"
+    },
+    "imperatif_passe": {
+      "tu": "aie mis",
+      "nous": "ayons mis",
+      "vous": "ayez mis"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "mettre",
+    "infinitif_passe": "avoir mis",
+    "participe_present": "mettant",
+    "participe_passe": "mis",
+    "gerondif_present": "en mettant",
+    "gerondif_passe": "en ayant mis"
   }
 }

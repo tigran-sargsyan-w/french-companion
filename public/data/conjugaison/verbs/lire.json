@@ -139,6 +139,52 @@
       "tu": "lis",
       "nous": "lisons",
       "vous": "lisez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je lusse",
+      "tu": "tu lusses",
+      "il": "il lût",
+      "elle": "elle lût",
+      "on": "on lût",
+      "nous": "nous lussions",
+      "vous": "vous lussiez",
+      "ils": "ils lussent",
+      "elles": "elles lussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus lu",
+      "tu": "tu eus lu",
+      "il": "il eut lu",
+      "elle": "elle eut lu",
+      "on": "on eut lu",
+      "nous": "nous eûmes lu",
+      "vous": "vous eûtes lu",
+      "ils": "ils eurent lu",
+      "elles": "elles eurent lu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse lu",
+      "tu": "tu eusses lu",
+      "il": "il eût lu",
+      "elle": "elle eût lu",
+      "on": "on eût lu",
+      "nous": "nous eussions lu",
+      "vous": "vous eussiez lu",
+      "ils": "ils eussent lu",
+      "elles": "elles eussent lu"
+    },
+    "imperatif_passe": {
+      "tu": "aie lu",
+      "nous": "ayons lu",
+      "vous": "ayez lu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "lire",
+    "infinitif_passe": "avoir lu",
+    "participe_present": "lisant",
+    "participe_passe": "lu",
+    "gerondif_present": "en lisant",
+    "gerondif_passe": "en ayant lu"
   }
 }

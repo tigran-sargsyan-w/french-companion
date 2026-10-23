@@ -139,6 +139,52 @@
       "tu": "marche",
       "nous": "marchons",
       "vous": "marchez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je marchasse",
+      "tu": "tu marchasses",
+      "il": "il marchât",
+      "elle": "elle marchât",
+      "on": "on marchât",
+      "nous": "nous marchassions",
+      "vous": "vous marchassiez",
+      "ils": "ils marchassent",
+      "elles": "elles marchassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus marché",
+      "tu": "tu eus marché",
+      "il": "il eut marché",
+      "elle": "elle eut marché",
+      "on": "on eut marché",
+      "nous": "nous eûmes marché",
+      "vous": "vous eûtes marché",
+      "ils": "ils eurent marché",
+      "elles": "elles eurent marché"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse marché",
+      "tu": "tu eusses marché",
+      "il": "il eût marché",
+      "elle": "elle eût marché",
+      "on": "on eût marché",
+      "nous": "nous eussions marché",
+      "vous": "vous eussiez marché",
+      "ils": "ils eussent marché",
+      "elles": "elles eussent marché"
+    },
+    "imperatif_passe": {
+      "tu": "aie marché",
+      "nous": "ayons marché",
+      "vous": "ayez marché"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "marcher",
+    "infinitif_passe": "avoir marché",
+    "participe_present": "marchant",
+    "participe_passe": "marché",
+    "gerondif_present": "en marchant",
+    "gerondif_passe": "en ayant marché"
   }
 }
