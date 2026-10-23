@@ -1,23 +1,47 @@
 import { useQuery } from "@tanstack/react-query";
 import { useContentVersion } from "@/data";
 
-export const TENSES = [
-  { id: "present", label: "Présent" },
-  { id: "imparfait", label: "Imparfait" },
-  { id: "passe_compose", label: "Passé composé" },
-  { id: "plus_que_parfait", label: "Plus-que-parfait" },
-  { id: "futur_proche", label: "Futur proche" },
-  { id: "futur_simple", label: "Futur simple" },
-  { id: "futur_anterieur", label: "Futur antérieur" },
-  { id: "conditionnel_present", label: "Conditionnel présent" },
-  { id: "conditionnel_passe", label: "Conditionnel passé" },
-  { id: "subjonctif_present", label: "Subjonctif présent" },
-  { id: "subjonctif_passe", label: "Subjonctif passé" },
-  { id: "passe_simple", label: "Passé simple" },
-  { id: "imperatif_present", label: "Impératif présent" },
+export const PERSONAL_TENSES = [
+  { id: "present", label: "Présent", group: "indicatif" },
+  { id: "passe_compose", label: "Passé composé", group: "indicatif" },
+  { id: "imparfait", label: "Imparfait", group: "indicatif" },
+  { id: "plus_que_parfait", label: "Plus-que-parfait", group: "indicatif" },
+  { id: "passe_simple", label: "Passé simple", group: "indicatif" },
+  { id: "passe_anterieur", label: "Passé antérieur", group: "indicatif" },
+  { id: "futur_proche", label: "Futur proche", group: "indicatif" },
+  { id: "futur_simple", label: "Futur simple", group: "indicatif" },
+  { id: "futur_anterieur", label: "Futur antérieur", group: "indicatif" },
+  { id: "subjonctif_present", label: "Subjonctif présent", group: "subjonctif" },
+  { id: "subjonctif_passe", label: "Subjonctif passé", group: "subjonctif" },
+  { id: "subjonctif_imparfait", label: "Subjonctif imparfait", group: "subjonctif" },
+  { id: "subjonctif_plus_que_parfait", label: "Subjonctif plus-que-parfait", group: "subjonctif" },
+  { id: "conditionnel_present", label: "Conditionnel présent", group: "conditionnel" },
+  { id: "conditionnel_passe", label: "Conditionnel passé", group: "conditionnel" },
+  { id: "imperatif_present", label: "Impératif présent", group: "imperatif" },
+  { id: "imperatif_passe", label: "Impératif passé", group: "imperatif" },
 ] as const;
 
-export type Tense = (typeof TENSES)[number]["id"];
+export const NON_FINITE_TENSES = [
+  { id: "infinitif_present", label: "Infinitif présent", group: "non_finite" },
+  { id: "infinitif_passe", label: "Infinitif passé", group: "non_finite" },
+  { id: "participe_present", label: "Participe présent", group: "non_finite" },
+  { id: "participe_passe", label: "Participe passé", group: "non_finite" },
+  { id: "gerondif_present", label: "Gérondif présent", group: "non_finite" },
+  { id: "gerondif_passe", label: "Gérondif passé", group: "non_finite" },
+] as const;
+
+export const TENSES = [...PERSONAL_TENSES, ...NON_FINITE_TENSES] as const;
+export const TENSE_GROUPS = [
+  { id: "indicatif", label: "Indicatif" },
+  { id: "subjonctif", label: "Subjonctif" },
+  { id: "conditionnel", label: "Conditionnel" },
+  { id: "imperatif", label: "Impératif" },
+  { id: "non_finite", label: "Formes non personnelles (sans pronom)" },
+] as const;
+
+export type PersonalTense = (typeof PERSONAL_TENSES)[number]["id"];
+export type NonFiniteTense = (typeof NON_FINITE_TENSES)[number]["id"];
+export type Tense = PersonalTense | NonFiniteTense;
 export const PRONOUNS = ["je", "tu", "il", "elle", "on", "nous", "vous", "ils", "elles"] as const;
 export type Pronoun = (typeof PRONOUNS)[number];
 export type VerbGroup = "regular" | "irregular";
@@ -26,8 +50,13 @@ export type ConjugationVerb = {
   infinitive: string;
   status: "learning" | "learned";
   group: VerbGroup;
-  forms: Partial<Record<Tense, Partial<Record<Pronoun, string>>>>;
+  forms: Partial<Record<PersonalTense, Partial<Record<Pronoun, string>>>>;
+  nonFinite: Partial<Record<NonFiniteTense, string>>;
 };
+
+export function isNonFinite(tense: Tense): tense is NonFiniteTense {
+  return NON_FINITE_TENSES.some((item) => item.id === tense);
+}
 
 /**
  * The lesson bundle and conjugation bundle share the same version sentinel,
@@ -52,36 +81,52 @@ export function useConjugationVerbs() {
   });
 }
 
-export type Prompt = { verb: ConjugationVerb; tense: Tense; pronoun: Pronoun };
+
+export type Prompt = { verb: ConjugationVerb; tense: Tense; pronoun: Pronoun | null };
 export type Question = Prompt & { choices: string[]; correctIndex: number; correct: string };
 
-function shuffle<T>(array: readonly T[]): T[] {
-  const result = [...array];
-  for (let i = result.length - 1; i > 0; i--) {
+function shuffle<T>(items: readonly T[]): T[] {
+  const out = [...items];
+  for (let i = out.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [result[i], result[j]] = [result[j], result[i]];
+    [out[i], out[j]] = [out[j], out[i]];
   }
-  return result;
+  return out;
 }
 
 function bareForm(form: string): string {
   return form.replace(/^(?:je |j'|tu |il |elle |on |nous |vous |ils |elles )/, "");
 }
 
+/** Each answer pool is rebuilt; distractors use other forms of the same verb. */
 export function createQuestion(prompt: Prompt): Question | null {
-  const correct = prompt.verb.forms[prompt.tense]?.[prompt.pronoun];
-  if (!correct) return null;
-
-  // Impératif has no subject in the written form. Remove subjects from
-  // distractors too, otherwise the correct answer would be too obvious.
-  const imperative = prompt.tense === "imperatif_present";
+  let correct: string | undefined;
   const pool = new Set<string>();
-  for (const [tense, forms] of Object.entries(prompt.verb.forms)) {
-    if (tense === prompt.tense || tense === "imperatif_present") continue;
-    const value = forms?.[prompt.pronoun];
-    if (value) {
-      const option = imperative ? bareForm(value) : value;
-      if (option !== correct) pool.add(option);
+  if (isNonFinite(prompt.tense)) {
+    correct = prompt.verb.nonFinite?.[prompt.tense];
+    if (!correct) return null;
+    for (const [tense, form] of Object.entries(prompt.verb.nonFinite ?? {})) {
+      if (tense !== prompt.tense && form !== correct && form) pool.add(form);
+    }
+  } else {
+    if (!prompt.pronoun) return null;
+    correct = prompt.verb.forms[prompt.tense]?.[prompt.pronoun];
+    if (!correct) return null;
+    const imperative = prompt.tense === "imperatif_present" || prompt.tense === "imperatif_passe";
+    for (const [tense, forms] of Object.entries(prompt.verb.forms)) {
+      if (tense === prompt.tense || tense.startsWith("imperatif_")) continue;
+      const value = forms?.[prompt.pronoun];
+      if (value) {
+        const option = imperative ? bareForm(value) : value;
+        if (option !== correct) pool.add(option);
+      }
+    }
+    // For imperative questions, the *other* imperative form is also a useful
+    // distractor, since both are written without a subject.
+    if (imperative) {
+      const other = prompt.tense === "imperatif_present" ? "imperatif_passe" : "imperatif_present";
+      const value = prompt.verb.forms[other]?.[prompt.pronoun];
+      if (value && value !== correct) pool.add(value);
     }
   }
   if (pool.size < 3) return null;
@@ -89,36 +134,38 @@ export function createQuestion(prompt: Prompt): Question | null {
   return { ...prompt, choices, correctIndex: choices.indexOf(correct), correct };
 }
 
-/** Randomizes all verb/person/tense combinations without repetition in a session. */
+/** Personal forms respect chosen pronouns. Non-finite forms never require one. */
 export function createDeck(
   available: readonly ConjugationVerb[],
   tenses: readonly Tense[],
   pronouns: readonly Pronoun[],
   limit: number,
 ): Question[] {
-  const prompts = shuffle(available.flatMap((verb) =>
-    tenses.flatMap((tense) =>
-      pronouns.filter((pronoun) => verb.forms[tense]?.[pronoun])
-        .map((pronoun) => ({ verb, tense, pronoun })),
-    ),
+  const prompts: Prompt[] = shuffle(available.flatMap((verb) =>
+    tenses.flatMap((tense): Prompt[] => {
+      if (isNonFinite(tense)) {
+        return verb.nonFinite?.[tense] ? [{ verb, tense, pronoun: null }] : [];
+      }
+      return pronouns.filter((pronoun) => Boolean(verb.forms[tense]?.[pronoun]))
+        .map((pronoun) => ({ verb, tense, pronoun }));
+    }),
   ));
 
-  // Avoid identical verbs back-to-back, including when the deck is large.
+  // Avoid the same verb in successive questions whenever another one exists.
   for (let i = 1; i < prompts.length; i++) {
-    if (prompts[i].verb.infinitive === prompts[i - 1].verb.infinitive) {
-      const replacement = prompts.findIndex((candidate, j) =>
-        j > i && candidate.verb.infinitive !== prompts[i - 1].verb.infinitive
-        && (j + 1 === prompts.length || prompts[j + 1].verb.infinitive !== prompts[i].verb.infinitive),
-      );
-      if (replacement >= 0) [prompts[i], prompts[replacement]] = [prompts[replacement], prompts[i]];
-    }
+    if (prompts[i].verb.infinitive !== prompts[i - 1].verb.infinitive) continue;
+    const replacement = prompts.findIndex((candidate, j) =>
+      j > i && candidate.verb.infinitive !== prompts[i - 1].verb.infinitive &&
+      (j + 1 === prompts.length || prompts[j + 1].verb.infinitive !== prompts[i].verb.infinitive),
+    );
+    if (replacement >= 0) [prompts[i], prompts[replacement]] = [prompts[replacement], prompts[i]];
   }
 
-  const result: Question[] = [];
+  const deck: Question[] = [];
   for (const prompt of prompts) {
     const question = createQuestion(prompt);
-    if (question) result.push(question);
-    if (result.length === limit) break;
+    if (question) deck.push(question);
+    if (deck.length >= limit) break;
   }
-  return result;
+  return deck;
 }
