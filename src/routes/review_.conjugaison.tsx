@@ -5,6 +5,8 @@ import { PageHeader } from "@/components/AppShell";
 import {
   createDeck,
   createQuestion,
+  isNonFinite,
+  TENSE_GROUPS,
   PRONOUNS,
   TENSES,
   useConjugationVerbs,
@@ -100,7 +102,7 @@ function ConjugaisonPage() {
       <PageHeader
         eyebrow="Révision · Choix multiple"
         title="Conjugaison"
-        description="Quatre réponses mélangées à chaque question : conjugue les verbes à tous les temps."
+        description="Quatre choix aléatoires : conjugaison personnelle et formes non personnelles."
       />
       <div className="mb-6 flex flex-wrap gap-2">
         <Link to="/review" className={outlined}>Vocabulaire</Link>
@@ -130,24 +132,33 @@ function ConjugaisonPage() {
                 <button onClick={() => setTenses([])} className="text-muted-foreground hover:underline">Aucun</button>
               </div>
             </div>
-            <div className="flex flex-wrap gap-2">
-              {TENSES.map((tense) => {
-                const active = tenses.includes(tense.id);
-                return (
-                  <button
-                    key={tense.id}
-                    type="button"
-                    aria-pressed={active}
-                    onClick={() => setTenses((previous) =>
-                      active ? previous.filter((id) => id !== tense.id) : [...previous, tense.id],
-                    )}
-                    className={"rounded-full border px-3 py-2 text-xs sm:text-sm " +
-                      (active ? "border-primary bg-primary/10 text-foreground" : "border-border bg-secondary/40 text-muted-foreground")}
-                  >
-                    {active ? "✓ " : ""}{tense.label}
-                  </button>
-                );
-              })}
+            <div className="space-y-4">
+              {TENSE_GROUPS.map((group) => (
+                <div key={group.id}>
+                  <div className="mb-2 text-sm font-medium text-muted-foreground">{group.label}</div>
+                  <div className="flex flex-wrap gap-2">
+                    {TENSES.filter((tense) => tense.group === group.id).map((tense) => {
+                      const active = tenses.includes(tense.id);
+                      return (
+                        <button
+                          key={tense.id}
+                          type="button"
+                          aria-pressed={active}
+                          onClick={() => setTenses((previous) => active
+                            ? previous.filter((id) => id !== tense.id)
+                            : [...previous, tense.id],
+                          )}
+                          className={"rounded-full border px-3 py-2 text-xs sm:text-sm " +
+                            (active ? "border-primary bg-primary/10 text-foreground" :
+                              "border-border bg-secondary/40 text-muted-foreground")}
+                        >
+                          {active ? "✓ " : ""}{tense.label}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+              ))}
             </div>
           </div>
 
@@ -173,6 +184,7 @@ function ConjugaisonPage() {
                 );
               })}
             </div>
+            <p className="mt-2 text-xs text-muted-foreground">Les formes non personnelles se pratiquent sans pronom.</p>
           </div>
 
           <div className="grid gap-5 sm:grid-cols-2">
@@ -204,7 +216,7 @@ function ConjugaisonPage() {
           </p>
           <button
             className={primary + " flex w-full items-center justify-center gap-2 disabled:cursor-not-allowed disabled:opacity-40"}
-            disabled={!tenses.length || !pronouns.length || !available.length}
+            disabled={!tenses.length || !available.length || (!pronouns.length && !tenses.some(isNonFinite))}
             onClick={() => start()}
           >
             Commencer <ArrowRight className="h-4 w-4" />
@@ -288,7 +300,7 @@ function ConjugaisonPage() {
             <div className="text-sm text-muted-foreground">Choisis la bonne conjugaison</div>
             <div className="font-display text-4xl">{current.verb.infinitive}</div>
             <div className="flex flex-wrap items-center justify-center gap-2">
-              <span className="rounded-full bg-secondary px-3 py-1 text-sm">{current.pronoun}</span>
+              <span className="rounded-full bg-secondary px-3 py-1 text-sm">{current.pronoun ?? "Sans pronom"}</span>
               <span className="rounded-full bg-primary/10 px-3 py-1 text-sm">{label(current.tense)}</span>
             </div>
           </div>
