@@ -1,0 +1,555 @@
+[
+  {
+    "id": "v_2026_10_19_les_canons_de_beaute",
+    "french": "les canons de beauté",
+    "translation": "каноны красоты",
+    "example": "Les canons de beauté changent selon les époques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_beaute_masculine",
+    "french": "la beauté masculine",
+    "translation": "мужская красота",
+    "example": "La beauté masculine est au cœur de cette activité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_constamment",
+    "french": "constamment",
+    "translation": "постоянно",
+    "example": "Les critères évoluent constamment.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_evoluer_au_fil_des_siecles",
+    "french": "évoluer au fil des siècles",
+    "translation": "меняться на протяжении веков",
+    "example": "Les goûts peuvent évoluer au fil des siècles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_refleter_les_valeurs_de_chaque_epoque",
+    "french": "refléter les valeurs de chaque époque",
+    "translation": "отражать ценности каждой эпохи",
+    "example": "Les idéaux semblent refléter les valeurs de chaque époque.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_associer_a",
+    "french": "associer à",
+    "translation": "ассоциировать с",
+    "example": "On peut associer la force à la beauté masculine.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_feminite",
+    "french": "la féminité",
+    "translation": "женственность",
+    "example": "La féminité est représentée différemment selon les cultures.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_une_construction_culturelle",
+    "french": "une construction culturelle",
+    "translation": "культурный конструкт",
+    "example": "L'idéal de beauté est une construction culturelle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_etre_influence_par",
+    "french": "être influencé par",
+    "translation": "находиться под влиянием",
+    "example": "Notre regard peut être influencé par les médias.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_criteres_economiques",
+    "french": "les critères économiques",
+    "translation": "экономические критерии",
+    "example": "Les critères économiques jouent aussi un rôle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_criteres_historiques",
+    "french": "les critères historiques",
+    "translation": "исторические критерии",
+    "example": "Les critères historiques permettent de comprendre les changements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_criteres_ideologiques",
+    "french": "les critères idéologiques",
+    "translation": "идеологические критерии",
+    "example": "Les critères idéologiques varient d'une société à l'autre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_en_fonction_de",
+    "french": "en fonction de",
+    "translation": "в зависимости от",
+    "example": "L'idéal varie en fonction de la période.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_le_corps_masculin_ideal",
+    "french": "le corps masculin idéal",
+    "translation": "идеальное мужское тело",
+    "example": "Le corps masculin idéal n'a pas toujours été musclé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_etre_represente_par",
+    "french": "être représenté par",
+    "translation": "быть представленным кем-либо",
+    "example": "Dans l'art, cet idéal peut être représenté par un athlète.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_un_athlete",
+    "french": "un athlète",
+    "translation": "атлет",
+    "example": "Un athlète symbolise souvent la force.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_un_guerrier",
+    "french": "un guerrier",
+    "translation": "воин",
+    "example": "Un guerrier incarne parfois le courage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_un_corps_muscle",
+    "french": "un corps musclé",
+    "translation": "мускулистое тело",
+    "example": "Un corps musclé est valorisé dans certaines publicités.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_un_symbole_de_protection",
+    "french": "un symbole de protection",
+    "translation": "символ защиты",
+    "example": "Le guerrier devient un symbole de protection.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_une_taille_fine",
+    "french": "une taille fine",
+    "translation": "тонкая талия",
+    "example": "Une taille fine était recherchée dans certains portraits.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_traits_symetriques",
+    "french": "les traits symétriques",
+    "translation": "симметричные черты лица",
+    "example": "Les traits symétriques sont parfois associés à l'harmonie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_philosophie_grecque",
+    "french": "la philosophie grecque",
+    "translation": "греческая философия",
+    "example": "La philosophie grecque s'intéressait à l'harmonie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_puissance_musculaire",
+    "french": "la puissance musculaire",
+    "translation": "мышечная сила",
+    "example": "La puissance musculaire n'est pas le seul critère.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_beaute_interieure",
+    "french": "la beauté intérieure",
+    "translation": "внутренняя красота",
+    "example": "La beauté intérieure compte autant que l'apparence.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_beaute_spirituelle",
+    "french": "la beauté spirituelle",
+    "translation": "духовная красота",
+    "example": "La beauté spirituelle est mise en avant dans certains textes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_definir",
+    "french": "définir",
+    "translation": "определять",
+    "example": "Comment définir la beauté aujourd'hui ?",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_etre_exhibe",
+    "french": "être exhibé",
+    "translation": "выставляться напоказ",
+    "example": "Le corps peut être exhibé dans la publicité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_representations_de_figures_saintes",
+    "french": "les représentations de figures saintes",
+    "translation": "изображения святых",
+    "example": "Les représentations de figures saintes valorisent parfois la pureté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_purete",
+    "french": "la pureté",
+    "translation": "чистота",
+    "example": "La pureté était une qualité recherchée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_l_autorite",
+    "french": "l'autorité",
+    "translation": "авторитет, власть",
+    "example": "Le portrait peut symboliser l'autorité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_l_age_d_or",
+    "french": "l'âge d'or",
+    "translation": "золотой век",
+    "example": "On parle de l'âge d'or d'un style.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_le_luxe",
+    "french": "le luxe",
+    "translation": "роскошь",
+    "example": "Le luxe apparaît dans les vêtements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_delicatesse",
+    "french": "la délicatesse",
+    "translation": "утончённость, нежность",
+    "example": "La délicatesse des traits est appréciée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_l_ideal_de_beaute",
+    "french": "l'idéal de beauté",
+    "translation": "идеал красоты",
+    "example": "L'idéal de beauté change avec les modes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_etre_incarne_par",
+    "french": "être incarné par",
+    "translation": "воплощаться в ком-либо",
+    "example": "Cet idéal peut être incarné par un acteur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_une_perruque",
+    "french": "une perruque",
+    "translation": "парик",
+    "example": "Une perruque faisait partie de certaines modes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_cheveux_epais",
+    "french": "les cheveux épais",
+    "translation": "густые волосы",
+    "example": "Les cheveux épais peuvent être valorisés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_habits_luxueux",
+    "french": "les habits luxueux",
+    "translation": "роскошная одежда",
+    "example": "Les habits luxueux montrent le rang social.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_traits_fins",
+    "french": "les traits fins",
+    "translation": "тонкие черты лица",
+    "example": "Les traits fins étaient appréciés à cette époque.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_le_visage_imberbe",
+    "french": "le visage imberbe",
+    "translation": "безбородое лицо",
+    "example": "Le visage imberbe devient à la mode.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_etre_maquille",
+    "french": "être maquillé",
+    "translation": "быть накрашенным",
+    "example": "Le personnage peut être maquillé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_etre_considere_comme",
+    "french": "être considéré comme",
+    "translation": "считаться",
+    "example": "Un visage peut être considéré comme harmonieux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_une_figure_litteraire",
+    "french": "une figure littéraire",
+    "translation": "литературный образ",
+    "example": "Ce héros est une figure littéraire connue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_une_figure_poetique",
+    "french": "une figure poétique",
+    "translation": "поэтический образ",
+    "example": "Cette figure poétique incarne la sensibilité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_sensibilite",
+    "french": "la sensibilité",
+    "translation": "чувствительность",
+    "example": "La sensibilité est parfois considérée comme séduisante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_dandys",
+    "french": "les dandys",
+    "translation": "денди",
+    "example": "Les dandys soignaient leur apparence.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_moustache_soignee",
+    "french": "la moustache soignée",
+    "translation": "ухоженные усы",
+    "example": "La moustache soignée fait partie de son style.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_fine_silhouette",
+    "french": "la fine silhouette",
+    "translation": "стройный силуэт",
+    "example": "La fine silhouette caractérise ce portrait.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_un_symbole_d_elegance",
+    "french": "un symbole d'élégance",
+    "translation": "символ элегантности",
+    "example": "Ce costume est un symbole d'élégance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_le_raffinement",
+    "french": "le raffinement",
+    "translation": "изысканность",
+    "example": "Le raffinement est associé aux bonnes manières.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_forte_corpulence",
+    "french": "la forte corpulence",
+    "translation": "крупное телосложение",
+    "example": "La forte corpulence était parfois valorisée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_l_embonpoint",
+    "french": "l'embonpoint",
+    "translation": "полнота",
+    "example": "L'embonpoint pouvait évoquer l'aisance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_l_abondance",
+    "french": "l'abondance",
+    "translation": "изобилие",
+    "example": "L'abondance était un signe de prospérité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_richesse",
+    "french": "la richesse",
+    "translation": "богатство",
+    "example": "La richesse influençait la mode.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_bourgeoisie",
+    "french": "la bourgeoisie",
+    "translation": "буржуазия",
+    "example": "La bourgeoisie adoptait ses propres codes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_l_arrivee_du_cinema",
+    "french": "l'arrivée du cinéma",
+    "translation": "появление кинематографа",
+    "example": "L'arrivée du cinéma a transformé les modèles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_ideaux_de_beaute",
+    "french": "les idéaux de beauté",
+    "translation": "идеалы красоты",
+    "example": "Les idéaux de beauté sont multiples.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_largement",
+    "french": "largement",
+    "translation": "широко, в значительной степени",
+    "example": "Le cinéma influence largement les tendances.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_films_hollywoodiens",
+    "french": "les films hollywoodiens",
+    "translation": "голливудские фильмы",
+    "example": "Les films hollywoodiens diffusent certains modèles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_assister_a_un_rejet",
+    "french": "assister à un rejet",
+    "translation": "наблюдать неприятие",
+    "example": "On peut assister à un rejet de ces modèles.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_canons_de_beaute_uniformises",
+    "french": "les canons de beauté uniformisés",
+    "translation": "унифицированные каноны красоты",
+    "example": "Les canons de beauté uniformisés sont critiqués.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_une_allure_decontractee",
+    "french": "une allure décontractée",
+    "translation": "непринуждённый внешний вид",
+    "example": "Il préfère une allure décontractée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_avoir_du_charme",
+    "french": "avoir du charme",
+    "translation": "обладать обаянием",
+    "example": "On peut avoir du charme sans correspondre aux normes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_aller_au_dela_de",
+    "french": "aller au-delà de",
+    "translation": "выходить за рамки",
+    "example": "Il faut aller au-delà de l'apparence.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_l_apparence_physique",
+    "french": "l'apparence physique",
+    "translation": "физическая внешность",
+    "example": "L'apparence physique ne suffit pas à définir une personne.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_sous_l_influence_de",
+    "french": "sous l'influence de",
+    "translation": "под влиянием",
+    "example": "Les goûts changent sous l'influence de la société.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_standards_de_beaute",
+    "french": "les standards de beauté",
+    "translation": "стандарты красоты",
+    "example": "Les standards de beauté varient selon les pays.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_glorification_des_muscles",
+    "french": "la glorification des muscles",
+    "translation": "культ мускулатуры",
+    "example": "La glorification des muscles apparaît dans certains médias.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_force_physique",
+    "french": "la force physique",
+    "translation": "физическая сила",
+    "example": "La force physique était un critère important.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_virilite",
+    "french": "la virilité",
+    "translation": "мужественность",
+    "example": "La virilité prend des formes différentes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_criteres_de_beaute_actuels",
+    "french": "les critères de beauté actuels",
+    "translation": "современные критерии красоты",
+    "example": "Les critères de beauté actuels sont variés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_reseaux_sociaux",
+    "french": "les réseaux sociaux",
+    "translation": "социальные сети",
+    "example": "Les réseaux sociaux diffusent beaucoup d'images.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_bombarder_d_images",
+    "french": "bombarder d'images",
+    "translation": "бомбардировать изображениями",
+    "example": "Les publicités peuvent nous bombarder d'images.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_les_corps_sportifs",
+    "french": "les corps sportifs",
+    "translation": "спортивные тела",
+    "example": "Les corps sportifs occupent une place importante dans les médias.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_en_meme_temps",
+    "french": "en même temps",
+    "translation": "одновременно",
+    "example": "En même temps, d'autres modèles apparaissent.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_silhouette_androgyne",
+    "french": "la silhouette androgyne",
+    "translation": "андрогинный силуэт",
+    "example": "La silhouette androgyne remet en question les normes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_etre_de_plus_en_plus_apprecie",
+    "french": "être de plus en plus apprécié",
+    "translation": "цениться всё больше",
+    "example": "Ce style semble être de plus en plus apprécié.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_le_reflet_de_la_diversite",
+    "french": "le reflet de la diversité",
+    "translation": "отражение разнообразия",
+    "example": "Cette tendance est le reflet de la diversité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_19_la_beaute_actuelle",
+    "french": "la beauté actuelle",
+    "translation": "современная красота",
+    "example": "La beauté actuelle ne se réduit pas à un seul modèle.",
+    "status": "learning"
+  }
+]
