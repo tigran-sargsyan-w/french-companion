@@ -1,0 +1,144 @@
+{
+  "infinitive": "connaître",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je connais",
+      "tu": "tu connais",
+      "il": "il connaît",
+      "elle": "elle connaît",
+      "on": "on connaît",
+      "nous": "nous connaissons",
+      "vous": "vous connaissez",
+      "ils": "ils connaissent",
+      "elles": "elles connaissent"
+    },
+    "imparfait": {
+      "je": "je connaissais",
+      "tu": "tu connaissais",
+      "il": "il connaissait",
+      "elle": "elle connaissait",
+      "on": "on connaissait",
+      "nous": "nous connaissions",
+      "vous": "vous connaissiez",
+      "ils": "ils connaissaient",
+      "elles": "elles connaissaient"
+    },
+    "futur_simple": {
+      "je": "je connaîtrai",
+      "tu": "tu connaîtras",
+      "il": "il connaîtra",
+      "elle": "elle connaîtra",
+      "on": "on connaîtra",
+      "nous": "nous connaîtrons",
+      "vous": "vous connaîtrez",
+      "ils": "ils connaîtront",
+      "elles": "elles connaîtront"
+    },
+    "conditionnel_present": {
+      "je": "je connaîtrais",
+      "tu": "tu connaîtrais",
+      "il": "il connaîtrait",
+      "elle": "elle connaîtrait",
+      "on": "on connaîtrait",
+      "nous": "nous connaîtrions",
+      "vous": "vous connaîtriez",
+      "ils": "ils connaîtraient",
+      "elles": "elles connaîtraient"
+    },
+    "subjonctif_present": {
+      "je": "je connaisse",
+      "tu": "tu connaisses",
+      "il": "il connaisse",
+      "elle": "elle connaisse",
+      "on": "on connaisse",
+      "nous": "nous connaissions",
+      "vous": "vous connaissiez",
+      "ils": "ils connaissent",
+      "elles": "elles connaissent"
+    },
+    "passe_simple": {
+      "je": "je connus",
+      "tu": "tu connus",
+      "il": "il connut",
+      "elle": "elle connut",
+      "on": "on connut",
+      "nous": "nous connûmes",
+      "vous": "vous connûtes",
+      "ils": "ils connurent",
+      "elles": "elles connurent"
+    },
+    "passe_compose": {
+      "je": "j'ai connu",
+      "tu": "tu as connu",
+      "il": "il a connu",
+      "elle": "elle a connu",
+      "on": "on a connu",
+      "nous": "nous avons connu",
+      "vous": "vous avez connu",
+      "ils": "ils ont connu",
+      "elles": "elles ont connu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais connu",
+      "tu": "tu avais connu",
+      "il": "il avait connu",
+      "elle": "elle avait connu",
+      "on": "on avait connu",
+      "nous": "nous avions connu",
+      "vous": "vous aviez connu",
+      "ils": "ils avaient connu",
+      "elles": "elles avaient connu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai connu",
+      "tu": "tu auras connu",
+      "il": "il aura connu",
+      "elle": "elle aura connu",
+      "on": "on aura connu",
+      "nous": "nous aurons connu",
+      "vous": "vous aurez connu",
+      "ils": "ils auront connu",
+      "elles": "elles auront connu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais connu",
+      "tu": "tu aurais connu",
+      "il": "il aurait connu",
+      "elle": "elle aurait connu",
+      "on": "on aurait connu",
+      "nous": "nous aurions connu",
+      "vous": "vous auriez connu",
+      "ils": "ils auraient connu",
+      "elles": "elles auraient connu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie connu",
+      "tu": "tu aies connu",
+      "il": "il ait connu",
+      "elle": "elle ait connu",
+      "on": "on ait connu",
+      "nous": "nous ayons connu",
+      "vous": "vous ayez connu",
+      "ils": "ils aient connu",
+      "elles": "elles aient connu"
+    },
+    "futur_proche": {
+      "je": "je vais connaître",
+      "tu": "tu vas connaître",
+      "il": "il va connaître",
+      "elle": "elle va connaître",
+      "on": "on va connaître",
+      "nous": "nous allons connaître",
+      "vous": "vous allez connaître",
+      "ils": "ils vont connaître",
+      "elles": "elles vont connaître"
+    },
+    "imperatif_present": {
+      "tu": "connais",
+      "nous": "connaissons",
+      "vous": "connaissez"
+    }
+  }
+}

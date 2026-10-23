@@ -1,0 +1,144 @@
+{
+  "infinitive": "souhaiter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je souhaite",
+      "tu": "tu souhaites",
+      "il": "il souhaite",
+      "elle": "elle souhaite",
+      "on": "on souhaite",
+      "nous": "nous souhaitons",
+      "vous": "vous souhaitez",
+      "ils": "ils souhaitent",
+      "elles": "elles souhaitent"
+    },
+    "imparfait": {
+      "je": "je souhaitais",
+      "tu": "tu souhaitais",
+      "il": "il souhaitait",
+      "elle": "elle souhaitait",
+      "on": "on souhaitait",
+      "nous": "nous souhaitions",
+      "vous": "vous souhaitiez",
+      "ils": "ils souhaitaient",
+      "elles": "elles souhaitaient"
+    },
+    "futur_simple": {
+      "je": "je souhaiterai",
+      "tu": "tu souhaiteras",
+      "il": "il souhaitera",
+      "elle": "elle souhaitera",
+      "on": "on souhaitera",
+      "nous": "nous souhaiterons",
+      "vous": "vous souhaiterez",
+      "ils": "ils souhaiteront",
+      "elles": "elles souhaiteront"
+    },
+    "conditionnel_present": {
+      "je": "je souhaiterais",
+      "tu": "tu souhaiterais",
+      "il": "il souhaiterait",
+      "elle": "elle souhaiterait",
+      "on": "on souhaiterait",
+      "nous": "nous souhaiterions",
+      "vous": "vous souhaiteriez",
+      "ils": "ils souhaiteraient",
+      "elles": "elles souhaiteraient"
+    },
+    "subjonctif_present": {
+      "je": "je souhaite",
+      "tu": "tu souhaites",
+      "il": "il souhaite",
+      "elle": "elle souhaite",
+      "on": "on souhaite",
+      "nous": "nous souhaitions",
+      "vous": "vous souhaitiez",
+      "ils": "ils souhaitent",
+      "elles": "elles souhaitent"
+    },
+    "passe_simple": {
+      "je": "je souhaitai",
+      "tu": "tu souhaitas",
+      "il": "il souhaita",
+      "elle": "elle souhaita",
+      "on": "on souhaita",
+      "nous": "nous souhaitâmes",
+      "vous": "vous souhaitâtes",
+      "ils": "ils souhaitèrent",
+      "elles": "elles souhaitèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai souhaité",
+      "tu": "tu as souhaité",
+      "il": "il a souhaité",
+      "elle": "elle a souhaité",
+      "on": "on a souhaité",
+      "nous": "nous avons souhaité",
+      "vous": "vous avez souhaité",
+      "ils": "ils ont souhaité",
+      "elles": "elles ont souhaité"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais souhaité",
+      "tu": "tu avais souhaité",
+      "il": "il avait souhaité",
+      "elle": "elle avait souhaité",
+      "on": "on avait souhaité",
+      "nous": "nous avions souhaité",
+      "vous": "vous aviez souhaité",
+      "ils": "ils avaient souhaité",
+      "elles": "elles avaient souhaité"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai souhaité",
+      "tu": "tu auras souhaité",
+      "il": "il aura souhaité",
+      "elle": "elle aura souhaité",
+      "on": "on aura souhaité",
+      "nous": "nous aurons souhaité",
+      "vous": "vous aurez souhaité",
+      "ils": "ils auront souhaité",
+      "elles": "elles auront souhaité"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais souhaité",
+      "tu": "tu aurais souhaité",
+      "il": "il aurait souhaité",
+      "elle": "elle aurait souhaité",
+      "on": "on aurait souhaité",
+      "nous": "nous aurions souhaité",
+      "vous": "vous auriez souhaité",
+      "ils": "ils auraient souhaité",
+      "elles": "elles auraient souhaité"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie souhaité",
+      "tu": "tu aies souhaité",
+      "il": "il ait souhaité",
+      "elle": "elle ait souhaité",
+      "on": "on ait souhaité",
+      "nous": "nous ayons souhaité",
+      "vous": "vous ayez souhaité",
+      "ils": "ils aient souhaité",
+      "elles": "elles aient souhaité"
+    },
+    "futur_proche": {
+      "je": "je vais souhaiter",
+      "tu": "tu vas souhaiter",
+      "il": "il va souhaiter",
+      "elle": "elle va souhaiter",
+      "on": "on va souhaiter",
+      "nous": "nous allons souhaiter",
+      "vous": "vous allez souhaiter",
+      "ils": "ils vont souhaiter",
+      "elles": "elles vont souhaiter"
+    },
+    "imperatif_present": {
+      "tu": "souhaite",
+      "nous": "souhaitons",
+      "vous": "souhaitez"
+    }
+  }
+}

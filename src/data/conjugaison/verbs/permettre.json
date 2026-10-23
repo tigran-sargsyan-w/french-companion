@@ -1,0 +1,144 @@
+{
+  "infinitive": "permettre",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je permets",
+      "tu": "tu permets",
+      "il": "il permet",
+      "elle": "elle permet",
+      "on": "on permet",
+      "nous": "nous permettons",
+      "vous": "vous permettez",
+      "ils": "ils permettent",
+      "elles": "elles permettent"
+    },
+    "imparfait": {
+      "je": "je permettais",
+      "tu": "tu permettais",
+      "il": "il permettait",
+      "elle": "elle permettait",
+      "on": "on permettait",
+      "nous": "nous permettions",
+      "vous": "vous permettiez",
+      "ils": "ils permettaient",
+      "elles": "elles permettaient"
+    },
+    "futur_simple": {
+      "je": "je permettrai",
+      "tu": "tu permettras",
+      "il": "il permettra",
+      "elle": "elle permettra",
+      "on": "on permettra",
+      "nous": "nous permettrons",
+      "vous": "vous permettrez",
+      "ils": "ils permettront",
+      "elles": "elles permettront"
+    },
+    "conditionnel_present": {
+      "je": "je permettrais",
+      "tu": "tu permettrais",
+      "il": "il permettrait",
+      "elle": "elle permettrait",
+      "on": "on permettrait",
+      "nous": "nous permettrions",
+      "vous": "vous permettriez",
+      "ils": "ils permettraient",
+      "elles": "elles permettraient"
+    },
+    "subjonctif_present": {
+      "je": "je permette",
+      "tu": "tu permettes",
+      "il": "il permette",
+      "elle": "elle permette",
+      "on": "on permette",
+      "nous": "nous permettions",
+      "vous": "vous permettiez",
+      "ils": "ils permettent",
+      "elles": "elles permettent"
+    },
+    "passe_simple": {
+      "je": "je permis",
+      "tu": "tu permis",
+      "il": "il permit",
+      "elle": "elle permit",
+      "on": "on permit",
+      "nous": "nous permîmes",
+      "vous": "vous permîtes",
+      "ils": "ils permirent",
+      "elles": "elles permirent"
+    },
+    "passe_compose": {
+      "je": "j'ai permis",
+      "tu": "tu as permis",
+      "il": "il a permis",
+      "elle": "elle a permis",
+      "on": "on a permis",
+      "nous": "nous avons permis",
+      "vous": "vous avez permis",
+      "ils": "ils ont permis",
+      "elles": "elles ont permis"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais permis",
+      "tu": "tu avais permis",
+      "il": "il avait permis",
+      "elle": "elle avait permis",
+      "on": "on avait permis",
+      "nous": "nous avions permis",
+      "vous": "vous aviez permis",
+      "ils": "ils avaient permis",
+      "elles": "elles avaient permis"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai permis",
+      "tu": "tu auras permis",
+      "il": "il aura permis",
+      "elle": "elle aura permis",
+      "on": "on aura permis",
+      "nous": "nous aurons permis",
+      "vous": "vous aurez permis",
+      "ils": "ils auront permis",
+      "elles": "elles auront permis"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais permis",
+      "tu": "tu aurais permis",
+      "il": "il aurait permis",
+      "elle": "elle aurait permis",
+      "on": "on aurait permis",
+      "nous": "nous aurions permis",
+      "vous": "vous auriez permis",
+      "ils": "ils auraient permis",
+      "elles": "elles auraient permis"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie permis",
+      "tu": "tu aies permis",
+      "il": "il ait permis",
+      "elle": "elle ait permis",
+      "on": "on ait permis",
+      "nous": "nous ayons permis",
+      "vous": "vous ayez permis",
+      "ils": "ils aient permis",
+      "elles": "elles aient permis"
+    },
+    "futur_proche": {
+      "je": "je vais permettre",
+      "tu": "tu vas permettre",
+      "il": "il va permettre",
+      "elle": "elle va permettre",
+      "on": "on va permettre",
+      "nous": "nous allons permettre",
+      "vous": "vous allez permettre",
+      "ils": "ils vont permettre",
+      "elles": "elles vont permettre"
+    },
+    "imperatif_present": {
+      "tu": "permets",
+      "nous": "permettons",
+      "vous": "permettez"
+    }
+  }
+}

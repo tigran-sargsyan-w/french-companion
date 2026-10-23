@@ -1,0 +1,144 @@
+{
+  "infinitive": "présenter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je présente",
+      "tu": "tu présentes",
+      "il": "il présente",
+      "elle": "elle présente",
+      "on": "on présente",
+      "nous": "nous présentons",
+      "vous": "vous présentez",
+      "ils": "ils présentent",
+      "elles": "elles présentent"
+    },
+    "imparfait": {
+      "je": "je présentais",
+      "tu": "tu présentais",
+      "il": "il présentait",
+      "elle": "elle présentait",
+      "on": "on présentait",
+      "nous": "nous présentions",
+      "vous": "vous présentiez",
+      "ils": "ils présentaient",
+      "elles": "elles présentaient"
+    },
+    "futur_simple": {
+      "je": "je présenterai",
+      "tu": "tu présenteras",
+      "il": "il présentera",
+      "elle": "elle présentera",
+      "on": "on présentera",
+      "nous": "nous présenterons",
+      "vous": "vous présenterez",
+      "ils": "ils présenteront",
+      "elles": "elles présenteront"
+    },
+    "conditionnel_present": {
+      "je": "je présenterais",
+      "tu": "tu présenterais",
+      "il": "il présenterait",
+      "elle": "elle présenterait",
+      "on": "on présenterait",
+      "nous": "nous présenterions",
+      "vous": "vous présenteriez",
+      "ils": "ils présenteraient",
+      "elles": "elles présenteraient"
+    },
+    "subjonctif_present": {
+      "je": "je présente",
+      "tu": "tu présentes",
+      "il": "il présente",
+      "elle": "elle présente",
+      "on": "on présente",
+      "nous": "nous présentions",
+      "vous": "vous présentiez",
+      "ils": "ils présentent",
+      "elles": "elles présentent"
+    },
+    "passe_simple": {
+      "je": "je présentai",
+      "tu": "tu présentas",
+      "il": "il présenta",
+      "elle": "elle présenta",
+      "on": "on présenta",
+      "nous": "nous présentâmes",
+      "vous": "vous présentâtes",
+      "ils": "ils présentèrent",
+      "elles": "elles présentèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai présenté",
+      "tu": "tu as présenté",
+      "il": "il a présenté",
+      "elle": "elle a présenté",
+      "on": "on a présenté",
+      "nous": "nous avons présenté",
+      "vous": "vous avez présenté",
+      "ils": "ils ont présenté",
+      "elles": "elles ont présenté"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais présenté",
+      "tu": "tu avais présenté",
+      "il": "il avait présenté",
+      "elle": "elle avait présenté",
+      "on": "on avait présenté",
+      "nous": "nous avions présenté",
+      "vous": "vous aviez présenté",
+      "ils": "ils avaient présenté",
+      "elles": "elles avaient présenté"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai présenté",
+      "tu": "tu auras présenté",
+      "il": "il aura présenté",
+      "elle": "elle aura présenté",
+      "on": "on aura présenté",
+      "nous": "nous aurons présenté",
+      "vous": "vous aurez présenté",
+      "ils": "ils auront présenté",
+      "elles": "elles auront présenté"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais présenté",
+      "tu": "tu aurais présenté",
+      "il": "il aurait présenté",
+      "elle": "elle aurait présenté",
+      "on": "on aurait présenté",
+      "nous": "nous aurions présenté",
+      "vous": "vous auriez présenté",
+      "ils": "ils auraient présenté",
+      "elles": "elles auraient présenté"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie présenté",
+      "tu": "tu aies présenté",
+      "il": "il ait présenté",
+      "elle": "elle ait présenté",
+      "on": "on ait présenté",
+      "nous": "nous ayons présenté",
+      "vous": "vous ayez présenté",
+      "ils": "ils aient présenté",
+      "elles": "elles aient présenté"
+    },
+    "futur_proche": {
+      "je": "je vais présenter",
+      "tu": "tu vas présenter",
+      "il": "il va présenter",
+      "elle": "elle va présenter",
+      "on": "on va présenter",
+      "nous": "nous allons présenter",
+      "vous": "vous allez présenter",
+      "ils": "ils vont présenter",
+      "elles": "elles vont présenter"
+    },
+    "imperatif_present": {
+      "tu": "présente",
+      "nous": "présentons",
+      "vous": "présentez"
+    }
+  }
+}

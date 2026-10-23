@@ -1,0 +1,144 @@
+{
+  "infinitive": "regarder",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je regarde",
+      "tu": "tu regardes",
+      "il": "il regarde",
+      "elle": "elle regarde",
+      "on": "on regarde",
+      "nous": "nous regardons",
+      "vous": "vous regardez",
+      "ils": "ils regardent",
+      "elles": "elles regardent"
+    },
+    "imparfait": {
+      "je": "je regardais",
+      "tu": "tu regardais",
+      "il": "il regardait",
+      "elle": "elle regardait",
+      "on": "on regardait",
+      "nous": "nous regardions",
+      "vous": "vous regardiez",
+      "ils": "ils regardaient",
+      "elles": "elles regardaient"
+    },
+    "futur_simple": {
+      "je": "je regarderai",
+      "tu": "tu regarderas",
+      "il": "il regardera",
+      "elle": "elle regardera",
+      "on": "on regardera",
+      "nous": "nous regarderons",
+      "vous": "vous regarderez",
+      "ils": "ils regarderont",
+      "elles": "elles regarderont"
+    },
+    "conditionnel_present": {
+      "je": "je regarderais",
+      "tu": "tu regarderais",
+      "il": "il regarderait",
+      "elle": "elle regarderait",
+      "on": "on regarderait",
+      "nous": "nous regarderions",
+      "vous": "vous regarderiez",
+      "ils": "ils regarderaient",
+      "elles": "elles regarderaient"
+    },
+    "subjonctif_present": {
+      "je": "je regarde",
+      "tu": "tu regardes",
+      "il": "il regarde",
+      "elle": "elle regarde",
+      "on": "on regarde",
+      "nous": "nous regardions",
+      "vous": "vous regardiez",
+      "ils": "ils regardent",
+      "elles": "elles regardent"
+    },
+    "passe_simple": {
+      "je": "je regardai",
+      "tu": "tu regardas",
+      "il": "il regarda",
+      "elle": "elle regarda",
+      "on": "on regarda",
+      "nous": "nous regardâmes",
+      "vous": "vous regardâtes",
+      "ils": "ils regardèrent",
+      "elles": "elles regardèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai regardé",
+      "tu": "tu as regardé",
+      "il": "il a regardé",
+      "elle": "elle a regardé",
+      "on": "on a regardé",
+      "nous": "nous avons regardé",
+      "vous": "vous avez regardé",
+      "ils": "ils ont regardé",
+      "elles": "elles ont regardé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais regardé",
+      "tu": "tu avais regardé",
+      "il": "il avait regardé",
+      "elle": "elle avait regardé",
+      "on": "on avait regardé",
+      "nous": "nous avions regardé",
+      "vous": "vous aviez regardé",
+      "ils": "ils avaient regardé",
+      "elles": "elles avaient regardé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai regardé",
+      "tu": "tu auras regardé",
+      "il": "il aura regardé",
+      "elle": "elle aura regardé",
+      "on": "on aura regardé",
+      "nous": "nous aurons regardé",
+      "vous": "vous aurez regardé",
+      "ils": "ils auront regardé",
+      "elles": "elles auront regardé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais regardé",
+      "tu": "tu aurais regardé",
+      "il": "il aurait regardé",
+      "elle": "elle aurait regardé",
+      "on": "on aurait regardé",
+      "nous": "nous aurions regardé",
+      "vous": "vous auriez regardé",
+      "ils": "ils auraient regardé",
+      "elles": "elles auraient regardé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie regardé",
+      "tu": "tu aies regardé",
+      "il": "il ait regardé",
+      "elle": "elle ait regardé",
+      "on": "on ait regardé",
+      "nous": "nous ayons regardé",
+      "vous": "vous ayez regardé",
+      "ils": "ils aient regardé",
+      "elles": "elles aient regardé"
+    },
+    "futur_proche": {
+      "je": "je vais regarder",
+      "tu": "tu vas regarder",
+      "il": "il va regarder",
+      "elle": "elle va regarder",
+      "on": "on va regarder",
+      "nous": "nous allons regarder",
+      "vous": "vous allez regarder",
+      "ils": "ils vont regarder",
+      "elles": "elles vont regarder"
+    },
+    "imperatif_present": {
+      "tu": "regarde",
+      "nous": "regardons",
+      "vous": "regardez"
+    }
+  }
+}

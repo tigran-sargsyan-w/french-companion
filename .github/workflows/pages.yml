@@ -35,6 +35,9 @@ jobs:
       - name: Validate learning data
         run: node scripts/validate-data.mjs
 
+      - name: Validate conjugaison data
+        run: node scripts/validate-conjugaison.mjs
+
       - name: Install dependencies
         run: npm install
 

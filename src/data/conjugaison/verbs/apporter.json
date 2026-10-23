@@ -1,0 +1,144 @@
+{
+  "infinitive": "apporter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'apporte",
+      "tu": "tu apportes",
+      "il": "il apporte",
+      "elle": "elle apporte",
+      "on": "on apporte",
+      "nous": "nous apportons",
+      "vous": "vous apportez",
+      "ils": "ils apportent",
+      "elles": "elles apportent"
+    },
+    "imparfait": {
+      "je": "j'apportais",
+      "tu": "tu apportais",
+      "il": "il apportait",
+      "elle": "elle apportait",
+      "on": "on apportait",
+      "nous": "nous apportions",
+      "vous": "vous apportiez",
+      "ils": "ils apportaient",
+      "elles": "elles apportaient"
+    },
+    "futur_simple": {
+      "je": "j'apporterai",
+      "tu": "tu apporteras",
+      "il": "il apportera",
+      "elle": "elle apportera",
+      "on": "on apportera",
+      "nous": "nous apporterons",
+      "vous": "vous apporterez",
+      "ils": "ils apporteront",
+      "elles": "elles apporteront"
+    },
+    "conditionnel_present": {
+      "je": "j'apporterais",
+      "tu": "tu apporterais",
+      "il": "il apporterait",
+      "elle": "elle apporterait",
+      "on": "on apporterait",
+      "nous": "nous apporterions",
+      "vous": "vous apporteriez",
+      "ils": "ils apporteraient",
+      "elles": "elles apporteraient"
+    },
+    "subjonctif_present": {
+      "je": "j'apporte",
+      "tu": "tu apportes",
+      "il": "il apporte",
+      "elle": "elle apporte",
+      "on": "on apporte",
+      "nous": "nous apportions",
+      "vous": "vous apportiez",
+      "ils": "ils apportent",
+      "elles": "elles apportent"
+    },
+    "passe_simple": {
+      "je": "j'apportai",
+      "tu": "tu apportas",
+      "il": "il apporta",
+      "elle": "elle apporta",
+      "on": "on apporta",
+      "nous": "nous apportâmes",
+      "vous": "vous apportâtes",
+      "ils": "ils apportèrent",
+      "elles": "elles apportèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai apporté",
+      "tu": "tu as apporté",
+      "il": "il a apporté",
+      "elle": "elle a apporté",
+      "on": "on a apporté",
+      "nous": "nous avons apporté",
+      "vous": "vous avez apporté",
+      "ils": "ils ont apporté",
+      "elles": "elles ont apporté"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais apporté",
+      "tu": "tu avais apporté",
+      "il": "il avait apporté",
+      "elle": "elle avait apporté",
+      "on": "on avait apporté",
+      "nous": "nous avions apporté",
+      "vous": "vous aviez apporté",
+      "ils": "ils avaient apporté",
+      "elles": "elles avaient apporté"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai apporté",
+      "tu": "tu auras apporté",
+      "il": "il aura apporté",
+      "elle": "elle aura apporté",
+      "on": "on aura apporté",
+      "nous": "nous aurons apporté",
+      "vous": "vous aurez apporté",
+      "ils": "ils auront apporté",
+      "elles": "elles auront apporté"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais apporté",
+      "tu": "tu aurais apporté",
+      "il": "il aurait apporté",
+      "elle": "elle aurait apporté",
+      "on": "on aurait apporté",
+      "nous": "nous aurions apporté",
+      "vous": "vous auriez apporté",
+      "ils": "ils auraient apporté",
+      "elles": "elles auraient apporté"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie apporté",
+      "tu": "tu aies apporté",
+      "il": "il ait apporté",
+      "elle": "elle ait apporté",
+      "on": "on ait apporté",
+      "nous": "nous ayons apporté",
+      "vous": "vous ayez apporté",
+      "ils": "ils aient apporté",
+      "elles": "elles aient apporté"
+    },
+    "futur_proche": {
+      "je": "je vais apporter",
+      "tu": "tu vas apporter",
+      "il": "il va apporter",
+      "elle": "elle va apporter",
+      "on": "on va apporter",
+      "nous": "nous allons apporter",
+      "vous": "vous allez apporter",
+      "ils": "ils vont apporter",
+      "elles": "elles vont apporter"
+    },
+    "imperatif_present": {
+      "tu": "apporte",
+      "nous": "apportons",
+      "vous": "apportez"
+    }
+  }
+}

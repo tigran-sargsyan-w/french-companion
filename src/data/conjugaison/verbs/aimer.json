@@ -1,0 +1,144 @@
+{
+  "infinitive": "aimer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'aime",
+      "tu": "tu aimes",
+      "il": "il aime",
+      "elle": "elle aime",
+      "on": "on aime",
+      "nous": "nous aimons",
+      "vous": "vous aimez",
+      "ils": "ils aiment",
+      "elles": "elles aiment"
+    },
+    "imparfait": {
+      "je": "j'aimais",
+      "tu": "tu aimais",
+      "il": "il aimait",
+      "elle": "elle aimait",
+      "on": "on aimait",
+      "nous": "nous aimions",
+      "vous": "vous aimiez",
+      "ils": "ils aimaient",
+      "elles": "elles aimaient"
+    },
+    "futur_simple": {
+      "je": "j'aimerai",
+      "tu": "tu aimeras",
+      "il": "il aimera",
+      "elle": "elle aimera",
+      "on": "on aimera",
+      "nous": "nous aimerons",
+      "vous": "vous aimerez",
+      "ils": "ils aimeront",
+      "elles": "elles aimeront"
+    },
+    "conditionnel_present": {
+      "je": "j'aimerais",
+      "tu": "tu aimerais",
+      "il": "il aimerait",
+      "elle": "elle aimerait",
+      "on": "on aimerait",
+      "nous": "nous aimerions",
+      "vous": "vous aimeriez",
+      "ils": "ils aimeraient",
+      "elles": "elles aimeraient"
+    },
+    "subjonctif_present": {
+      "je": "j'aime",
+      "tu": "tu aimes",
+      "il": "il aime",
+      "elle": "elle aime",
+      "on": "on aime",
+      "nous": "nous aimions",
+      "vous": "vous aimiez",
+      "ils": "ils aiment",
+      "elles": "elles aiment"
+    },
+    "passe_simple": {
+      "je": "j'aimai",
+      "tu": "tu aimas",
+      "il": "il aima",
+      "elle": "elle aima",
+      "on": "on aima",
+      "nous": "nous aimâmes",
+      "vous": "vous aimâtes",
+      "ils": "ils aimèrent",
+      "elles": "elles aimèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai aimé",
+      "tu": "tu as aimé",
+      "il": "il a aimé",
+      "elle": "elle a aimé",
+      "on": "on a aimé",
+      "nous": "nous avons aimé",
+      "vous": "vous avez aimé",
+      "ils": "ils ont aimé",
+      "elles": "elles ont aimé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais aimé",
+      "tu": "tu avais aimé",
+      "il": "il avait aimé",
+      "elle": "elle avait aimé",
+      "on": "on avait aimé",
+      "nous": "nous avions aimé",
+      "vous": "vous aviez aimé",
+      "ils": "ils avaient aimé",
+      "elles": "elles avaient aimé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai aimé",
+      "tu": "tu auras aimé",
+      "il": "il aura aimé",
+      "elle": "elle aura aimé",
+      "on": "on aura aimé",
+      "nous": "nous aurons aimé",
+      "vous": "vous aurez aimé",
+      "ils": "ils auront aimé",
+      "elles": "elles auront aimé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais aimé",
+      "tu": "tu aurais aimé",
+      "il": "il aurait aimé",
+      "elle": "elle aurait aimé",
+      "on": "on aurait aimé",
+      "nous": "nous aurions aimé",
+      "vous": "vous auriez aimé",
+      "ils": "ils auraient aimé",
+      "elles": "elles auraient aimé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie aimé",
+      "tu": "tu aies aimé",
+      "il": "il ait aimé",
+      "elle": "elle ait aimé",
+      "on": "on ait aimé",
+      "nous": "nous ayons aimé",
+      "vous": "vous ayez aimé",
+      "ils": "ils aient aimé",
+      "elles": "elles aient aimé"
+    },
+    "futur_proche": {
+      "je": "je vais aimer",
+      "tu": "tu vas aimer",
+      "il": "il va aimer",
+      "elle": "elle va aimer",
+      "on": "on va aimer",
+      "nous": "nous allons aimer",
+      "vous": "vous allez aimer",
+      "ils": "ils vont aimer",
+      "elles": "elles vont aimer"
+    },
+    "imperatif_present": {
+      "tu": "aime",
+      "nous": "aimons",
+      "vous": "aimez"
+    }
+  }
+}

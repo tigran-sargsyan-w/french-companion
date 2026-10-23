@@ -1,0 +1,144 @@
+{
+  "infinitive": "dire",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je dis",
+      "tu": "tu dis",
+      "il": "il dit",
+      "elle": "elle dit",
+      "on": "on dit",
+      "nous": "nous disons",
+      "vous": "vous dites",
+      "ils": "ils disent",
+      "elles": "elles disent"
+    },
+    "imparfait": {
+      "je": "je disais",
+      "tu": "tu disais",
+      "il": "il disait",
+      "elle": "elle disait",
+      "on": "on disait",
+      "nous": "nous disions",
+      "vous": "vous disiez",
+      "ils": "ils disaient",
+      "elles": "elles disaient"
+    },
+    "futur_simple": {
+      "je": "je dirai",
+      "tu": "tu diras",
+      "il": "il dira",
+      "elle": "elle dira",
+      "on": "on dira",
+      "nous": "nous dirons",
+      "vous": "vous direz",
+      "ils": "ils diront",
+      "elles": "elles diront"
+    },
+    "conditionnel_present": {
+      "je": "je dirais",
+      "tu": "tu dirais",
+      "il": "il dirait",
+      "elle": "elle dirait",
+      "on": "on dirait",
+      "nous": "nous dirions",
+      "vous": "vous diriez",
+      "ils": "ils diraient",
+      "elles": "elles diraient"
+    },
+    "subjonctif_present": {
+      "je": "je dise",
+      "tu": "tu dises",
+      "il": "il dise",
+      "elle": "elle dise",
+      "on": "on dise",
+      "nous": "nous disions",
+      "vous": "vous disiez",
+      "ils": "ils disent",
+      "elles": "elles disent"
+    },
+    "passe_simple": {
+      "je": "je dis",
+      "tu": "tu dis",
+      "il": "il dit",
+      "elle": "elle dit",
+      "on": "on dit",
+      "nous": "nous dîmes",
+      "vous": "vous dîtes",
+      "ils": "ils dirent",
+      "elles": "elles dirent"
+    },
+    "passe_compose": {
+      "je": "j'ai dit",
+      "tu": "tu as dit",
+      "il": "il a dit",
+      "elle": "elle a dit",
+      "on": "on a dit",
+      "nous": "nous avons dit",
+      "vous": "vous avez dit",
+      "ils": "ils ont dit",
+      "elles": "elles ont dit"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais dit",
+      "tu": "tu avais dit",
+      "il": "il avait dit",
+      "elle": "elle avait dit",
+      "on": "on avait dit",
+      "nous": "nous avions dit",
+      "vous": "vous aviez dit",
+      "ils": "ils avaient dit",
+      "elles": "elles avaient dit"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai dit",
+      "tu": "tu auras dit",
+      "il": "il aura dit",
+      "elle": "elle aura dit",
+      "on": "on aura dit",
+      "nous": "nous aurons dit",
+      "vous": "vous aurez dit",
+      "ils": "ils auront dit",
+      "elles": "elles auront dit"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais dit",
+      "tu": "tu aurais dit",
+      "il": "il aurait dit",
+      "elle": "elle aurait dit",
+      "on": "on aurait dit",
+      "nous": "nous aurions dit",
+      "vous": "vous auriez dit",
+      "ils": "ils auraient dit",
+      "elles": "elles auraient dit"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie dit",
+      "tu": "tu aies dit",
+      "il": "il ait dit",
+      "elle": "elle ait dit",
+      "on": "on ait dit",
+      "nous": "nous ayons dit",
+      "vous": "vous ayez dit",
+      "ils": "ils aient dit",
+      "elles": "elles aient dit"
+    },
+    "futur_proche": {
+      "je": "je vais dire",
+      "tu": "tu vas dire",
+      "il": "il va dire",
+      "elle": "elle va dire",
+      "on": "on va dire",
+      "nous": "nous allons dire",
+      "vous": "vous allez dire",
+      "ils": "ils vont dire",
+      "elles": "elles vont dire"
+    },
+    "imperatif_present": {
+      "tu": "dis",
+      "nous": "disons",
+      "vous": "dites"
+    }
+  }
+}

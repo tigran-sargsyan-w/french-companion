@@ -1,0 +1,144 @@
+{
+  "infinitive": "choisir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je choisis",
+      "tu": "tu choisis",
+      "il": "il choisit",
+      "elle": "elle choisit",
+      "on": "on choisit",
+      "nous": "nous choisissons",
+      "vous": "vous choisissez",
+      "ils": "ils choisissent",
+      "elles": "elles choisissent"
+    },
+    "imparfait": {
+      "je": "je choisissais",
+      "tu": "tu choisissais",
+      "il": "il choisissait",
+      "elle": "elle choisissait",
+      "on": "on choisissait",
+      "nous": "nous choisissions",
+      "vous": "vous choisissiez",
+      "ils": "ils choisissaient",
+      "elles": "elles choisissaient"
+    },
+    "futur_simple": {
+      "je": "je choisirai",
+      "tu": "tu choisiras",
+      "il": "il choisira",
+      "elle": "elle choisira",
+      "on": "on choisira",
+      "nous": "nous choisirons",
+      "vous": "vous choisirez",
+      "ils": "ils choisiront",
+      "elles": "elles choisiront"
+    },
+    "conditionnel_present": {
+      "je": "je choisirais",
+      "tu": "tu choisirais",
+      "il": "il choisirait",
+      "elle": "elle choisirait",
+      "on": "on choisirait",
+      "nous": "nous choisirions",
+      "vous": "vous choisiriez",
+      "ils": "ils choisiraient",
+      "elles": "elles choisiraient"
+    },
+    "subjonctif_present": {
+      "je": "je choisisse",
+      "tu": "tu choisisses",
+      "il": "il choisisse",
+      "elle": "elle choisisse",
+      "on": "on choisisse",
+      "nous": "nous choisissions",
+      "vous": "vous choisissiez",
+      "ils": "ils choisissent",
+      "elles": "elles choisissent"
+    },
+    "passe_simple": {
+      "je": "je choisis",
+      "tu": "tu choisis",
+      "il": "il choisit",
+      "elle": "elle choisit",
+      "on": "on choisit",
+      "nous": "nous choisîmes",
+      "vous": "vous choisîtes",
+      "ils": "ils choisirent",
+      "elles": "elles choisirent"
+    },
+    "passe_compose": {
+      "je": "j'ai choisi",
+      "tu": "tu as choisi",
+      "il": "il a choisi",
+      "elle": "elle a choisi",
+      "on": "on a choisi",
+      "nous": "nous avons choisi",
+      "vous": "vous avez choisi",
+      "ils": "ils ont choisi",
+      "elles": "elles ont choisi"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais choisi",
+      "tu": "tu avais choisi",
+      "il": "il avait choisi",
+      "elle": "elle avait choisi",
+      "on": "on avait choisi",
+      "nous": "nous avions choisi",
+      "vous": "vous aviez choisi",
+      "ils": "ils avaient choisi",
+      "elles": "elles avaient choisi"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai choisi",
+      "tu": "tu auras choisi",
+      "il": "il aura choisi",
+      "elle": "elle aura choisi",
+      "on": "on aura choisi",
+      "nous": "nous aurons choisi",
+      "vous": "vous aurez choisi",
+      "ils": "ils auront choisi",
+      "elles": "elles auront choisi"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais choisi",
+      "tu": "tu aurais choisi",
+      "il": "il aurait choisi",
+      "elle": "elle aurait choisi",
+      "on": "on aurait choisi",
+      "nous": "nous aurions choisi",
+      "vous": "vous auriez choisi",
+      "ils": "ils auraient choisi",
+      "elles": "elles auraient choisi"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie choisi",
+      "tu": "tu aies choisi",
+      "il": "il ait choisi",
+      "elle": "elle ait choisi",
+      "on": "on ait choisi",
+      "nous": "nous ayons choisi",
+      "vous": "vous ayez choisi",
+      "ils": "ils aient choisi",
+      "elles": "elles aient choisi"
+    },
+    "futur_proche": {
+      "je": "je vais choisir",
+      "tu": "tu vas choisir",
+      "il": "il va choisir",
+      "elle": "elle va choisir",
+      "on": "on va choisir",
+      "nous": "nous allons choisir",
+      "vous": "vous allez choisir",
+      "ils": "ils vont choisir",
+      "elles": "elles vont choisir"
+    },
+    "imperatif_present": {
+      "tu": "choisis",
+      "nous": "choisissons",
+      "vous": "choisissez"
+    }
+  }
+}

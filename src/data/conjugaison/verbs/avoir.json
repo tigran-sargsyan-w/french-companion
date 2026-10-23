@@ -1,0 +1,144 @@
+{
+  "infinitive": "avoir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "j'ai",
+      "tu": "tu as",
+      "il": "il a",
+      "elle": "elle a",
+      "on": "on a",
+      "nous": "nous avons",
+      "vous": "vous avez",
+      "ils": "ils ont",
+      "elles": "elles ont"
+    },
+    "imparfait": {
+      "je": "j'avais",
+      "tu": "tu avais",
+      "il": "il avait",
+      "elle": "elle avait",
+      "on": "on avait",
+      "nous": "nous avions",
+      "vous": "vous aviez",
+      "ils": "ils avaient",
+      "elles": "elles avaient"
+    },
+    "futur_simple": {
+      "je": "j'aurai",
+      "tu": "tu auras",
+      "il": "il aura",
+      "elle": "elle aura",
+      "on": "on aura",
+      "nous": "nous aurons",
+      "vous": "vous aurez",
+      "ils": "ils auront",
+      "elles": "elles auront"
+    },
+    "conditionnel_present": {
+      "je": "j'aurais",
+      "tu": "tu aurais",
+      "il": "il aurait",
+      "elle": "elle aurait",
+      "on": "on aurait",
+      "nous": "nous aurions",
+      "vous": "vous auriez",
+      "ils": "ils auraient",
+      "elles": "elles auraient"
+    },
+    "subjonctif_present": {
+      "je": "j'aie",
+      "tu": "tu aies",
+      "il": "il ait",
+      "elle": "elle ait",
+      "on": "on ait",
+      "nous": "nous ayons",
+      "vous": "vous ayez",
+      "ils": "ils aient",
+      "elles": "elles aient"
+    },
+    "passe_simple": {
+      "je": "j'eus",
+      "tu": "tu eus",
+      "il": "il eut",
+      "elle": "elle eut",
+      "on": "on eut",
+      "nous": "nous eûmes",
+      "vous": "vous eûtes",
+      "ils": "ils eurent",
+      "elles": "elles eurent"
+    },
+    "passe_compose": {
+      "je": "j'ai eu",
+      "tu": "tu as eu",
+      "il": "il a eu",
+      "elle": "elle a eu",
+      "on": "on a eu",
+      "nous": "nous avons eu",
+      "vous": "vous avez eu",
+      "ils": "ils ont eu",
+      "elles": "elles ont eu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais eu",
+      "tu": "tu avais eu",
+      "il": "il avait eu",
+      "elle": "elle avait eu",
+      "on": "on avait eu",
+      "nous": "nous avions eu",
+      "vous": "vous aviez eu",
+      "ils": "ils avaient eu",
+      "elles": "elles avaient eu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai eu",
+      "tu": "tu auras eu",
+      "il": "il aura eu",
+      "elle": "elle aura eu",
+      "on": "on aura eu",
+      "nous": "nous aurons eu",
+      "vous": "vous aurez eu",
+      "ils": "ils auront eu",
+      "elles": "elles auront eu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais eu",
+      "tu": "tu aurais eu",
+      "il": "il aurait eu",
+      "elle": "elle aurait eu",
+      "on": "on aurait eu",
+      "nous": "nous aurions eu",
+      "vous": "vous auriez eu",
+      "ils": "ils auraient eu",
+      "elles": "elles auraient eu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie eu",
+      "tu": "tu aies eu",
+      "il": "il ait eu",
+      "elle": "elle ait eu",
+      "on": "on ait eu",
+      "nous": "nous ayons eu",
+      "vous": "vous ayez eu",
+      "ils": "ils aient eu",
+      "elles": "elles aient eu"
+    },
+    "futur_proche": {
+      "je": "je vais avoir",
+      "tu": "tu vas avoir",
+      "il": "il va avoir",
+      "elle": "elle va avoir",
+      "on": "on va avoir",
+      "nous": "nous allons avoir",
+      "vous": "vous allez avoir",
+      "ils": "ils vont avoir",
+      "elles": "elles vont avoir"
+    },
+    "imperatif_present": {
+      "tu": "aie",
+      "nous": "ayons",
+      "vous": "ayez"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "infinitive": "remplir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je remplis",
+      "tu": "tu remplis",
+      "il": "il remplit",
+      "elle": "elle remplit",
+      "on": "on remplit",
+      "nous": "nous remplissons",
+      "vous": "vous remplissez",
+      "ils": "ils remplissent",
+      "elles": "elles remplissent"
+    },
+    "imparfait": {
+      "je": "je remplissais",
+      "tu": "tu remplissais",
+      "il": "il remplissait",
+      "elle": "elle remplissait",
+      "on": "on remplissait",
+      "nous": "nous remplissions",
+      "vous": "vous remplissiez",
+      "ils": "ils remplissaient",
+      "elles": "elles remplissaient"
+    },
+    "futur_simple": {
+      "je": "je remplirai",
+      "tu": "tu rempliras",
+      "il": "il remplira",
+      "elle": "elle remplira",
+      "on": "on remplira",
+      "nous": "nous remplirons",
+      "vous": "vous remplirez",
+      "ils": "ils rempliront",
+      "elles": "elles rempliront"
+    },
+    "conditionnel_present": {
+      "je": "je remplirais",
+      "tu": "tu remplirais",
+      "il": "il remplirait",
+      "elle": "elle remplirait",
+      "on": "on remplirait",
+      "nous": "nous remplirions",
+      "vous": "vous rempliriez",
+      "ils": "ils rempliraient",
+      "elles": "elles rempliraient"
+    },
+    "subjonctif_present": {
+      "je": "je remplisse",
+      "tu": "tu remplisses",
+      "il": "il remplisse",
+      "elle": "elle remplisse",
+      "on": "on remplisse",
+      "nous": "nous remplissions",
+      "vous": "vous remplissiez",
+      "ils": "ils remplissent",
+      "elles": "elles remplissent"
+    },
+    "passe_simple": {
+      "je": "je remplis",
+      "tu": "tu remplis",
+      "il": "il remplit",
+      "elle": "elle remplit",
+      "on": "on remplit",
+      "nous": "nous remplîmes",
+      "vous": "vous remplîtes",
+      "ils": "ils remplirent",
+      "elles": "elles remplirent"
+    },
+    "passe_compose": {
+      "je": "j'ai rempli",
+      "tu": "tu as rempli",
+      "il": "il a rempli",
+      "elle": "elle a rempli",
+      "on": "on a rempli",
+      "nous": "nous avons rempli",
+      "vous": "vous avez rempli",
+      "ils": "ils ont rempli",
+      "elles": "elles ont rempli"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais rempli",
+      "tu": "tu avais rempli",
+      "il": "il avait rempli",
+      "elle": "elle avait rempli",
+      "on": "on avait rempli",
+      "nous": "nous avions rempli",
+      "vous": "vous aviez rempli",
+      "ils": "ils avaient rempli",
+      "elles": "elles avaient rempli"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai rempli",
+      "tu": "tu auras rempli",
+      "il": "il aura rempli",
+      "elle": "elle aura rempli",
+      "on": "on aura rempli",
+      "nous": "nous aurons rempli",
+      "vous": "vous aurez rempli",
+      "ils": "ils auront rempli",
+      "elles": "elles auront rempli"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais rempli",
+      "tu": "tu aurais rempli",
+      "il": "il aurait rempli",
+      "elle": "elle aurait rempli",
+      "on": "on aurait rempli",
+      "nous": "nous aurions rempli",
+      "vous": "vous auriez rempli",
+      "ils": "ils auraient rempli",
+      "elles": "elles auraient rempli"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie rempli",
+      "tu": "tu aies rempli",
+      "il": "il ait rempli",
+      "elle": "elle ait rempli",
+      "on": "on ait rempli",
+      "nous": "nous ayons rempli",
+      "vous": "vous ayez rempli",
+      "ils": "ils aient rempli",
+      "elles": "elles aient rempli"
+    },
+    "futur_proche": {
+      "je": "je vais remplir",
+      "tu": "tu vas remplir",
+      "il": "il va remplir",
+      "elle": "elle va remplir",
+      "on": "on va remplir",
+      "nous": "nous allons remplir",
+      "vous": "vous allez remplir",
+      "ils": "ils vont remplir",
+      "elles": "elles vont remplir"
+    },
+    "imperatif_present": {
+      "tu": "remplis",
+      "nous": "remplissons",
+      "vous": "remplissez"
+    }
+  }
+}

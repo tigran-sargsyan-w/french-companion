@@ -1,0 +1,144 @@
+{
+  "infinitive": "changer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je change",
+      "tu": "tu changes",
+      "il": "il change",
+      "elle": "elle change",
+      "on": "on change",
+      "nous": "nous changeons",
+      "vous": "vous changez",
+      "ils": "ils changent",
+      "elles": "elles changent"
+    },
+    "imparfait": {
+      "je": "je changeais",
+      "tu": "tu changeais",
+      "il": "il changeait",
+      "elle": "elle changeait",
+      "on": "on changeait",
+      "nous": "nous changions",
+      "vous": "vous changiez",
+      "ils": "ils changeaient",
+      "elles": "elles changeaient"
+    },
+    "futur_simple": {
+      "je": "je changerai",
+      "tu": "tu changeras",
+      "il": "il changera",
+      "elle": "elle changera",
+      "on": "on changera",
+      "nous": "nous changerons",
+      "vous": "vous changerez",
+      "ils": "ils changeront",
+      "elles": "elles changeront"
+    },
+    "conditionnel_present": {
+      "je": "je changerais",
+      "tu": "tu changerais",
+      "il": "il changerait",
+      "elle": "elle changerait",
+      "on": "on changerait",
+      "nous": "nous changerions",
+      "vous": "vous changeriez",
+      "ils": "ils changeraient",
+      "elles": "elles changeraient"
+    },
+    "subjonctif_present": {
+      "je": "je change",
+      "tu": "tu changes",
+      "il": "il change",
+      "elle": "elle change",
+      "on": "on change",
+      "nous": "nous changions",
+      "vous": "vous changiez",
+      "ils": "ils changent",
+      "elles": "elles changent"
+    },
+    "passe_simple": {
+      "je": "je changeai",
+      "tu": "tu changeas",
+      "il": "il changea",
+      "elle": "elle changea",
+      "on": "on changea",
+      "nous": "nous changeâmes",
+      "vous": "vous changeâtes",
+      "ils": "ils changèrent",
+      "elles": "elles changèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai changé",
+      "tu": "tu as changé",
+      "il": "il a changé",
+      "elle": "elle a changé",
+      "on": "on a changé",
+      "nous": "nous avons changé",
+      "vous": "vous avez changé",
+      "ils": "ils ont changé",
+      "elles": "elles ont changé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais changé",
+      "tu": "tu avais changé",
+      "il": "il avait changé",
+      "elle": "elle avait changé",
+      "on": "on avait changé",
+      "nous": "nous avions changé",
+      "vous": "vous aviez changé",
+      "ils": "ils avaient changé",
+      "elles": "elles avaient changé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai changé",
+      "tu": "tu auras changé",
+      "il": "il aura changé",
+      "elle": "elle aura changé",
+      "on": "on aura changé",
+      "nous": "nous aurons changé",
+      "vous": "vous aurez changé",
+      "ils": "ils auront changé",
+      "elles": "elles auront changé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais changé",
+      "tu": "tu aurais changé",
+      "il": "il aurait changé",
+      "elle": "elle aurait changé",
+      "on": "on aurait changé",
+      "nous": "nous aurions changé",
+      "vous": "vous auriez changé",
+      "ils": "ils auraient changé",
+      "elles": "elles auraient changé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie changé",
+      "tu": "tu aies changé",
+      "il": "il ait changé",
+      "elle": "elle ait changé",
+      "on": "on ait changé",
+      "nous": "nous ayons changé",
+      "vous": "vous ayez changé",
+      "ils": "ils aient changé",
+      "elles": "elles aient changé"
+    },
+    "futur_proche": {
+      "je": "je vais changer",
+      "tu": "tu vas changer",
+      "il": "il va changer",
+      "elle": "elle va changer",
+      "on": "on va changer",
+      "nous": "nous allons changer",
+      "vous": "vous allez changer",
+      "ils": "ils vont changer",
+      "elles": "elles vont changer"
+    },
+    "imperatif_present": {
+      "tu": "change",
+      "nous": "changeons",
+      "vous": "changez"
+    }
+  }
+}

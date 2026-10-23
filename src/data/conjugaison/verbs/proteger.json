@@ -1,0 +1,144 @@
+{
+  "infinitive": "protéger",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je protège",
+      "tu": "tu protèges",
+      "il": "il protège",
+      "elle": "elle protège",
+      "on": "on protège",
+      "nous": "nous protégeons",
+      "vous": "vous protégez",
+      "ils": "ils protègent",
+      "elles": "elles protègent"
+    },
+    "imparfait": {
+      "je": "je protégeais",
+      "tu": "tu protégeais",
+      "il": "il protégeait",
+      "elle": "elle protégeait",
+      "on": "on protégeait",
+      "nous": "nous protégions",
+      "vous": "vous protégiez",
+      "ils": "ils protégeaient",
+      "elles": "elles protégeaient"
+    },
+    "futur_simple": {
+      "je": "je protégerai",
+      "tu": "tu protégeras",
+      "il": "il protégera",
+      "elle": "elle protégera",
+      "on": "on protégera",
+      "nous": "nous protégerons",
+      "vous": "vous protégerez",
+      "ils": "ils protégeront",
+      "elles": "elles protégeront"
+    },
+    "conditionnel_present": {
+      "je": "je protégerais",
+      "tu": "tu protégerais",
+      "il": "il protégerait",
+      "elle": "elle protégerait",
+      "on": "on protégerait",
+      "nous": "nous protégerions",
+      "vous": "vous protégeriez",
+      "ils": "ils protégeraient",
+      "elles": "elles protégeraient"
+    },
+    "subjonctif_present": {
+      "je": "je protège",
+      "tu": "tu protèges",
+      "il": "il protège",
+      "elle": "elle protège",
+      "on": "on protège",
+      "nous": "nous protégions",
+      "vous": "vous protégiez",
+      "ils": "ils protègent",
+      "elles": "elles protègent"
+    },
+    "passe_simple": {
+      "je": "je protégeai",
+      "tu": "tu protégeas",
+      "il": "il protégea",
+      "elle": "elle protégea",
+      "on": "on protégea",
+      "nous": "nous protégeâmes",
+      "vous": "vous protégeâtes",
+      "ils": "ils protégèrent",
+      "elles": "elles protégèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai protégé",
+      "tu": "tu as protégé",
+      "il": "il a protégé",
+      "elle": "elle a protégé",
+      "on": "on a protégé",
+      "nous": "nous avons protégé",
+      "vous": "vous avez protégé",
+      "ils": "ils ont protégé",
+      "elles": "elles ont protégé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais protégé",
+      "tu": "tu avais protégé",
+      "il": "il avait protégé",
+      "elle": "elle avait protégé",
+      "on": "on avait protégé",
+      "nous": "nous avions protégé",
+      "vous": "vous aviez protégé",
+      "ils": "ils avaient protégé",
+      "elles": "elles avaient protégé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai protégé",
+      "tu": "tu auras protégé",
+      "il": "il aura protégé",
+      "elle": "elle aura protégé",
+      "on": "on aura protégé",
+      "nous": "nous aurons protégé",
+      "vous": "vous aurez protégé",
+      "ils": "ils auront protégé",
+      "elles": "elles auront protégé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais protégé",
+      "tu": "tu aurais protégé",
+      "il": "il aurait protégé",
+      "elle": "elle aurait protégé",
+      "on": "on aurait protégé",
+      "nous": "nous aurions protégé",
+      "vous": "vous auriez protégé",
+      "ils": "ils auraient protégé",
+      "elles": "elles auraient protégé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie protégé",
+      "tu": "tu aies protégé",
+      "il": "il ait protégé",
+      "elle": "elle ait protégé",
+      "on": "on ait protégé",
+      "nous": "nous ayons protégé",
+      "vous": "vous ayez protégé",
+      "ils": "ils aient protégé",
+      "elles": "elles aient protégé"
+    },
+    "futur_proche": {
+      "je": "je vais protéger",
+      "tu": "tu vas protéger",
+      "il": "il va protéger",
+      "elle": "elle va protéger",
+      "on": "on va protéger",
+      "nous": "nous allons protéger",
+      "vous": "vous allez protéger",
+      "ils": "ils vont protéger",
+      "elles": "elles vont protéger"
+    },
+    "imperatif_present": {
+      "tu": "protège",
+      "nous": "protégeons",
+      "vous": "protégez"
+    }
+  }
+}

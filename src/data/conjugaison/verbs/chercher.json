@@ -1,0 +1,144 @@
+{
+  "infinitive": "chercher",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je cherche",
+      "tu": "tu cherches",
+      "il": "il cherche",
+      "elle": "elle cherche",
+      "on": "on cherche",
+      "nous": "nous cherchons",
+      "vous": "vous cherchez",
+      "ils": "ils cherchent",
+      "elles": "elles cherchent"
+    },
+    "imparfait": {
+      "je": "je cherchais",
+      "tu": "tu cherchais",
+      "il": "il cherchait",
+      "elle": "elle cherchait",
+      "on": "on cherchait",
+      "nous": "nous cherchions",
+      "vous": "vous cherchiez",
+      "ils": "ils cherchaient",
+      "elles": "elles cherchaient"
+    },
+    "futur_simple": {
+      "je": "je chercherai",
+      "tu": "tu chercheras",
+      "il": "il cherchera",
+      "elle": "elle cherchera",
+      "on": "on cherchera",
+      "nous": "nous chercherons",
+      "vous": "vous chercherez",
+      "ils": "ils chercheront",
+      "elles": "elles chercheront"
+    },
+    "conditionnel_present": {
+      "je": "je chercherais",
+      "tu": "tu chercherais",
+      "il": "il chercherait",
+      "elle": "elle chercherait",
+      "on": "on chercherait",
+      "nous": "nous chercherions",
+      "vous": "vous chercheriez",
+      "ils": "ils chercheraient",
+      "elles": "elles chercheraient"
+    },
+    "subjonctif_present": {
+      "je": "je cherche",
+      "tu": "tu cherches",
+      "il": "il cherche",
+      "elle": "elle cherche",
+      "on": "on cherche",
+      "nous": "nous cherchions",
+      "vous": "vous cherchiez",
+      "ils": "ils cherchent",
+      "elles": "elles cherchent"
+    },
+    "passe_simple": {
+      "je": "je cherchai",
+      "tu": "tu cherchas",
+      "il": "il chercha",
+      "elle": "elle chercha",
+      "on": "on chercha",
+      "nous": "nous cherchâmes",
+      "vous": "vous cherchâtes",
+      "ils": "ils cherchèrent",
+      "elles": "elles cherchèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai cherché",
+      "tu": "tu as cherché",
+      "il": "il a cherché",
+      "elle": "elle a cherché",
+      "on": "on a cherché",
+      "nous": "nous avons cherché",
+      "vous": "vous avez cherché",
+      "ils": "ils ont cherché",
+      "elles": "elles ont cherché"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais cherché",
+      "tu": "tu avais cherché",
+      "il": "il avait cherché",
+      "elle": "elle avait cherché",
+      "on": "on avait cherché",
+      "nous": "nous avions cherché",
+      "vous": "vous aviez cherché",
+      "ils": "ils avaient cherché",
+      "elles": "elles avaient cherché"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai cherché",
+      "tu": "tu auras cherché",
+      "il": "il aura cherché",
+      "elle": "elle aura cherché",
+      "on": "on aura cherché",
+      "nous": "nous aurons cherché",
+      "vous": "vous aurez cherché",
+      "ils": "ils auront cherché",
+      "elles": "elles auront cherché"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais cherché",
+      "tu": "tu aurais cherché",
+      "il": "il aurait cherché",
+      "elle": "elle aurait cherché",
+      "on": "on aurait cherché",
+      "nous": "nous aurions cherché",
+      "vous": "vous auriez cherché",
+      "ils": "ils auraient cherché",
+      "elles": "elles auraient cherché"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie cherché",
+      "tu": "tu aies cherché",
+      "il": "il ait cherché",
+      "elle": "elle ait cherché",
+      "on": "on ait cherché",
+      "nous": "nous ayons cherché",
+      "vous": "vous ayez cherché",
+      "ils": "ils aient cherché",
+      "elles": "elles aient cherché"
+    },
+    "futur_proche": {
+      "je": "je vais chercher",
+      "tu": "tu vas chercher",
+      "il": "il va chercher",
+      "elle": "elle va chercher",
+      "on": "on va chercher",
+      "nous": "nous allons chercher",
+      "vous": "vous allez chercher",
+      "ils": "ils vont chercher",
+      "elles": "elles vont chercher"
+    },
+    "imperatif_present": {
+      "tu": "cherche",
+      "nous": "cherchons",
+      "vous": "cherchez"
+    }
+  }
+}

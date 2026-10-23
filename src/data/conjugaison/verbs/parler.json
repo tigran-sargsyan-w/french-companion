@@ -1,0 +1,144 @@
+{
+  "infinitive": "parler",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je parle",
+      "tu": "tu parles",
+      "il": "il parle",
+      "elle": "elle parle",
+      "on": "on parle",
+      "nous": "nous parlons",
+      "vous": "vous parlez",
+      "ils": "ils parlent",
+      "elles": "elles parlent"
+    },
+    "imparfait": {
+      "je": "je parlais",
+      "tu": "tu parlais",
+      "il": "il parlait",
+      "elle": "elle parlait",
+      "on": "on parlait",
+      "nous": "nous parlions",
+      "vous": "vous parliez",
+      "ils": "ils parlaient",
+      "elles": "elles parlaient"
+    },
+    "futur_simple": {
+      "je": "je parlerai",
+      "tu": "tu parleras",
+      "il": "il parlera",
+      "elle": "elle parlera",
+      "on": "on parlera",
+      "nous": "nous parlerons",
+      "vous": "vous parlerez",
+      "ils": "ils parleront",
+      "elles": "elles parleront"
+    },
+    "conditionnel_present": {
+      "je": "je parlerais",
+      "tu": "tu parlerais",
+      "il": "il parlerait",
+      "elle": "elle parlerait",
+      "on": "on parlerait",
+      "nous": "nous parlerions",
+      "vous": "vous parleriez",
+      "ils": "ils parleraient",
+      "elles": "elles parleraient"
+    },
+    "subjonctif_present": {
+      "je": "je parle",
+      "tu": "tu parles",
+      "il": "il parle",
+      "elle": "elle parle",
+      "on": "on parle",
+      "nous": "nous parlions",
+      "vous": "vous parliez",
+      "ils": "ils parlent",
+      "elles": "elles parlent"
+    },
+    "passe_simple": {
+      "je": "je parlai",
+      "tu": "tu parlas",
+      "il": "il parla",
+      "elle": "elle parla",
+      "on": "on parla",
+      "nous": "nous parlâmes",
+      "vous": "vous parlâtes",
+      "ils": "ils parlèrent",
+      "elles": "elles parlèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai parlé",
+      "tu": "tu as parlé",
+      "il": "il a parlé",
+      "elle": "elle a parlé",
+      "on": "on a parlé",
+      "nous": "nous avons parlé",
+      "vous": "vous avez parlé",
+      "ils": "ils ont parlé",
+      "elles": "elles ont parlé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais parlé",
+      "tu": "tu avais parlé",
+      "il": "il avait parlé",
+      "elle": "elle avait parlé",
+      "on": "on avait parlé",
+      "nous": "nous avions parlé",
+      "vous": "vous aviez parlé",
+      "ils": "ils avaient parlé",
+      "elles": "elles avaient parlé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai parlé",
+      "tu": "tu auras parlé",
+      "il": "il aura parlé",
+      "elle": "elle aura parlé",
+      "on": "on aura parlé",
+      "nous": "nous aurons parlé",
+      "vous": "vous aurez parlé",
+      "ils": "ils auront parlé",
+      "elles": "elles auront parlé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais parlé",
+      "tu": "tu aurais parlé",
+      "il": "il aurait parlé",
+      "elle": "elle aurait parlé",
+      "on": "on aurait parlé",
+      "nous": "nous aurions parlé",
+      "vous": "vous auriez parlé",
+      "ils": "ils auraient parlé",
+      "elles": "elles auraient parlé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie parlé",
+      "tu": "tu aies parlé",
+      "il": "il ait parlé",
+      "elle": "elle ait parlé",
+      "on": "on ait parlé",
+      "nous": "nous ayons parlé",
+      "vous": "vous ayez parlé",
+      "ils": "ils aient parlé",
+      "elles": "elles aient parlé"
+    },
+    "futur_proche": {
+      "je": "je vais parler",
+      "tu": "tu vas parler",
+      "il": "il va parler",
+      "elle": "elle va parler",
+      "on": "on va parler",
+      "nous": "nous allons parler",
+      "vous": "vous allez parler",
+      "ils": "ils vont parler",
+      "elles": "elles vont parler"
+    },
+    "imperatif_present": {
+      "tu": "parle",
+      "nous": "parlons",
+      "vous": "parlez"
+    }
+  }
+}

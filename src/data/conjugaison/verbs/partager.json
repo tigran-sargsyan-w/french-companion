@@ -1,0 +1,144 @@
+{
+  "infinitive": "partager",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je partage",
+      "tu": "tu partages",
+      "il": "il partage",
+      "elle": "elle partage",
+      "on": "on partage",
+      "nous": "nous partageons",
+      "vous": "vous partagez",
+      "ils": "ils partagent",
+      "elles": "elles partagent"
+    },
+    "imparfait": {
+      "je": "je partageais",
+      "tu": "tu partageais",
+      "il": "il partageait",
+      "elle": "elle partageait",
+      "on": "on partageait",
+      "nous": "nous partagions",
+      "vous": "vous partagiez",
+      "ils": "ils partageaient",
+      "elles": "elles partageaient"
+    },
+    "futur_simple": {
+      "je": "je partagerai",
+      "tu": "tu partageras",
+      "il": "il partagera",
+      "elle": "elle partagera",
+      "on": "on partagera",
+      "nous": "nous partagerons",
+      "vous": "vous partagerez",
+      "ils": "ils partageront",
+      "elles": "elles partageront"
+    },
+    "conditionnel_present": {
+      "je": "je partagerais",
+      "tu": "tu partagerais",
+      "il": "il partagerait",
+      "elle": "elle partagerait",
+      "on": "on partagerait",
+      "nous": "nous partagerions",
+      "vous": "vous partageriez",
+      "ils": "ils partageraient",
+      "elles": "elles partageraient"
+    },
+    "subjonctif_present": {
+      "je": "je partage",
+      "tu": "tu partages",
+      "il": "il partage",
+      "elle": "elle partage",
+      "on": "on partage",
+      "nous": "nous partagions",
+      "vous": "vous partagiez",
+      "ils": "ils partagent",
+      "elles": "elles partagent"
+    },
+    "passe_simple": {
+      "je": "je partageai",
+      "tu": "tu partageas",
+      "il": "il partagea",
+      "elle": "elle partagea",
+      "on": "on partagea",
+      "nous": "nous partageâmes",
+      "vous": "vous partageâtes",
+      "ils": "ils partagèrent",
+      "elles": "elles partagèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai partagé",
+      "tu": "tu as partagé",
+      "il": "il a partagé",
+      "elle": "elle a partagé",
+      "on": "on a partagé",
+      "nous": "nous avons partagé",
+      "vous": "vous avez partagé",
+      "ils": "ils ont partagé",
+      "elles": "elles ont partagé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais partagé",
+      "tu": "tu avais partagé",
+      "il": "il avait partagé",
+      "elle": "elle avait partagé",
+      "on": "on avait partagé",
+      "nous": "nous avions partagé",
+      "vous": "vous aviez partagé",
+      "ils": "ils avaient partagé",
+      "elles": "elles avaient partagé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai partagé",
+      "tu": "tu auras partagé",
+      "il": "il aura partagé",
+      "elle": "elle aura partagé",
+      "on": "on aura partagé",
+      "nous": "nous aurons partagé",
+      "vous": "vous aurez partagé",
+      "ils": "ils auront partagé",
+      "elles": "elles auront partagé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais partagé",
+      "tu": "tu aurais partagé",
+      "il": "il aurait partagé",
+      "elle": "elle aurait partagé",
+      "on": "on aurait partagé",
+      "nous": "nous aurions partagé",
+      "vous": "vous auriez partagé",
+      "ils": "ils auraient partagé",
+      "elles": "elles auraient partagé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie partagé",
+      "tu": "tu aies partagé",
+      "il": "il ait partagé",
+      "elle": "elle ait partagé",
+      "on": "on ait partagé",
+      "nous": "nous ayons partagé",
+      "vous": "vous ayez partagé",
+      "ils": "ils aient partagé",
+      "elles": "elles aient partagé"
+    },
+    "futur_proche": {
+      "je": "je vais partager",
+      "tu": "tu vas partager",
+      "il": "il va partager",
+      "elle": "elle va partager",
+      "on": "on va partager",
+      "nous": "nous allons partager",
+      "vous": "vous allez partager",
+      "ils": "ils vont partager",
+      "elles": "elles vont partager"
+    },
+    "imperatif_present": {
+      "tu": "partage",
+      "nous": "partageons",
+      "vous": "partagez"
+    }
+  }
+}

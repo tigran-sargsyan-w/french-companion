@@ -1,0 +1,144 @@
+{
+  "infinitive": "s'habiller",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je m'habille",
+      "tu": "tu t'habilles",
+      "il": "il s'habille",
+      "elle": "elle s'habille",
+      "on": "on s'habille",
+      "nous": "nous nous habillons",
+      "vous": "vous vous habillez",
+      "ils": "ils s'habillent",
+      "elles": "elles s'habillent"
+    },
+    "imparfait": {
+      "je": "je m'habillais",
+      "tu": "tu t'habillais",
+      "il": "il s'habillait",
+      "elle": "elle s'habillait",
+      "on": "on s'habillait",
+      "nous": "nous nous habillions",
+      "vous": "vous vous habilliez",
+      "ils": "ils s'habillaient",
+      "elles": "elles s'habillaient"
+    },
+    "passe_simple": {
+      "je": "je m'habillai",
+      "tu": "tu t'habillas",
+      "il": "il s'habilla",
+      "elle": "elle s'habilla",
+      "on": "on s'habilla",
+      "nous": "nous nous habillâmes",
+      "vous": "vous vous habillâtes",
+      "ils": "ils s'habillèrent",
+      "elles": "elles s'habillèrent"
+    },
+    "futur_simple": {
+      "je": "je m'habillerai",
+      "tu": "tu t'habilleras",
+      "il": "il s'habillera",
+      "elle": "elle s'habillera",
+      "on": "on s'habillera",
+      "nous": "nous nous habillerons",
+      "vous": "vous vous habillerez",
+      "ils": "ils s'habilleront",
+      "elles": "elles s'habilleront"
+    },
+    "conditionnel_present": {
+      "je": "je m'habillerais",
+      "tu": "tu t'habillerais",
+      "il": "il s'habillerait",
+      "elle": "elle s'habillerait",
+      "on": "on s'habillerait",
+      "nous": "nous nous habillerions",
+      "vous": "vous vous habilleriez",
+      "ils": "ils s'habilleraient",
+      "elles": "elles s'habilleraient"
+    },
+    "subjonctif_present": {
+      "je": "je m'habille",
+      "tu": "tu t'habilles",
+      "il": "il s'habille",
+      "elle": "elle s'habille",
+      "on": "on s'habille",
+      "nous": "nous nous habillions",
+      "vous": "vous vous habilliez",
+      "ils": "ils s'habillent",
+      "elles": "elles s'habillent"
+    },
+    "futur_proche": {
+      "je": "je vais m'habiller",
+      "tu": "tu vas t'habiller",
+      "il": "il va s'habiller",
+      "elle": "elle va s'habiller",
+      "on": "on va s'habiller",
+      "nous": "nous allons nous habiller",
+      "vous": "vous allez vous habiller",
+      "ils": "ils vont s'habiller",
+      "elles": "elles vont s'habiller"
+    },
+    "passe_compose": {
+      "je": "je me suis habillé",
+      "tu": "tu t'es habillé",
+      "il": "il s'est habillé",
+      "elle": "elle s'est habillée",
+      "on": "on s'est habillé",
+      "nous": "nous nous sommes habillés",
+      "vous": "vous vous êtes habillés",
+      "ils": "ils se sont habillés",
+      "elles": "elles se sont habillées"
+    },
+    "plus_que_parfait": {
+      "je": "je m'étais habillé",
+      "tu": "tu t'étais habillé",
+      "il": "il s'était habillé",
+      "elle": "elle s'était habillée",
+      "on": "on s'était habillé",
+      "nous": "nous nous étions habillés",
+      "vous": "vous vous étiez habillés",
+      "ils": "ils s'étaient habillés",
+      "elles": "elles s'étaient habillées"
+    },
+    "futur_anterieur": {
+      "je": "je me serai habillé",
+      "tu": "tu te seras habillé",
+      "il": "il se sera habillé",
+      "elle": "elle se sera habillée",
+      "on": "on se sera habillé",
+      "nous": "nous nous serons habillés",
+      "vous": "vous vous serez habillés",
+      "ils": "ils se seront habillés",
+      "elles": "elles se seront habillées"
+    },
+    "conditionnel_passe": {
+      "je": "je me serais habillé",
+      "tu": "tu te serais habillé",
+      "il": "il se serait habillé",
+      "elle": "elle se serait habillée",
+      "on": "on se serait habillé",
+      "nous": "nous nous serions habillés",
+      "vous": "vous vous seriez habillés",
+      "ils": "ils se seraient habillés",
+      "elles": "elles se seraient habillées"
+    },
+    "subjonctif_passe": {
+      "je": "je me sois habillé",
+      "tu": "tu te sois habillé",
+      "il": "il se soit habillé",
+      "elle": "elle se soit habillée",
+      "on": "on se soit habillé",
+      "nous": "nous nous soyons habillés",
+      "vous": "vous vous soyez habillés",
+      "ils": "ils se soient habillés",
+      "elles": "elles se soient habillées"
+    },
+    "imperatif_present": {
+      "tu": "habille-toi",
+      "nous": "habillons-nous",
+      "vous": "habillez-vous"
+    }
+  }
+}

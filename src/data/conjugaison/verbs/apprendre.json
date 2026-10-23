@@ -1,0 +1,144 @@
+{
+  "infinitive": "apprendre",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "j'apprends",
+      "tu": "tu apprends",
+      "il": "il apprend",
+      "elle": "elle apprend",
+      "on": "on apprend",
+      "nous": "nous apprenons",
+      "vous": "vous apprenez",
+      "ils": "ils apprennent",
+      "elles": "elles apprennent"
+    },
+    "imparfait": {
+      "je": "j'apprenais",
+      "tu": "tu apprenais",
+      "il": "il apprenait",
+      "elle": "elle apprenait",
+      "on": "on apprenait",
+      "nous": "nous apprenions",
+      "vous": "vous appreniez",
+      "ils": "ils apprenaient",
+      "elles": "elles apprenaient"
+    },
+    "futur_simple": {
+      "je": "j'apprendrai",
+      "tu": "tu apprendras",
+      "il": "il apprendra",
+      "elle": "elle apprendra",
+      "on": "on apprendra",
+      "nous": "nous apprendrons",
+      "vous": "vous apprendrez",
+      "ils": "ils apprendront",
+      "elles": "elles apprendront"
+    },
+    "conditionnel_present": {
+      "je": "j'apprendrais",
+      "tu": "tu apprendrais",
+      "il": "il apprendrait",
+      "elle": "elle apprendrait",
+      "on": "on apprendrait",
+      "nous": "nous apprendrions",
+      "vous": "vous apprendriez",
+      "ils": "ils apprendraient",
+      "elles": "elles apprendraient"
+    },
+    "subjonctif_present": {
+      "je": "j'apprenne",
+      "tu": "tu apprennes",
+      "il": "il apprenne",
+      "elle": "elle apprenne",
+      "on": "on apprenne",
+      "nous": "nous apprenions",
+      "vous": "vous appreniez",
+      "ils": "ils apprennent",
+      "elles": "elles apprennent"
+    },
+    "passe_simple": {
+      "je": "j'appris",
+      "tu": "tu appris",
+      "il": "il apprit",
+      "elle": "elle apprit",
+      "on": "on apprit",
+      "nous": "nous apprîmes",
+      "vous": "vous apprîtes",
+      "ils": "ils apprirent",
+      "elles": "elles apprirent"
+    },
+    "passe_compose": {
+      "je": "j'ai appris",
+      "tu": "tu as appris",
+      "il": "il a appris",
+      "elle": "elle a appris",
+      "on": "on a appris",
+      "nous": "nous avons appris",
+      "vous": "vous avez appris",
+      "ils": "ils ont appris",
+      "elles": "elles ont appris"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais appris",
+      "tu": "tu avais appris",
+      "il": "il avait appris",
+      "elle": "elle avait appris",
+      "on": "on avait appris",
+      "nous": "nous avions appris",
+      "vous": "vous aviez appris",
+      "ils": "ils avaient appris",
+      "elles": "elles avaient appris"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai appris",
+      "tu": "tu auras appris",
+      "il": "il aura appris",
+      "elle": "elle aura appris",
+      "on": "on aura appris",
+      "nous": "nous aurons appris",
+      "vous": "vous aurez appris",
+      "ils": "ils auront appris",
+      "elles": "elles auront appris"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais appris",
+      "tu": "tu aurais appris",
+      "il": "il aurait appris",
+      "elle": "elle aurait appris",
+      "on": "on aurait appris",
+      "nous": "nous aurions appris",
+      "vous": "vous auriez appris",
+      "ils": "ils auraient appris",
+      "elles": "elles auraient appris"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie appris",
+      "tu": "tu aies appris",
+      "il": "il ait appris",
+      "elle": "elle ait appris",
+      "on": "on ait appris",
+      "nous": "nous ayons appris",
+      "vous": "vous ayez appris",
+      "ils": "ils aient appris",
+      "elles": "elles aient appris"
+    },
+    "futur_proche": {
+      "je": "je vais apprendre",
+      "tu": "tu vas apprendre",
+      "il": "il va apprendre",
+      "elle": "elle va apprendre",
+      "on": "on va apprendre",
+      "nous": "nous allons apprendre",
+      "vous": "vous allez apprendre",
+      "ils": "ils vont apprendre",
+      "elles": "elles vont apprendre"
+    },
+    "imperatif_present": {
+      "tu": "apprends",
+      "nous": "apprenons",
+      "vous": "apprenez"
+    }
+  }
+}

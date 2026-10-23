@@ -1,0 +1,144 @@
+{
+  "infinitive": "grandir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je grandis",
+      "tu": "tu grandis",
+      "il": "il grandit",
+      "elle": "elle grandit",
+      "on": "on grandit",
+      "nous": "nous grandissons",
+      "vous": "vous grandissez",
+      "ils": "ils grandissent",
+      "elles": "elles grandissent"
+    },
+    "imparfait": {
+      "je": "je grandissais",
+      "tu": "tu grandissais",
+      "il": "il grandissait",
+      "elle": "elle grandissait",
+      "on": "on grandissait",
+      "nous": "nous grandissions",
+      "vous": "vous grandissiez",
+      "ils": "ils grandissaient",
+      "elles": "elles grandissaient"
+    },
+    "futur_simple": {
+      "je": "je grandirai",
+      "tu": "tu grandiras",
+      "il": "il grandira",
+      "elle": "elle grandira",
+      "on": "on grandira",
+      "nous": "nous grandirons",
+      "vous": "vous grandirez",
+      "ils": "ils grandiront",
+      "elles": "elles grandiront"
+    },
+    "conditionnel_present": {
+      "je": "je grandirais",
+      "tu": "tu grandirais",
+      "il": "il grandirait",
+      "elle": "elle grandirait",
+      "on": "on grandirait",
+      "nous": "nous grandirions",
+      "vous": "vous grandiriez",
+      "ils": "ils grandiraient",
+      "elles": "elles grandiraient"
+    },
+    "subjonctif_present": {
+      "je": "je grandisse",
+      "tu": "tu grandisses",
+      "il": "il grandisse",
+      "elle": "elle grandisse",
+      "on": "on grandisse",
+      "nous": "nous grandissions",
+      "vous": "vous grandissiez",
+      "ils": "ils grandissent",
+      "elles": "elles grandissent"
+    },
+    "passe_simple": {
+      "je": "je grandis",
+      "tu": "tu grandis",
+      "il": "il grandit",
+      "elle": "elle grandit",
+      "on": "on grandit",
+      "nous": "nous grandîmes",
+      "vous": "vous grandîtes",
+      "ils": "ils grandirent",
+      "elles": "elles grandirent"
+    },
+    "passe_compose": {
+      "je": "j'ai grandi",
+      "tu": "tu as grandi",
+      "il": "il a grandi",
+      "elle": "elle a grandi",
+      "on": "on a grandi",
+      "nous": "nous avons grandi",
+      "vous": "vous avez grandi",
+      "ils": "ils ont grandi",
+      "elles": "elles ont grandi"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais grandi",
+      "tu": "tu avais grandi",
+      "il": "il avait grandi",
+      "elle": "elle avait grandi",
+      "on": "on avait grandi",
+      "nous": "nous avions grandi",
+      "vous": "vous aviez grandi",
+      "ils": "ils avaient grandi",
+      "elles": "elles avaient grandi"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai grandi",
+      "tu": "tu auras grandi",
+      "il": "il aura grandi",
+      "elle": "elle aura grandi",
+      "on": "on aura grandi",
+      "nous": "nous aurons grandi",
+      "vous": "vous aurez grandi",
+      "ils": "ils auront grandi",
+      "elles": "elles auront grandi"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais grandi",
+      "tu": "tu aurais grandi",
+      "il": "il aurait grandi",
+      "elle": "elle aurait grandi",
+      "on": "on aurait grandi",
+      "nous": "nous aurions grandi",
+      "vous": "vous auriez grandi",
+      "ils": "ils auraient grandi",
+      "elles": "elles auraient grandi"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie grandi",
+      "tu": "tu aies grandi",
+      "il": "il ait grandi",
+      "elle": "elle ait grandi",
+      "on": "on ait grandi",
+      "nous": "nous ayons grandi",
+      "vous": "vous ayez grandi",
+      "ils": "ils aient grandi",
+      "elles": "elles aient grandi"
+    },
+    "futur_proche": {
+      "je": "je vais grandir",
+      "tu": "tu vas grandir",
+      "il": "il va grandir",
+      "elle": "elle va grandir",
+      "on": "on va grandir",
+      "nous": "nous allons grandir",
+      "vous": "vous allez grandir",
+      "ils": "ils vont grandir",
+      "elles": "elles vont grandir"
+    },
+    "imperatif_present": {
+      "tu": "grandis",
+      "nous": "grandissons",
+      "vous": "grandissez"
+    }
+  }
+}

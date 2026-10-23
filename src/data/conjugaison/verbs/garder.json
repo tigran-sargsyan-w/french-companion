@@ -1,0 +1,144 @@
+{
+  "infinitive": "garder",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je garde",
+      "tu": "tu gardes",
+      "il": "il garde",
+      "elle": "elle garde",
+      "on": "on garde",
+      "nous": "nous gardons",
+      "vous": "vous gardez",
+      "ils": "ils gardent",
+      "elles": "elles gardent"
+    },
+    "imparfait": {
+      "je": "je gardais",
+      "tu": "tu gardais",
+      "il": "il gardait",
+      "elle": "elle gardait",
+      "on": "on gardait",
+      "nous": "nous gardions",
+      "vous": "vous gardiez",
+      "ils": "ils gardaient",
+      "elles": "elles gardaient"
+    },
+    "futur_simple": {
+      "je": "je garderai",
+      "tu": "tu garderas",
+      "il": "il gardera",
+      "elle": "elle gardera",
+      "on": "on gardera",
+      "nous": "nous garderons",
+      "vous": "vous garderez",
+      "ils": "ils garderont",
+      "elles": "elles garderont"
+    },
+    "conditionnel_present": {
+      "je": "je garderais",
+      "tu": "tu garderais",
+      "il": "il garderait",
+      "elle": "elle garderait",
+      "on": "on garderait",
+      "nous": "nous garderions",
+      "vous": "vous garderiez",
+      "ils": "ils garderaient",
+      "elles": "elles garderaient"
+    },
+    "subjonctif_present": {
+      "je": "je garde",
+      "tu": "tu gardes",
+      "il": "il garde",
+      "elle": "elle garde",
+      "on": "on garde",
+      "nous": "nous gardions",
+      "vous": "vous gardiez",
+      "ils": "ils gardent",
+      "elles": "elles gardent"
+    },
+    "passe_simple": {
+      "je": "je gardai",
+      "tu": "tu gardas",
+      "il": "il garda",
+      "elle": "elle garda",
+      "on": "on garda",
+      "nous": "nous gardâmes",
+      "vous": "vous gardâtes",
+      "ils": "ils gardèrent",
+      "elles": "elles gardèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai gardé",
+      "tu": "tu as gardé",
+      "il": "il a gardé",
+      "elle": "elle a gardé",
+      "on": "on a gardé",
+      "nous": "nous avons gardé",
+      "vous": "vous avez gardé",
+      "ils": "ils ont gardé",
+      "elles": "elles ont gardé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais gardé",
+      "tu": "tu avais gardé",
+      "il": "il avait gardé",
+      "elle": "elle avait gardé",
+      "on": "on avait gardé",
+      "nous": "nous avions gardé",
+      "vous": "vous aviez gardé",
+      "ils": "ils avaient gardé",
+      "elles": "elles avaient gardé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai gardé",
+      "tu": "tu auras gardé",
+      "il": "il aura gardé",
+      "elle": "elle aura gardé",
+      "on": "on aura gardé",
+      "nous": "nous aurons gardé",
+      "vous": "vous aurez gardé",
+      "ils": "ils auront gardé",
+      "elles": "elles auront gardé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais gardé",
+      "tu": "tu aurais gardé",
+      "il": "il aurait gardé",
+      "elle": "elle aurait gardé",
+      "on": "on aurait gardé",
+      "nous": "nous aurions gardé",
+      "vous": "vous auriez gardé",
+      "ils": "ils auraient gardé",
+      "elles": "elles auraient gardé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie gardé",
+      "tu": "tu aies gardé",
+      "il": "il ait gardé",
+      "elle": "elle ait gardé",
+      "on": "on ait gardé",
+      "nous": "nous ayons gardé",
+      "vous": "vous ayez gardé",
+      "ils": "ils aient gardé",
+      "elles": "elles aient gardé"
+    },
+    "futur_proche": {
+      "je": "je vais garder",
+      "tu": "tu vas garder",
+      "il": "il va garder",
+      "elle": "elle va garder",
+      "on": "on va garder",
+      "nous": "nous allons garder",
+      "vous": "vous allez garder",
+      "ils": "ils vont garder",
+      "elles": "elles vont garder"
+    },
+    "imperatif_present": {
+      "tu": "garde",
+      "nous": "gardons",
+      "vous": "gardez"
+    }
+  }
+}

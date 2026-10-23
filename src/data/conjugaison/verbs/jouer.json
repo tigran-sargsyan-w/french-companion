@@ -1,0 +1,144 @@
+{
+  "infinitive": "jouer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je joue",
+      "tu": "tu joues",
+      "il": "il joue",
+      "elle": "elle joue",
+      "on": "on joue",
+      "nous": "nous jouons",
+      "vous": "vous jouez",
+      "ils": "ils jouent",
+      "elles": "elles jouent"
+    },
+    "imparfait": {
+      "je": "je jouais",
+      "tu": "tu jouais",
+      "il": "il jouait",
+      "elle": "elle jouait",
+      "on": "on jouait",
+      "nous": "nous jouions",
+      "vous": "vous jouiez",
+      "ils": "ils jouaient",
+      "elles": "elles jouaient"
+    },
+    "futur_simple": {
+      "je": "je jouerai",
+      "tu": "tu joueras",
+      "il": "il jouera",
+      "elle": "elle jouera",
+      "on": "on jouera",
+      "nous": "nous jouerons",
+      "vous": "vous jouerez",
+      "ils": "ils joueront",
+      "elles": "elles joueront"
+    },
+    "conditionnel_present": {
+      "je": "je jouerais",
+      "tu": "tu jouerais",
+      "il": "il jouerait",
+      "elle": "elle jouerait",
+      "on": "on jouerait",
+      "nous": "nous jouerions",
+      "vous": "vous joueriez",
+      "ils": "ils joueraient",
+      "elles": "elles joueraient"
+    },
+    "subjonctif_present": {
+      "je": "je joue",
+      "tu": "tu joues",
+      "il": "il joue",
+      "elle": "elle joue",
+      "on": "on joue",
+      "nous": "nous jouions",
+      "vous": "vous jouiez",
+      "ils": "ils jouent",
+      "elles": "elles jouent"
+    },
+    "passe_simple": {
+      "je": "je jouai",
+      "tu": "tu jouas",
+      "il": "il joua",
+      "elle": "elle joua",
+      "on": "on joua",
+      "nous": "nous jouâmes",
+      "vous": "vous jouâtes",
+      "ils": "ils jouèrent",
+      "elles": "elles jouèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai joué",
+      "tu": "tu as joué",
+      "il": "il a joué",
+      "elle": "elle a joué",
+      "on": "on a joué",
+      "nous": "nous avons joué",
+      "vous": "vous avez joué",
+      "ils": "ils ont joué",
+      "elles": "elles ont joué"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais joué",
+      "tu": "tu avais joué",
+      "il": "il avait joué",
+      "elle": "elle avait joué",
+      "on": "on avait joué",
+      "nous": "nous avions joué",
+      "vous": "vous aviez joué",
+      "ils": "ils avaient joué",
+      "elles": "elles avaient joué"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai joué",
+      "tu": "tu auras joué",
+      "il": "il aura joué",
+      "elle": "elle aura joué",
+      "on": "on aura joué",
+      "nous": "nous aurons joué",
+      "vous": "vous aurez joué",
+      "ils": "ils auront joué",
+      "elles": "elles auront joué"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais joué",
+      "tu": "tu aurais joué",
+      "il": "il aurait joué",
+      "elle": "elle aurait joué",
+      "on": "on aurait joué",
+      "nous": "nous aurions joué",
+      "vous": "vous auriez joué",
+      "ils": "ils auraient joué",
+      "elles": "elles auraient joué"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie joué",
+      "tu": "tu aies joué",
+      "il": "il ait joué",
+      "elle": "elle ait joué",
+      "on": "on ait joué",
+      "nous": "nous ayons joué",
+      "vous": "vous ayez joué",
+      "ils": "ils aient joué",
+      "elles": "elles aient joué"
+    },
+    "futur_proche": {
+      "je": "je vais jouer",
+      "tu": "tu vas jouer",
+      "il": "il va jouer",
+      "elle": "elle va jouer",
+      "on": "on va jouer",
+      "nous": "nous allons jouer",
+      "vous": "vous allez jouer",
+      "ils": "ils vont jouer",
+      "elles": "elles vont jouer"
+    },
+    "imperatif_present": {
+      "tu": "joue",
+      "nous": "jouons",
+      "vous": "jouez"
+    }
+  }
+}

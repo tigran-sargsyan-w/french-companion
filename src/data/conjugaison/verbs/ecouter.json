@@ -1,0 +1,144 @@
+{
+  "infinitive": "écouter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'écoute",
+      "tu": "tu écoutes",
+      "il": "il écoute",
+      "elle": "elle écoute",
+      "on": "on écoute",
+      "nous": "nous écoutons",
+      "vous": "vous écoutez",
+      "ils": "ils écoutent",
+      "elles": "elles écoutent"
+    },
+    "imparfait": {
+      "je": "j'écoutais",
+      "tu": "tu écoutais",
+      "il": "il écoutait",
+      "elle": "elle écoutait",
+      "on": "on écoutait",
+      "nous": "nous écoutions",
+      "vous": "vous écoutiez",
+      "ils": "ils écoutaient",
+      "elles": "elles écoutaient"
+    },
+    "futur_simple": {
+      "je": "j'écouterai",
+      "tu": "tu écouteras",
+      "il": "il écoutera",
+      "elle": "elle écoutera",
+      "on": "on écoutera",
+      "nous": "nous écouterons",
+      "vous": "vous écouterez",
+      "ils": "ils écouteront",
+      "elles": "elles écouteront"
+    },
+    "conditionnel_present": {
+      "je": "j'écouterais",
+      "tu": "tu écouterais",
+      "il": "il écouterait",
+      "elle": "elle écouterait",
+      "on": "on écouterait",
+      "nous": "nous écouterions",
+      "vous": "vous écouteriez",
+      "ils": "ils écouteraient",
+      "elles": "elles écouteraient"
+    },
+    "subjonctif_present": {
+      "je": "j'écoute",
+      "tu": "tu écoutes",
+      "il": "il écoute",
+      "elle": "elle écoute",
+      "on": "on écoute",
+      "nous": "nous écoutions",
+      "vous": "vous écoutiez",
+      "ils": "ils écoutent",
+      "elles": "elles écoutent"
+    },
+    "passe_simple": {
+      "je": "j'écoutai",
+      "tu": "tu écoutas",
+      "il": "il écouta",
+      "elle": "elle écouta",
+      "on": "on écouta",
+      "nous": "nous écoutâmes",
+      "vous": "vous écoutâtes",
+      "ils": "ils écoutèrent",
+      "elles": "elles écoutèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai écouté",
+      "tu": "tu as écouté",
+      "il": "il a écouté",
+      "elle": "elle a écouté",
+      "on": "on a écouté",
+      "nous": "nous avons écouté",
+      "vous": "vous avez écouté",
+      "ils": "ils ont écouté",
+      "elles": "elles ont écouté"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais écouté",
+      "tu": "tu avais écouté",
+      "il": "il avait écouté",
+      "elle": "elle avait écouté",
+      "on": "on avait écouté",
+      "nous": "nous avions écouté",
+      "vous": "vous aviez écouté",
+      "ils": "ils avaient écouté",
+      "elles": "elles avaient écouté"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai écouté",
+      "tu": "tu auras écouté",
+      "il": "il aura écouté",
+      "elle": "elle aura écouté",
+      "on": "on aura écouté",
+      "nous": "nous aurons écouté",
+      "vous": "vous aurez écouté",
+      "ils": "ils auront écouté",
+      "elles": "elles auront écouté"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais écouté",
+      "tu": "tu aurais écouté",
+      "il": "il aurait écouté",
+      "elle": "elle aurait écouté",
+      "on": "on aurait écouté",
+      "nous": "nous aurions écouté",
+      "vous": "vous auriez écouté",
+      "ils": "ils auraient écouté",
+      "elles": "elles auraient écouté"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie écouté",
+      "tu": "tu aies écouté",
+      "il": "il ait écouté",
+      "elle": "elle ait écouté",
+      "on": "on ait écouté",
+      "nous": "nous ayons écouté",
+      "vous": "vous ayez écouté",
+      "ils": "ils aient écouté",
+      "elles": "elles aient écouté"
+    },
+    "futur_proche": {
+      "je": "je vais écouter",
+      "tu": "tu vas écouter",
+      "il": "il va écouter",
+      "elle": "elle va écouter",
+      "on": "on va écouter",
+      "nous": "nous allons écouter",
+      "vous": "vous allez écouter",
+      "ils": "ils vont écouter",
+      "elles": "elles vont écouter"
+    },
+    "imperatif_present": {
+      "tu": "écoute",
+      "nous": "écoutons",
+      "vous": "écoutez"
+    }
+  }
+}

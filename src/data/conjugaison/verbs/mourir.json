@@ -1,0 +1,144 @@
+{
+  "infinitive": "mourir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je meurs",
+      "tu": "tu meurs",
+      "il": "il meurt",
+      "elle": "elle meurt",
+      "on": "on meurt",
+      "nous": "nous mourons",
+      "vous": "vous mourez",
+      "ils": "ils meurent",
+      "elles": "elles meurent"
+    },
+    "imparfait": {
+      "je": "je mourais",
+      "tu": "tu mourais",
+      "il": "il mourait",
+      "elle": "elle mourait",
+      "on": "on mourait",
+      "nous": "nous mourions",
+      "vous": "vous mouriez",
+      "ils": "ils mouraient",
+      "elles": "elles mouraient"
+    },
+    "futur_simple": {
+      "je": "je mourrai",
+      "tu": "tu mourras",
+      "il": "il mourra",
+      "elle": "elle mourra",
+      "on": "on mourra",
+      "nous": "nous mourrons",
+      "vous": "vous mourrez",
+      "ils": "ils mourront",
+      "elles": "elles mourront"
+    },
+    "conditionnel_present": {
+      "je": "je mourrais",
+      "tu": "tu mourrais",
+      "il": "il mourrait",
+      "elle": "elle mourrait",
+      "on": "on mourrait",
+      "nous": "nous mourrions",
+      "vous": "vous mourriez",
+      "ils": "ils mourraient",
+      "elles": "elles mourraient"
+    },
+    "subjonctif_present": {
+      "je": "je meure",
+      "tu": "tu meures",
+      "il": "il meure",
+      "elle": "elle meure",
+      "on": "on meure",
+      "nous": "nous mourions",
+      "vous": "vous mouriez",
+      "ils": "ils meurent",
+      "elles": "elles meurent"
+    },
+    "passe_simple": {
+      "je": "je mourus",
+      "tu": "tu mourus",
+      "il": "il mourut",
+      "elle": "elle mourut",
+      "on": "on mourut",
+      "nous": "nous mourûmes",
+      "vous": "vous mourûtes",
+      "ils": "ils moururent",
+      "elles": "elles moururent"
+    },
+    "passe_compose": {
+      "je": "je suis mort",
+      "tu": "tu es mort",
+      "il": "il est mort",
+      "elle": "elle est morte",
+      "on": "on est mort",
+      "nous": "nous sommes morts",
+      "vous": "vous êtes morts",
+      "ils": "ils sont morts",
+      "elles": "elles sont mortes"
+    },
+    "plus_que_parfait": {
+      "je": "j'étais mort",
+      "tu": "tu étais mort",
+      "il": "il était mort",
+      "elle": "elle était morte",
+      "on": "on était mort",
+      "nous": "nous étions morts",
+      "vous": "vous étiez morts",
+      "ils": "ils étaient morts",
+      "elles": "elles étaient mortes"
+    },
+    "futur_anterieur": {
+      "je": "je serai mort",
+      "tu": "tu seras mort",
+      "il": "il sera mort",
+      "elle": "elle sera morte",
+      "on": "on sera mort",
+      "nous": "nous serons morts",
+      "vous": "vous serez morts",
+      "ils": "ils seront morts",
+      "elles": "elles seront mortes"
+    },
+    "conditionnel_passe": {
+      "je": "je serais mort",
+      "tu": "tu serais mort",
+      "il": "il serait mort",
+      "elle": "elle serait morte",
+      "on": "on serait mort",
+      "nous": "nous serions morts",
+      "vous": "vous seriez morts",
+      "ils": "ils seraient morts",
+      "elles": "elles seraient mortes"
+    },
+    "subjonctif_passe": {
+      "je": "je sois mort",
+      "tu": "tu sois mort",
+      "il": "il soit mort",
+      "elle": "elle soit morte",
+      "on": "on soit mort",
+      "nous": "nous soyons morts",
+      "vous": "vous soyez morts",
+      "ils": "ils soient morts",
+      "elles": "elles soient mortes"
+    },
+    "futur_proche": {
+      "je": "je vais mourir",
+      "tu": "tu vas mourir",
+      "il": "il va mourir",
+      "elle": "elle va mourir",
+      "on": "on va mourir",
+      "nous": "nous allons mourir",
+      "vous": "vous allez mourir",
+      "ils": "ils vont mourir",
+      "elles": "elles vont mourir"
+    },
+    "imperatif_present": {
+      "tu": "meurs",
+      "nous": "mourons",
+      "vous": "mourez"
+    }
+  }
+}

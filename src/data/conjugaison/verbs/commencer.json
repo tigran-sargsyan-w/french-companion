@@ -1,0 +1,144 @@
+{
+  "infinitive": "commencer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je commence",
+      "tu": "tu commences",
+      "il": "il commence",
+      "elle": "elle commence",
+      "on": "on commence",
+      "nous": "nous commencçons",
+      "vous": "vous commencez",
+      "ils": "ils commencent",
+      "elles": "elles commencent"
+    },
+    "imparfait": {
+      "je": "je commencçais",
+      "tu": "tu commencçais",
+      "il": "il commencçait",
+      "elle": "elle commencçait",
+      "on": "on commencçait",
+      "nous": "nous commencions",
+      "vous": "vous commenciez",
+      "ils": "ils commencçaient",
+      "elles": "elles commencçaient"
+    },
+    "futur_simple": {
+      "je": "je commencerai",
+      "tu": "tu commenceras",
+      "il": "il commencera",
+      "elle": "elle commencera",
+      "on": "on commencera",
+      "nous": "nous commencerons",
+      "vous": "vous commencerez",
+      "ils": "ils commenceront",
+      "elles": "elles commenceront"
+    },
+    "conditionnel_present": {
+      "je": "je commencerais",
+      "tu": "tu commencerais",
+      "il": "il commencerait",
+      "elle": "elle commencerait",
+      "on": "on commencerait",
+      "nous": "nous commencerions",
+      "vous": "vous commenceriez",
+      "ils": "ils commenceraient",
+      "elles": "elles commenceraient"
+    },
+    "subjonctif_present": {
+      "je": "je commence",
+      "tu": "tu commences",
+      "il": "il commence",
+      "elle": "elle commence",
+      "on": "on commence",
+      "nous": "nous commencions",
+      "vous": "vous commenciez",
+      "ils": "ils commencent",
+      "elles": "elles commencent"
+    },
+    "passe_simple": {
+      "je": "je commençai",
+      "tu": "tu commenças",
+      "il": "il commença",
+      "elle": "elle commença",
+      "on": "on commença",
+      "nous": "nous commençâmes",
+      "vous": "vous commençâtes",
+      "ils": "ils commencèrent",
+      "elles": "elles commencèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai commencé",
+      "tu": "tu as commencé",
+      "il": "il a commencé",
+      "elle": "elle a commencé",
+      "on": "on a commencé",
+      "nous": "nous avons commencé",
+      "vous": "vous avez commencé",
+      "ils": "ils ont commencé",
+      "elles": "elles ont commencé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais commencé",
+      "tu": "tu avais commencé",
+      "il": "il avait commencé",
+      "elle": "elle avait commencé",
+      "on": "on avait commencé",
+      "nous": "nous avions commencé",
+      "vous": "vous aviez commencé",
+      "ils": "ils avaient commencé",
+      "elles": "elles avaient commencé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai commencé",
+      "tu": "tu auras commencé",
+      "il": "il aura commencé",
+      "elle": "elle aura commencé",
+      "on": "on aura commencé",
+      "nous": "nous aurons commencé",
+      "vous": "vous aurez commencé",
+      "ils": "ils auront commencé",
+      "elles": "elles auront commencé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais commencé",
+      "tu": "tu aurais commencé",
+      "il": "il aurait commencé",
+      "elle": "elle aurait commencé",
+      "on": "on aurait commencé",
+      "nous": "nous aurions commencé",
+      "vous": "vous auriez commencé",
+      "ils": "ils auraient commencé",
+      "elles": "elles auraient commencé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie commencé",
+      "tu": "tu aies commencé",
+      "il": "il ait commencé",
+      "elle": "elle ait commencé",
+      "on": "on ait commencé",
+      "nous": "nous ayons commencé",
+      "vous": "vous ayez commencé",
+      "ils": "ils aient commencé",
+      "elles": "elles aient commencé"
+    },
+    "futur_proche": {
+      "je": "je vais commencer",
+      "tu": "tu vas commencer",
+      "il": "il va commencer",
+      "elle": "elle va commencer",
+      "on": "on va commencer",
+      "nous": "nous allons commencer",
+      "vous": "vous allez commencer",
+      "ils": "ils vont commencer",
+      "elles": "elles vont commencer"
+    },
+    "imperatif_present": {
+      "tu": "commence",
+      "nous": "commencçons",
+      "vous": "commencez"
+    }
+  }
+}

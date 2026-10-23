@@ -1,0 +1,144 @@
+{
+  "infinitive": "applaudir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'applaudis",
+      "tu": "tu applaudis",
+      "il": "il applaudit",
+      "elle": "elle applaudit",
+      "on": "on applaudit",
+      "nous": "nous applaudissons",
+      "vous": "vous applaudissez",
+      "ils": "ils applaudissent",
+      "elles": "elles applaudissent"
+    },
+    "imparfait": {
+      "je": "j'applaudissais",
+      "tu": "tu applaudissais",
+      "il": "il applaudissait",
+      "elle": "elle applaudissait",
+      "on": "on applaudissait",
+      "nous": "nous applaudissions",
+      "vous": "vous applaudissiez",
+      "ils": "ils applaudissaient",
+      "elles": "elles applaudissaient"
+    },
+    "futur_simple": {
+      "je": "j'applaudirai",
+      "tu": "tu applaudiras",
+      "il": "il applaudira",
+      "elle": "elle applaudira",
+      "on": "on applaudira",
+      "nous": "nous applaudirons",
+      "vous": "vous applaudirez",
+      "ils": "ils applaudiront",
+      "elles": "elles applaudiront"
+    },
+    "conditionnel_present": {
+      "je": "j'applaudirais",
+      "tu": "tu applaudirais",
+      "il": "il applaudirait",
+      "elle": "elle applaudirait",
+      "on": "on applaudirait",
+      "nous": "nous applaudirions",
+      "vous": "vous applaudiriez",
+      "ils": "ils applaudiraient",
+      "elles": "elles applaudiraient"
+    },
+    "subjonctif_present": {
+      "je": "j'applaudisse",
+      "tu": "tu applaudisses",
+      "il": "il applaudisse",
+      "elle": "elle applaudisse",
+      "on": "on applaudisse",
+      "nous": "nous applaudissions",
+      "vous": "vous applaudissiez",
+      "ils": "ils applaudissent",
+      "elles": "elles applaudissent"
+    },
+    "passe_simple": {
+      "je": "j'applaudis",
+      "tu": "tu applaudis",
+      "il": "il applaudit",
+      "elle": "elle applaudit",
+      "on": "on applaudit",
+      "nous": "nous applaudîmes",
+      "vous": "vous applaudîtes",
+      "ils": "ils applaudirent",
+      "elles": "elles applaudirent"
+    },
+    "passe_compose": {
+      "je": "j'ai applaudi",
+      "tu": "tu as applaudi",
+      "il": "il a applaudi",
+      "elle": "elle a applaudi",
+      "on": "on a applaudi",
+      "nous": "nous avons applaudi",
+      "vous": "vous avez applaudi",
+      "ils": "ils ont applaudi",
+      "elles": "elles ont applaudi"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais applaudi",
+      "tu": "tu avais applaudi",
+      "il": "il avait applaudi",
+      "elle": "elle avait applaudi",
+      "on": "on avait applaudi",
+      "nous": "nous avions applaudi",
+      "vous": "vous aviez applaudi",
+      "ils": "ils avaient applaudi",
+      "elles": "elles avaient applaudi"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai applaudi",
+      "tu": "tu auras applaudi",
+      "il": "il aura applaudi",
+      "elle": "elle aura applaudi",
+      "on": "on aura applaudi",
+      "nous": "nous aurons applaudi",
+      "vous": "vous aurez applaudi",
+      "ils": "ils auront applaudi",
+      "elles": "elles auront applaudi"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais applaudi",
+      "tu": "tu aurais applaudi",
+      "il": "il aurait applaudi",
+      "elle": "elle aurait applaudi",
+      "on": "on aurait applaudi",
+      "nous": "nous aurions applaudi",
+      "vous": "vous auriez applaudi",
+      "ils": "ils auraient applaudi",
+      "elles": "elles auraient applaudi"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie applaudi",
+      "tu": "tu aies applaudi",
+      "il": "il ait applaudi",
+      "elle": "elle ait applaudi",
+      "on": "on ait applaudi",
+      "nous": "nous ayons applaudi",
+      "vous": "vous ayez applaudi",
+      "ils": "ils aient applaudi",
+      "elles": "elles aient applaudi"
+    },
+    "futur_proche": {
+      "je": "je vais applaudir",
+      "tu": "tu vas applaudir",
+      "il": "il va applaudir",
+      "elle": "elle va applaudir",
+      "on": "on va applaudir",
+      "nous": "nous allons applaudir",
+      "vous": "vous allez applaudir",
+      "ils": "ils vont applaudir",
+      "elles": "elles vont applaudir"
+    },
+    "imperatif_present": {
+      "tu": "applaudis",
+      "nous": "applaudissons",
+      "vous": "applaudissez"
+    }
+  }
+}

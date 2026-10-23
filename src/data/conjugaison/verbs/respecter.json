@@ -1,0 +1,144 @@
+{
+  "infinitive": "respecter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je respecte",
+      "tu": "tu respectes",
+      "il": "il respecte",
+      "elle": "elle respecte",
+      "on": "on respecte",
+      "nous": "nous respectons",
+      "vous": "vous respectez",
+      "ils": "ils respectent",
+      "elles": "elles respectent"
+    },
+    "imparfait": {
+      "je": "je respectais",
+      "tu": "tu respectais",
+      "il": "il respectait",
+      "elle": "elle respectait",
+      "on": "on respectait",
+      "nous": "nous respections",
+      "vous": "vous respectiez",
+      "ils": "ils respectaient",
+      "elles": "elles respectaient"
+    },
+    "futur_simple": {
+      "je": "je respecterai",
+      "tu": "tu respecteras",
+      "il": "il respectera",
+      "elle": "elle respectera",
+      "on": "on respectera",
+      "nous": "nous respecterons",
+      "vous": "vous respecterez",
+      "ils": "ils respecteront",
+      "elles": "elles respecteront"
+    },
+    "conditionnel_present": {
+      "je": "je respecterais",
+      "tu": "tu respecterais",
+      "il": "il respecterait",
+      "elle": "elle respecterait",
+      "on": "on respecterait",
+      "nous": "nous respecterions",
+      "vous": "vous respecteriez",
+      "ils": "ils respecteraient",
+      "elles": "elles respecteraient"
+    },
+    "subjonctif_present": {
+      "je": "je respecte",
+      "tu": "tu respectes",
+      "il": "il respecte",
+      "elle": "elle respecte",
+      "on": "on respecte",
+      "nous": "nous respections",
+      "vous": "vous respectiez",
+      "ils": "ils respectent",
+      "elles": "elles respectent"
+    },
+    "passe_simple": {
+      "je": "je respectai",
+      "tu": "tu respectas",
+      "il": "il respecta",
+      "elle": "elle respecta",
+      "on": "on respecta",
+      "nous": "nous respectâmes",
+      "vous": "vous respectâtes",
+      "ils": "ils respectèrent",
+      "elles": "elles respectèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai respecté",
+      "tu": "tu as respecté",
+      "il": "il a respecté",
+      "elle": "elle a respecté",
+      "on": "on a respecté",
+      "nous": "nous avons respecté",
+      "vous": "vous avez respecté",
+      "ils": "ils ont respecté",
+      "elles": "elles ont respecté"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais respecté",
+      "tu": "tu avais respecté",
+      "il": "il avait respecté",
+      "elle": "elle avait respecté",
+      "on": "on avait respecté",
+      "nous": "nous avions respecté",
+      "vous": "vous aviez respecté",
+      "ils": "ils avaient respecté",
+      "elles": "elles avaient respecté"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai respecté",
+      "tu": "tu auras respecté",
+      "il": "il aura respecté",
+      "elle": "elle aura respecté",
+      "on": "on aura respecté",
+      "nous": "nous aurons respecté",
+      "vous": "vous aurez respecté",
+      "ils": "ils auront respecté",
+      "elles": "elles auront respecté"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais respecté",
+      "tu": "tu aurais respecté",
+      "il": "il aurait respecté",
+      "elle": "elle aurait respecté",
+      "on": "on aurait respecté",
+      "nous": "nous aurions respecté",
+      "vous": "vous auriez respecté",
+      "ils": "ils auraient respecté",
+      "elles": "elles auraient respecté"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie respecté",
+      "tu": "tu aies respecté",
+      "il": "il ait respecté",
+      "elle": "elle ait respecté",
+      "on": "on ait respecté",
+      "nous": "nous ayons respecté",
+      "vous": "vous ayez respecté",
+      "ils": "ils aient respecté",
+      "elles": "elles aient respecté"
+    },
+    "futur_proche": {
+      "je": "je vais respecter",
+      "tu": "tu vas respecter",
+      "il": "il va respecter",
+      "elle": "elle va respecter",
+      "on": "on va respecter",
+      "nous": "nous allons respecter",
+      "vous": "vous allez respecter",
+      "ils": "ils vont respecter",
+      "elles": "elles vont respecter"
+    },
+    "imperatif_present": {
+      "tu": "respecte",
+      "nous": "respectons",
+      "vous": "respectez"
+    }
+  }
+}

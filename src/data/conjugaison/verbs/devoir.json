@@ -1,0 +1,139 @@
+{
+  "infinitive": "devoir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je dois",
+      "tu": "tu dois",
+      "il": "il doit",
+      "elle": "elle doit",
+      "on": "on doit",
+      "nous": "nous devons",
+      "vous": "vous devez",
+      "ils": "ils doivent",
+      "elles": "elles doivent"
+    },
+    "imparfait": {
+      "je": "je devais",
+      "tu": "tu devais",
+      "il": "il devait",
+      "elle": "elle devait",
+      "on": "on devait",
+      "nous": "nous devions",
+      "vous": "vous deviez",
+      "ils": "ils devaient",
+      "elles": "elles devaient"
+    },
+    "futur_simple": {
+      "je": "je devrai",
+      "tu": "tu devras",
+      "il": "il devra",
+      "elle": "elle devra",
+      "on": "on devra",
+      "nous": "nous devrons",
+      "vous": "vous devrez",
+      "ils": "ils devront",
+      "elles": "elles devront"
+    },
+    "conditionnel_present": {
+      "je": "je devrais",
+      "tu": "tu devrais",
+      "il": "il devrait",
+      "elle": "elle devrait",
+      "on": "on devrait",
+      "nous": "nous devrions",
+      "vous": "vous devriez",
+      "ils": "ils devraient",
+      "elles": "elles devraient"
+    },
+    "subjonctif_present": {
+      "je": "je doive",
+      "tu": "tu doives",
+      "il": "il doive",
+      "elle": "elle doive",
+      "on": "on doive",
+      "nous": "nous devions",
+      "vous": "vous deviez",
+      "ils": "ils doivent",
+      "elles": "elles doivent"
+    },
+    "passe_simple": {
+      "je": "je dus",
+      "tu": "tu dus",
+      "il": "il dut",
+      "elle": "elle dut",
+      "on": "on dut",
+      "nous": "nous dûmes",
+      "vous": "vous dûtes",
+      "ils": "ils durent",
+      "elles": "elles durent"
+    },
+    "passe_compose": {
+      "je": "j'ai dû",
+      "tu": "tu as dû",
+      "il": "il a dû",
+      "elle": "elle a dû",
+      "on": "on a dû",
+      "nous": "nous avons dû",
+      "vous": "vous avez dû",
+      "ils": "ils ont dû",
+      "elles": "elles ont dû"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais dû",
+      "tu": "tu avais dû",
+      "il": "il avait dû",
+      "elle": "elle avait dû",
+      "on": "on avait dû",
+      "nous": "nous avions dû",
+      "vous": "vous aviez dû",
+      "ils": "ils avaient dû",
+      "elles": "elles avaient dû"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai dû",
+      "tu": "tu auras dû",
+      "il": "il aura dû",
+      "elle": "elle aura dû",
+      "on": "on aura dû",
+      "nous": "nous aurons dû",
+      "vous": "vous aurez dû",
+      "ils": "ils auront dû",
+      "elles": "elles auront dû"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais dû",
+      "tu": "tu aurais dû",
+      "il": "il aurait dû",
+      "elle": "elle aurait dû",
+      "on": "on aurait dû",
+      "nous": "nous aurions dû",
+      "vous": "vous auriez dû",
+      "ils": "ils auraient dû",
+      "elles": "elles auraient dû"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie dû",
+      "tu": "tu aies dû",
+      "il": "il ait dû",
+      "elle": "elle ait dû",
+      "on": "on ait dû",
+      "nous": "nous ayons dû",
+      "vous": "vous ayez dû",
+      "ils": "ils aient dû",
+      "elles": "elles aient dû"
+    },
+    "futur_proche": {
+      "je": "je vais devoir",
+      "tu": "tu vas devoir",
+      "il": "il va devoir",
+      "elle": "elle va devoir",
+      "on": "on va devoir",
+      "nous": "nous allons devoir",
+      "vous": "vous allez devoir",
+      "ils": "ils vont devoir",
+      "elles": "elles vont devoir"
+    }
+  }
+}

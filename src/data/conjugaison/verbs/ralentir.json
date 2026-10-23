@@ -1,0 +1,144 @@
+{
+  "infinitive": "ralentir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je ralentis",
+      "tu": "tu ralentis",
+      "il": "il ralentit",
+      "elle": "elle ralentit",
+      "on": "on ralentit",
+      "nous": "nous ralentissons",
+      "vous": "vous ralentissez",
+      "ils": "ils ralentissent",
+      "elles": "elles ralentissent"
+    },
+    "imparfait": {
+      "je": "je ralentissais",
+      "tu": "tu ralentissais",
+      "il": "il ralentissait",
+      "elle": "elle ralentissait",
+      "on": "on ralentissait",
+      "nous": "nous ralentissions",
+      "vous": "vous ralentissiez",
+      "ils": "ils ralentissaient",
+      "elles": "elles ralentissaient"
+    },
+    "futur_simple": {
+      "je": "je ralentirai",
+      "tu": "tu ralentiras",
+      "il": "il ralentira",
+      "elle": "elle ralentira",
+      "on": "on ralentira",
+      "nous": "nous ralentirons",
+      "vous": "vous ralentirez",
+      "ils": "ils ralentiront",
+      "elles": "elles ralentiront"
+    },
+    "conditionnel_present": {
+      "je": "je ralentirais",
+      "tu": "tu ralentirais",
+      "il": "il ralentirait",
+      "elle": "elle ralentirait",
+      "on": "on ralentirait",
+      "nous": "nous ralentirions",
+      "vous": "vous ralentiriez",
+      "ils": "ils ralentiraient",
+      "elles": "elles ralentiraient"
+    },
+    "subjonctif_present": {
+      "je": "je ralentisse",
+      "tu": "tu ralentisses",
+      "il": "il ralentisse",
+      "elle": "elle ralentisse",
+      "on": "on ralentisse",
+      "nous": "nous ralentissions",
+      "vous": "vous ralentissiez",
+      "ils": "ils ralentissent",
+      "elles": "elles ralentissent"
+    },
+    "passe_simple": {
+      "je": "je ralentis",
+      "tu": "tu ralentis",
+      "il": "il ralentit",
+      "elle": "elle ralentit",
+      "on": "on ralentit",
+      "nous": "nous ralentîmes",
+      "vous": "vous ralentîtes",
+      "ils": "ils ralentirent",
+      "elles": "elles ralentirent"
+    },
+    "passe_compose": {
+      "je": "j'ai ralenti",
+      "tu": "tu as ralenti",
+      "il": "il a ralenti",
+      "elle": "elle a ralenti",
+      "on": "on a ralenti",
+      "nous": "nous avons ralenti",
+      "vous": "vous avez ralenti",
+      "ils": "ils ont ralenti",
+      "elles": "elles ont ralenti"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais ralenti",
+      "tu": "tu avais ralenti",
+      "il": "il avait ralenti",
+      "elle": "elle avait ralenti",
+      "on": "on avait ralenti",
+      "nous": "nous avions ralenti",
+      "vous": "vous aviez ralenti",
+      "ils": "ils avaient ralenti",
+      "elles": "elles avaient ralenti"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai ralenti",
+      "tu": "tu auras ralenti",
+      "il": "il aura ralenti",
+      "elle": "elle aura ralenti",
+      "on": "on aura ralenti",
+      "nous": "nous aurons ralenti",
+      "vous": "vous aurez ralenti",
+      "ils": "ils auront ralenti",
+      "elles": "elles auront ralenti"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais ralenti",
+      "tu": "tu aurais ralenti",
+      "il": "il aurait ralenti",
+      "elle": "elle aurait ralenti",
+      "on": "on aurait ralenti",
+      "nous": "nous aurions ralenti",
+      "vous": "vous auriez ralenti",
+      "ils": "ils auraient ralenti",
+      "elles": "elles auraient ralenti"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie ralenti",
+      "tu": "tu aies ralenti",
+      "il": "il ait ralenti",
+      "elle": "elle ait ralenti",
+      "on": "on ait ralenti",
+      "nous": "nous ayons ralenti",
+      "vous": "vous ayez ralenti",
+      "ils": "ils aient ralenti",
+      "elles": "elles aient ralenti"
+    },
+    "futur_proche": {
+      "je": "je vais ralentir",
+      "tu": "tu vas ralentir",
+      "il": "il va ralentir",
+      "elle": "elle va ralentir",
+      "on": "on va ralentir",
+      "nous": "nous allons ralentir",
+      "vous": "vous allez ralentir",
+      "ils": "ils vont ralentir",
+      "elles": "elles vont ralentir"
+    },
+    "imperatif_present": {
+      "tu": "ralentis",
+      "nous": "ralentissons",
+      "vous": "ralentissez"
+    }
+  }
+}

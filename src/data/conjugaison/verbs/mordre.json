@@ -1,0 +1,144 @@
+{
+  "infinitive": "mordre",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je mords",
+      "tu": "tu mords",
+      "il": "il mord",
+      "elle": "elle mord",
+      "on": "on mord",
+      "nous": "nous mordons",
+      "vous": "vous mordez",
+      "ils": "ils mordent",
+      "elles": "elles mordent"
+    },
+    "imparfait": {
+      "je": "je mordais",
+      "tu": "tu mordais",
+      "il": "il mordait",
+      "elle": "elle mordait",
+      "on": "on mordait",
+      "nous": "nous mordions",
+      "vous": "vous mordiez",
+      "ils": "ils mordaient",
+      "elles": "elles mordaient"
+    },
+    "futur_simple": {
+      "je": "je mordai",
+      "tu": "tu mordas",
+      "il": "il morda",
+      "elle": "elle morda",
+      "on": "on morda",
+      "nous": "nous mordons",
+      "vous": "vous mordez",
+      "ils": "ils mordont",
+      "elles": "elles mordont"
+    },
+    "conditionnel_present": {
+      "je": "je mordais",
+      "tu": "tu mordais",
+      "il": "il mordait",
+      "elle": "elle mordait",
+      "on": "on mordait",
+      "nous": "nous mordions",
+      "vous": "vous mordiez",
+      "ils": "ils mordaient",
+      "elles": "elles mordaient"
+    },
+    "subjonctif_present": {
+      "je": "je morde",
+      "tu": "tu mordes",
+      "il": "il morde",
+      "elle": "elle morde",
+      "on": "on morde",
+      "nous": "nous mordions",
+      "vous": "vous mordiez",
+      "ils": "ils mordent",
+      "elles": "elles mordent"
+    },
+    "passe_simple": {
+      "je": "je mordis",
+      "tu": "tu mordis",
+      "il": "il mordit",
+      "elle": "elle mordit",
+      "on": "on mordit",
+      "nous": "nous mordîmes",
+      "vous": "vous mordîtes",
+      "ils": "ils mordirent",
+      "elles": "elles mordirent"
+    },
+    "passe_compose": {
+      "je": "j'ai mordu",
+      "tu": "tu as mordu",
+      "il": "il a mordu",
+      "elle": "elle a mordu",
+      "on": "on a mordu",
+      "nous": "nous avons mordu",
+      "vous": "vous avez mordu",
+      "ils": "ils ont mordu",
+      "elles": "elles ont mordu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais mordu",
+      "tu": "tu avais mordu",
+      "il": "il avait mordu",
+      "elle": "elle avait mordu",
+      "on": "on avait mordu",
+      "nous": "nous avions mordu",
+      "vous": "vous aviez mordu",
+      "ils": "ils avaient mordu",
+      "elles": "elles avaient mordu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai mordu",
+      "tu": "tu auras mordu",
+      "il": "il aura mordu",
+      "elle": "elle aura mordu",
+      "on": "on aura mordu",
+      "nous": "nous aurons mordu",
+      "vous": "vous aurez mordu",
+      "ils": "ils auront mordu",
+      "elles": "elles auront mordu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais mordu",
+      "tu": "tu aurais mordu",
+      "il": "il aurait mordu",
+      "elle": "elle aurait mordu",
+      "on": "on aurait mordu",
+      "nous": "nous aurions mordu",
+      "vous": "vous auriez mordu",
+      "ils": "ils auraient mordu",
+      "elles": "elles auraient mordu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie mordu",
+      "tu": "tu aies mordu",
+      "il": "il ait mordu",
+      "elle": "elle ait mordu",
+      "on": "on ait mordu",
+      "nous": "nous ayons mordu",
+      "vous": "vous ayez mordu",
+      "ils": "ils aient mordu",
+      "elles": "elles aient mordu"
+    },
+    "futur_proche": {
+      "je": "je vais mordre",
+      "tu": "tu vas mordre",
+      "il": "il va mordre",
+      "elle": "elle va mordre",
+      "on": "on va mordre",
+      "nous": "nous allons mordre",
+      "vous": "vous allez mordre",
+      "ils": "ils vont mordre",
+      "elles": "elles vont mordre"
+    },
+    "imperatif_present": {
+      "tu": "mords",
+      "nous": "mordons",
+      "vous": "mordez"
+    }
+  }
+}

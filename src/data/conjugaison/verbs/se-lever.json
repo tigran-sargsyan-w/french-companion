@@ -1,0 +1,144 @@
+{
+  "infinitive": "se lever",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je me lève",
+      "tu": "tu te lèves",
+      "il": "il se lève",
+      "elle": "elle se lève",
+      "on": "on se lève",
+      "nous": "nous nous levons",
+      "vous": "vous vous levez",
+      "ils": "ils se lèvent",
+      "elles": "elles se lèvent"
+    },
+    "imparfait": {
+      "je": "je me levais",
+      "tu": "tu te levais",
+      "il": "il se levait",
+      "elle": "elle se levait",
+      "on": "on se levait",
+      "nous": "nous nous levions",
+      "vous": "vous vous leviez",
+      "ils": "ils se levaient",
+      "elles": "elles se levaient"
+    },
+    "passe_simple": {
+      "je": "je me levai",
+      "tu": "tu te levas",
+      "il": "il se leva",
+      "elle": "elle se leva",
+      "on": "on se leva",
+      "nous": "nous nous levâmes",
+      "vous": "vous vous levâtes",
+      "ils": "ils se levèrent",
+      "elles": "elles se levèrent"
+    },
+    "futur_simple": {
+      "je": "je me lèverai",
+      "tu": "tu te lèveras",
+      "il": "il se lèvera",
+      "elle": "elle se lèvera",
+      "on": "on se lèvera",
+      "nous": "nous nous lèverons",
+      "vous": "vous vous lèverez",
+      "ils": "ils se lèveront",
+      "elles": "elles se lèveront"
+    },
+    "conditionnel_present": {
+      "je": "je me lèverais",
+      "tu": "tu te lèverais",
+      "il": "il se lèverait",
+      "elle": "elle se lèverait",
+      "on": "on se lèverait",
+      "nous": "nous nous lèverions",
+      "vous": "vous vous lèveriez",
+      "ils": "ils se lèveraient",
+      "elles": "elles se lèveraient"
+    },
+    "subjonctif_present": {
+      "je": "je me lève",
+      "tu": "tu te lèves",
+      "il": "il se lève",
+      "elle": "elle se lève",
+      "on": "on se lève",
+      "nous": "nous nous levions",
+      "vous": "vous vous leviez",
+      "ils": "ils se lèvent",
+      "elles": "elles se lèvent"
+    },
+    "futur_proche": {
+      "je": "je vais me lever",
+      "tu": "tu vas te lever",
+      "il": "il va se lever",
+      "elle": "elle va se lever",
+      "on": "on va se lever",
+      "nous": "nous allons nous lever",
+      "vous": "vous allez vous lever",
+      "ils": "ils vont se lever",
+      "elles": "elles vont se lever"
+    },
+    "passe_compose": {
+      "je": "je me suis levé",
+      "tu": "tu t'es levé",
+      "il": "il s'est levé",
+      "elle": "elle s'est levée",
+      "on": "on s'est levé",
+      "nous": "nous nous sommes levés",
+      "vous": "vous vous êtes levés",
+      "ils": "ils se sont levés",
+      "elles": "elles se sont levées"
+    },
+    "plus_que_parfait": {
+      "je": "je m'étais levé",
+      "tu": "tu t'étais levé",
+      "il": "il s'était levé",
+      "elle": "elle s'était levée",
+      "on": "on s'était levé",
+      "nous": "nous nous étions levés",
+      "vous": "vous vous étiez levés",
+      "ils": "ils s'étaient levés",
+      "elles": "elles s'étaient levées"
+    },
+    "futur_anterieur": {
+      "je": "je me serai levé",
+      "tu": "tu te seras levé",
+      "il": "il se sera levé",
+      "elle": "elle se sera levée",
+      "on": "on se sera levé",
+      "nous": "nous nous serons levés",
+      "vous": "vous vous serez levés",
+      "ils": "ils se seront levés",
+      "elles": "elles se seront levées"
+    },
+    "conditionnel_passe": {
+      "je": "je me serais levé",
+      "tu": "tu te serais levé",
+      "il": "il se serait levé",
+      "elle": "elle se serait levée",
+      "on": "on se serait levé",
+      "nous": "nous nous serions levés",
+      "vous": "vous vous seriez levés",
+      "ils": "ils se seraient levés",
+      "elles": "elles se seraient levées"
+    },
+    "subjonctif_passe": {
+      "je": "je me sois levé",
+      "tu": "tu te sois levé",
+      "il": "il se soit levé",
+      "elle": "elle se soit levée",
+      "on": "on se soit levé",
+      "nous": "nous nous soyons levés",
+      "vous": "vous vous soyez levés",
+      "ils": "ils se soient levés",
+      "elles": "elles se soient levées"
+    },
+    "imperatif_present": {
+      "tu": "lève-toi",
+      "nous": "levons-nous",
+      "vous": "levez-vous"
+    }
+  }
+}

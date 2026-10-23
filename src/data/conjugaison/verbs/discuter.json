@@ -1,0 +1,144 @@
+{
+  "infinitive": "discuter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je discute",
+      "tu": "tu discutes",
+      "il": "il discute",
+      "elle": "elle discute",
+      "on": "on discute",
+      "nous": "nous discutons",
+      "vous": "vous discutez",
+      "ils": "ils discutent",
+      "elles": "elles discutent"
+    },
+    "imparfait": {
+      "je": "je discutais",
+      "tu": "tu discutais",
+      "il": "il discutait",
+      "elle": "elle discutait",
+      "on": "on discutait",
+      "nous": "nous discutions",
+      "vous": "vous discutiez",
+      "ils": "ils discutaient",
+      "elles": "elles discutaient"
+    },
+    "futur_simple": {
+      "je": "je discuterai",
+      "tu": "tu discuteras",
+      "il": "il discutera",
+      "elle": "elle discutera",
+      "on": "on discutera",
+      "nous": "nous discuterons",
+      "vous": "vous discuterez",
+      "ils": "ils discuteront",
+      "elles": "elles discuteront"
+    },
+    "conditionnel_present": {
+      "je": "je discuterais",
+      "tu": "tu discuterais",
+      "il": "il discuterait",
+      "elle": "elle discuterait",
+      "on": "on discuterait",
+      "nous": "nous discuterions",
+      "vous": "vous discuteriez",
+      "ils": "ils discuteraient",
+      "elles": "elles discuteraient"
+    },
+    "subjonctif_present": {
+      "je": "je discute",
+      "tu": "tu discutes",
+      "il": "il discute",
+      "elle": "elle discute",
+      "on": "on discute",
+      "nous": "nous discutions",
+      "vous": "vous discutiez",
+      "ils": "ils discutent",
+      "elles": "elles discutent"
+    },
+    "passe_simple": {
+      "je": "je discutai",
+      "tu": "tu discutas",
+      "il": "il discuta",
+      "elle": "elle discuta",
+      "on": "on discuta",
+      "nous": "nous discutâmes",
+      "vous": "vous discutâtes",
+      "ils": "ils discutèrent",
+      "elles": "elles discutèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai discuté",
+      "tu": "tu as discuté",
+      "il": "il a discuté",
+      "elle": "elle a discuté",
+      "on": "on a discuté",
+      "nous": "nous avons discuté",
+      "vous": "vous avez discuté",
+      "ils": "ils ont discuté",
+      "elles": "elles ont discuté"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais discuté",
+      "tu": "tu avais discuté",
+      "il": "il avait discuté",
+      "elle": "elle avait discuté",
+      "on": "on avait discuté",
+      "nous": "nous avions discuté",
+      "vous": "vous aviez discuté",
+      "ils": "ils avaient discuté",
+      "elles": "elles avaient discuté"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai discuté",
+      "tu": "tu auras discuté",
+      "il": "il aura discuté",
+      "elle": "elle aura discuté",
+      "on": "on aura discuté",
+      "nous": "nous aurons discuté",
+      "vous": "vous aurez discuté",
+      "ils": "ils auront discuté",
+      "elles": "elles auront discuté"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais discuté",
+      "tu": "tu aurais discuté",
+      "il": "il aurait discuté",
+      "elle": "elle aurait discuté",
+      "on": "on aurait discuté",
+      "nous": "nous aurions discuté",
+      "vous": "vous auriez discuté",
+      "ils": "ils auraient discuté",
+      "elles": "elles auraient discuté"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie discuté",
+      "tu": "tu aies discuté",
+      "il": "il ait discuté",
+      "elle": "elle ait discuté",
+      "on": "on ait discuté",
+      "nous": "nous ayons discuté",
+      "vous": "vous ayez discuté",
+      "ils": "ils aient discuté",
+      "elles": "elles aient discuté"
+    },
+    "futur_proche": {
+      "je": "je vais discuter",
+      "tu": "tu vas discuter",
+      "il": "il va discuter",
+      "elle": "elle va discuter",
+      "on": "on va discuter",
+      "nous": "nous allons discuter",
+      "vous": "vous allez discuter",
+      "ils": "ils vont discuter",
+      "elles": "elles vont discuter"
+    },
+    "imperatif_present": {
+      "tu": "discute",
+      "nous": "discutons",
+      "vous": "discutez"
+    }
+  }
+}

@@ -1,4 +1,4 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { Link, createFileRoute } from "@tanstack/react-router";
 import { useEffect, useMemo, useState } from "react";
 import { RotateCw, ChevronLeft, ChevronRight, Check, Copy, X } from "lucide-react";
 import { PrismLight as SyntaxHighlighter } from "react-syntax-highlighter";
@@ -150,6 +150,18 @@ function ReviewPage() {
           </button>
         }
       />
+
+      <nav aria-label="Modes de révision" className="mb-6 flex flex-wrap gap-2">
+        <span className="rounded-xl bg-primary px-4 py-2.5 text-sm font-medium text-primary-foreground" aria-current="page">
+          Vocabulaire
+        </span>
+        <Link
+          to="/review/conjugaison"
+          className="rounded-xl border border-border px-4 py-2.5 text-sm font-medium hover:bg-secondary"
+        >
+          Conjugaison
+        </Link>
+      </nav>
 
       {learningDataQuery.isPending ? (
         <DataLoadingState />

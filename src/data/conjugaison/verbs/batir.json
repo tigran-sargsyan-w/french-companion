@@ -1,0 +1,144 @@
+{
+  "infinitive": "bâtir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je bâtis",
+      "tu": "tu bâtis",
+      "il": "il bâtit",
+      "elle": "elle bâtit",
+      "on": "on bâtit",
+      "nous": "nous bâtissons",
+      "vous": "vous bâtissez",
+      "ils": "ils bâtissent",
+      "elles": "elles bâtissent"
+    },
+    "imparfait": {
+      "je": "je bâtissais",
+      "tu": "tu bâtissais",
+      "il": "il bâtissait",
+      "elle": "elle bâtissait",
+      "on": "on bâtissait",
+      "nous": "nous bâtissions",
+      "vous": "vous bâtissiez",
+      "ils": "ils bâtissaient",
+      "elles": "elles bâtissaient"
+    },
+    "futur_simple": {
+      "je": "je bâtirai",
+      "tu": "tu bâtiras",
+      "il": "il bâtira",
+      "elle": "elle bâtira",
+      "on": "on bâtira",
+      "nous": "nous bâtirons",
+      "vous": "vous bâtirez",
+      "ils": "ils bâtiront",
+      "elles": "elles bâtiront"
+    },
+    "conditionnel_present": {
+      "je": "je bâtirais",
+      "tu": "tu bâtirais",
+      "il": "il bâtirait",
+      "elle": "elle bâtirait",
+      "on": "on bâtirait",
+      "nous": "nous bâtirions",
+      "vous": "vous bâtiriez",
+      "ils": "ils bâtiraient",
+      "elles": "elles bâtiraient"
+    },
+    "subjonctif_present": {
+      "je": "je bâtisse",
+      "tu": "tu bâtisses",
+      "il": "il bâtisse",
+      "elle": "elle bâtisse",
+      "on": "on bâtisse",
+      "nous": "nous bâtissions",
+      "vous": "vous bâtissiez",
+      "ils": "ils bâtissent",
+      "elles": "elles bâtissent"
+    },
+    "passe_simple": {
+      "je": "je bâtis",
+      "tu": "tu bâtis",
+      "il": "il bâtit",
+      "elle": "elle bâtit",
+      "on": "on bâtit",
+      "nous": "nous bâtîmes",
+      "vous": "vous bâtîtes",
+      "ils": "ils bâtirent",
+      "elles": "elles bâtirent"
+    },
+    "passe_compose": {
+      "je": "j'ai bâti",
+      "tu": "tu as bâti",
+      "il": "il a bâti",
+      "elle": "elle a bâti",
+      "on": "on a bâti",
+      "nous": "nous avons bâti",
+      "vous": "vous avez bâti",
+      "ils": "ils ont bâti",
+      "elles": "elles ont bâti"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais bâti",
+      "tu": "tu avais bâti",
+      "il": "il avait bâti",
+      "elle": "elle avait bâti",
+      "on": "on avait bâti",
+      "nous": "nous avions bâti",
+      "vous": "vous aviez bâti",
+      "ils": "ils avaient bâti",
+      "elles": "elles avaient bâti"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai bâti",
+      "tu": "tu auras bâti",
+      "il": "il aura bâti",
+      "elle": "elle aura bâti",
+      "on": "on aura bâti",
+      "nous": "nous aurons bâti",
+      "vous": "vous aurez bâti",
+      "ils": "ils auront bâti",
+      "elles": "elles auront bâti"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais bâti",
+      "tu": "tu aurais bâti",
+      "il": "il aurait bâti",
+      "elle": "elle aurait bâti",
+      "on": "on aurait bâti",
+      "nous": "nous aurions bâti",
+      "vous": "vous auriez bâti",
+      "ils": "ils auraient bâti",
+      "elles": "elles auraient bâti"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie bâti",
+      "tu": "tu aies bâti",
+      "il": "il ait bâti",
+      "elle": "elle ait bâti",
+      "on": "on ait bâti",
+      "nous": "nous ayons bâti",
+      "vous": "vous ayez bâti",
+      "ils": "ils aient bâti",
+      "elles": "elles aient bâti"
+    },
+    "futur_proche": {
+      "je": "je vais bâtir",
+      "tu": "tu vas bâtir",
+      "il": "il va bâtir",
+      "elle": "elle va bâtir",
+      "on": "on va bâtir",
+      "nous": "nous allons bâtir",
+      "vous": "vous allez bâtir",
+      "ils": "ils vont bâtir",
+      "elles": "elles vont bâtir"
+    },
+    "imperatif_present": {
+      "tu": "bâtis",
+      "nous": "bâtissons",
+      "vous": "bâtissez"
+    }
+  }
+}

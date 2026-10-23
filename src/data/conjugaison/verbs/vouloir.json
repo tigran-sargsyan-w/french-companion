@@ -1,0 +1,144 @@
+{
+  "infinitive": "vouloir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je veux",
+      "tu": "tu veux",
+      "il": "il veut",
+      "elle": "elle veut",
+      "on": "on veut",
+      "nous": "nous voulons",
+      "vous": "vous voulez",
+      "ils": "ils veulent",
+      "elles": "elles veulent"
+    },
+    "imparfait": {
+      "je": "je voulais",
+      "tu": "tu voulais",
+      "il": "il voulait",
+      "elle": "elle voulait",
+      "on": "on voulait",
+      "nous": "nous voulions",
+      "vous": "vous vouliez",
+      "ils": "ils voulaient",
+      "elles": "elles voulaient"
+    },
+    "futur_simple": {
+      "je": "je voudrai",
+      "tu": "tu voudras",
+      "il": "il voudra",
+      "elle": "elle voudra",
+      "on": "on voudra",
+      "nous": "nous voudrons",
+      "vous": "vous voudrez",
+      "ils": "ils voudront",
+      "elles": "elles voudront"
+    },
+    "conditionnel_present": {
+      "je": "je voudrais",
+      "tu": "tu voudrais",
+      "il": "il voudrait",
+      "elle": "elle voudrait",
+      "on": "on voudrait",
+      "nous": "nous voudrions",
+      "vous": "vous voudriez",
+      "ils": "ils voudraient",
+      "elles": "elles voudraient"
+    },
+    "subjonctif_present": {
+      "je": "je veuille",
+      "tu": "tu veuilles",
+      "il": "il veuille",
+      "elle": "elle veuille",
+      "on": "on veuille",
+      "nous": "nous voulions",
+      "vous": "vous vouliez",
+      "ils": "ils veuillent",
+      "elles": "elles veuillent"
+    },
+    "passe_simple": {
+      "je": "je voulus",
+      "tu": "tu voulus",
+      "il": "il voulut",
+      "elle": "elle voulut",
+      "on": "on voulut",
+      "nous": "nous voulûmes",
+      "vous": "vous voulûtes",
+      "ils": "ils voulurent",
+      "elles": "elles voulurent"
+    },
+    "passe_compose": {
+      "je": "j'ai voulu",
+      "tu": "tu as voulu",
+      "il": "il a voulu",
+      "elle": "elle a voulu",
+      "on": "on a voulu",
+      "nous": "nous avons voulu",
+      "vous": "vous avez voulu",
+      "ils": "ils ont voulu",
+      "elles": "elles ont voulu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais voulu",
+      "tu": "tu avais voulu",
+      "il": "il avait voulu",
+      "elle": "elle avait voulu",
+      "on": "on avait voulu",
+      "nous": "nous avions voulu",
+      "vous": "vous aviez voulu",
+      "ils": "ils avaient voulu",
+      "elles": "elles avaient voulu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai voulu",
+      "tu": "tu auras voulu",
+      "il": "il aura voulu",
+      "elle": "elle aura voulu",
+      "on": "on aura voulu",
+      "nous": "nous aurons voulu",
+      "vous": "vous aurez voulu",
+      "ils": "ils auront voulu",
+      "elles": "elles auront voulu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais voulu",
+      "tu": "tu aurais voulu",
+      "il": "il aurait voulu",
+      "elle": "elle aurait voulu",
+      "on": "on aurait voulu",
+      "nous": "nous aurions voulu",
+      "vous": "vous auriez voulu",
+      "ils": "ils auraient voulu",
+      "elles": "elles auraient voulu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie voulu",
+      "tu": "tu aies voulu",
+      "il": "il ait voulu",
+      "elle": "elle ait voulu",
+      "on": "on ait voulu",
+      "nous": "nous ayons voulu",
+      "vous": "vous ayez voulu",
+      "ils": "ils aient voulu",
+      "elles": "elles aient voulu"
+    },
+    "futur_proche": {
+      "je": "je vais vouloir",
+      "tu": "tu vas vouloir",
+      "il": "il va vouloir",
+      "elle": "elle va vouloir",
+      "on": "on va vouloir",
+      "nous": "nous allons vouloir",
+      "vous": "vous allez vouloir",
+      "ils": "ils vont vouloir",
+      "elles": "elles vont vouloir"
+    },
+    "imperatif_present": {
+      "tu": "veuille",
+      "nous": "veuillons",
+      "vous": "veuillez"
+    }
+  }
+}

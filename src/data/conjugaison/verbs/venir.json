@@ -1,0 +1,144 @@
+{
+  "infinitive": "venir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je viens",
+      "tu": "tu viens",
+      "il": "il vient",
+      "elle": "elle vient",
+      "on": "on vient",
+      "nous": "nous venons",
+      "vous": "vous venez",
+      "ils": "ils viennent",
+      "elles": "elles viennent"
+    },
+    "imparfait": {
+      "je": "je venais",
+      "tu": "tu venais",
+      "il": "il venait",
+      "elle": "elle venait",
+      "on": "on venait",
+      "nous": "nous venions",
+      "vous": "vous veniez",
+      "ils": "ils venaient",
+      "elles": "elles venaient"
+    },
+    "futur_simple": {
+      "je": "je viendrai",
+      "tu": "tu viendras",
+      "il": "il viendra",
+      "elle": "elle viendra",
+      "on": "on viendra",
+      "nous": "nous viendrons",
+      "vous": "vous viendrez",
+      "ils": "ils viendront",
+      "elles": "elles viendront"
+    },
+    "conditionnel_present": {
+      "je": "je viendrais",
+      "tu": "tu viendrais",
+      "il": "il viendrait",
+      "elle": "elle viendrait",
+      "on": "on viendrait",
+      "nous": "nous viendrions",
+      "vous": "vous viendriez",
+      "ils": "ils viendraient",
+      "elles": "elles viendraient"
+    },
+    "subjonctif_present": {
+      "je": "je vienne",
+      "tu": "tu viennes",
+      "il": "il vienne",
+      "elle": "elle vienne",
+      "on": "on vienne",
+      "nous": "nous venions",
+      "vous": "vous veniez",
+      "ils": "ils viennent",
+      "elles": "elles viennent"
+    },
+    "passe_simple": {
+      "je": "je vins",
+      "tu": "tu vins",
+      "il": "il vint",
+      "elle": "elle vint",
+      "on": "on vint",
+      "nous": "nous vînmes",
+      "vous": "vous vîntes",
+      "ils": "ils vinrent",
+      "elles": "elles vinrent"
+    },
+    "passe_compose": {
+      "je": "je suis venu",
+      "tu": "tu es venu",
+      "il": "il est venu",
+      "elle": "elle est venue",
+      "on": "on est venu",
+      "nous": "nous sommes venus",
+      "vous": "vous êtes venus",
+      "ils": "ils sont venus",
+      "elles": "elles sont venues"
+    },
+    "plus_que_parfait": {
+      "je": "j'étais venu",
+      "tu": "tu étais venu",
+      "il": "il était venu",
+      "elle": "elle était venue",
+      "on": "on était venu",
+      "nous": "nous étions venus",
+      "vous": "vous étiez venus",
+      "ils": "ils étaient venus",
+      "elles": "elles étaient venues"
+    },
+    "futur_anterieur": {
+      "je": "je serai venu",
+      "tu": "tu seras venu",
+      "il": "il sera venu",
+      "elle": "elle sera venue",
+      "on": "on sera venu",
+      "nous": "nous serons venus",
+      "vous": "vous serez venus",
+      "ils": "ils seront venus",
+      "elles": "elles seront venues"
+    },
+    "conditionnel_passe": {
+      "je": "je serais venu",
+      "tu": "tu serais venu",
+      "il": "il serait venu",
+      "elle": "elle serait venue",
+      "on": "on serait venu",
+      "nous": "nous serions venus",
+      "vous": "vous seriez venus",
+      "ils": "ils seraient venus",
+      "elles": "elles seraient venues"
+    },
+    "subjonctif_passe": {
+      "je": "je sois venu",
+      "tu": "tu sois venu",
+      "il": "il soit venu",
+      "elle": "elle soit venue",
+      "on": "on soit venu",
+      "nous": "nous soyons venus",
+      "vous": "vous soyez venus",
+      "ils": "ils soient venus",
+      "elles": "elles soient venues"
+    },
+    "futur_proche": {
+      "je": "je vais venir",
+      "tu": "tu vas venir",
+      "il": "il va venir",
+      "elle": "elle va venir",
+      "on": "on va venir",
+      "nous": "nous allons venir",
+      "vous": "vous allez venir",
+      "ils": "ils vont venir",
+      "elles": "elles vont venir"
+    },
+    "imperatif_present": {
+      "tu": "viens",
+      "nous": "venons",
+      "vous": "venez"
+    }
+  }
+}

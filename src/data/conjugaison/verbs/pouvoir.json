@@ -1,0 +1,139 @@
+{
+  "infinitive": "pouvoir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je peux",
+      "tu": "tu peux",
+      "il": "il peut",
+      "elle": "elle peut",
+      "on": "on peut",
+      "nous": "nous pouvons",
+      "vous": "vous pouvez",
+      "ils": "ils peuvent",
+      "elles": "elles peuvent"
+    },
+    "imparfait": {
+      "je": "je pouvais",
+      "tu": "tu pouvais",
+      "il": "il pouvait",
+      "elle": "elle pouvait",
+      "on": "on pouvait",
+      "nous": "nous pouvions",
+      "vous": "vous pouviez",
+      "ils": "ils pouvaient",
+      "elles": "elles pouvaient"
+    },
+    "futur_simple": {
+      "je": "je pourrai",
+      "tu": "tu pourras",
+      "il": "il pourra",
+      "elle": "elle pourra",
+      "on": "on pourra",
+      "nous": "nous pourrons",
+      "vous": "vous pourrez",
+      "ils": "ils pourront",
+      "elles": "elles pourront"
+    },
+    "conditionnel_present": {
+      "je": "je pourrais",
+      "tu": "tu pourrais",
+      "il": "il pourrait",
+      "elle": "elle pourrait",
+      "on": "on pourrait",
+      "nous": "nous pourrions",
+      "vous": "vous pourriez",
+      "ils": "ils pourraient",
+      "elles": "elles pourraient"
+    },
+    "subjonctif_present": {
+      "je": "je puisse",
+      "tu": "tu puisses",
+      "il": "il puisse",
+      "elle": "elle puisse",
+      "on": "on puisse",
+      "nous": "nous puissions",
+      "vous": "vous puissiez",
+      "ils": "ils puissent",
+      "elles": "elles puissent"
+    },
+    "passe_simple": {
+      "je": "je pus",
+      "tu": "tu pus",
+      "il": "il put",
+      "elle": "elle put",
+      "on": "on put",
+      "nous": "nous pûmes",
+      "vous": "vous pûtes",
+      "ils": "ils purent",
+      "elles": "elles purent"
+    },
+    "passe_compose": {
+      "je": "j'ai pu",
+      "tu": "tu as pu",
+      "il": "il a pu",
+      "elle": "elle a pu",
+      "on": "on a pu",
+      "nous": "nous avons pu",
+      "vous": "vous avez pu",
+      "ils": "ils ont pu",
+      "elles": "elles ont pu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais pu",
+      "tu": "tu avais pu",
+      "il": "il avait pu",
+      "elle": "elle avait pu",
+      "on": "on avait pu",
+      "nous": "nous avions pu",
+      "vous": "vous aviez pu",
+      "ils": "ils avaient pu",
+      "elles": "elles avaient pu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai pu",
+      "tu": "tu auras pu",
+      "il": "il aura pu",
+      "elle": "elle aura pu",
+      "on": "on aura pu",
+      "nous": "nous aurons pu",
+      "vous": "vous aurez pu",
+      "ils": "ils auront pu",
+      "elles": "elles auront pu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais pu",
+      "tu": "tu aurais pu",
+      "il": "il aurait pu",
+      "elle": "elle aurait pu",
+      "on": "on aurait pu",
+      "nous": "nous aurions pu",
+      "vous": "vous auriez pu",
+      "ils": "ils auraient pu",
+      "elles": "elles auraient pu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie pu",
+      "tu": "tu aies pu",
+      "il": "il ait pu",
+      "elle": "elle ait pu",
+      "on": "on ait pu",
+      "nous": "nous ayons pu",
+      "vous": "vous ayez pu",
+      "ils": "ils aient pu",
+      "elles": "elles aient pu"
+    },
+    "futur_proche": {
+      "je": "je vais pouvoir",
+      "tu": "tu vas pouvoir",
+      "il": "il va pouvoir",
+      "elle": "elle va pouvoir",
+      "on": "on va pouvoir",
+      "nous": "nous allons pouvoir",
+      "vous": "vous allez pouvoir",
+      "ils": "ils vont pouvoir",
+      "elles": "elles vont pouvoir"
+    }
+  }
+}

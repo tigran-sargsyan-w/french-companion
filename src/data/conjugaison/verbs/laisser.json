@@ -1,0 +1,144 @@
+{
+  "infinitive": "laisser",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je laisse",
+      "tu": "tu laisses",
+      "il": "il laisse",
+      "elle": "elle laisse",
+      "on": "on laisse",
+      "nous": "nous laissons",
+      "vous": "vous laissez",
+      "ils": "ils laissent",
+      "elles": "elles laissent"
+    },
+    "imparfait": {
+      "je": "je laissais",
+      "tu": "tu laissais",
+      "il": "il laissait",
+      "elle": "elle laissait",
+      "on": "on laissait",
+      "nous": "nous laissions",
+      "vous": "vous laissiez",
+      "ils": "ils laissaient",
+      "elles": "elles laissaient"
+    },
+    "futur_simple": {
+      "je": "je laisserai",
+      "tu": "tu laisseras",
+      "il": "il laissera",
+      "elle": "elle laissera",
+      "on": "on laissera",
+      "nous": "nous laisserons",
+      "vous": "vous laisserez",
+      "ils": "ils laisseront",
+      "elles": "elles laisseront"
+    },
+    "conditionnel_present": {
+      "je": "je laisserais",
+      "tu": "tu laisserais",
+      "il": "il laisserait",
+      "elle": "elle laisserait",
+      "on": "on laisserait",
+      "nous": "nous laisserions",
+      "vous": "vous laisseriez",
+      "ils": "ils laisseraient",
+      "elles": "elles laisseraient"
+    },
+    "subjonctif_present": {
+      "je": "je laisse",
+      "tu": "tu laisses",
+      "il": "il laisse",
+      "elle": "elle laisse",
+      "on": "on laisse",
+      "nous": "nous laissions",
+      "vous": "vous laissiez",
+      "ils": "ils laissent",
+      "elles": "elles laissent"
+    },
+    "passe_simple": {
+      "je": "je laissai",
+      "tu": "tu laissas",
+      "il": "il laissa",
+      "elle": "elle laissa",
+      "on": "on laissa",
+      "nous": "nous laissâmes",
+      "vous": "vous laissâtes",
+      "ils": "ils laissèrent",
+      "elles": "elles laissèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai laissé",
+      "tu": "tu as laissé",
+      "il": "il a laissé",
+      "elle": "elle a laissé",
+      "on": "on a laissé",
+      "nous": "nous avons laissé",
+      "vous": "vous avez laissé",
+      "ils": "ils ont laissé",
+      "elles": "elles ont laissé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais laissé",
+      "tu": "tu avais laissé",
+      "il": "il avait laissé",
+      "elle": "elle avait laissé",
+      "on": "on avait laissé",
+      "nous": "nous avions laissé",
+      "vous": "vous aviez laissé",
+      "ils": "ils avaient laissé",
+      "elles": "elles avaient laissé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai laissé",
+      "tu": "tu auras laissé",
+      "il": "il aura laissé",
+      "elle": "elle aura laissé",
+      "on": "on aura laissé",
+      "nous": "nous aurons laissé",
+      "vous": "vous aurez laissé",
+      "ils": "ils auront laissé",
+      "elles": "elles auront laissé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais laissé",
+      "tu": "tu aurais laissé",
+      "il": "il aurait laissé",
+      "elle": "elle aurait laissé",
+      "on": "on aurait laissé",
+      "nous": "nous aurions laissé",
+      "vous": "vous auriez laissé",
+      "ils": "ils auraient laissé",
+      "elles": "elles auraient laissé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie laissé",
+      "tu": "tu aies laissé",
+      "il": "il ait laissé",
+      "elle": "elle ait laissé",
+      "on": "on ait laissé",
+      "nous": "nous ayons laissé",
+      "vous": "vous ayez laissé",
+      "ils": "ils aient laissé",
+      "elles": "elles aient laissé"
+    },
+    "futur_proche": {
+      "je": "je vais laisser",
+      "tu": "tu vas laisser",
+      "il": "il va laisser",
+      "elle": "elle va laisser",
+      "on": "on va laisser",
+      "nous": "nous allons laisser",
+      "vous": "vous allez laisser",
+      "ils": "ils vont laisser",
+      "elles": "elles vont laisser"
+    },
+    "imperatif_present": {
+      "tu": "laisse",
+      "nous": "laissons",
+      "vous": "laissez"
+    }
+  }
+}

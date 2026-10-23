@@ -1,0 +1,144 @@
+{
+  "infinitive": "voir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je vois",
+      "tu": "tu vois",
+      "il": "il voit",
+      "elle": "elle voit",
+      "on": "on voit",
+      "nous": "nous voyons",
+      "vous": "vous voyez",
+      "ils": "ils voient",
+      "elles": "elles voient"
+    },
+    "imparfait": {
+      "je": "je voyais",
+      "tu": "tu voyais",
+      "il": "il voyait",
+      "elle": "elle voyait",
+      "on": "on voyait",
+      "nous": "nous voyions",
+      "vous": "vous voyiez",
+      "ils": "ils voyaient",
+      "elles": "elles voyaient"
+    },
+    "futur_simple": {
+      "je": "je verrai",
+      "tu": "tu verras",
+      "il": "il verra",
+      "elle": "elle verra",
+      "on": "on verra",
+      "nous": "nous verrons",
+      "vous": "vous verrez",
+      "ils": "ils verront",
+      "elles": "elles verront"
+    },
+    "conditionnel_present": {
+      "je": "je verrais",
+      "tu": "tu verrais",
+      "il": "il verrait",
+      "elle": "elle verrait",
+      "on": "on verrait",
+      "nous": "nous verrions",
+      "vous": "vous verriez",
+      "ils": "ils verraient",
+      "elles": "elles verraient"
+    },
+    "subjonctif_present": {
+      "je": "je voie",
+      "tu": "tu voies",
+      "il": "il voie",
+      "elle": "elle voie",
+      "on": "on voie",
+      "nous": "nous voyions",
+      "vous": "vous voyiez",
+      "ils": "ils voient",
+      "elles": "elles voient"
+    },
+    "passe_simple": {
+      "je": "je vis",
+      "tu": "tu vis",
+      "il": "il vit",
+      "elle": "elle vit",
+      "on": "on vit",
+      "nous": "nous vîmes",
+      "vous": "vous vîtes",
+      "ils": "ils virent",
+      "elles": "elles virent"
+    },
+    "passe_compose": {
+      "je": "j'ai vu",
+      "tu": "tu as vu",
+      "il": "il a vu",
+      "elle": "elle a vu",
+      "on": "on a vu",
+      "nous": "nous avons vu",
+      "vous": "vous avez vu",
+      "ils": "ils ont vu",
+      "elles": "elles ont vu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais vu",
+      "tu": "tu avais vu",
+      "il": "il avait vu",
+      "elle": "elle avait vu",
+      "on": "on avait vu",
+      "nous": "nous avions vu",
+      "vous": "vous aviez vu",
+      "ils": "ils avaient vu",
+      "elles": "elles avaient vu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai vu",
+      "tu": "tu auras vu",
+      "il": "il aura vu",
+      "elle": "elle aura vu",
+      "on": "on aura vu",
+      "nous": "nous aurons vu",
+      "vous": "vous aurez vu",
+      "ils": "ils auront vu",
+      "elles": "elles auront vu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais vu",
+      "tu": "tu aurais vu",
+      "il": "il aurait vu",
+      "elle": "elle aurait vu",
+      "on": "on aurait vu",
+      "nous": "nous aurions vu",
+      "vous": "vous auriez vu",
+      "ils": "ils auraient vu",
+      "elles": "elles auraient vu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie vu",
+      "tu": "tu aies vu",
+      "il": "il ait vu",
+      "elle": "elle ait vu",
+      "on": "on ait vu",
+      "nous": "nous ayons vu",
+      "vous": "vous ayez vu",
+      "ils": "ils aient vu",
+      "elles": "elles aient vu"
+    },
+    "futur_proche": {
+      "je": "je vais voir",
+      "tu": "tu vas voir",
+      "il": "il va voir",
+      "elle": "elle va voir",
+      "on": "on va voir",
+      "nous": "nous allons voir",
+      "vous": "vous allez voir",
+      "ils": "ils vont voir",
+      "elles": "elles vont voir"
+    },
+    "imperatif_present": {
+      "tu": "vois",
+      "nous": "voyons",
+      "vous": "voyez"
+    }
+  }
+}

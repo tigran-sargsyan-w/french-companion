@@ -1,0 +1,144 @@
+{
+  "infinitive": "servir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je sers",
+      "tu": "tu sers",
+      "il": "il sert",
+      "elle": "elle sert",
+      "on": "on sert",
+      "nous": "nous servons",
+      "vous": "vous servez",
+      "ils": "ils servent",
+      "elles": "elles servent"
+    },
+    "imparfait": {
+      "je": "je servais",
+      "tu": "tu servais",
+      "il": "il servait",
+      "elle": "elle servait",
+      "on": "on servait",
+      "nous": "nous servions",
+      "vous": "vous serviez",
+      "ils": "ils servaient",
+      "elles": "elles servaient"
+    },
+    "futur_simple": {
+      "je": "je servirai",
+      "tu": "tu serviras",
+      "il": "il servira",
+      "elle": "elle servira",
+      "on": "on servira",
+      "nous": "nous servirons",
+      "vous": "vous servirez",
+      "ils": "ils serviront",
+      "elles": "elles serviront"
+    },
+    "conditionnel_present": {
+      "je": "je servirais",
+      "tu": "tu servirais",
+      "il": "il servirait",
+      "elle": "elle servirait",
+      "on": "on servirait",
+      "nous": "nous servirions",
+      "vous": "vous serviriez",
+      "ils": "ils serviraient",
+      "elles": "elles serviraient"
+    },
+    "subjonctif_present": {
+      "je": "je serve",
+      "tu": "tu serves",
+      "il": "il serve",
+      "elle": "elle serve",
+      "on": "on serve",
+      "nous": "nous servions",
+      "vous": "vous serviez",
+      "ils": "ils servent",
+      "elles": "elles servent"
+    },
+    "passe_simple": {
+      "je": "je servis",
+      "tu": "tu servis",
+      "il": "il servit",
+      "elle": "elle servit",
+      "on": "on servit",
+      "nous": "nous servîmes",
+      "vous": "vous servîtes",
+      "ils": "ils servirent",
+      "elles": "elles servirent"
+    },
+    "passe_compose": {
+      "je": "j'ai servi",
+      "tu": "tu as servi",
+      "il": "il a servi",
+      "elle": "elle a servi",
+      "on": "on a servi",
+      "nous": "nous avons servi",
+      "vous": "vous avez servi",
+      "ils": "ils ont servi",
+      "elles": "elles ont servi"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais servi",
+      "tu": "tu avais servi",
+      "il": "il avait servi",
+      "elle": "elle avait servi",
+      "on": "on avait servi",
+      "nous": "nous avions servi",
+      "vous": "vous aviez servi",
+      "ils": "ils avaient servi",
+      "elles": "elles avaient servi"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai servi",
+      "tu": "tu auras servi",
+      "il": "il aura servi",
+      "elle": "elle aura servi",
+      "on": "on aura servi",
+      "nous": "nous aurons servi",
+      "vous": "vous aurez servi",
+      "ils": "ils auront servi",
+      "elles": "elles auront servi"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais servi",
+      "tu": "tu aurais servi",
+      "il": "il aurait servi",
+      "elle": "elle aurait servi",
+      "on": "on aurait servi",
+      "nous": "nous aurions servi",
+      "vous": "vous auriez servi",
+      "ils": "ils auraient servi",
+      "elles": "elles auraient servi"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie servi",
+      "tu": "tu aies servi",
+      "il": "il ait servi",
+      "elle": "elle ait servi",
+      "on": "on ait servi",
+      "nous": "nous ayons servi",
+      "vous": "vous ayez servi",
+      "ils": "ils aient servi",
+      "elles": "elles aient servi"
+    },
+    "futur_proche": {
+      "je": "je vais servir",
+      "tu": "tu vas servir",
+      "il": "il va servir",
+      "elle": "elle va servir",
+      "on": "on va servir",
+      "nous": "nous allons servir",
+      "vous": "vous allez servir",
+      "ils": "ils vont servir",
+      "elles": "elles vont servir"
+    },
+    "imperatif_present": {
+      "tu": "sers",
+      "nous": "servons",
+      "vous": "servez"
+    }
+  }
+}

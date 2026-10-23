@@ -1,0 +1,144 @@
+{
+  "infinitive": "boire",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je bois",
+      "tu": "tu bois",
+      "il": "il boit",
+      "elle": "elle boit",
+      "on": "on boit",
+      "nous": "nous buvons",
+      "vous": "vous buvez",
+      "ils": "ils boivent",
+      "elles": "elles boivent"
+    },
+    "imparfait": {
+      "je": "je buvais",
+      "tu": "tu buvais",
+      "il": "il buvait",
+      "elle": "elle buvait",
+      "on": "on buvait",
+      "nous": "nous buvions",
+      "vous": "vous buviez",
+      "ils": "ils buvaient",
+      "elles": "elles buvaient"
+    },
+    "futur_simple": {
+      "je": "je boirai",
+      "tu": "tu boiras",
+      "il": "il boira",
+      "elle": "elle boira",
+      "on": "on boira",
+      "nous": "nous boirons",
+      "vous": "vous boirez",
+      "ils": "ils boiront",
+      "elles": "elles boiront"
+    },
+    "conditionnel_present": {
+      "je": "je boirais",
+      "tu": "tu boirais",
+      "il": "il boirait",
+      "elle": "elle boirait",
+      "on": "on boirait",
+      "nous": "nous boirions",
+      "vous": "vous boiriez",
+      "ils": "ils boiraient",
+      "elles": "elles boiraient"
+    },
+    "subjonctif_present": {
+      "je": "je boive",
+      "tu": "tu boives",
+      "il": "il boive",
+      "elle": "elle boive",
+      "on": "on boive",
+      "nous": "nous buvions",
+      "vous": "vous buviez",
+      "ils": "ils boivent",
+      "elles": "elles boivent"
+    },
+    "passe_simple": {
+      "je": "je bus",
+      "tu": "tu bus",
+      "il": "il but",
+      "elle": "elle but",
+      "on": "on but",
+      "nous": "nous bûmes",
+      "vous": "vous bûtes",
+      "ils": "ils burent",
+      "elles": "elles burent"
+    },
+    "passe_compose": {
+      "je": "j'ai bu",
+      "tu": "tu as bu",
+      "il": "il a bu",
+      "elle": "elle a bu",
+      "on": "on a bu",
+      "nous": "nous avons bu",
+      "vous": "vous avez bu",
+      "ils": "ils ont bu",
+      "elles": "elles ont bu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais bu",
+      "tu": "tu avais bu",
+      "il": "il avait bu",
+      "elle": "elle avait bu",
+      "on": "on avait bu",
+      "nous": "nous avions bu",
+      "vous": "vous aviez bu",
+      "ils": "ils avaient bu",
+      "elles": "elles avaient bu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai bu",
+      "tu": "tu auras bu",
+      "il": "il aura bu",
+      "elle": "elle aura bu",
+      "on": "on aura bu",
+      "nous": "nous aurons bu",
+      "vous": "vous aurez bu",
+      "ils": "ils auront bu",
+      "elles": "elles auront bu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais bu",
+      "tu": "tu aurais bu",
+      "il": "il aurait bu",
+      "elle": "elle aurait bu",
+      "on": "on aurait bu",
+      "nous": "nous aurions bu",
+      "vous": "vous auriez bu",
+      "ils": "ils auraient bu",
+      "elles": "elles auraient bu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie bu",
+      "tu": "tu aies bu",
+      "il": "il ait bu",
+      "elle": "elle ait bu",
+      "on": "on ait bu",
+      "nous": "nous ayons bu",
+      "vous": "vous ayez bu",
+      "ils": "ils aient bu",
+      "elles": "elles aient bu"
+    },
+    "futur_proche": {
+      "je": "je vais boire",
+      "tu": "tu vas boire",
+      "il": "il va boire",
+      "elle": "elle va boire",
+      "on": "on va boire",
+      "nous": "nous allons boire",
+      "vous": "vous allez boire",
+      "ils": "ils vont boire",
+      "elles": "elles vont boire"
+    },
+    "imperatif_present": {
+      "tu": "bois",
+      "nous": "buvons",
+      "vous": "buvez"
+    }
+  }
+}

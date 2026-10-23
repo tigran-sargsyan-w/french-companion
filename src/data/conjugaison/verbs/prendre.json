@@ -1,0 +1,144 @@
+{
+  "infinitive": "prendre",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je prends",
+      "tu": "tu prends",
+      "il": "il prend",
+      "elle": "elle prend",
+      "on": "on prend",
+      "nous": "nous prenons",
+      "vous": "vous prenez",
+      "ils": "ils prennent",
+      "elles": "elles prennent"
+    },
+    "imparfait": {
+      "je": "je prenais",
+      "tu": "tu prenais",
+      "il": "il prenait",
+      "elle": "elle prenait",
+      "on": "on prenait",
+      "nous": "nous prenions",
+      "vous": "vous preniez",
+      "ils": "ils prenaient",
+      "elles": "elles prenaient"
+    },
+    "futur_simple": {
+      "je": "je prendrai",
+      "tu": "tu prendras",
+      "il": "il prendra",
+      "elle": "elle prendra",
+      "on": "on prendra",
+      "nous": "nous prendrons",
+      "vous": "vous prendrez",
+      "ils": "ils prendront",
+      "elles": "elles prendront"
+    },
+    "conditionnel_present": {
+      "je": "je prendrais",
+      "tu": "tu prendrais",
+      "il": "il prendrait",
+      "elle": "elle prendrait",
+      "on": "on prendrait",
+      "nous": "nous prendrions",
+      "vous": "vous prendriez",
+      "ils": "ils prendraient",
+      "elles": "elles prendraient"
+    },
+    "subjonctif_present": {
+      "je": "je prenne",
+      "tu": "tu prennes",
+      "il": "il prenne",
+      "elle": "elle prenne",
+      "on": "on prenne",
+      "nous": "nous prenions",
+      "vous": "vous preniez",
+      "ils": "ils prennent",
+      "elles": "elles prennent"
+    },
+    "passe_simple": {
+      "je": "je pris",
+      "tu": "tu pris",
+      "il": "il prit",
+      "elle": "elle prit",
+      "on": "on prit",
+      "nous": "nous prîmes",
+      "vous": "vous prîtes",
+      "ils": "ils prirent",
+      "elles": "elles prirent"
+    },
+    "passe_compose": {
+      "je": "j'ai pris",
+      "tu": "tu as pris",
+      "il": "il a pris",
+      "elle": "elle a pris",
+      "on": "on a pris",
+      "nous": "nous avons pris",
+      "vous": "vous avez pris",
+      "ils": "ils ont pris",
+      "elles": "elles ont pris"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais pris",
+      "tu": "tu avais pris",
+      "il": "il avait pris",
+      "elle": "elle avait pris",
+      "on": "on avait pris",
+      "nous": "nous avions pris",
+      "vous": "vous aviez pris",
+      "ils": "ils avaient pris",
+      "elles": "elles avaient pris"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai pris",
+      "tu": "tu auras pris",
+      "il": "il aura pris",
+      "elle": "elle aura pris",
+      "on": "on aura pris",
+      "nous": "nous aurons pris",
+      "vous": "vous aurez pris",
+      "ils": "ils auront pris",
+      "elles": "elles auront pris"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais pris",
+      "tu": "tu aurais pris",
+      "il": "il aurait pris",
+      "elle": "elle aurait pris",
+      "on": "on aurait pris",
+      "nous": "nous aurions pris",
+      "vous": "vous auriez pris",
+      "ils": "ils auraient pris",
+      "elles": "elles auraient pris"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie pris",
+      "tu": "tu aies pris",
+      "il": "il ait pris",
+      "elle": "elle ait pris",
+      "on": "on ait pris",
+      "nous": "nous ayons pris",
+      "vous": "vous ayez pris",
+      "ils": "ils aient pris",
+      "elles": "elles aient pris"
+    },
+    "futur_proche": {
+      "je": "je vais prendre",
+      "tu": "tu vas prendre",
+      "il": "il va prendre",
+      "elle": "elle va prendre",
+      "on": "on va prendre",
+      "nous": "nous allons prendre",
+      "vous": "vous allez prendre",
+      "ils": "ils vont prendre",
+      "elles": "elles vont prendre"
+    },
+    "imperatif_present": {
+      "tu": "prends",
+      "nous": "prenons",
+      "vous": "prenez"
+    }
+  }
+}

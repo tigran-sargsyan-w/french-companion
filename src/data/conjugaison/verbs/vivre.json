@@ -1,0 +1,144 @@
+{
+  "infinitive": "vivre",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je vis",
+      "tu": "tu vis",
+      "il": "il vit",
+      "elle": "elle vit",
+      "on": "on vit",
+      "nous": "nous vivons",
+      "vous": "vous vivez",
+      "ils": "ils vivent",
+      "elles": "elles vivent"
+    },
+    "imparfait": {
+      "je": "je vivais",
+      "tu": "tu vivais",
+      "il": "il vivait",
+      "elle": "elle vivait",
+      "on": "on vivait",
+      "nous": "nous vivions",
+      "vous": "vous viviez",
+      "ils": "ils vivaient",
+      "elles": "elles vivaient"
+    },
+    "futur_simple": {
+      "je": "je vivrai",
+      "tu": "tu vivras",
+      "il": "il vivra",
+      "elle": "elle vivra",
+      "on": "on vivra",
+      "nous": "nous vivrons",
+      "vous": "vous vivrez",
+      "ils": "ils vivront",
+      "elles": "elles vivront"
+    },
+    "conditionnel_present": {
+      "je": "je vivrais",
+      "tu": "tu vivrais",
+      "il": "il vivrait",
+      "elle": "elle vivrait",
+      "on": "on vivrait",
+      "nous": "nous vivrions",
+      "vous": "vous vivriez",
+      "ils": "ils vivraient",
+      "elles": "elles vivraient"
+    },
+    "subjonctif_present": {
+      "je": "je vive",
+      "tu": "tu vives",
+      "il": "il vive",
+      "elle": "elle vive",
+      "on": "on vive",
+      "nous": "nous vivions",
+      "vous": "vous viviez",
+      "ils": "ils vivent",
+      "elles": "elles vivent"
+    },
+    "passe_simple": {
+      "je": "je vécus",
+      "tu": "tu vécus",
+      "il": "il vécut",
+      "elle": "elle vécut",
+      "on": "on vécut",
+      "nous": "nous vécûmes",
+      "vous": "vous vécûtes",
+      "ils": "ils vécurent",
+      "elles": "elles vécurent"
+    },
+    "passe_compose": {
+      "je": "j'ai vécu",
+      "tu": "tu as vécu",
+      "il": "il a vécu",
+      "elle": "elle a vécu",
+      "on": "on a vécu",
+      "nous": "nous avons vécu",
+      "vous": "vous avez vécu",
+      "ils": "ils ont vécu",
+      "elles": "elles ont vécu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais vécu",
+      "tu": "tu avais vécu",
+      "il": "il avait vécu",
+      "elle": "elle avait vécu",
+      "on": "on avait vécu",
+      "nous": "nous avions vécu",
+      "vous": "vous aviez vécu",
+      "ils": "ils avaient vécu",
+      "elles": "elles avaient vécu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai vécu",
+      "tu": "tu auras vécu",
+      "il": "il aura vécu",
+      "elle": "elle aura vécu",
+      "on": "on aura vécu",
+      "nous": "nous aurons vécu",
+      "vous": "vous aurez vécu",
+      "ils": "ils auront vécu",
+      "elles": "elles auront vécu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais vécu",
+      "tu": "tu aurais vécu",
+      "il": "il aurait vécu",
+      "elle": "elle aurait vécu",
+      "on": "on aurait vécu",
+      "nous": "nous aurions vécu",
+      "vous": "vous auriez vécu",
+      "ils": "ils auraient vécu",
+      "elles": "elles auraient vécu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie vécu",
+      "tu": "tu aies vécu",
+      "il": "il ait vécu",
+      "elle": "elle ait vécu",
+      "on": "on ait vécu",
+      "nous": "nous ayons vécu",
+      "vous": "vous ayez vécu",
+      "ils": "ils aient vécu",
+      "elles": "elles aient vécu"
+    },
+    "futur_proche": {
+      "je": "je vais vivre",
+      "tu": "tu vas vivre",
+      "il": "il va vivre",
+      "elle": "elle va vivre",
+      "on": "on va vivre",
+      "nous": "nous allons vivre",
+      "vous": "vous allez vivre",
+      "ils": "ils vont vivre",
+      "elles": "elles vont vivre"
+    },
+    "imperatif_present": {
+      "tu": "vis",
+      "nous": "vivons",
+      "vous": "vivez"
+    }
+  }
+}

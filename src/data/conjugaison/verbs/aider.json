@@ -1,0 +1,144 @@
+{
+  "infinitive": "aider",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'aide",
+      "tu": "tu aides",
+      "il": "il aide",
+      "elle": "elle aide",
+      "on": "on aide",
+      "nous": "nous aidons",
+      "vous": "vous aidez",
+      "ils": "ils aident",
+      "elles": "elles aident"
+    },
+    "imparfait": {
+      "je": "j'aidais",
+      "tu": "tu aidais",
+      "il": "il aidait",
+      "elle": "elle aidait",
+      "on": "on aidait",
+      "nous": "nous aidions",
+      "vous": "vous aidiez",
+      "ils": "ils aidaient",
+      "elles": "elles aidaient"
+    },
+    "futur_simple": {
+      "je": "j'aiderai",
+      "tu": "tu aideras",
+      "il": "il aidera",
+      "elle": "elle aidera",
+      "on": "on aidera",
+      "nous": "nous aiderons",
+      "vous": "vous aiderez",
+      "ils": "ils aideront",
+      "elles": "elles aideront"
+    },
+    "conditionnel_present": {
+      "je": "j'aiderais",
+      "tu": "tu aiderais",
+      "il": "il aiderait",
+      "elle": "elle aiderait",
+      "on": "on aiderait",
+      "nous": "nous aiderions",
+      "vous": "vous aideriez",
+      "ils": "ils aideraient",
+      "elles": "elles aideraient"
+    },
+    "subjonctif_present": {
+      "je": "j'aide",
+      "tu": "tu aides",
+      "il": "il aide",
+      "elle": "elle aide",
+      "on": "on aide",
+      "nous": "nous aidions",
+      "vous": "vous aidiez",
+      "ils": "ils aident",
+      "elles": "elles aident"
+    },
+    "passe_simple": {
+      "je": "j'aidai",
+      "tu": "tu aidas",
+      "il": "il aida",
+      "elle": "elle aida",
+      "on": "on aida",
+      "nous": "nous aidâmes",
+      "vous": "vous aidâtes",
+      "ils": "ils aidèrent",
+      "elles": "elles aidèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai aidé",
+      "tu": "tu as aidé",
+      "il": "il a aidé",
+      "elle": "elle a aidé",
+      "on": "on a aidé",
+      "nous": "nous avons aidé",
+      "vous": "vous avez aidé",
+      "ils": "ils ont aidé",
+      "elles": "elles ont aidé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais aidé",
+      "tu": "tu avais aidé",
+      "il": "il avait aidé",
+      "elle": "elle avait aidé",
+      "on": "on avait aidé",
+      "nous": "nous avions aidé",
+      "vous": "vous aviez aidé",
+      "ils": "ils avaient aidé",
+      "elles": "elles avaient aidé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai aidé",
+      "tu": "tu auras aidé",
+      "il": "il aura aidé",
+      "elle": "elle aura aidé",
+      "on": "on aura aidé",
+      "nous": "nous aurons aidé",
+      "vous": "vous aurez aidé",
+      "ils": "ils auront aidé",
+      "elles": "elles auront aidé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais aidé",
+      "tu": "tu aurais aidé",
+      "il": "il aurait aidé",
+      "elle": "elle aurait aidé",
+      "on": "on aurait aidé",
+      "nous": "nous aurions aidé",
+      "vous": "vous auriez aidé",
+      "ils": "ils auraient aidé",
+      "elles": "elles auraient aidé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie aidé",
+      "tu": "tu aies aidé",
+      "il": "il ait aidé",
+      "elle": "elle ait aidé",
+      "on": "on ait aidé",
+      "nous": "nous ayons aidé",
+      "vous": "vous ayez aidé",
+      "ils": "ils aient aidé",
+      "elles": "elles aient aidé"
+    },
+    "futur_proche": {
+      "je": "je vais aider",
+      "tu": "tu vas aider",
+      "il": "il va aider",
+      "elle": "elle va aider",
+      "on": "on va aider",
+      "nous": "nous allons aider",
+      "vous": "vous allez aider",
+      "ils": "ils vont aider",
+      "elles": "elles vont aider"
+    },
+    "imperatif_present": {
+      "tu": "aide",
+      "nous": "aidons",
+      "vous": "aidez"
+    }
+  }
+}

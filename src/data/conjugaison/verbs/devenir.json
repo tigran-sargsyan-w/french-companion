@@ -1,0 +1,144 @@
+{
+  "infinitive": "devenir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je deviens",
+      "tu": "tu deviens",
+      "il": "il devient",
+      "elle": "elle devient",
+      "on": "on devient",
+      "nous": "nous devenons",
+      "vous": "vous devenez",
+      "ils": "ils deviennent",
+      "elles": "elles deviennent"
+    },
+    "imparfait": {
+      "je": "je devenais",
+      "tu": "tu devenais",
+      "il": "il devenait",
+      "elle": "elle devenait",
+      "on": "on devenait",
+      "nous": "nous devenions",
+      "vous": "vous deveniez",
+      "ils": "ils devenaient",
+      "elles": "elles devenaient"
+    },
+    "futur_simple": {
+      "je": "je deviendrai",
+      "tu": "tu deviendras",
+      "il": "il deviendra",
+      "elle": "elle deviendra",
+      "on": "on deviendra",
+      "nous": "nous deviendrons",
+      "vous": "vous deviendrez",
+      "ils": "ils deviendront",
+      "elles": "elles deviendront"
+    },
+    "conditionnel_present": {
+      "je": "je deviendrais",
+      "tu": "tu deviendrais",
+      "il": "il deviendrait",
+      "elle": "elle deviendrait",
+      "on": "on deviendrait",
+      "nous": "nous deviendrions",
+      "vous": "vous deviendriez",
+      "ils": "ils deviendraient",
+      "elles": "elles deviendraient"
+    },
+    "subjonctif_present": {
+      "je": "je devienne",
+      "tu": "tu deviennes",
+      "il": "il devienne",
+      "elle": "elle devienne",
+      "on": "on devienne",
+      "nous": "nous devenions",
+      "vous": "vous deveniez",
+      "ils": "ils deviennent",
+      "elles": "elles deviennent"
+    },
+    "passe_simple": {
+      "je": "je devins",
+      "tu": "tu devins",
+      "il": "il devint",
+      "elle": "elle devint",
+      "on": "on devint",
+      "nous": "nous devînmes",
+      "vous": "vous devîntes",
+      "ils": "ils devinrent",
+      "elles": "elles devinrent"
+    },
+    "passe_compose": {
+      "je": "je suis devenu",
+      "tu": "tu es devenu",
+      "il": "il est devenu",
+      "elle": "elle est devenue",
+      "on": "on est devenu",
+      "nous": "nous sommes devenus",
+      "vous": "vous êtes devenus",
+      "ils": "ils sont devenus",
+      "elles": "elles sont devenues"
+    },
+    "plus_que_parfait": {
+      "je": "j'étais devenu",
+      "tu": "tu étais devenu",
+      "il": "il était devenu",
+      "elle": "elle était devenue",
+      "on": "on était devenu",
+      "nous": "nous étions devenus",
+      "vous": "vous étiez devenus",
+      "ils": "ils étaient devenus",
+      "elles": "elles étaient devenues"
+    },
+    "futur_anterieur": {
+      "je": "je serai devenu",
+      "tu": "tu seras devenu",
+      "il": "il sera devenu",
+      "elle": "elle sera devenue",
+      "on": "on sera devenu",
+      "nous": "nous serons devenus",
+      "vous": "vous serez devenus",
+      "ils": "ils seront devenus",
+      "elles": "elles seront devenues"
+    },
+    "conditionnel_passe": {
+      "je": "je serais devenu",
+      "tu": "tu serais devenu",
+      "il": "il serait devenu",
+      "elle": "elle serait devenue",
+      "on": "on serait devenu",
+      "nous": "nous serions devenus",
+      "vous": "vous seriez devenus",
+      "ils": "ils seraient devenus",
+      "elles": "elles seraient devenues"
+    },
+    "subjonctif_passe": {
+      "je": "je sois devenu",
+      "tu": "tu sois devenu",
+      "il": "il soit devenu",
+      "elle": "elle soit devenue",
+      "on": "on soit devenu",
+      "nous": "nous soyons devenus",
+      "vous": "vous soyez devenus",
+      "ils": "ils soient devenus",
+      "elles": "elles soient devenues"
+    },
+    "futur_proche": {
+      "je": "je vais devenir",
+      "tu": "tu vas devenir",
+      "il": "il va devenir",
+      "elle": "elle va devenir",
+      "on": "on va devenir",
+      "nous": "nous allons devenir",
+      "vous": "vous allez devenir",
+      "ils": "ils vont devenir",
+      "elles": "elles vont devenir"
+    },
+    "imperatif_present": {
+      "tu": "deviens",
+      "nous": "devenons",
+      "vous": "devenez"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "infinitive": "lire",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je lis",
+      "tu": "tu lis",
+      "il": "il lit",
+      "elle": "elle lit",
+      "on": "on lit",
+      "nous": "nous lisons",
+      "vous": "vous lisez",
+      "ils": "ils lisent",
+      "elles": "elles lisent"
+    },
+    "imparfait": {
+      "je": "je lisais",
+      "tu": "tu lisais",
+      "il": "il lisait",
+      "elle": "elle lisait",
+      "on": "on lisait",
+      "nous": "nous lisions",
+      "vous": "vous lisiez",
+      "ils": "ils lisaient",
+      "elles": "elles lisaient"
+    },
+    "futur_simple": {
+      "je": "je lirai",
+      "tu": "tu liras",
+      "il": "il lira",
+      "elle": "elle lira",
+      "on": "on lira",
+      "nous": "nous lirons",
+      "vous": "vous lirez",
+      "ils": "ils liront",
+      "elles": "elles liront"
+    },
+    "conditionnel_present": {
+      "je": "je lirais",
+      "tu": "tu lirais",
+      "il": "il lirait",
+      "elle": "elle lirait",
+      "on": "on lirait",
+      "nous": "nous lirions",
+      "vous": "vous liriez",
+      "ils": "ils liraient",
+      "elles": "elles liraient"
+    },
+    "subjonctif_present": {
+      "je": "je lise",
+      "tu": "tu lises",
+      "il": "il lise",
+      "elle": "elle lise",
+      "on": "on lise",
+      "nous": "nous lisions",
+      "vous": "vous lisiez",
+      "ils": "ils lisent",
+      "elles": "elles lisent"
+    },
+    "passe_simple": {
+      "je": "je lus",
+      "tu": "tu lus",
+      "il": "il lut",
+      "elle": "elle lut",
+      "on": "on lut",
+      "nous": "nous lûmes",
+      "vous": "vous lûtes",
+      "ils": "ils lurent",
+      "elles": "elles lurent"
+    },
+    "passe_compose": {
+      "je": "j'ai lu",
+      "tu": "tu as lu",
+      "il": "il a lu",
+      "elle": "elle a lu",
+      "on": "on a lu",
+      "nous": "nous avons lu",
+      "vous": "vous avez lu",
+      "ils": "ils ont lu",
+      "elles": "elles ont lu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais lu",
+      "tu": "tu avais lu",
+      "il": "il avait lu",
+      "elle": "elle avait lu",
+      "on": "on avait lu",
+      "nous": "nous avions lu",
+      "vous": "vous aviez lu",
+      "ils": "ils avaient lu",
+      "elles": "elles avaient lu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai lu",
+      "tu": "tu auras lu",
+      "il": "il aura lu",
+      "elle": "elle aura lu",
+      "on": "on aura lu",
+      "nous": "nous aurons lu",
+      "vous": "vous aurez lu",
+      "ils": "ils auront lu",
+      "elles": "elles auront lu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais lu",
+      "tu": "tu aurais lu",
+      "il": "il aurait lu",
+      "elle": "elle aurait lu",
+      "on": "on aurait lu",
+      "nous": "nous aurions lu",
+      "vous": "vous auriez lu",
+      "ils": "ils auraient lu",
+      "elles": "elles auraient lu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie lu",
+      "tu": "tu aies lu",
+      "il": "il ait lu",
+      "elle": "elle ait lu",
+      "on": "on ait lu",
+      "nous": "nous ayons lu",
+      "vous": "vous ayez lu",
+      "ils": "ils aient lu",
+      "elles": "elles aient lu"
+    },
+    "futur_proche": {
+      "je": "je vais lire",
+      "tu": "tu vas lire",
+      "il": "il va lire",
+      "elle": "elle va lire",
+      "on": "on va lire",
+      "nous": "nous allons lire",
+      "vous": "vous allez lire",
+      "ils": "ils vont lire",
+      "elles": "elles vont lire"
+    },
+    "imperatif_present": {
+      "tu": "lis",
+      "nous": "lisons",
+      "vous": "lisez"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "infinitive": "tenir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je tiens",
+      "tu": "tu tiens",
+      "il": "il tient",
+      "elle": "elle tient",
+      "on": "on tient",
+      "nous": "nous tenons",
+      "vous": "vous tenez",
+      "ils": "ils tiennent",
+      "elles": "elles tiennent"
+    },
+    "imparfait": {
+      "je": "je tenais",
+      "tu": "tu tenais",
+      "il": "il tenait",
+      "elle": "elle tenait",
+      "on": "on tenait",
+      "nous": "nous tenions",
+      "vous": "vous teniez",
+      "ils": "ils tenaient",
+      "elles": "elles tenaient"
+    },
+    "futur_simple": {
+      "je": "je tiendrai",
+      "tu": "tu tiendras",
+      "il": "il tiendra",
+      "elle": "elle tiendra",
+      "on": "on tiendra",
+      "nous": "nous tiendrons",
+      "vous": "vous tiendrez",
+      "ils": "ils tiendront",
+      "elles": "elles tiendront"
+    },
+    "conditionnel_present": {
+      "je": "je tiendrais",
+      "tu": "tu tiendrais",
+      "il": "il tiendrait",
+      "elle": "elle tiendrait",
+      "on": "on tiendrait",
+      "nous": "nous tiendrions",
+      "vous": "vous tiendriez",
+      "ils": "ils tiendraient",
+      "elles": "elles tiendraient"
+    },
+    "subjonctif_present": {
+      "je": "je tienne",
+      "tu": "tu tiennes",
+      "il": "il tienne",
+      "elle": "elle tienne",
+      "on": "on tienne",
+      "nous": "nous tenions",
+      "vous": "vous teniez",
+      "ils": "ils tiennent",
+      "elles": "elles tiennent"
+    },
+    "passe_simple": {
+      "je": "je tins",
+      "tu": "tu tins",
+      "il": "il tint",
+      "elle": "elle tint",
+      "on": "on tint",
+      "nous": "nous tînmes",
+      "vous": "vous tîntes",
+      "ils": "ils tinrent",
+      "elles": "elles tinrent"
+    },
+    "passe_compose": {
+      "je": "j'ai tenu",
+      "tu": "tu as tenu",
+      "il": "il a tenu",
+      "elle": "elle a tenu",
+      "on": "on a tenu",
+      "nous": "nous avons tenu",
+      "vous": "vous avez tenu",
+      "ils": "ils ont tenu",
+      "elles": "elles ont tenu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais tenu",
+      "tu": "tu avais tenu",
+      "il": "il avait tenu",
+      "elle": "elle avait tenu",
+      "on": "on avait tenu",
+      "nous": "nous avions tenu",
+      "vous": "vous aviez tenu",
+      "ils": "ils avaient tenu",
+      "elles": "elles avaient tenu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai tenu",
+      "tu": "tu auras tenu",
+      "il": "il aura tenu",
+      "elle": "elle aura tenu",
+      "on": "on aura tenu",
+      "nous": "nous aurons tenu",
+      "vous": "vous aurez tenu",
+      "ils": "ils auront tenu",
+      "elles": "elles auront tenu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais tenu",
+      "tu": "tu aurais tenu",
+      "il": "il aurait tenu",
+      "elle": "elle aurait tenu",
+      "on": "on aurait tenu",
+      "nous": "nous aurions tenu",
+      "vous": "vous auriez tenu",
+      "ils": "ils auraient tenu",
+      "elles": "elles auraient tenu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie tenu",
+      "tu": "tu aies tenu",
+      "il": "il ait tenu",
+      "elle": "elle ait tenu",
+      "on": "on ait tenu",
+      "nous": "nous ayons tenu",
+      "vous": "vous ayez tenu",
+      "ils": "ils aient tenu",
+      "elles": "elles aient tenu"
+    },
+    "futur_proche": {
+      "je": "je vais tenir",
+      "tu": "tu vas tenir",
+      "il": "il va tenir",
+      "elle": "elle va tenir",
+      "on": "on va tenir",
+      "nous": "nous allons tenir",
+      "vous": "vous allez tenir",
+      "ils": "ils vont tenir",
+      "elles": "elles vont tenir"
+    },
+    "imperatif_present": {
+      "tu": "tiens",
+      "nous": "tenons",
+      "vous": "tenez"
+    }
+  }
+}

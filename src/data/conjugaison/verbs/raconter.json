@@ -1,0 +1,144 @@
+{
+  "infinitive": "raconter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je raconte",
+      "tu": "tu racontes",
+      "il": "il raconte",
+      "elle": "elle raconte",
+      "on": "on raconte",
+      "nous": "nous racontons",
+      "vous": "vous racontez",
+      "ils": "ils racontent",
+      "elles": "elles racontent"
+    },
+    "imparfait": {
+      "je": "je racontais",
+      "tu": "tu racontais",
+      "il": "il racontait",
+      "elle": "elle racontait",
+      "on": "on racontait",
+      "nous": "nous racontions",
+      "vous": "vous racontiez",
+      "ils": "ils racontaient",
+      "elles": "elles racontaient"
+    },
+    "futur_simple": {
+      "je": "je raconterai",
+      "tu": "tu raconteras",
+      "il": "il racontera",
+      "elle": "elle racontera",
+      "on": "on racontera",
+      "nous": "nous raconterons",
+      "vous": "vous raconterez",
+      "ils": "ils raconteront",
+      "elles": "elles raconteront"
+    },
+    "conditionnel_present": {
+      "je": "je raconterais",
+      "tu": "tu raconterais",
+      "il": "il raconterait",
+      "elle": "elle raconterait",
+      "on": "on raconterait",
+      "nous": "nous raconterions",
+      "vous": "vous raconteriez",
+      "ils": "ils raconteraient",
+      "elles": "elles raconteraient"
+    },
+    "subjonctif_present": {
+      "je": "je raconte",
+      "tu": "tu racontes",
+      "il": "il raconte",
+      "elle": "elle raconte",
+      "on": "on raconte",
+      "nous": "nous racontions",
+      "vous": "vous racontiez",
+      "ils": "ils racontent",
+      "elles": "elles racontent"
+    },
+    "passe_simple": {
+      "je": "je racontai",
+      "tu": "tu racontas",
+      "il": "il raconta",
+      "elle": "elle raconta",
+      "on": "on raconta",
+      "nous": "nous racontâmes",
+      "vous": "vous racontâtes",
+      "ils": "ils racontèrent",
+      "elles": "elles racontèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai raconté",
+      "tu": "tu as raconté",
+      "il": "il a raconté",
+      "elle": "elle a raconté",
+      "on": "on a raconté",
+      "nous": "nous avons raconté",
+      "vous": "vous avez raconté",
+      "ils": "ils ont raconté",
+      "elles": "elles ont raconté"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais raconté",
+      "tu": "tu avais raconté",
+      "il": "il avait raconté",
+      "elle": "elle avait raconté",
+      "on": "on avait raconté",
+      "nous": "nous avions raconté",
+      "vous": "vous aviez raconté",
+      "ils": "ils avaient raconté",
+      "elles": "elles avaient raconté"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai raconté",
+      "tu": "tu auras raconté",
+      "il": "il aura raconté",
+      "elle": "elle aura raconté",
+      "on": "on aura raconté",
+      "nous": "nous aurons raconté",
+      "vous": "vous aurez raconté",
+      "ils": "ils auront raconté",
+      "elles": "elles auront raconté"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais raconté",
+      "tu": "tu aurais raconté",
+      "il": "il aurait raconté",
+      "elle": "elle aurait raconté",
+      "on": "on aurait raconté",
+      "nous": "nous aurions raconté",
+      "vous": "vous auriez raconté",
+      "ils": "ils auraient raconté",
+      "elles": "elles auraient raconté"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie raconté",
+      "tu": "tu aies raconté",
+      "il": "il ait raconté",
+      "elle": "elle ait raconté",
+      "on": "on ait raconté",
+      "nous": "nous ayons raconté",
+      "vous": "vous ayez raconté",
+      "ils": "ils aient raconté",
+      "elles": "elles aient raconté"
+    },
+    "futur_proche": {
+      "je": "je vais raconter",
+      "tu": "tu vas raconter",
+      "il": "il va raconter",
+      "elle": "elle va raconter",
+      "on": "on va raconter",
+      "nous": "nous allons raconter",
+      "vous": "vous allez raconter",
+      "ils": "ils vont raconter",
+      "elles": "elles vont raconter"
+    },
+    "imperatif_present": {
+      "tu": "raconte",
+      "nous": "racontons",
+      "vous": "racontez"
+    }
+  }
+}

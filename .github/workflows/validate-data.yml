@@ -7,6 +7,8 @@ on:
     paths:
       - "public/data/**"
       - "scripts/validate-data.mjs"
+      - "scripts/validate-conjugaison.mjs"
+      - "src/data/conjugaison/verbs/**"
       - ".github/workflows/validate-data.yml"
   pull_request:
     branches:
@@ -35,3 +37,6 @@ jobs:
 
       - name: Validate learning data
         run: node scripts/validate-data.mjs
+
+      - name: Validate conjugaison data
+        run: node scripts/validate-conjugaison.mjs

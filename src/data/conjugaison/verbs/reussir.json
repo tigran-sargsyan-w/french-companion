@@ -1,0 +1,144 @@
+{
+  "infinitive": "réussir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je réussis",
+      "tu": "tu réussis",
+      "il": "il réussit",
+      "elle": "elle réussit",
+      "on": "on réussit",
+      "nous": "nous réussissons",
+      "vous": "vous réussissez",
+      "ils": "ils réussissent",
+      "elles": "elles réussissent"
+    },
+    "imparfait": {
+      "je": "je réussissais",
+      "tu": "tu réussissais",
+      "il": "il réussissait",
+      "elle": "elle réussissait",
+      "on": "on réussissait",
+      "nous": "nous réussissions",
+      "vous": "vous réussissiez",
+      "ils": "ils réussissaient",
+      "elles": "elles réussissaient"
+    },
+    "futur_simple": {
+      "je": "je réussirai",
+      "tu": "tu réussiras",
+      "il": "il réussira",
+      "elle": "elle réussira",
+      "on": "on réussira",
+      "nous": "nous réussirons",
+      "vous": "vous réussirez",
+      "ils": "ils réussiront",
+      "elles": "elles réussiront"
+    },
+    "conditionnel_present": {
+      "je": "je réussirais",
+      "tu": "tu réussirais",
+      "il": "il réussirait",
+      "elle": "elle réussirait",
+      "on": "on réussirait",
+      "nous": "nous réussirions",
+      "vous": "vous réussiriez",
+      "ils": "ils réussiraient",
+      "elles": "elles réussiraient"
+    },
+    "subjonctif_present": {
+      "je": "je réussisse",
+      "tu": "tu réussisses",
+      "il": "il réussisse",
+      "elle": "elle réussisse",
+      "on": "on réussisse",
+      "nous": "nous réussissions",
+      "vous": "vous réussissiez",
+      "ils": "ils réussissent",
+      "elles": "elles réussissent"
+    },
+    "passe_simple": {
+      "je": "je réussis",
+      "tu": "tu réussis",
+      "il": "il réussit",
+      "elle": "elle réussit",
+      "on": "on réussit",
+      "nous": "nous réussîmes",
+      "vous": "vous réussîtes",
+      "ils": "ils réussirent",
+      "elles": "elles réussirent"
+    },
+    "passe_compose": {
+      "je": "j'ai réussi",
+      "tu": "tu as réussi",
+      "il": "il a réussi",
+      "elle": "elle a réussi",
+      "on": "on a réussi",
+      "nous": "nous avons réussi",
+      "vous": "vous avez réussi",
+      "ils": "ils ont réussi",
+      "elles": "elles ont réussi"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais réussi",
+      "tu": "tu avais réussi",
+      "il": "il avait réussi",
+      "elle": "elle avait réussi",
+      "on": "on avait réussi",
+      "nous": "nous avions réussi",
+      "vous": "vous aviez réussi",
+      "ils": "ils avaient réussi",
+      "elles": "elles avaient réussi"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai réussi",
+      "tu": "tu auras réussi",
+      "il": "il aura réussi",
+      "elle": "elle aura réussi",
+      "on": "on aura réussi",
+      "nous": "nous aurons réussi",
+      "vous": "vous aurez réussi",
+      "ils": "ils auront réussi",
+      "elles": "elles auront réussi"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais réussi",
+      "tu": "tu aurais réussi",
+      "il": "il aurait réussi",
+      "elle": "elle aurait réussi",
+      "on": "on aurait réussi",
+      "nous": "nous aurions réussi",
+      "vous": "vous auriez réussi",
+      "ils": "ils auraient réussi",
+      "elles": "elles auraient réussi"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie réussi",
+      "tu": "tu aies réussi",
+      "il": "il ait réussi",
+      "elle": "elle ait réussi",
+      "on": "on ait réussi",
+      "nous": "nous ayons réussi",
+      "vous": "vous ayez réussi",
+      "ils": "ils aient réussi",
+      "elles": "elles aient réussi"
+    },
+    "futur_proche": {
+      "je": "je vais réussir",
+      "tu": "tu vas réussir",
+      "il": "il va réussir",
+      "elle": "elle va réussir",
+      "on": "on va réussir",
+      "nous": "nous allons réussir",
+      "vous": "vous allez réussir",
+      "ils": "ils vont réussir",
+      "elles": "elles vont réussir"
+    },
+    "imperatif_present": {
+      "tu": "réussis",
+      "nous": "réussissons",
+      "vous": "réussissez"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "infinitive": "envoyer",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "j'envoie",
+      "tu": "tu envoies",
+      "il": "il envoie",
+      "elle": "elle envoie",
+      "on": "on envoie",
+      "nous": "nous envoyons",
+      "vous": "vous envoyez",
+      "ils": "ils envoient",
+      "elles": "elles envoient"
+    },
+    "imparfait": {
+      "je": "j'envoyais",
+      "tu": "tu envoyais",
+      "il": "il envoyait",
+      "elle": "elle envoyait",
+      "on": "on envoyait",
+      "nous": "nous envoyions",
+      "vous": "vous envoyiez",
+      "ils": "ils envoyaient",
+      "elles": "elles envoyaient"
+    },
+    "passe_simple": {
+      "je": "j'envoyai",
+      "tu": "tu envoyas",
+      "il": "il envoya",
+      "elle": "elle envoya",
+      "on": "on envoya",
+      "nous": "nous envoyâmes",
+      "vous": "vous envoyâtes",
+      "ils": "ils envoyèrent",
+      "elles": "elles envoyèrent"
+    },
+    "futur_simple": {
+      "je": "j'enverrai",
+      "tu": "tu enverras",
+      "il": "il enverra",
+      "elle": "elle enverra",
+      "on": "on enverra",
+      "nous": "nous enverrons",
+      "vous": "vous enverrez",
+      "ils": "ils enverront",
+      "elles": "elles enverront"
+    },
+    "conditionnel_present": {
+      "je": "j'enverrais",
+      "tu": "tu enverrais",
+      "il": "il enverrait",
+      "elle": "elle enverrait",
+      "on": "on enverrait",
+      "nous": "nous enverrions",
+      "vous": "vous enverriez",
+      "ils": "ils enverraient",
+      "elles": "elles enverraient"
+    },
+    "subjonctif_present": {
+      "je": "j'envoie",
+      "tu": "tu envoies",
+      "il": "il envoie",
+      "elle": "elle envoie",
+      "on": "on envoie",
+      "nous": "nous envoyions",
+      "vous": "vous envoyiez",
+      "ils": "ils envoient",
+      "elles": "elles envoient"
+    },
+    "futur_proche": {
+      "je": "je vais envoyer",
+      "tu": "tu vas envoyer",
+      "il": "il va envoyer",
+      "elle": "elle va envoyer",
+      "on": "on va envoyer",
+      "nous": "nous allons envoyer",
+      "vous": "vous allez envoyer",
+      "ils": "ils vont envoyer",
+      "elles": "elles vont envoyer"
+    },
+    "passe_compose": {
+      "je": "j'ai envoyé",
+      "tu": "tu as envoyé",
+      "il": "il a envoyé",
+      "elle": "elle a envoyé",
+      "on": "on a envoyé",
+      "nous": "nous avons envoyé",
+      "vous": "vous avez envoyé",
+      "ils": "ils ont envoyé",
+      "elles": "elles ont envoyé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais envoyé",
+      "tu": "tu avais envoyé",
+      "il": "il avait envoyé",
+      "elle": "elle avait envoyé",
+      "on": "on avait envoyé",
+      "nous": "nous avions envoyé",
+      "vous": "vous aviez envoyé",
+      "ils": "ils avaient envoyé",
+      "elles": "elles avaient envoyé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai envoyé",
+      "tu": "tu auras envoyé",
+      "il": "il aura envoyé",
+      "elle": "elle aura envoyé",
+      "on": "on aura envoyé",
+      "nous": "nous aurons envoyé",
+      "vous": "vous aurez envoyé",
+      "ils": "ils auront envoyé",
+      "elles": "elles auront envoyé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais envoyé",
+      "tu": "tu aurais envoyé",
+      "il": "il aurait envoyé",
+      "elle": "elle aurait envoyé",
+      "on": "on aurait envoyé",
+      "nous": "nous aurions envoyé",
+      "vous": "vous auriez envoyé",
+      "ils": "ils auraient envoyé",
+      "elles": "elles auraient envoyé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie envoyé",
+      "tu": "tu aies envoyé",
+      "il": "il ait envoyé",
+      "elle": "elle ait envoyé",
+      "on": "on ait envoyé",
+      "nous": "nous ayons envoyé",
+      "vous": "vous ayez envoyé",
+      "ils": "ils aient envoyé",
+      "elles": "elles aient envoyé"
+    },
+    "imperatif_present": {
+      "tu": "envoie",
+      "nous": "envoyons",
+      "vous": "envoyez"
+    }
+  }
+}

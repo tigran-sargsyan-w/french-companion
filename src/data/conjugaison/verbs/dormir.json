@@ -1,0 +1,144 @@
+{
+  "infinitive": "dormir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je dors",
+      "tu": "tu dors",
+      "il": "il dort",
+      "elle": "elle dort",
+      "on": "on dort",
+      "nous": "nous dormons",
+      "vous": "vous dormez",
+      "ils": "ils dorment",
+      "elles": "elles dorment"
+    },
+    "imparfait": {
+      "je": "je dormais",
+      "tu": "tu dormais",
+      "il": "il dormait",
+      "elle": "elle dormait",
+      "on": "on dormait",
+      "nous": "nous dormions",
+      "vous": "vous dormiez",
+      "ils": "ils dormaient",
+      "elles": "elles dormaient"
+    },
+    "futur_simple": {
+      "je": "je dormirai",
+      "tu": "tu dormiras",
+      "il": "il dormira",
+      "elle": "elle dormira",
+      "on": "on dormira",
+      "nous": "nous dormirons",
+      "vous": "vous dormirez",
+      "ils": "ils dormiront",
+      "elles": "elles dormiront"
+    },
+    "conditionnel_present": {
+      "je": "je dormirais",
+      "tu": "tu dormirais",
+      "il": "il dormirait",
+      "elle": "elle dormirait",
+      "on": "on dormirait",
+      "nous": "nous dormirions",
+      "vous": "vous dormiriez",
+      "ils": "ils dormiraient",
+      "elles": "elles dormiraient"
+    },
+    "subjonctif_present": {
+      "je": "je dorme",
+      "tu": "tu dormes",
+      "il": "il dorme",
+      "elle": "elle dorme",
+      "on": "on dorme",
+      "nous": "nous dormions",
+      "vous": "vous dormiez",
+      "ils": "ils dorment",
+      "elles": "elles dorment"
+    },
+    "passe_simple": {
+      "je": "je dormis",
+      "tu": "tu dormis",
+      "il": "il dormit",
+      "elle": "elle dormit",
+      "on": "on dormit",
+      "nous": "nous dormîmes",
+      "vous": "vous dormîtes",
+      "ils": "ils dormirent",
+      "elles": "elles dormirent"
+    },
+    "passe_compose": {
+      "je": "j'ai dormi",
+      "tu": "tu as dormi",
+      "il": "il a dormi",
+      "elle": "elle a dormi",
+      "on": "on a dormi",
+      "nous": "nous avons dormi",
+      "vous": "vous avez dormi",
+      "ils": "ils ont dormi",
+      "elles": "elles ont dormi"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais dormi",
+      "tu": "tu avais dormi",
+      "il": "il avait dormi",
+      "elle": "elle avait dormi",
+      "on": "on avait dormi",
+      "nous": "nous avions dormi",
+      "vous": "vous aviez dormi",
+      "ils": "ils avaient dormi",
+      "elles": "elles avaient dormi"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai dormi",
+      "tu": "tu auras dormi",
+      "il": "il aura dormi",
+      "elle": "elle aura dormi",
+      "on": "on aura dormi",
+      "nous": "nous aurons dormi",
+      "vous": "vous aurez dormi",
+      "ils": "ils auront dormi",
+      "elles": "elles auront dormi"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais dormi",
+      "tu": "tu aurais dormi",
+      "il": "il aurait dormi",
+      "elle": "elle aurait dormi",
+      "on": "on aurait dormi",
+      "nous": "nous aurions dormi",
+      "vous": "vous auriez dormi",
+      "ils": "ils auraient dormi",
+      "elles": "elles auraient dormi"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie dormi",
+      "tu": "tu aies dormi",
+      "il": "il ait dormi",
+      "elle": "elle ait dormi",
+      "on": "on ait dormi",
+      "nous": "nous ayons dormi",
+      "vous": "vous ayez dormi",
+      "ils": "ils aient dormi",
+      "elles": "elles aient dormi"
+    },
+    "futur_proche": {
+      "je": "je vais dormir",
+      "tu": "tu vas dormir",
+      "il": "il va dormir",
+      "elle": "elle va dormir",
+      "on": "on va dormir",
+      "nous": "nous allons dormir",
+      "vous": "vous allez dormir",
+      "ils": "ils vont dormir",
+      "elles": "elles vont dormir"
+    },
+    "imperatif_present": {
+      "tu": "dors",
+      "nous": "dormons",
+      "vous": "dormez"
+    }
+  }
+}

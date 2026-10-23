@@ -1,0 +1,144 @@
+{
+  "infinitive": "cuisiner",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je cuisine",
+      "tu": "tu cuisines",
+      "il": "il cuisine",
+      "elle": "elle cuisine",
+      "on": "on cuisine",
+      "nous": "nous cuisinons",
+      "vous": "vous cuisinez",
+      "ils": "ils cuisinent",
+      "elles": "elles cuisinent"
+    },
+    "imparfait": {
+      "je": "je cuisinais",
+      "tu": "tu cuisinais",
+      "il": "il cuisinait",
+      "elle": "elle cuisinait",
+      "on": "on cuisinait",
+      "nous": "nous cuisinions",
+      "vous": "vous cuisiniez",
+      "ils": "ils cuisinaient",
+      "elles": "elles cuisinaient"
+    },
+    "futur_simple": {
+      "je": "je cuisinerai",
+      "tu": "tu cuisineras",
+      "il": "il cuisinera",
+      "elle": "elle cuisinera",
+      "on": "on cuisinera",
+      "nous": "nous cuisinerons",
+      "vous": "vous cuisinerez",
+      "ils": "ils cuisineront",
+      "elles": "elles cuisineront"
+    },
+    "conditionnel_present": {
+      "je": "je cuisinerais",
+      "tu": "tu cuisinerais",
+      "il": "il cuisinerait",
+      "elle": "elle cuisinerait",
+      "on": "on cuisinerait",
+      "nous": "nous cuisinerions",
+      "vous": "vous cuisineriez",
+      "ils": "ils cuisineraient",
+      "elles": "elles cuisineraient"
+    },
+    "subjonctif_present": {
+      "je": "je cuisine",
+      "tu": "tu cuisines",
+      "il": "il cuisine",
+      "elle": "elle cuisine",
+      "on": "on cuisine",
+      "nous": "nous cuisinions",
+      "vous": "vous cuisiniez",
+      "ils": "ils cuisinent",
+      "elles": "elles cuisinent"
+    },
+    "passe_simple": {
+      "je": "je cuisinai",
+      "tu": "tu cuisinas",
+      "il": "il cuisina",
+      "elle": "elle cuisina",
+      "on": "on cuisina",
+      "nous": "nous cuisinâmes",
+      "vous": "vous cuisinâtes",
+      "ils": "ils cuisinèrent",
+      "elles": "elles cuisinèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai cuisiné",
+      "tu": "tu as cuisiné",
+      "il": "il a cuisiné",
+      "elle": "elle a cuisiné",
+      "on": "on a cuisiné",
+      "nous": "nous avons cuisiné",
+      "vous": "vous avez cuisiné",
+      "ils": "ils ont cuisiné",
+      "elles": "elles ont cuisiné"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais cuisiné",
+      "tu": "tu avais cuisiné",
+      "il": "il avait cuisiné",
+      "elle": "elle avait cuisiné",
+      "on": "on avait cuisiné",
+      "nous": "nous avions cuisiné",
+      "vous": "vous aviez cuisiné",
+      "ils": "ils avaient cuisiné",
+      "elles": "elles avaient cuisiné"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai cuisiné",
+      "tu": "tu auras cuisiné",
+      "il": "il aura cuisiné",
+      "elle": "elle aura cuisiné",
+      "on": "on aura cuisiné",
+      "nous": "nous aurons cuisiné",
+      "vous": "vous aurez cuisiné",
+      "ils": "ils auront cuisiné",
+      "elles": "elles auront cuisiné"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais cuisiné",
+      "tu": "tu aurais cuisiné",
+      "il": "il aurait cuisiné",
+      "elle": "elle aurait cuisiné",
+      "on": "on aurait cuisiné",
+      "nous": "nous aurions cuisiné",
+      "vous": "vous auriez cuisiné",
+      "ils": "ils auraient cuisiné",
+      "elles": "elles auraient cuisiné"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie cuisiné",
+      "tu": "tu aies cuisiné",
+      "il": "il ait cuisiné",
+      "elle": "elle ait cuisiné",
+      "on": "on ait cuisiné",
+      "nous": "nous ayons cuisiné",
+      "vous": "vous ayez cuisiné",
+      "ils": "ils aient cuisiné",
+      "elles": "elles aient cuisiné"
+    },
+    "futur_proche": {
+      "je": "je vais cuisiner",
+      "tu": "tu vas cuisiner",
+      "il": "il va cuisiner",
+      "elle": "elle va cuisiner",
+      "on": "on va cuisiner",
+      "nous": "nous allons cuisiner",
+      "vous": "vous allez cuisiner",
+      "ils": "ils vont cuisiner",
+      "elles": "elles vont cuisiner"
+    },
+    "imperatif_present": {
+      "tu": "cuisine",
+      "nous": "cuisinons",
+      "vous": "cuisinez"
+    }
+  }
+}

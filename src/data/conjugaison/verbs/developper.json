@@ -1,0 +1,144 @@
+{
+  "infinitive": "développer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je développe",
+      "tu": "tu développes",
+      "il": "il développe",
+      "elle": "elle développe",
+      "on": "on développe",
+      "nous": "nous développons",
+      "vous": "vous développez",
+      "ils": "ils développent",
+      "elles": "elles développent"
+    },
+    "imparfait": {
+      "je": "je développais",
+      "tu": "tu développais",
+      "il": "il développait",
+      "elle": "elle développait",
+      "on": "on développait",
+      "nous": "nous développions",
+      "vous": "vous développiez",
+      "ils": "ils développaient",
+      "elles": "elles développaient"
+    },
+    "futur_simple": {
+      "je": "je développerai",
+      "tu": "tu développeras",
+      "il": "il développera",
+      "elle": "elle développera",
+      "on": "on développera",
+      "nous": "nous développerons",
+      "vous": "vous développerez",
+      "ils": "ils développeront",
+      "elles": "elles développeront"
+    },
+    "conditionnel_present": {
+      "je": "je développerais",
+      "tu": "tu développerais",
+      "il": "il développerait",
+      "elle": "elle développerait",
+      "on": "on développerait",
+      "nous": "nous développerions",
+      "vous": "vous développeriez",
+      "ils": "ils développeraient",
+      "elles": "elles développeraient"
+    },
+    "subjonctif_present": {
+      "je": "je développe",
+      "tu": "tu développes",
+      "il": "il développe",
+      "elle": "elle développe",
+      "on": "on développe",
+      "nous": "nous développions",
+      "vous": "vous développiez",
+      "ils": "ils développent",
+      "elles": "elles développent"
+    },
+    "passe_simple": {
+      "je": "je développai",
+      "tu": "tu développas",
+      "il": "il développa",
+      "elle": "elle développa",
+      "on": "on développa",
+      "nous": "nous développâmes",
+      "vous": "vous développâtes",
+      "ils": "ils développèrent",
+      "elles": "elles développèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai développé",
+      "tu": "tu as développé",
+      "il": "il a développé",
+      "elle": "elle a développé",
+      "on": "on a développé",
+      "nous": "nous avons développé",
+      "vous": "vous avez développé",
+      "ils": "ils ont développé",
+      "elles": "elles ont développé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais développé",
+      "tu": "tu avais développé",
+      "il": "il avait développé",
+      "elle": "elle avait développé",
+      "on": "on avait développé",
+      "nous": "nous avions développé",
+      "vous": "vous aviez développé",
+      "ils": "ils avaient développé",
+      "elles": "elles avaient développé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai développé",
+      "tu": "tu auras développé",
+      "il": "il aura développé",
+      "elle": "elle aura développé",
+      "on": "on aura développé",
+      "nous": "nous aurons développé",
+      "vous": "vous aurez développé",
+      "ils": "ils auront développé",
+      "elles": "elles auront développé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais développé",
+      "tu": "tu aurais développé",
+      "il": "il aurait développé",
+      "elle": "elle aurait développé",
+      "on": "on aurait développé",
+      "nous": "nous aurions développé",
+      "vous": "vous auriez développé",
+      "ils": "ils auraient développé",
+      "elles": "elles auraient développé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie développé",
+      "tu": "tu aies développé",
+      "il": "il ait développé",
+      "elle": "elle ait développé",
+      "on": "on ait développé",
+      "nous": "nous ayons développé",
+      "vous": "vous ayez développé",
+      "ils": "ils aient développé",
+      "elles": "elles aient développé"
+    },
+    "futur_proche": {
+      "je": "je vais développer",
+      "tu": "tu vas développer",
+      "il": "il va développer",
+      "elle": "elle va développer",
+      "on": "on va développer",
+      "nous": "nous allons développer",
+      "vous": "vous allez développer",
+      "ils": "ils vont développer",
+      "elles": "elles vont développer"
+    },
+    "imperatif_present": {
+      "tu": "développe",
+      "nous": "développons",
+      "vous": "développez"
+    }
+  }
+}

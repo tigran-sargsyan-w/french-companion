@@ -1,0 +1,144 @@
+{
+  "infinitive": "penser",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je pense",
+      "tu": "tu penses",
+      "il": "il pense",
+      "elle": "elle pense",
+      "on": "on pense",
+      "nous": "nous pensons",
+      "vous": "vous pensez",
+      "ils": "ils pensent",
+      "elles": "elles pensent"
+    },
+    "imparfait": {
+      "je": "je pensais",
+      "tu": "tu pensais",
+      "il": "il pensait",
+      "elle": "elle pensait",
+      "on": "on pensait",
+      "nous": "nous pensions",
+      "vous": "vous pensiez",
+      "ils": "ils pensaient",
+      "elles": "elles pensaient"
+    },
+    "futur_simple": {
+      "je": "je penserai",
+      "tu": "tu penseras",
+      "il": "il pensera",
+      "elle": "elle pensera",
+      "on": "on pensera",
+      "nous": "nous penserons",
+      "vous": "vous penserez",
+      "ils": "ils penseront",
+      "elles": "elles penseront"
+    },
+    "conditionnel_present": {
+      "je": "je penserais",
+      "tu": "tu penserais",
+      "il": "il penserait",
+      "elle": "elle penserait",
+      "on": "on penserait",
+      "nous": "nous penserions",
+      "vous": "vous penseriez",
+      "ils": "ils penseraient",
+      "elles": "elles penseraient"
+    },
+    "subjonctif_present": {
+      "je": "je pense",
+      "tu": "tu penses",
+      "il": "il pense",
+      "elle": "elle pense",
+      "on": "on pense",
+      "nous": "nous pensions",
+      "vous": "vous pensiez",
+      "ils": "ils pensent",
+      "elles": "elles pensent"
+    },
+    "passe_simple": {
+      "je": "je pensai",
+      "tu": "tu pensas",
+      "il": "il pensa",
+      "elle": "elle pensa",
+      "on": "on pensa",
+      "nous": "nous pensâmes",
+      "vous": "vous pensâtes",
+      "ils": "ils pensèrent",
+      "elles": "elles pensèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai pensé",
+      "tu": "tu as pensé",
+      "il": "il a pensé",
+      "elle": "elle a pensé",
+      "on": "on a pensé",
+      "nous": "nous avons pensé",
+      "vous": "vous avez pensé",
+      "ils": "ils ont pensé",
+      "elles": "elles ont pensé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais pensé",
+      "tu": "tu avais pensé",
+      "il": "il avait pensé",
+      "elle": "elle avait pensé",
+      "on": "on avait pensé",
+      "nous": "nous avions pensé",
+      "vous": "vous aviez pensé",
+      "ils": "ils avaient pensé",
+      "elles": "elles avaient pensé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai pensé",
+      "tu": "tu auras pensé",
+      "il": "il aura pensé",
+      "elle": "elle aura pensé",
+      "on": "on aura pensé",
+      "nous": "nous aurons pensé",
+      "vous": "vous aurez pensé",
+      "ils": "ils auront pensé",
+      "elles": "elles auront pensé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais pensé",
+      "tu": "tu aurais pensé",
+      "il": "il aurait pensé",
+      "elle": "elle aurait pensé",
+      "on": "on aurait pensé",
+      "nous": "nous aurions pensé",
+      "vous": "vous auriez pensé",
+      "ils": "ils auraient pensé",
+      "elles": "elles auraient pensé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie pensé",
+      "tu": "tu aies pensé",
+      "il": "il ait pensé",
+      "elle": "elle ait pensé",
+      "on": "on ait pensé",
+      "nous": "nous ayons pensé",
+      "vous": "vous ayez pensé",
+      "ils": "ils aient pensé",
+      "elles": "elles aient pensé"
+    },
+    "futur_proche": {
+      "je": "je vais penser",
+      "tu": "tu vas penser",
+      "il": "il va penser",
+      "elle": "elle va penser",
+      "on": "on va penser",
+      "nous": "nous allons penser",
+      "vous": "vous allez penser",
+      "ils": "ils vont penser",
+      "elles": "elles vont penser"
+    },
+    "imperatif_present": {
+      "tu": "pense",
+      "nous": "pensons",
+      "vous": "pensez"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "infinitive": "aller",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je vais",
+      "tu": "tu vas",
+      "il": "il va",
+      "elle": "elle va",
+      "on": "on va",
+      "nous": "nous allons",
+      "vous": "vous allez",
+      "ils": "ils vont",
+      "elles": "elles vont"
+    },
+    "imparfait": {
+      "je": "j'allais",
+      "tu": "tu allais",
+      "il": "il allait",
+      "elle": "elle allait",
+      "on": "on allait",
+      "nous": "nous allions",
+      "vous": "vous alliez",
+      "ils": "ils allaient",
+      "elles": "elles allaient"
+    },
+    "futur_simple": {
+      "je": "j'irai",
+      "tu": "tu iras",
+      "il": "il ira",
+      "elle": "elle ira",
+      "on": "on ira",
+      "nous": "nous irons",
+      "vous": "vous irez",
+      "ils": "ils iront",
+      "elles": "elles iront"
+    },
+    "conditionnel_present": {
+      "je": "j'irais",
+      "tu": "tu irais",
+      "il": "il irait",
+      "elle": "elle irait",
+      "on": "on irait",
+      "nous": "nous irions",
+      "vous": "vous iriez",
+      "ils": "ils iraient",
+      "elles": "elles iraient"
+    },
+    "subjonctif_present": {
+      "je": "j'aille",
+      "tu": "tu ailles",
+      "il": "il aille",
+      "elle": "elle aille",
+      "on": "on aille",
+      "nous": "nous allions",
+      "vous": "vous alliez",
+      "ils": "ils aillent",
+      "elles": "elles aillent"
+    },
+    "passe_simple": {
+      "je": "j'allai",
+      "tu": "tu allas",
+      "il": "il alla",
+      "elle": "elle alla",
+      "on": "on alla",
+      "nous": "nous allâmes",
+      "vous": "vous allâtes",
+      "ils": "ils allèrent",
+      "elles": "elles allèrent"
+    },
+    "passe_compose": {
+      "je": "je suis allé",
+      "tu": "tu es allé",
+      "il": "il est allé",
+      "elle": "elle est allée",
+      "on": "on est allé",
+      "nous": "nous sommes allés",
+      "vous": "vous êtes allés",
+      "ils": "ils sont allés",
+      "elles": "elles sont allées"
+    },
+    "plus_que_parfait": {
+      "je": "j'étais allé",
+      "tu": "tu étais allé",
+      "il": "il était allé",
+      "elle": "elle était allée",
+      "on": "on était allé",
+      "nous": "nous étions allés",
+      "vous": "vous étiez allés",
+      "ils": "ils étaient allés",
+      "elles": "elles étaient allées"
+    },
+    "futur_anterieur": {
+      "je": "je serai allé",
+      "tu": "tu seras allé",
+      "il": "il sera allé",
+      "elle": "elle sera allée",
+      "on": "on sera allé",
+      "nous": "nous serons allés",
+      "vous": "vous serez allés",
+      "ils": "ils seront allés",
+      "elles": "elles seront allées"
+    },
+    "conditionnel_passe": {
+      "je": "je serais allé",
+      "tu": "tu serais allé",
+      "il": "il serait allé",
+      "elle": "elle serait allée",
+      "on": "on serait allé",
+      "nous": "nous serions allés",
+      "vous": "vous seriez allés",
+      "ils": "ils seraient allés",
+      "elles": "elles seraient allées"
+    },
+    "subjonctif_passe": {
+      "je": "je sois allé",
+      "tu": "tu sois allé",
+      "il": "il soit allé",
+      "elle": "elle soit allée",
+      "on": "on soit allé",
+      "nous": "nous soyons allés",
+      "vous": "vous soyez allés",
+      "ils": "ils soient allés",
+      "elles": "elles soient allées"
+    },
+    "futur_proche": {
+      "je": "je vais aller",
+      "tu": "tu vas aller",
+      "il": "il va aller",
+      "elle": "elle va aller",
+      "on": "on va aller",
+      "nous": "nous allons aller",
+      "vous": "vous allez aller",
+      "ils": "ils vont aller",
+      "elles": "elles vont aller"
+    },
+    "imperatif_present": {
+      "tu": "va",
+      "nous": "allons",
+      "vous": "allez"
+    }
+  }
+}

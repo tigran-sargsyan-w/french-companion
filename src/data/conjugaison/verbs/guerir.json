@@ -1,0 +1,144 @@
+{
+  "infinitive": "guérir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je guéris",
+      "tu": "tu guéris",
+      "il": "il guérit",
+      "elle": "elle guérit",
+      "on": "on guérit",
+      "nous": "nous guérissons",
+      "vous": "vous guérissez",
+      "ils": "ils guérissent",
+      "elles": "elles guérissent"
+    },
+    "imparfait": {
+      "je": "je guérissais",
+      "tu": "tu guérissais",
+      "il": "il guérissait",
+      "elle": "elle guérissait",
+      "on": "on guérissait",
+      "nous": "nous guérissions",
+      "vous": "vous guérissiez",
+      "ils": "ils guérissaient",
+      "elles": "elles guérissaient"
+    },
+    "futur_simple": {
+      "je": "je guérirai",
+      "tu": "tu guériras",
+      "il": "il guérira",
+      "elle": "elle guérira",
+      "on": "on guérira",
+      "nous": "nous guérirons",
+      "vous": "vous guérirez",
+      "ils": "ils guériront",
+      "elles": "elles guériront"
+    },
+    "conditionnel_present": {
+      "je": "je guérirais",
+      "tu": "tu guérirais",
+      "il": "il guérirait",
+      "elle": "elle guérirait",
+      "on": "on guérirait",
+      "nous": "nous guéririons",
+      "vous": "vous guéririez",
+      "ils": "ils guériraient",
+      "elles": "elles guériraient"
+    },
+    "subjonctif_present": {
+      "je": "je guérisse",
+      "tu": "tu guérisses",
+      "il": "il guérisse",
+      "elle": "elle guérisse",
+      "on": "on guérisse",
+      "nous": "nous guérissions",
+      "vous": "vous guérissiez",
+      "ils": "ils guérissent",
+      "elles": "elles guérissent"
+    },
+    "passe_simple": {
+      "je": "je guéris",
+      "tu": "tu guéris",
+      "il": "il guérit",
+      "elle": "elle guérit",
+      "on": "on guérit",
+      "nous": "nous guérîmes",
+      "vous": "vous guérîtes",
+      "ils": "ils guérirent",
+      "elles": "elles guérirent"
+    },
+    "passe_compose": {
+      "je": "j'ai guéri",
+      "tu": "tu as guéri",
+      "il": "il a guéri",
+      "elle": "elle a guéri",
+      "on": "on a guéri",
+      "nous": "nous avons guéri",
+      "vous": "vous avez guéri",
+      "ils": "ils ont guéri",
+      "elles": "elles ont guéri"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais guéri",
+      "tu": "tu avais guéri",
+      "il": "il avait guéri",
+      "elle": "elle avait guéri",
+      "on": "on avait guéri",
+      "nous": "nous avions guéri",
+      "vous": "vous aviez guéri",
+      "ils": "ils avaient guéri",
+      "elles": "elles avaient guéri"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai guéri",
+      "tu": "tu auras guéri",
+      "il": "il aura guéri",
+      "elle": "elle aura guéri",
+      "on": "on aura guéri",
+      "nous": "nous aurons guéri",
+      "vous": "vous aurez guéri",
+      "ils": "ils auront guéri",
+      "elles": "elles auront guéri"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais guéri",
+      "tu": "tu aurais guéri",
+      "il": "il aurait guéri",
+      "elle": "elle aurait guéri",
+      "on": "on aurait guéri",
+      "nous": "nous aurions guéri",
+      "vous": "vous auriez guéri",
+      "ils": "ils auraient guéri",
+      "elles": "elles auraient guéri"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie guéri",
+      "tu": "tu aies guéri",
+      "il": "il ait guéri",
+      "elle": "elle ait guéri",
+      "on": "on ait guéri",
+      "nous": "nous ayons guéri",
+      "vous": "vous ayez guéri",
+      "ils": "ils aient guéri",
+      "elles": "elles aient guéri"
+    },
+    "futur_proche": {
+      "je": "je vais guérir",
+      "tu": "tu vas guérir",
+      "il": "il va guérir",
+      "elle": "elle va guérir",
+      "on": "on va guérir",
+      "nous": "nous allons guérir",
+      "vous": "vous allez guérir",
+      "ils": "ils vont guérir",
+      "elles": "elles vont guérir"
+    },
+    "imperatif_present": {
+      "tu": "guéris",
+      "nous": "guérissons",
+      "vous": "guérissez"
+    }
+  }
+}

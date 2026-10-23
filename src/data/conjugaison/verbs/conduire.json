@@ -1,0 +1,144 @@
+{
+  "infinitive": "conduire",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je conduis",
+      "tu": "tu conduis",
+      "il": "il conduit",
+      "elle": "elle conduit",
+      "on": "on conduit",
+      "nous": "nous conduisons",
+      "vous": "vous conduisez",
+      "ils": "ils conduisent",
+      "elles": "elles conduisent"
+    },
+    "imparfait": {
+      "je": "je conduisais",
+      "tu": "tu conduisais",
+      "il": "il conduisait",
+      "elle": "elle conduisait",
+      "on": "on conduisait",
+      "nous": "nous conduisions",
+      "vous": "vous conduisiez",
+      "ils": "ils conduisaient",
+      "elles": "elles conduisaient"
+    },
+    "futur_simple": {
+      "je": "je conduirai",
+      "tu": "tu conduiras",
+      "il": "il conduira",
+      "elle": "elle conduira",
+      "on": "on conduira",
+      "nous": "nous conduirons",
+      "vous": "vous conduirez",
+      "ils": "ils conduiront",
+      "elles": "elles conduiront"
+    },
+    "conditionnel_present": {
+      "je": "je conduirais",
+      "tu": "tu conduirais",
+      "il": "il conduirait",
+      "elle": "elle conduirait",
+      "on": "on conduirait",
+      "nous": "nous conduirions",
+      "vous": "vous conduiriez",
+      "ils": "ils conduiraient",
+      "elles": "elles conduiraient"
+    },
+    "subjonctif_present": {
+      "je": "je conduise",
+      "tu": "tu conduises",
+      "il": "il conduise",
+      "elle": "elle conduise",
+      "on": "on conduise",
+      "nous": "nous conduisions",
+      "vous": "vous conduisiez",
+      "ils": "ils conduisent",
+      "elles": "elles conduisent"
+    },
+    "passe_simple": {
+      "je": "je conduisis",
+      "tu": "tu conduisis",
+      "il": "il conduisit",
+      "elle": "elle conduisit",
+      "on": "on conduisit",
+      "nous": "nous conduisîmes",
+      "vous": "vous conduisîtes",
+      "ils": "ils conduisirent",
+      "elles": "elles conduisirent"
+    },
+    "passe_compose": {
+      "je": "j'ai conduit",
+      "tu": "tu as conduit",
+      "il": "il a conduit",
+      "elle": "elle a conduit",
+      "on": "on a conduit",
+      "nous": "nous avons conduit",
+      "vous": "vous avez conduit",
+      "ils": "ils ont conduit",
+      "elles": "elles ont conduit"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais conduit",
+      "tu": "tu avais conduit",
+      "il": "il avait conduit",
+      "elle": "elle avait conduit",
+      "on": "on avait conduit",
+      "nous": "nous avions conduit",
+      "vous": "vous aviez conduit",
+      "ils": "ils avaient conduit",
+      "elles": "elles avaient conduit"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai conduit",
+      "tu": "tu auras conduit",
+      "il": "il aura conduit",
+      "elle": "elle aura conduit",
+      "on": "on aura conduit",
+      "nous": "nous aurons conduit",
+      "vous": "vous aurez conduit",
+      "ils": "ils auront conduit",
+      "elles": "elles auront conduit"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais conduit",
+      "tu": "tu aurais conduit",
+      "il": "il aurait conduit",
+      "elle": "elle aurait conduit",
+      "on": "on aurait conduit",
+      "nous": "nous aurions conduit",
+      "vous": "vous auriez conduit",
+      "ils": "ils auraient conduit",
+      "elles": "elles auraient conduit"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie conduit",
+      "tu": "tu aies conduit",
+      "il": "il ait conduit",
+      "elle": "elle ait conduit",
+      "on": "on ait conduit",
+      "nous": "nous ayons conduit",
+      "vous": "vous ayez conduit",
+      "ils": "ils aient conduit",
+      "elles": "elles aient conduit"
+    },
+    "futur_proche": {
+      "je": "je vais conduire",
+      "tu": "tu vas conduire",
+      "il": "il va conduire",
+      "elle": "elle va conduire",
+      "on": "on va conduire",
+      "nous": "nous allons conduire",
+      "vous": "vous allez conduire",
+      "ils": "ils vont conduire",
+      "elles": "elles vont conduire"
+    },
+    "imperatif_present": {
+      "tu": "conduis",
+      "nous": "conduisons",
+      "vous": "conduisez"
+    }
+  }
+}

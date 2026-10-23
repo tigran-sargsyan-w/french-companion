@@ -1,0 +1,144 @@
+{
+  "infinitive": "agir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'agis",
+      "tu": "tu agis",
+      "il": "il agit",
+      "elle": "elle agit",
+      "on": "on agit",
+      "nous": "nous agissons",
+      "vous": "vous agissez",
+      "ils": "ils agissent",
+      "elles": "elles agissent"
+    },
+    "imparfait": {
+      "je": "j'agissais",
+      "tu": "tu agissais",
+      "il": "il agissait",
+      "elle": "elle agissait",
+      "on": "on agissait",
+      "nous": "nous agissions",
+      "vous": "vous agissiez",
+      "ils": "ils agissaient",
+      "elles": "elles agissaient"
+    },
+    "futur_simple": {
+      "je": "j'agirai",
+      "tu": "tu agiras",
+      "il": "il agira",
+      "elle": "elle agira",
+      "on": "on agira",
+      "nous": "nous agirons",
+      "vous": "vous agirez",
+      "ils": "ils agiront",
+      "elles": "elles agiront"
+    },
+    "conditionnel_present": {
+      "je": "j'agirais",
+      "tu": "tu agirais",
+      "il": "il agirait",
+      "elle": "elle agirait",
+      "on": "on agirait",
+      "nous": "nous agirions",
+      "vous": "vous agiriez",
+      "ils": "ils agiraient",
+      "elles": "elles agiraient"
+    },
+    "subjonctif_present": {
+      "je": "j'agisse",
+      "tu": "tu agisses",
+      "il": "il agisse",
+      "elle": "elle agisse",
+      "on": "on agisse",
+      "nous": "nous agissions",
+      "vous": "vous agissiez",
+      "ils": "ils agissent",
+      "elles": "elles agissent"
+    },
+    "passe_simple": {
+      "je": "j'agis",
+      "tu": "tu agis",
+      "il": "il agit",
+      "elle": "elle agit",
+      "on": "on agit",
+      "nous": "nous agîmes",
+      "vous": "vous agîtes",
+      "ils": "ils agirent",
+      "elles": "elles agirent"
+    },
+    "passe_compose": {
+      "je": "j'ai agi",
+      "tu": "tu as agi",
+      "il": "il a agi",
+      "elle": "elle a agi",
+      "on": "on a agi",
+      "nous": "nous avons agi",
+      "vous": "vous avez agi",
+      "ils": "ils ont agi",
+      "elles": "elles ont agi"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais agi",
+      "tu": "tu avais agi",
+      "il": "il avait agi",
+      "elle": "elle avait agi",
+      "on": "on avait agi",
+      "nous": "nous avions agi",
+      "vous": "vous aviez agi",
+      "ils": "ils avaient agi",
+      "elles": "elles avaient agi"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai agi",
+      "tu": "tu auras agi",
+      "il": "il aura agi",
+      "elle": "elle aura agi",
+      "on": "on aura agi",
+      "nous": "nous aurons agi",
+      "vous": "vous aurez agi",
+      "ils": "ils auront agi",
+      "elles": "elles auront agi"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais agi",
+      "tu": "tu aurais agi",
+      "il": "il aurait agi",
+      "elle": "elle aurait agi",
+      "on": "on aurait agi",
+      "nous": "nous aurions agi",
+      "vous": "vous auriez agi",
+      "ils": "ils auraient agi",
+      "elles": "elles auraient agi"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie agi",
+      "tu": "tu aies agi",
+      "il": "il ait agi",
+      "elle": "elle ait agi",
+      "on": "on ait agi",
+      "nous": "nous ayons agi",
+      "vous": "vous ayez agi",
+      "ils": "ils aient agi",
+      "elles": "elles aient agi"
+    },
+    "futur_proche": {
+      "je": "je vais agir",
+      "tu": "tu vas agir",
+      "il": "il va agir",
+      "elle": "elle va agir",
+      "on": "on va agir",
+      "nous": "nous allons agir",
+      "vous": "vous allez agir",
+      "ils": "ils vont agir",
+      "elles": "elles vont agir"
+    },
+    "imperatif_present": {
+      "tu": "agis",
+      "nous": "agissons",
+      "vous": "agissez"
+    }
+  }
+}

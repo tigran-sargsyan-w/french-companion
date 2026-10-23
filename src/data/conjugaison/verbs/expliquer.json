@@ -1,0 +1,144 @@
+{
+  "infinitive": "expliquer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'explique",
+      "tu": "tu expliques",
+      "il": "il explique",
+      "elle": "elle explique",
+      "on": "on explique",
+      "nous": "nous expliquons",
+      "vous": "vous expliquez",
+      "ils": "ils expliquent",
+      "elles": "elles expliquent"
+    },
+    "imparfait": {
+      "je": "j'expliquais",
+      "tu": "tu expliquais",
+      "il": "il expliquait",
+      "elle": "elle expliquait",
+      "on": "on expliquait",
+      "nous": "nous expliquions",
+      "vous": "vous expliquiez",
+      "ils": "ils expliquaient",
+      "elles": "elles expliquaient"
+    },
+    "futur_simple": {
+      "je": "j'expliquerai",
+      "tu": "tu expliqueras",
+      "il": "il expliquera",
+      "elle": "elle expliquera",
+      "on": "on expliquera",
+      "nous": "nous expliquerons",
+      "vous": "vous expliquerez",
+      "ils": "ils expliqueront",
+      "elles": "elles expliqueront"
+    },
+    "conditionnel_present": {
+      "je": "j'expliquerais",
+      "tu": "tu expliquerais",
+      "il": "il expliquerait",
+      "elle": "elle expliquerait",
+      "on": "on expliquerait",
+      "nous": "nous expliquerions",
+      "vous": "vous expliqueriez",
+      "ils": "ils expliqueraient",
+      "elles": "elles expliqueraient"
+    },
+    "subjonctif_present": {
+      "je": "j'explique",
+      "tu": "tu expliques",
+      "il": "il explique",
+      "elle": "elle explique",
+      "on": "on explique",
+      "nous": "nous expliquions",
+      "vous": "vous expliquiez",
+      "ils": "ils expliquent",
+      "elles": "elles expliquent"
+    },
+    "passe_simple": {
+      "je": "j'expliquai",
+      "tu": "tu expliquas",
+      "il": "il expliqua",
+      "elle": "elle expliqua",
+      "on": "on expliqua",
+      "nous": "nous expliquâmes",
+      "vous": "vous expliquâtes",
+      "ils": "ils expliquèrent",
+      "elles": "elles expliquèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai expliqué",
+      "tu": "tu as expliqué",
+      "il": "il a expliqué",
+      "elle": "elle a expliqué",
+      "on": "on a expliqué",
+      "nous": "nous avons expliqué",
+      "vous": "vous avez expliqué",
+      "ils": "ils ont expliqué",
+      "elles": "elles ont expliqué"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais expliqué",
+      "tu": "tu avais expliqué",
+      "il": "il avait expliqué",
+      "elle": "elle avait expliqué",
+      "on": "on avait expliqué",
+      "nous": "nous avions expliqué",
+      "vous": "vous aviez expliqué",
+      "ils": "ils avaient expliqué",
+      "elles": "elles avaient expliqué"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai expliqué",
+      "tu": "tu auras expliqué",
+      "il": "il aura expliqué",
+      "elle": "elle aura expliqué",
+      "on": "on aura expliqué",
+      "nous": "nous aurons expliqué",
+      "vous": "vous aurez expliqué",
+      "ils": "ils auront expliqué",
+      "elles": "elles auront expliqué"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais expliqué",
+      "tu": "tu aurais expliqué",
+      "il": "il aurait expliqué",
+      "elle": "elle aurait expliqué",
+      "on": "on aurait expliqué",
+      "nous": "nous aurions expliqué",
+      "vous": "vous auriez expliqué",
+      "ils": "ils auraient expliqué",
+      "elles": "elles auraient expliqué"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie expliqué",
+      "tu": "tu aies expliqué",
+      "il": "il ait expliqué",
+      "elle": "elle ait expliqué",
+      "on": "on ait expliqué",
+      "nous": "nous ayons expliqué",
+      "vous": "vous ayez expliqué",
+      "ils": "ils aient expliqué",
+      "elles": "elles aient expliqué"
+    },
+    "futur_proche": {
+      "je": "je vais expliquer",
+      "tu": "tu vas expliquer",
+      "il": "il va expliquer",
+      "elle": "elle va expliquer",
+      "on": "on va expliquer",
+      "nous": "nous allons expliquer",
+      "vous": "vous allez expliquer",
+      "ils": "ils vont expliquer",
+      "elles": "elles vont expliquer"
+    },
+    "imperatif_present": {
+      "tu": "explique",
+      "nous": "expliquons",
+      "vous": "expliquez"
+    }
+  }
+}

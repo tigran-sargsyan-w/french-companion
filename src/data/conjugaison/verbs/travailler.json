@@ -1,0 +1,144 @@
+{
+  "infinitive": "travailler",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je travaille",
+      "tu": "tu travailles",
+      "il": "il travaille",
+      "elle": "elle travaille",
+      "on": "on travaille",
+      "nous": "nous travaillons",
+      "vous": "vous travaillez",
+      "ils": "ils travaillent",
+      "elles": "elles travaillent"
+    },
+    "imparfait": {
+      "je": "je travaillais",
+      "tu": "tu travaillais",
+      "il": "il travaillait",
+      "elle": "elle travaillait",
+      "on": "on travaillait",
+      "nous": "nous travaillions",
+      "vous": "vous travailliez",
+      "ils": "ils travaillaient",
+      "elles": "elles travaillaient"
+    },
+    "futur_simple": {
+      "je": "je travaillerai",
+      "tu": "tu travailleras",
+      "il": "il travaillera",
+      "elle": "elle travaillera",
+      "on": "on travaillera",
+      "nous": "nous travaillerons",
+      "vous": "vous travaillerez",
+      "ils": "ils travailleront",
+      "elles": "elles travailleront"
+    },
+    "conditionnel_present": {
+      "je": "je travaillerais",
+      "tu": "tu travaillerais",
+      "il": "il travaillerait",
+      "elle": "elle travaillerait",
+      "on": "on travaillerait",
+      "nous": "nous travaillerions",
+      "vous": "vous travailleriez",
+      "ils": "ils travailleraient",
+      "elles": "elles travailleraient"
+    },
+    "subjonctif_present": {
+      "je": "je travaille",
+      "tu": "tu travailles",
+      "il": "il travaille",
+      "elle": "elle travaille",
+      "on": "on travaille",
+      "nous": "nous travaillions",
+      "vous": "vous travailliez",
+      "ils": "ils travaillent",
+      "elles": "elles travaillent"
+    },
+    "passe_simple": {
+      "je": "je travaillai",
+      "tu": "tu travaillas",
+      "il": "il travailla",
+      "elle": "elle travailla",
+      "on": "on travailla",
+      "nous": "nous travaillâmes",
+      "vous": "vous travaillâtes",
+      "ils": "ils travaillèrent",
+      "elles": "elles travaillèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai travaillé",
+      "tu": "tu as travaillé",
+      "il": "il a travaillé",
+      "elle": "elle a travaillé",
+      "on": "on a travaillé",
+      "nous": "nous avons travaillé",
+      "vous": "vous avez travaillé",
+      "ils": "ils ont travaillé",
+      "elles": "elles ont travaillé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais travaillé",
+      "tu": "tu avais travaillé",
+      "il": "il avait travaillé",
+      "elle": "elle avait travaillé",
+      "on": "on avait travaillé",
+      "nous": "nous avions travaillé",
+      "vous": "vous aviez travaillé",
+      "ils": "ils avaient travaillé",
+      "elles": "elles avaient travaillé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai travaillé",
+      "tu": "tu auras travaillé",
+      "il": "il aura travaillé",
+      "elle": "elle aura travaillé",
+      "on": "on aura travaillé",
+      "nous": "nous aurons travaillé",
+      "vous": "vous aurez travaillé",
+      "ils": "ils auront travaillé",
+      "elles": "elles auront travaillé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais travaillé",
+      "tu": "tu aurais travaillé",
+      "il": "il aurait travaillé",
+      "elle": "elle aurait travaillé",
+      "on": "on aurait travaillé",
+      "nous": "nous aurions travaillé",
+      "vous": "vous auriez travaillé",
+      "ils": "ils auraient travaillé",
+      "elles": "elles auraient travaillé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie travaillé",
+      "tu": "tu aies travaillé",
+      "il": "il ait travaillé",
+      "elle": "elle ait travaillé",
+      "on": "on ait travaillé",
+      "nous": "nous ayons travaillé",
+      "vous": "vous ayez travaillé",
+      "ils": "ils aient travaillé",
+      "elles": "elles aient travaillé"
+    },
+    "futur_proche": {
+      "je": "je vais travailler",
+      "tu": "tu vas travailler",
+      "il": "il va travailler",
+      "elle": "elle va travailler",
+      "on": "on va travailler",
+      "nous": "nous allons travailler",
+      "vous": "vous allez travailler",
+      "ils": "ils vont travailler",
+      "elles": "elles vont travailler"
+    },
+    "imperatif_present": {
+      "tu": "travaille",
+      "nous": "travaillons",
+      "vous": "travaillez"
+    }
+  }
+}

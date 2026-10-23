@@ -1,0 +1,144 @@
+{
+  "infinitive": "corriger",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je corrige",
+      "tu": "tu corriges",
+      "il": "il corrige",
+      "elle": "elle corrige",
+      "on": "on corrige",
+      "nous": "nous corrigeons",
+      "vous": "vous corrigez",
+      "ils": "ils corrigent",
+      "elles": "elles corrigent"
+    },
+    "imparfait": {
+      "je": "je corrigeais",
+      "tu": "tu corrigeais",
+      "il": "il corrigeait",
+      "elle": "elle corrigeait",
+      "on": "on corrigeait",
+      "nous": "nous corrigions",
+      "vous": "vous corrigiez",
+      "ils": "ils corrigeaient",
+      "elles": "elles corrigeaient"
+    },
+    "futur_simple": {
+      "je": "je corrigerai",
+      "tu": "tu corrigeras",
+      "il": "il corrigera",
+      "elle": "elle corrigera",
+      "on": "on corrigera",
+      "nous": "nous corrigerons",
+      "vous": "vous corrigerez",
+      "ils": "ils corrigeront",
+      "elles": "elles corrigeront"
+    },
+    "conditionnel_present": {
+      "je": "je corrigerais",
+      "tu": "tu corrigerais",
+      "il": "il corrigerait",
+      "elle": "elle corrigerait",
+      "on": "on corrigerait",
+      "nous": "nous corrigerions",
+      "vous": "vous corrigeriez",
+      "ils": "ils corrigeraient",
+      "elles": "elles corrigeraient"
+    },
+    "subjonctif_present": {
+      "je": "je corrige",
+      "tu": "tu corriges",
+      "il": "il corrige",
+      "elle": "elle corrige",
+      "on": "on corrige",
+      "nous": "nous corrigions",
+      "vous": "vous corrigiez",
+      "ils": "ils corrigent",
+      "elles": "elles corrigent"
+    },
+    "passe_simple": {
+      "je": "je corrigeai",
+      "tu": "tu corrigeas",
+      "il": "il corrigea",
+      "elle": "elle corrigea",
+      "on": "on corrigea",
+      "nous": "nous corrigeâmes",
+      "vous": "vous corrigeâtes",
+      "ils": "ils corrigèrent",
+      "elles": "elles corrigèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai corrigé",
+      "tu": "tu as corrigé",
+      "il": "il a corrigé",
+      "elle": "elle a corrigé",
+      "on": "on a corrigé",
+      "nous": "nous avons corrigé",
+      "vous": "vous avez corrigé",
+      "ils": "ils ont corrigé",
+      "elles": "elles ont corrigé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais corrigé",
+      "tu": "tu avais corrigé",
+      "il": "il avait corrigé",
+      "elle": "elle avait corrigé",
+      "on": "on avait corrigé",
+      "nous": "nous avions corrigé",
+      "vous": "vous aviez corrigé",
+      "ils": "ils avaient corrigé",
+      "elles": "elles avaient corrigé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai corrigé",
+      "tu": "tu auras corrigé",
+      "il": "il aura corrigé",
+      "elle": "elle aura corrigé",
+      "on": "on aura corrigé",
+      "nous": "nous aurons corrigé",
+      "vous": "vous aurez corrigé",
+      "ils": "ils auront corrigé",
+      "elles": "elles auront corrigé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais corrigé",
+      "tu": "tu aurais corrigé",
+      "il": "il aurait corrigé",
+      "elle": "elle aurait corrigé",
+      "on": "on aurait corrigé",
+      "nous": "nous aurions corrigé",
+      "vous": "vous auriez corrigé",
+      "ils": "ils auraient corrigé",
+      "elles": "elles auraient corrigé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie corrigé",
+      "tu": "tu aies corrigé",
+      "il": "il ait corrigé",
+      "elle": "elle ait corrigé",
+      "on": "on ait corrigé",
+      "nous": "nous ayons corrigé",
+      "vous": "vous ayez corrigé",
+      "ils": "ils aient corrigé",
+      "elles": "elles aient corrigé"
+    },
+    "futur_proche": {
+      "je": "je vais corriger",
+      "tu": "tu vas corriger",
+      "il": "il va corriger",
+      "elle": "elle va corriger",
+      "on": "on va corriger",
+      "nous": "nous allons corriger",
+      "vous": "vous allez corriger",
+      "ils": "ils vont corriger",
+      "elles": "elles vont corriger"
+    },
+    "imperatif_present": {
+      "tu": "corrige",
+      "nous": "corrigeons",
+      "vous": "corrigez"
+    }
+  }
+}

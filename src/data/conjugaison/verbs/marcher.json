@@ -1,0 +1,144 @@
+{
+  "infinitive": "marcher",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je marche",
+      "tu": "tu marches",
+      "il": "il marche",
+      "elle": "elle marche",
+      "on": "on marche",
+      "nous": "nous marchons",
+      "vous": "vous marchez",
+      "ils": "ils marchent",
+      "elles": "elles marchent"
+    },
+    "imparfait": {
+      "je": "je marchais",
+      "tu": "tu marchais",
+      "il": "il marchait",
+      "elle": "elle marchait",
+      "on": "on marchait",
+      "nous": "nous marchions",
+      "vous": "vous marchiez",
+      "ils": "ils marchaient",
+      "elles": "elles marchaient"
+    },
+    "futur_simple": {
+      "je": "je marcherai",
+      "tu": "tu marcheras",
+      "il": "il marchera",
+      "elle": "elle marchera",
+      "on": "on marchera",
+      "nous": "nous marcherons",
+      "vous": "vous marcherez",
+      "ils": "ils marcheront",
+      "elles": "elles marcheront"
+    },
+    "conditionnel_present": {
+      "je": "je marcherais",
+      "tu": "tu marcherais",
+      "il": "il marcherait",
+      "elle": "elle marcherait",
+      "on": "on marcherait",
+      "nous": "nous marcherions",
+      "vous": "vous marcheriez",
+      "ils": "ils marcheraient",
+      "elles": "elles marcheraient"
+    },
+    "subjonctif_present": {
+      "je": "je marche",
+      "tu": "tu marches",
+      "il": "il marche",
+      "elle": "elle marche",
+      "on": "on marche",
+      "nous": "nous marchions",
+      "vous": "vous marchiez",
+      "ils": "ils marchent",
+      "elles": "elles marchent"
+    },
+    "passe_simple": {
+      "je": "je marchai",
+      "tu": "tu marchas",
+      "il": "il marcha",
+      "elle": "elle marcha",
+      "on": "on marcha",
+      "nous": "nous marchâmes",
+      "vous": "vous marchâtes",
+      "ils": "ils marchèrent",
+      "elles": "elles marchèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai marché",
+      "tu": "tu as marché",
+      "il": "il a marché",
+      "elle": "elle a marché",
+      "on": "on a marché",
+      "nous": "nous avons marché",
+      "vous": "vous avez marché",
+      "ils": "ils ont marché",
+      "elles": "elles ont marché"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais marché",
+      "tu": "tu avais marché",
+      "il": "il avait marché",
+      "elle": "elle avait marché",
+      "on": "on avait marché",
+      "nous": "nous avions marché",
+      "vous": "vous aviez marché",
+      "ils": "ils avaient marché",
+      "elles": "elles avaient marché"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai marché",
+      "tu": "tu auras marché",
+      "il": "il aura marché",
+      "elle": "elle aura marché",
+      "on": "on aura marché",
+      "nous": "nous aurons marché",
+      "vous": "vous aurez marché",
+      "ils": "ils auront marché",
+      "elles": "elles auront marché"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais marché",
+      "tu": "tu aurais marché",
+      "il": "il aurait marché",
+      "elle": "elle aurait marché",
+      "on": "on aurait marché",
+      "nous": "nous aurions marché",
+      "vous": "vous auriez marché",
+      "ils": "ils auraient marché",
+      "elles": "elles auraient marché"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie marché",
+      "tu": "tu aies marché",
+      "il": "il ait marché",
+      "elle": "elle ait marché",
+      "on": "on ait marché",
+      "nous": "nous ayons marché",
+      "vous": "vous ayez marché",
+      "ils": "ils aient marché",
+      "elles": "elles aient marché"
+    },
+    "futur_proche": {
+      "je": "je vais marcher",
+      "tu": "tu vas marcher",
+      "il": "il va marcher",
+      "elle": "elle va marcher",
+      "on": "on va marcher",
+      "nous": "nous allons marcher",
+      "vous": "vous allez marcher",
+      "ils": "ils vont marcher",
+      "elles": "elles vont marcher"
+    },
+    "imperatif_present": {
+      "tu": "marche",
+      "nous": "marchons",
+      "vous": "marchez"
+    }
+  }
+}

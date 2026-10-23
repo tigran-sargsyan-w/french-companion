@@ -1,0 +1,144 @@
+{
+  "infinitive": "préparer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je prépare",
+      "tu": "tu prépares",
+      "il": "il prépare",
+      "elle": "elle prépare",
+      "on": "on prépare",
+      "nous": "nous préparons",
+      "vous": "vous préparez",
+      "ils": "ils préparent",
+      "elles": "elles préparent"
+    },
+    "imparfait": {
+      "je": "je préparais",
+      "tu": "tu préparais",
+      "il": "il préparait",
+      "elle": "elle préparait",
+      "on": "on préparait",
+      "nous": "nous préparions",
+      "vous": "vous prépariez",
+      "ils": "ils préparaient",
+      "elles": "elles préparaient"
+    },
+    "futur_simple": {
+      "je": "je préparerai",
+      "tu": "tu prépareras",
+      "il": "il préparera",
+      "elle": "elle préparera",
+      "on": "on préparera",
+      "nous": "nous préparerons",
+      "vous": "vous préparerez",
+      "ils": "ils prépareront",
+      "elles": "elles prépareront"
+    },
+    "conditionnel_present": {
+      "je": "je préparerais",
+      "tu": "tu préparerais",
+      "il": "il préparerait",
+      "elle": "elle préparerait",
+      "on": "on préparerait",
+      "nous": "nous préparerions",
+      "vous": "vous prépareriez",
+      "ils": "ils prépareraient",
+      "elles": "elles prépareraient"
+    },
+    "subjonctif_present": {
+      "je": "je prépare",
+      "tu": "tu prépares",
+      "il": "il prépare",
+      "elle": "elle prépare",
+      "on": "on prépare",
+      "nous": "nous préparions",
+      "vous": "vous prépariez",
+      "ils": "ils préparent",
+      "elles": "elles préparent"
+    },
+    "passe_simple": {
+      "je": "je préparai",
+      "tu": "tu préparas",
+      "il": "il prépara",
+      "elle": "elle prépara",
+      "on": "on prépara",
+      "nous": "nous préparâmes",
+      "vous": "vous préparâtes",
+      "ils": "ils préparèrent",
+      "elles": "elles préparèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai préparé",
+      "tu": "tu as préparé",
+      "il": "il a préparé",
+      "elle": "elle a préparé",
+      "on": "on a préparé",
+      "nous": "nous avons préparé",
+      "vous": "vous avez préparé",
+      "ils": "ils ont préparé",
+      "elles": "elles ont préparé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais préparé",
+      "tu": "tu avais préparé",
+      "il": "il avait préparé",
+      "elle": "elle avait préparé",
+      "on": "on avait préparé",
+      "nous": "nous avions préparé",
+      "vous": "vous aviez préparé",
+      "ils": "ils avaient préparé",
+      "elles": "elles avaient préparé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai préparé",
+      "tu": "tu auras préparé",
+      "il": "il aura préparé",
+      "elle": "elle aura préparé",
+      "on": "on aura préparé",
+      "nous": "nous aurons préparé",
+      "vous": "vous aurez préparé",
+      "ils": "ils auront préparé",
+      "elles": "elles auront préparé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais préparé",
+      "tu": "tu aurais préparé",
+      "il": "il aurait préparé",
+      "elle": "elle aurait préparé",
+      "on": "on aurait préparé",
+      "nous": "nous aurions préparé",
+      "vous": "vous auriez préparé",
+      "ils": "ils auraient préparé",
+      "elles": "elles auraient préparé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie préparé",
+      "tu": "tu aies préparé",
+      "il": "il ait préparé",
+      "elle": "elle ait préparé",
+      "on": "on ait préparé",
+      "nous": "nous ayons préparé",
+      "vous": "vous ayez préparé",
+      "ils": "ils aient préparé",
+      "elles": "elles aient préparé"
+    },
+    "futur_proche": {
+      "je": "je vais préparer",
+      "tu": "tu vas préparer",
+      "il": "il va préparer",
+      "elle": "elle va préparer",
+      "on": "on va préparer",
+      "nous": "nous allons préparer",
+      "vous": "vous allez préparer",
+      "ils": "ils vont préparer",
+      "elles": "elles vont préparer"
+    },
+    "imperatif_present": {
+      "tu": "prépare",
+      "nous": "préparons",
+      "vous": "préparez"
+    }
+  }
+}

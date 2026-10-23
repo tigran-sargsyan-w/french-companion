@@ -1,0 +1,144 @@
+{
+  "infinitive": "croire",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je crois",
+      "tu": "tu crois",
+      "il": "il croit",
+      "elle": "elle croit",
+      "on": "on croit",
+      "nous": "nous croyons",
+      "vous": "vous croyez",
+      "ils": "ils croient",
+      "elles": "elles croient"
+    },
+    "imparfait": {
+      "je": "je croyais",
+      "tu": "tu croyais",
+      "il": "il croyait",
+      "elle": "elle croyait",
+      "on": "on croyait",
+      "nous": "nous croyions",
+      "vous": "vous croyiez",
+      "ils": "ils croyaient",
+      "elles": "elles croyaient"
+    },
+    "futur_simple": {
+      "je": "je croirai",
+      "tu": "tu croiras",
+      "il": "il croira",
+      "elle": "elle croira",
+      "on": "on croira",
+      "nous": "nous croirons",
+      "vous": "vous croirez",
+      "ils": "ils croiront",
+      "elles": "elles croiront"
+    },
+    "conditionnel_present": {
+      "je": "je croirais",
+      "tu": "tu croirais",
+      "il": "il croirait",
+      "elle": "elle croirait",
+      "on": "on croirait",
+      "nous": "nous croirions",
+      "vous": "vous croiriez",
+      "ils": "ils croiraient",
+      "elles": "elles croiraient"
+    },
+    "subjonctif_present": {
+      "je": "je croie",
+      "tu": "tu croies",
+      "il": "il croie",
+      "elle": "elle croie",
+      "on": "on croie",
+      "nous": "nous croyions",
+      "vous": "vous croyiez",
+      "ils": "ils croient",
+      "elles": "elles croient"
+    },
+    "passe_simple": {
+      "je": "je crus",
+      "tu": "tu crus",
+      "il": "il crut",
+      "elle": "elle crut",
+      "on": "on crut",
+      "nous": "nous crûmes",
+      "vous": "vous crûtes",
+      "ils": "ils crurent",
+      "elles": "elles crurent"
+    },
+    "passe_compose": {
+      "je": "j'ai cru",
+      "tu": "tu as cru",
+      "il": "il a cru",
+      "elle": "elle a cru",
+      "on": "on a cru",
+      "nous": "nous avons cru",
+      "vous": "vous avez cru",
+      "ils": "ils ont cru",
+      "elles": "elles ont cru"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais cru",
+      "tu": "tu avais cru",
+      "il": "il avait cru",
+      "elle": "elle avait cru",
+      "on": "on avait cru",
+      "nous": "nous avions cru",
+      "vous": "vous aviez cru",
+      "ils": "ils avaient cru",
+      "elles": "elles avaient cru"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai cru",
+      "tu": "tu auras cru",
+      "il": "il aura cru",
+      "elle": "elle aura cru",
+      "on": "on aura cru",
+      "nous": "nous aurons cru",
+      "vous": "vous aurez cru",
+      "ils": "ils auront cru",
+      "elles": "elles auront cru"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais cru",
+      "tu": "tu aurais cru",
+      "il": "il aurait cru",
+      "elle": "elle aurait cru",
+      "on": "on aurait cru",
+      "nous": "nous aurions cru",
+      "vous": "vous auriez cru",
+      "ils": "ils auraient cru",
+      "elles": "elles auraient cru"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie cru",
+      "tu": "tu aies cru",
+      "il": "il ait cru",
+      "elle": "elle ait cru",
+      "on": "on ait cru",
+      "nous": "nous ayons cru",
+      "vous": "vous ayez cru",
+      "ils": "ils aient cru",
+      "elles": "elles aient cru"
+    },
+    "futur_proche": {
+      "je": "je vais croire",
+      "tu": "tu vas croire",
+      "il": "il va croire",
+      "elle": "elle va croire",
+      "on": "on va croire",
+      "nous": "nous allons croire",
+      "vous": "vous allez croire",
+      "ils": "ils vont croire",
+      "elles": "elles vont croire"
+    },
+    "imperatif_present": {
+      "tu": "crois",
+      "nous": "croyons",
+      "vous": "croyez"
+    }
+  }
+}

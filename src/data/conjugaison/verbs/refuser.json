@@ -1,0 +1,144 @@
+{
+  "infinitive": "refuser",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je refuse",
+      "tu": "tu refuses",
+      "il": "il refuse",
+      "elle": "elle refuse",
+      "on": "on refuse",
+      "nous": "nous refusons",
+      "vous": "vous refusez",
+      "ils": "ils refusent",
+      "elles": "elles refusent"
+    },
+    "imparfait": {
+      "je": "je refusais",
+      "tu": "tu refusais",
+      "il": "il refusait",
+      "elle": "elle refusait",
+      "on": "on refusait",
+      "nous": "nous refusions",
+      "vous": "vous refusiez",
+      "ils": "ils refusaient",
+      "elles": "elles refusaient"
+    },
+    "futur_simple": {
+      "je": "je refuserai",
+      "tu": "tu refuseras",
+      "il": "il refusera",
+      "elle": "elle refusera",
+      "on": "on refusera",
+      "nous": "nous refuserons",
+      "vous": "vous refuserez",
+      "ils": "ils refuseront",
+      "elles": "elles refuseront"
+    },
+    "conditionnel_present": {
+      "je": "je refuserais",
+      "tu": "tu refuserais",
+      "il": "il refuserait",
+      "elle": "elle refuserait",
+      "on": "on refuserait",
+      "nous": "nous refuserions",
+      "vous": "vous refuseriez",
+      "ils": "ils refuseraient",
+      "elles": "elles refuseraient"
+    },
+    "subjonctif_present": {
+      "je": "je refuse",
+      "tu": "tu refuses",
+      "il": "il refuse",
+      "elle": "elle refuse",
+      "on": "on refuse",
+      "nous": "nous refusions",
+      "vous": "vous refusiez",
+      "ils": "ils refusent",
+      "elles": "elles refusent"
+    },
+    "passe_simple": {
+      "je": "je refusai",
+      "tu": "tu refusas",
+      "il": "il refusa",
+      "elle": "elle refusa",
+      "on": "on refusa",
+      "nous": "nous refusâmes",
+      "vous": "vous refusâtes",
+      "ils": "ils refusèrent",
+      "elles": "elles refusèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai refusé",
+      "tu": "tu as refusé",
+      "il": "il a refusé",
+      "elle": "elle a refusé",
+      "on": "on a refusé",
+      "nous": "nous avons refusé",
+      "vous": "vous avez refusé",
+      "ils": "ils ont refusé",
+      "elles": "elles ont refusé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais refusé",
+      "tu": "tu avais refusé",
+      "il": "il avait refusé",
+      "elle": "elle avait refusé",
+      "on": "on avait refusé",
+      "nous": "nous avions refusé",
+      "vous": "vous aviez refusé",
+      "ils": "ils avaient refusé",
+      "elles": "elles avaient refusé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai refusé",
+      "tu": "tu auras refusé",
+      "il": "il aura refusé",
+      "elle": "elle aura refusé",
+      "on": "on aura refusé",
+      "nous": "nous aurons refusé",
+      "vous": "vous aurez refusé",
+      "ils": "ils auront refusé",
+      "elles": "elles auront refusé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais refusé",
+      "tu": "tu aurais refusé",
+      "il": "il aurait refusé",
+      "elle": "elle aurait refusé",
+      "on": "on aurait refusé",
+      "nous": "nous aurions refusé",
+      "vous": "vous auriez refusé",
+      "ils": "ils auraient refusé",
+      "elles": "elles auraient refusé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie refusé",
+      "tu": "tu aies refusé",
+      "il": "il ait refusé",
+      "elle": "elle ait refusé",
+      "on": "on ait refusé",
+      "nous": "nous ayons refusé",
+      "vous": "vous ayez refusé",
+      "ils": "ils aient refusé",
+      "elles": "elles aient refusé"
+    },
+    "futur_proche": {
+      "je": "je vais refuser",
+      "tu": "tu vas refuser",
+      "il": "il va refuser",
+      "elle": "elle va refuser",
+      "on": "on va refuser",
+      "nous": "nous allons refuser",
+      "vous": "vous allez refuser",
+      "ils": "ils vont refuser",
+      "elles": "elles vont refuser"
+    },
+    "imperatif_present": {
+      "tu": "refuse",
+      "nous": "refusons",
+      "vous": "refusez"
+    }
+  }
+}

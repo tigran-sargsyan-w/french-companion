@@ -1,0 +1,144 @@
+{
+  "infinitive": "recevoir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je reçois",
+      "tu": "tu reçois",
+      "il": "il reçoit",
+      "elle": "elle reçoit",
+      "on": "on reçoit",
+      "nous": "nous recevons",
+      "vous": "vous recevez",
+      "ils": "ils reçoivent",
+      "elles": "elles reçoivent"
+    },
+    "imparfait": {
+      "je": "je recevais",
+      "tu": "tu recevais",
+      "il": "il recevait",
+      "elle": "elle recevait",
+      "on": "on recevait",
+      "nous": "nous recevions",
+      "vous": "vous receviez",
+      "ils": "ils recevaient",
+      "elles": "elles recevaient"
+    },
+    "futur_simple": {
+      "je": "je recevrai",
+      "tu": "tu recevras",
+      "il": "il recevra",
+      "elle": "elle recevra",
+      "on": "on recevra",
+      "nous": "nous recevrons",
+      "vous": "vous recevrez",
+      "ils": "ils recevront",
+      "elles": "elles recevront"
+    },
+    "conditionnel_present": {
+      "je": "je recevrais",
+      "tu": "tu recevrais",
+      "il": "il recevrait",
+      "elle": "elle recevrait",
+      "on": "on recevrait",
+      "nous": "nous recevrions",
+      "vous": "vous recevriez",
+      "ils": "ils recevraient",
+      "elles": "elles recevraient"
+    },
+    "subjonctif_present": {
+      "je": "je reçoive",
+      "tu": "tu reçoives",
+      "il": "il reçoive",
+      "elle": "elle reçoive",
+      "on": "on reçoive",
+      "nous": "nous recevions",
+      "vous": "vous receviez",
+      "ils": "ils reçoivent",
+      "elles": "elles reçoivent"
+    },
+    "passe_simple": {
+      "je": "je reçus",
+      "tu": "tu reçus",
+      "il": "il reçut",
+      "elle": "elle reçut",
+      "on": "on reçut",
+      "nous": "nous reçûmes",
+      "vous": "vous reçûtes",
+      "ils": "ils reçurent",
+      "elles": "elles reçurent"
+    },
+    "passe_compose": {
+      "je": "j'ai reçu",
+      "tu": "tu as reçu",
+      "il": "il a reçu",
+      "elle": "elle a reçu",
+      "on": "on a reçu",
+      "nous": "nous avons reçu",
+      "vous": "vous avez reçu",
+      "ils": "ils ont reçu",
+      "elles": "elles ont reçu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais reçu",
+      "tu": "tu avais reçu",
+      "il": "il avait reçu",
+      "elle": "elle avait reçu",
+      "on": "on avait reçu",
+      "nous": "nous avions reçu",
+      "vous": "vous aviez reçu",
+      "ils": "ils avaient reçu",
+      "elles": "elles avaient reçu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai reçu",
+      "tu": "tu auras reçu",
+      "il": "il aura reçu",
+      "elle": "elle aura reçu",
+      "on": "on aura reçu",
+      "nous": "nous aurons reçu",
+      "vous": "vous aurez reçu",
+      "ils": "ils auront reçu",
+      "elles": "elles auront reçu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais reçu",
+      "tu": "tu aurais reçu",
+      "il": "il aurait reçu",
+      "elle": "elle aurait reçu",
+      "on": "on aurait reçu",
+      "nous": "nous aurions reçu",
+      "vous": "vous auriez reçu",
+      "ils": "ils auraient reçu",
+      "elles": "elles auraient reçu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie reçu",
+      "tu": "tu aies reçu",
+      "il": "il ait reçu",
+      "elle": "elle ait reçu",
+      "on": "on ait reçu",
+      "nous": "nous ayons reçu",
+      "vous": "vous ayez reçu",
+      "ils": "ils aient reçu",
+      "elles": "elles aient reçu"
+    },
+    "futur_proche": {
+      "je": "je vais recevoir",
+      "tu": "tu vas recevoir",
+      "il": "il va recevoir",
+      "elle": "elle va recevoir",
+      "on": "on va recevoir",
+      "nous": "nous allons recevoir",
+      "vous": "vous allez recevoir",
+      "ils": "ils vont recevoir",
+      "elles": "elles vont recevoir"
+    },
+    "imperatif_present": {
+      "tu": "reçois",
+      "nous": "recevons",
+      "vous": "recevez"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "infinitive": "nourrir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je nourris",
+      "tu": "tu nourris",
+      "il": "il nourrit",
+      "elle": "elle nourrit",
+      "on": "on nourrit",
+      "nous": "nous nourrissons",
+      "vous": "vous nourrissez",
+      "ils": "ils nourrissent",
+      "elles": "elles nourrissent"
+    },
+    "imparfait": {
+      "je": "je nourrissais",
+      "tu": "tu nourrissais",
+      "il": "il nourrissait",
+      "elle": "elle nourrissait",
+      "on": "on nourrissait",
+      "nous": "nous nourrissions",
+      "vous": "vous nourrissiez",
+      "ils": "ils nourrissaient",
+      "elles": "elles nourrissaient"
+    },
+    "futur_simple": {
+      "je": "je nourrirai",
+      "tu": "tu nourriras",
+      "il": "il nourrira",
+      "elle": "elle nourrira",
+      "on": "on nourrira",
+      "nous": "nous nourrirons",
+      "vous": "vous nourrirez",
+      "ils": "ils nourriront",
+      "elles": "elles nourriront"
+    },
+    "conditionnel_present": {
+      "je": "je nourrirais",
+      "tu": "tu nourrirais",
+      "il": "il nourrirait",
+      "elle": "elle nourrirait",
+      "on": "on nourrirait",
+      "nous": "nous nourririons",
+      "vous": "vous nourririez",
+      "ils": "ils nourriraient",
+      "elles": "elles nourriraient"
+    },
+    "subjonctif_present": {
+      "je": "je nourrisse",
+      "tu": "tu nourrisses",
+      "il": "il nourrisse",
+      "elle": "elle nourrisse",
+      "on": "on nourrisse",
+      "nous": "nous nourrissions",
+      "vous": "vous nourrissiez",
+      "ils": "ils nourrissent",
+      "elles": "elles nourrissent"
+    },
+    "passe_simple": {
+      "je": "je nourris",
+      "tu": "tu nourris",
+      "il": "il nourrit",
+      "elle": "elle nourrit",
+      "on": "on nourrit",
+      "nous": "nous nourrîmes",
+      "vous": "vous nourrîtes",
+      "ils": "ils nourrirent",
+      "elles": "elles nourrirent"
+    },
+    "passe_compose": {
+      "je": "j'ai nourri",
+      "tu": "tu as nourri",
+      "il": "il a nourri",
+      "elle": "elle a nourri",
+      "on": "on a nourri",
+      "nous": "nous avons nourri",
+      "vous": "vous avez nourri",
+      "ils": "ils ont nourri",
+      "elles": "elles ont nourri"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais nourri",
+      "tu": "tu avais nourri",
+      "il": "il avait nourri",
+      "elle": "elle avait nourri",
+      "on": "on avait nourri",
+      "nous": "nous avions nourri",
+      "vous": "vous aviez nourri",
+      "ils": "ils avaient nourri",
+      "elles": "elles avaient nourri"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai nourri",
+      "tu": "tu auras nourri",
+      "il": "il aura nourri",
+      "elle": "elle aura nourri",
+      "on": "on aura nourri",
+      "nous": "nous aurons nourri",
+      "vous": "vous aurez nourri",
+      "ils": "ils auront nourri",
+      "elles": "elles auront nourri"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais nourri",
+      "tu": "tu aurais nourri",
+      "il": "il aurait nourri",
+      "elle": "elle aurait nourri",
+      "on": "on aurait nourri",
+      "nous": "nous aurions nourri",
+      "vous": "vous auriez nourri",
+      "ils": "ils auraient nourri",
+      "elles": "elles auraient nourri"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie nourri",
+      "tu": "tu aies nourri",
+      "il": "il ait nourri",
+      "elle": "elle ait nourri",
+      "on": "on ait nourri",
+      "nous": "nous ayons nourri",
+      "vous": "vous ayez nourri",
+      "ils": "ils aient nourri",
+      "elles": "elles aient nourri"
+    },
+    "futur_proche": {
+      "je": "je vais nourrir",
+      "tu": "tu vas nourrir",
+      "il": "il va nourrir",
+      "elle": "elle va nourrir",
+      "on": "on va nourrir",
+      "nous": "nous allons nourrir",
+      "vous": "vous allez nourrir",
+      "ils": "ils vont nourrir",
+      "elles": "elles vont nourrir"
+    },
+    "imperatif_present": {
+      "tu": "nourris",
+      "nous": "nourrissons",
+      "vous": "nourrissez"
+    }
+  }
+}

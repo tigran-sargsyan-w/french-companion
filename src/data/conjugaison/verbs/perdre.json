@@ -1,0 +1,144 @@
+{
+  "infinitive": "perdre",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je perds",
+      "tu": "tu perds",
+      "il": "il perd",
+      "elle": "elle perd",
+      "on": "on perd",
+      "nous": "nous perdons",
+      "vous": "vous perdez",
+      "ils": "ils perdent",
+      "elles": "elles perdent"
+    },
+    "imparfait": {
+      "je": "je perdais",
+      "tu": "tu perdais",
+      "il": "il perdait",
+      "elle": "elle perdait",
+      "on": "on perdait",
+      "nous": "nous perdions",
+      "vous": "vous perdiez",
+      "ils": "ils perdaient",
+      "elles": "elles perdaient"
+    },
+    "futur_simple": {
+      "je": "je perdai",
+      "tu": "tu perdas",
+      "il": "il perda",
+      "elle": "elle perda",
+      "on": "on perda",
+      "nous": "nous perdons",
+      "vous": "vous perdez",
+      "ils": "ils perdont",
+      "elles": "elles perdont"
+    },
+    "conditionnel_present": {
+      "je": "je perdais",
+      "tu": "tu perdais",
+      "il": "il perdait",
+      "elle": "elle perdait",
+      "on": "on perdait",
+      "nous": "nous perdions",
+      "vous": "vous perdiez",
+      "ils": "ils perdaient",
+      "elles": "elles perdaient"
+    },
+    "subjonctif_present": {
+      "je": "je perde",
+      "tu": "tu perdes",
+      "il": "il perde",
+      "elle": "elle perde",
+      "on": "on perde",
+      "nous": "nous perdions",
+      "vous": "vous perdiez",
+      "ils": "ils perdent",
+      "elles": "elles perdent"
+    },
+    "passe_simple": {
+      "je": "je perdis",
+      "tu": "tu perdis",
+      "il": "il perdit",
+      "elle": "elle perdit",
+      "on": "on perdit",
+      "nous": "nous perdîmes",
+      "vous": "vous perdîtes",
+      "ils": "ils perdirent",
+      "elles": "elles perdirent"
+    },
+    "passe_compose": {
+      "je": "j'ai perdu",
+      "tu": "tu as perdu",
+      "il": "il a perdu",
+      "elle": "elle a perdu",
+      "on": "on a perdu",
+      "nous": "nous avons perdu",
+      "vous": "vous avez perdu",
+      "ils": "ils ont perdu",
+      "elles": "elles ont perdu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais perdu",
+      "tu": "tu avais perdu",
+      "il": "il avait perdu",
+      "elle": "elle avait perdu",
+      "on": "on avait perdu",
+      "nous": "nous avions perdu",
+      "vous": "vous aviez perdu",
+      "ils": "ils avaient perdu",
+      "elles": "elles avaient perdu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai perdu",
+      "tu": "tu auras perdu",
+      "il": "il aura perdu",
+      "elle": "elle aura perdu",
+      "on": "on aura perdu",
+      "nous": "nous aurons perdu",
+      "vous": "vous aurez perdu",
+      "ils": "ils auront perdu",
+      "elles": "elles auront perdu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais perdu",
+      "tu": "tu aurais perdu",
+      "il": "il aurait perdu",
+      "elle": "elle aurait perdu",
+      "on": "on aurait perdu",
+      "nous": "nous aurions perdu",
+      "vous": "vous auriez perdu",
+      "ils": "ils auraient perdu",
+      "elles": "elles auraient perdu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie perdu",
+      "tu": "tu aies perdu",
+      "il": "il ait perdu",
+      "elle": "elle ait perdu",
+      "on": "on ait perdu",
+      "nous": "nous ayons perdu",
+      "vous": "vous ayez perdu",
+      "ils": "ils aient perdu",
+      "elles": "elles aient perdu"
+    },
+    "futur_proche": {
+      "je": "je vais perdre",
+      "tu": "tu vas perdre",
+      "il": "il va perdre",
+      "elle": "elle va perdre",
+      "on": "on va perdre",
+      "nous": "nous allons perdre",
+      "vous": "vous allez perdre",
+      "ils": "ils vont perdre",
+      "elles": "elles vont perdre"
+    },
+    "imperatif_present": {
+      "tu": "perds",
+      "nous": "perdons",
+      "vous": "perdez"
+    }
+  }
+}

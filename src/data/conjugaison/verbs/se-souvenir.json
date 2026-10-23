@@ -1,0 +1,144 @@
+{
+  "infinitive": "se souvenir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je me souviens",
+      "tu": "tu te souviens",
+      "il": "il se souvient",
+      "elle": "elle se souvient",
+      "on": "on se souvient",
+      "nous": "nous nous souvenons",
+      "vous": "vous vous souvenez",
+      "ils": "ils se souviennent",
+      "elles": "elles se souviennent"
+    },
+    "imparfait": {
+      "je": "je me souvenais",
+      "tu": "tu te souvenais",
+      "il": "il se souvenait",
+      "elle": "elle se souvenait",
+      "on": "on se souvenait",
+      "nous": "nous nous souvenions",
+      "vous": "vous vous souveniez",
+      "ils": "ils se souvenaient",
+      "elles": "elles se souvenaient"
+    },
+    "passe_simple": {
+      "je": "je me souvins",
+      "tu": "tu te souvins",
+      "il": "il se souvint",
+      "elle": "elle se souvint",
+      "on": "on se souvint",
+      "nous": "nous nous souvînmes",
+      "vous": "vous vous souvîntes",
+      "ils": "ils se souvinrent",
+      "elles": "elles se souvinrent"
+    },
+    "futur_simple": {
+      "je": "je me souviendrai",
+      "tu": "tu te souviendras",
+      "il": "il se souviendra",
+      "elle": "elle se souviendra",
+      "on": "on se souviendra",
+      "nous": "nous nous souviendrons",
+      "vous": "vous vous souviendrez",
+      "ils": "ils se souviendront",
+      "elles": "elles se souviendront"
+    },
+    "conditionnel_present": {
+      "je": "je me souviendrais",
+      "tu": "tu te souviendrais",
+      "il": "il se souviendrait",
+      "elle": "elle se souviendrait",
+      "on": "on se souviendrait",
+      "nous": "nous nous souviendrions",
+      "vous": "vous vous souviendriez",
+      "ils": "ils se souviendraient",
+      "elles": "elles se souviendraient"
+    },
+    "subjonctif_present": {
+      "je": "je me souvienne",
+      "tu": "tu te souviennes",
+      "il": "il se souvienne",
+      "elle": "elle se souvienne",
+      "on": "on se souvienne",
+      "nous": "nous nous souvenions",
+      "vous": "vous vous souveniez",
+      "ils": "ils se souviennent",
+      "elles": "elles se souviennent"
+    },
+    "futur_proche": {
+      "je": "je vais me souvenir",
+      "tu": "tu vas te souvenir",
+      "il": "il va se souvenir",
+      "elle": "elle va se souvenir",
+      "on": "on va se souvenir",
+      "nous": "nous allons nous souvenir",
+      "vous": "vous allez vous souvenir",
+      "ils": "ils vont se souvenir",
+      "elles": "elles vont se souvenir"
+    },
+    "passe_compose": {
+      "je": "je me suis souvenu",
+      "tu": "tu t'es souvenu",
+      "il": "il s'est souvenu",
+      "elle": "elle s'est souvenue",
+      "on": "on s'est souvenu",
+      "nous": "nous nous sommes souvenus",
+      "vous": "vous vous êtes souvenus",
+      "ils": "ils se sont souvenus",
+      "elles": "elles se sont souvenues"
+    },
+    "plus_que_parfait": {
+      "je": "je m'étais souvenu",
+      "tu": "tu t'étais souvenu",
+      "il": "il s'était souvenu",
+      "elle": "elle s'était souvenue",
+      "on": "on s'était souvenu",
+      "nous": "nous nous étions souvenus",
+      "vous": "vous vous étiez souvenus",
+      "ils": "ils s'étaient souvenus",
+      "elles": "elles s'étaient souvenues"
+    },
+    "futur_anterieur": {
+      "je": "je me serai souvenu",
+      "tu": "tu te seras souvenu",
+      "il": "il se sera souvenu",
+      "elle": "elle se sera souvenue",
+      "on": "on se sera souvenu",
+      "nous": "nous nous serons souvenus",
+      "vous": "vous vous serez souvenus",
+      "ils": "ils se seront souvenus",
+      "elles": "elles se seront souvenues"
+    },
+    "conditionnel_passe": {
+      "je": "je me serais souvenu",
+      "tu": "tu te serais souvenu",
+      "il": "il se serait souvenu",
+      "elle": "elle se serait souvenue",
+      "on": "on se serait souvenu",
+      "nous": "nous nous serions souvenus",
+      "vous": "vous vous seriez souvenus",
+      "ils": "ils se seraient souvenus",
+      "elles": "elles se seraient souvenues"
+    },
+    "subjonctif_passe": {
+      "je": "je me sois souvenu",
+      "tu": "tu te sois souvenu",
+      "il": "il se soit souvenu",
+      "elle": "elle se soit souvenue",
+      "on": "on se soit souvenu",
+      "nous": "nous nous soyons souvenus",
+      "vous": "vous vous soyez souvenus",
+      "ils": "ils se soient souvenus",
+      "elles": "elles se soient souvenues"
+    },
+    "imperatif_present": {
+      "tu": "souviens-toi",
+      "nous": "souvenons-nous",
+      "vous": "souvenez-vous"
+    }
+  }
+}

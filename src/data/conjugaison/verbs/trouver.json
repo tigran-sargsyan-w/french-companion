@@ -1,0 +1,144 @@
+{
+  "infinitive": "trouver",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je trouve",
+      "tu": "tu trouves",
+      "il": "il trouve",
+      "elle": "elle trouve",
+      "on": "on trouve",
+      "nous": "nous trouvons",
+      "vous": "vous trouvez",
+      "ils": "ils trouvent",
+      "elles": "elles trouvent"
+    },
+    "imparfait": {
+      "je": "je trouvais",
+      "tu": "tu trouvais",
+      "il": "il trouvait",
+      "elle": "elle trouvait",
+      "on": "on trouvait",
+      "nous": "nous trouvions",
+      "vous": "vous trouviez",
+      "ils": "ils trouvaient",
+      "elles": "elles trouvaient"
+    },
+    "futur_simple": {
+      "je": "je trouverai",
+      "tu": "tu trouveras",
+      "il": "il trouvera",
+      "elle": "elle trouvera",
+      "on": "on trouvera",
+      "nous": "nous trouverons",
+      "vous": "vous trouverez",
+      "ils": "ils trouveront",
+      "elles": "elles trouveront"
+    },
+    "conditionnel_present": {
+      "je": "je trouverais",
+      "tu": "tu trouverais",
+      "il": "il trouverait",
+      "elle": "elle trouverait",
+      "on": "on trouverait",
+      "nous": "nous trouverions",
+      "vous": "vous trouveriez",
+      "ils": "ils trouveraient",
+      "elles": "elles trouveraient"
+    },
+    "subjonctif_present": {
+      "je": "je trouve",
+      "tu": "tu trouves",
+      "il": "il trouve",
+      "elle": "elle trouve",
+      "on": "on trouve",
+      "nous": "nous trouvions",
+      "vous": "vous trouviez",
+      "ils": "ils trouvent",
+      "elles": "elles trouvent"
+    },
+    "passe_simple": {
+      "je": "je trouvai",
+      "tu": "tu trouvas",
+      "il": "il trouva",
+      "elle": "elle trouva",
+      "on": "on trouva",
+      "nous": "nous trouvâmes",
+      "vous": "vous trouvâtes",
+      "ils": "ils trouvèrent",
+      "elles": "elles trouvèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai trouvé",
+      "tu": "tu as trouvé",
+      "il": "il a trouvé",
+      "elle": "elle a trouvé",
+      "on": "on a trouvé",
+      "nous": "nous avons trouvé",
+      "vous": "vous avez trouvé",
+      "ils": "ils ont trouvé",
+      "elles": "elles ont trouvé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais trouvé",
+      "tu": "tu avais trouvé",
+      "il": "il avait trouvé",
+      "elle": "elle avait trouvé",
+      "on": "on avait trouvé",
+      "nous": "nous avions trouvé",
+      "vous": "vous aviez trouvé",
+      "ils": "ils avaient trouvé",
+      "elles": "elles avaient trouvé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai trouvé",
+      "tu": "tu auras trouvé",
+      "il": "il aura trouvé",
+      "elle": "elle aura trouvé",
+      "on": "on aura trouvé",
+      "nous": "nous aurons trouvé",
+      "vous": "vous aurez trouvé",
+      "ils": "ils auront trouvé",
+      "elles": "elles auront trouvé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais trouvé",
+      "tu": "tu aurais trouvé",
+      "il": "il aurait trouvé",
+      "elle": "elle aurait trouvé",
+      "on": "on aurait trouvé",
+      "nous": "nous aurions trouvé",
+      "vous": "vous auriez trouvé",
+      "ils": "ils auraient trouvé",
+      "elles": "elles auraient trouvé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie trouvé",
+      "tu": "tu aies trouvé",
+      "il": "il ait trouvé",
+      "elle": "elle ait trouvé",
+      "on": "on ait trouvé",
+      "nous": "nous ayons trouvé",
+      "vous": "vous ayez trouvé",
+      "ils": "ils aient trouvé",
+      "elles": "elles aient trouvé"
+    },
+    "futur_proche": {
+      "je": "je vais trouver",
+      "tu": "tu vas trouver",
+      "il": "il va trouver",
+      "elle": "elle va trouver",
+      "on": "on va trouver",
+      "nous": "nous allons trouver",
+      "vous": "vous allez trouver",
+      "ils": "ils vont trouver",
+      "elles": "elles vont trouver"
+    },
+    "imperatif_present": {
+      "tu": "trouve",
+      "nous": "trouvons",
+      "vous": "trouvez"
+    }
+  }
+}

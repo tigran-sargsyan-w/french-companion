@@ -1,0 +1,144 @@
+{
+  "infinitive": "répondre",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je réponds",
+      "tu": "tu réponds",
+      "il": "il répond",
+      "elle": "elle répond",
+      "on": "on répond",
+      "nous": "nous répondons",
+      "vous": "vous répondez",
+      "ils": "ils répondent",
+      "elles": "elles répondent"
+    },
+    "imparfait": {
+      "je": "je répondais",
+      "tu": "tu répondais",
+      "il": "il répondait",
+      "elle": "elle répondait",
+      "on": "on répondait",
+      "nous": "nous répondions",
+      "vous": "vous répondiez",
+      "ils": "ils répondaient",
+      "elles": "elles répondaient"
+    },
+    "futur_simple": {
+      "je": "je répondai",
+      "tu": "tu répondas",
+      "il": "il réponda",
+      "elle": "elle réponda",
+      "on": "on réponda",
+      "nous": "nous répondons",
+      "vous": "vous répondez",
+      "ils": "ils répondont",
+      "elles": "elles répondont"
+    },
+    "conditionnel_present": {
+      "je": "je répondais",
+      "tu": "tu répondais",
+      "il": "il répondait",
+      "elle": "elle répondait",
+      "on": "on répondait",
+      "nous": "nous répondions",
+      "vous": "vous répondiez",
+      "ils": "ils répondaient",
+      "elles": "elles répondaient"
+    },
+    "subjonctif_present": {
+      "je": "je réponde",
+      "tu": "tu répondes",
+      "il": "il réponde",
+      "elle": "elle réponde",
+      "on": "on réponde",
+      "nous": "nous répondions",
+      "vous": "vous répondiez",
+      "ils": "ils répondent",
+      "elles": "elles répondent"
+    },
+    "passe_simple": {
+      "je": "je répondis",
+      "tu": "tu répondis",
+      "il": "il répondit",
+      "elle": "elle répondit",
+      "on": "on répondit",
+      "nous": "nous répondîmes",
+      "vous": "vous répondîtes",
+      "ils": "ils répondirent",
+      "elles": "elles répondirent"
+    },
+    "passe_compose": {
+      "je": "j'ai répondu",
+      "tu": "tu as répondu",
+      "il": "il a répondu",
+      "elle": "elle a répondu",
+      "on": "on a répondu",
+      "nous": "nous avons répondu",
+      "vous": "vous avez répondu",
+      "ils": "ils ont répondu",
+      "elles": "elles ont répondu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais répondu",
+      "tu": "tu avais répondu",
+      "il": "il avait répondu",
+      "elle": "elle avait répondu",
+      "on": "on avait répondu",
+      "nous": "nous avions répondu",
+      "vous": "vous aviez répondu",
+      "ils": "ils avaient répondu",
+      "elles": "elles avaient répondu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai répondu",
+      "tu": "tu auras répondu",
+      "il": "il aura répondu",
+      "elle": "elle aura répondu",
+      "on": "on aura répondu",
+      "nous": "nous aurons répondu",
+      "vous": "vous aurez répondu",
+      "ils": "ils auront répondu",
+      "elles": "elles auront répondu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais répondu",
+      "tu": "tu aurais répondu",
+      "il": "il aurait répondu",
+      "elle": "elle aurait répondu",
+      "on": "on aurait répondu",
+      "nous": "nous aurions répondu",
+      "vous": "vous auriez répondu",
+      "ils": "ils auraient répondu",
+      "elles": "elles auraient répondu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie répondu",
+      "tu": "tu aies répondu",
+      "il": "il ait répondu",
+      "elle": "elle ait répondu",
+      "on": "on ait répondu",
+      "nous": "nous ayons répondu",
+      "vous": "vous ayez répondu",
+      "ils": "ils aient répondu",
+      "elles": "elles aient répondu"
+    },
+    "futur_proche": {
+      "je": "je vais répondre",
+      "tu": "tu vas répondre",
+      "il": "il va répondre",
+      "elle": "elle va répondre",
+      "on": "on va répondre",
+      "nous": "nous allons répondre",
+      "vous": "vous allez répondre",
+      "ils": "ils vont répondre",
+      "elles": "elles vont répondre"
+    },
+    "imperatif_present": {
+      "tu": "réponds",
+      "nous": "répondons",
+      "vous": "répondez"
+    }
+  }
+}

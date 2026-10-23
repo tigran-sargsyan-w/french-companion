@@ -1,0 +1,144 @@
+{
+  "infinitive": "sortir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je sors",
+      "tu": "tu sors",
+      "il": "il sort",
+      "elle": "elle sort",
+      "on": "on sort",
+      "nous": "nous sortons",
+      "vous": "vous sortez",
+      "ils": "ils sortent",
+      "elles": "elles sortent"
+    },
+    "imparfait": {
+      "je": "je sortais",
+      "tu": "tu sortais",
+      "il": "il sortait",
+      "elle": "elle sortait",
+      "on": "on sortait",
+      "nous": "nous sortions",
+      "vous": "vous sortiez",
+      "ils": "ils sortaient",
+      "elles": "elles sortaient"
+    },
+    "futur_simple": {
+      "je": "je sortirai",
+      "tu": "tu sortiras",
+      "il": "il sortira",
+      "elle": "elle sortira",
+      "on": "on sortira",
+      "nous": "nous sortirons",
+      "vous": "vous sortirez",
+      "ils": "ils sortiront",
+      "elles": "elles sortiront"
+    },
+    "conditionnel_present": {
+      "je": "je sortirais",
+      "tu": "tu sortirais",
+      "il": "il sortirait",
+      "elle": "elle sortirait",
+      "on": "on sortirait",
+      "nous": "nous sortirions",
+      "vous": "vous sortiriez",
+      "ils": "ils sortiraient",
+      "elles": "elles sortiraient"
+    },
+    "subjonctif_present": {
+      "je": "je sorte",
+      "tu": "tu sortes",
+      "il": "il sorte",
+      "elle": "elle sorte",
+      "on": "on sorte",
+      "nous": "nous sortions",
+      "vous": "vous sortiez",
+      "ils": "ils sortent",
+      "elles": "elles sortent"
+    },
+    "passe_simple": {
+      "je": "je sortis",
+      "tu": "tu sortis",
+      "il": "il sortit",
+      "elle": "elle sortit",
+      "on": "on sortit",
+      "nous": "nous sortîmes",
+      "vous": "vous sortîtes",
+      "ils": "ils sortirent",
+      "elles": "elles sortirent"
+    },
+    "passe_compose": {
+      "je": "je suis sorti",
+      "tu": "tu es sorti",
+      "il": "il est sorti",
+      "elle": "elle est sortie",
+      "on": "on est sorti",
+      "nous": "nous sommes sortis",
+      "vous": "vous êtes sortis",
+      "ils": "ils sont sortis",
+      "elles": "elles sont sorties"
+    },
+    "plus_que_parfait": {
+      "je": "j'étais sorti",
+      "tu": "tu étais sorti",
+      "il": "il était sorti",
+      "elle": "elle était sortie",
+      "on": "on était sorti",
+      "nous": "nous étions sortis",
+      "vous": "vous étiez sortis",
+      "ils": "ils étaient sortis",
+      "elles": "elles étaient sorties"
+    },
+    "futur_anterieur": {
+      "je": "je serai sorti",
+      "tu": "tu seras sorti",
+      "il": "il sera sorti",
+      "elle": "elle sera sortie",
+      "on": "on sera sorti",
+      "nous": "nous serons sortis",
+      "vous": "vous serez sortis",
+      "ils": "ils seront sortis",
+      "elles": "elles seront sorties"
+    },
+    "conditionnel_passe": {
+      "je": "je serais sorti",
+      "tu": "tu serais sorti",
+      "il": "il serait sorti",
+      "elle": "elle serait sortie",
+      "on": "on serait sorti",
+      "nous": "nous serions sortis",
+      "vous": "vous seriez sortis",
+      "ils": "ils seraient sortis",
+      "elles": "elles seraient sorties"
+    },
+    "subjonctif_passe": {
+      "je": "je sois sorti",
+      "tu": "tu sois sorti",
+      "il": "il soit sorti",
+      "elle": "elle soit sortie",
+      "on": "on soit sorti",
+      "nous": "nous soyons sortis",
+      "vous": "vous soyez sortis",
+      "ils": "ils soient sortis",
+      "elles": "elles soient sorties"
+    },
+    "futur_proche": {
+      "je": "je vais sortir",
+      "tu": "tu vas sortir",
+      "il": "il va sortir",
+      "elle": "elle va sortir",
+      "on": "on va sortir",
+      "nous": "nous allons sortir",
+      "vous": "vous allez sortir",
+      "ils": "ils vont sortir",
+      "elles": "elles vont sortir"
+    },
+    "imperatif_present": {
+      "tu": "sors",
+      "nous": "sortons",
+      "vous": "sortez"
+    }
+  }
+}

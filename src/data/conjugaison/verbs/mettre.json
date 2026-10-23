@@ -1,0 +1,144 @@
+{
+  "infinitive": "mettre",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "je mets",
+      "tu": "tu mets",
+      "il": "il met",
+      "elle": "elle met",
+      "on": "on met",
+      "nous": "nous mettons",
+      "vous": "vous mettez",
+      "ils": "ils mettent",
+      "elles": "elles mettent"
+    },
+    "imparfait": {
+      "je": "je mettais",
+      "tu": "tu mettais",
+      "il": "il mettait",
+      "elle": "elle mettait",
+      "on": "on mettait",
+      "nous": "nous mettions",
+      "vous": "vous mettiez",
+      "ils": "ils mettaient",
+      "elles": "elles mettaient"
+    },
+    "futur_simple": {
+      "je": "je mettrai",
+      "tu": "tu mettras",
+      "il": "il mettra",
+      "elle": "elle mettra",
+      "on": "on mettra",
+      "nous": "nous mettrons",
+      "vous": "vous mettrez",
+      "ils": "ils mettront",
+      "elles": "elles mettront"
+    },
+    "conditionnel_present": {
+      "je": "je mettrais",
+      "tu": "tu mettrais",
+      "il": "il mettrait",
+      "elle": "elle mettrait",
+      "on": "on mettrait",
+      "nous": "nous mettrions",
+      "vous": "vous mettriez",
+      "ils": "ils mettraient",
+      "elles": "elles mettraient"
+    },
+    "subjonctif_present": {
+      "je": "je mette",
+      "tu": "tu mettes",
+      "il": "il mette",
+      "elle": "elle mette",
+      "on": "on mette",
+      "nous": "nous mettions",
+      "vous": "vous mettiez",
+      "ils": "ils mettent",
+      "elles": "elles mettent"
+    },
+    "passe_simple": {
+      "je": "je mis",
+      "tu": "tu mis",
+      "il": "il mit",
+      "elle": "elle mit",
+      "on": "on mit",
+      "nous": "nous mîmes",
+      "vous": "vous mîtes",
+      "ils": "ils mirent",
+      "elles": "elles mirent"
+    },
+    "passe_compose": {
+      "je": "j'ai mis",
+      "tu": "tu as mis",
+      "il": "il a mis",
+      "elle": "elle a mis",
+      "on": "on a mis",
+      "nous": "nous avons mis",
+      "vous": "vous avez mis",
+      "ils": "ils ont mis",
+      "elles": "elles ont mis"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais mis",
+      "tu": "tu avais mis",
+      "il": "il avait mis",
+      "elle": "elle avait mis",
+      "on": "on avait mis",
+      "nous": "nous avions mis",
+      "vous": "vous aviez mis",
+      "ils": "ils avaient mis",
+      "elles": "elles avaient mis"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai mis",
+      "tu": "tu auras mis",
+      "il": "il aura mis",
+      "elle": "elle aura mis",
+      "on": "on aura mis",
+      "nous": "nous aurons mis",
+      "vous": "vous aurez mis",
+      "ils": "ils auront mis",
+      "elles": "elles auront mis"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais mis",
+      "tu": "tu aurais mis",
+      "il": "il aurait mis",
+      "elle": "elle aurait mis",
+      "on": "on aurait mis",
+      "nous": "nous aurions mis",
+      "vous": "vous auriez mis",
+      "ils": "ils auraient mis",
+      "elles": "elles auraient mis"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie mis",
+      "tu": "tu aies mis",
+      "il": "il ait mis",
+      "elle": "elle ait mis",
+      "on": "on ait mis",
+      "nous": "nous ayons mis",
+      "vous": "vous ayez mis",
+      "ils": "ils aient mis",
+      "elles": "elles aient mis"
+    },
+    "futur_proche": {
+      "je": "je vais mettre",
+      "tu": "tu vas mettre",
+      "il": "il va mettre",
+      "elle": "elle va mettre",
+      "on": "on va mettre",
+      "nous": "nous allons mettre",
+      "vous": "vous allez mettre",
+      "ils": "ils vont mettre",
+      "elles": "elles vont mettre"
+    },
+    "imperatif_present": {
+      "tu": "mets",
+      "nous": "mettons",
+      "vous": "mettez"
+    }
+  }
+}

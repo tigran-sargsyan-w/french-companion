@@ -1,0 +1,144 @@
+{
+  "infinitive": "écrire",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "j'écris",
+      "tu": "tu écris",
+      "il": "il écrit",
+      "elle": "elle écrit",
+      "on": "on écrit",
+      "nous": "nous écrivons",
+      "vous": "vous écrivez",
+      "ils": "ils écrivent",
+      "elles": "elles écrivent"
+    },
+    "imparfait": {
+      "je": "j'écrivais",
+      "tu": "tu écrivais",
+      "il": "il écrivait",
+      "elle": "elle écrivait",
+      "on": "on écrivait",
+      "nous": "nous écrivions",
+      "vous": "vous écriviez",
+      "ils": "ils écrivaient",
+      "elles": "elles écrivaient"
+    },
+    "futur_simple": {
+      "je": "j'écrirai",
+      "tu": "tu écriras",
+      "il": "il écrira",
+      "elle": "elle écrira",
+      "on": "on écrira",
+      "nous": "nous écrirons",
+      "vous": "vous écrirez",
+      "ils": "ils écriront",
+      "elles": "elles écriront"
+    },
+    "conditionnel_present": {
+      "je": "j'écrirais",
+      "tu": "tu écrirais",
+      "il": "il écrirait",
+      "elle": "elle écrirait",
+      "on": "on écrirait",
+      "nous": "nous écririons",
+      "vous": "vous écririez",
+      "ils": "ils écriraient",
+      "elles": "elles écriraient"
+    },
+    "subjonctif_present": {
+      "je": "j'écrive",
+      "tu": "tu écrives",
+      "il": "il écrive",
+      "elle": "elle écrive",
+      "on": "on écrive",
+      "nous": "nous écrivions",
+      "vous": "vous écriviez",
+      "ils": "ils écrivent",
+      "elles": "elles écrivent"
+    },
+    "passe_simple": {
+      "je": "j'écrivis",
+      "tu": "tu écrivis",
+      "il": "il écrivit",
+      "elle": "elle écrivit",
+      "on": "on écrivit",
+      "nous": "nous écrivîmes",
+      "vous": "vous écrivîtes",
+      "ils": "ils écrivirent",
+      "elles": "elles écrivirent"
+    },
+    "passe_compose": {
+      "je": "j'ai écrit",
+      "tu": "tu as écrit",
+      "il": "il a écrit",
+      "elle": "elle a écrit",
+      "on": "on a écrit",
+      "nous": "nous avons écrit",
+      "vous": "vous avez écrit",
+      "ils": "ils ont écrit",
+      "elles": "elles ont écrit"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais écrit",
+      "tu": "tu avais écrit",
+      "il": "il avait écrit",
+      "elle": "elle avait écrit",
+      "on": "on avait écrit",
+      "nous": "nous avions écrit",
+      "vous": "vous aviez écrit",
+      "ils": "ils avaient écrit",
+      "elles": "elles avaient écrit"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai écrit",
+      "tu": "tu auras écrit",
+      "il": "il aura écrit",
+      "elle": "elle aura écrit",
+      "on": "on aura écrit",
+      "nous": "nous aurons écrit",
+      "vous": "vous aurez écrit",
+      "ils": "ils auront écrit",
+      "elles": "elles auront écrit"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais écrit",
+      "tu": "tu aurais écrit",
+      "il": "il aurait écrit",
+      "elle": "elle aurait écrit",
+      "on": "on aurait écrit",
+      "nous": "nous aurions écrit",
+      "vous": "vous auriez écrit",
+      "ils": "ils auraient écrit",
+      "elles": "elles auraient écrit"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie écrit",
+      "tu": "tu aies écrit",
+      "il": "il ait écrit",
+      "elle": "elle ait écrit",
+      "on": "on ait écrit",
+      "nous": "nous ayons écrit",
+      "vous": "vous ayez écrit",
+      "ils": "ils aient écrit",
+      "elles": "elles aient écrit"
+    },
+    "futur_proche": {
+      "je": "je vais écrire",
+      "tu": "tu vas écrire",
+      "il": "il va écrire",
+      "elle": "elle va écrire",
+      "on": "on va écrire",
+      "nous": "nous allons écrire",
+      "vous": "vous allez écrire",
+      "ils": "ils vont écrire",
+      "elles": "elles vont écrire"
+    },
+    "imperatif_present": {
+      "tu": "écris",
+      "nous": "écrivons",
+      "vous": "écrivez"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "infinitive": "nettoyer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je nettoie",
+      "tu": "tu nettoies",
+      "il": "il nettoie",
+      "elle": "elle nettoie",
+      "on": "on nettoie",
+      "nous": "nous nettoyons",
+      "vous": "vous nettoyez",
+      "ils": "ils nettoient",
+      "elles": "elles nettoient"
+    },
+    "imparfait": {
+      "je": "je nettoyais",
+      "tu": "tu nettoyais",
+      "il": "il nettoyait",
+      "elle": "elle nettoyait",
+      "on": "on nettoyait",
+      "nous": "nous nettoyions",
+      "vous": "vous nettoyiez",
+      "ils": "ils nettoyaient",
+      "elles": "elles nettoyaient"
+    },
+    "futur_simple": {
+      "je": "je nettoierai",
+      "tu": "tu nettoieras",
+      "il": "il nettoiera",
+      "elle": "elle nettoiera",
+      "on": "on nettoiera",
+      "nous": "nous nettoierons",
+      "vous": "vous nettoierez",
+      "ils": "ils nettoieront",
+      "elles": "elles nettoieront"
+    },
+    "conditionnel_present": {
+      "je": "je nettoierais",
+      "tu": "tu nettoierais",
+      "il": "il nettoierait",
+      "elle": "elle nettoierait",
+      "on": "on nettoierait",
+      "nous": "nous nettoierions",
+      "vous": "vous nettoieriez",
+      "ils": "ils nettoieraient",
+      "elles": "elles nettoieraient"
+    },
+    "subjonctif_present": {
+      "je": "je nettoie",
+      "tu": "tu nettoies",
+      "il": "il nettoie",
+      "elle": "elle nettoie",
+      "on": "on nettoie",
+      "nous": "nous nettoyions",
+      "vous": "vous nettoyiez",
+      "ils": "ils nettoient",
+      "elles": "elles nettoient"
+    },
+    "passe_simple": {
+      "je": "je nettoyai",
+      "tu": "tu nettoyas",
+      "il": "il nettoya",
+      "elle": "elle nettoya",
+      "on": "on nettoya",
+      "nous": "nous nettoyâmes",
+      "vous": "vous nettoyâtes",
+      "ils": "ils nettoyèrent",
+      "elles": "elles nettoyèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai nettoyé",
+      "tu": "tu as nettoyé",
+      "il": "il a nettoyé",
+      "elle": "elle a nettoyé",
+      "on": "on a nettoyé",
+      "nous": "nous avons nettoyé",
+      "vous": "vous avez nettoyé",
+      "ils": "ils ont nettoyé",
+      "elles": "elles ont nettoyé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais nettoyé",
+      "tu": "tu avais nettoyé",
+      "il": "il avait nettoyé",
+      "elle": "elle avait nettoyé",
+      "on": "on avait nettoyé",
+      "nous": "nous avions nettoyé",
+      "vous": "vous aviez nettoyé",
+      "ils": "ils avaient nettoyé",
+      "elles": "elles avaient nettoyé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai nettoyé",
+      "tu": "tu auras nettoyé",
+      "il": "il aura nettoyé",
+      "elle": "elle aura nettoyé",
+      "on": "on aura nettoyé",
+      "nous": "nous aurons nettoyé",
+      "vous": "vous aurez nettoyé",
+      "ils": "ils auront nettoyé",
+      "elles": "elles auront nettoyé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais nettoyé",
+      "tu": "tu aurais nettoyé",
+      "il": "il aurait nettoyé",
+      "elle": "elle aurait nettoyé",
+      "on": "on aurait nettoyé",
+      "nous": "nous aurions nettoyé",
+      "vous": "vous auriez nettoyé",
+      "ils": "ils auraient nettoyé",
+      "elles": "elles auraient nettoyé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie nettoyé",
+      "tu": "tu aies nettoyé",
+      "il": "il ait nettoyé",
+      "elle": "elle ait nettoyé",
+      "on": "on ait nettoyé",
+      "nous": "nous ayons nettoyé",
+      "vous": "vous ayez nettoyé",
+      "ils": "ils aient nettoyé",
+      "elles": "elles aient nettoyé"
+    },
+    "futur_proche": {
+      "je": "je vais nettoyer",
+      "tu": "tu vas nettoyer",
+      "il": "il va nettoyer",
+      "elle": "elle va nettoyer",
+      "on": "on va nettoyer",
+      "nous": "nous allons nettoyer",
+      "vous": "vous allez nettoyer",
+      "ils": "ils vont nettoyer",
+      "elles": "elles vont nettoyer"
+    },
+    "imperatif_present": {
+      "tu": "nettoie",
+      "nous": "nettoyons",
+      "vous": "nettoyez"
+    }
+  }
+}

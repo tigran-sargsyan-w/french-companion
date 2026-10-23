@@ -1,0 +1,144 @@
+{
+  "infinitive": "réfléchir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je réfléchis",
+      "tu": "tu réfléchis",
+      "il": "il réfléchit",
+      "elle": "elle réfléchit",
+      "on": "on réfléchit",
+      "nous": "nous réfléchissons",
+      "vous": "vous réfléchissez",
+      "ils": "ils réfléchissent",
+      "elles": "elles réfléchissent"
+    },
+    "imparfait": {
+      "je": "je réfléchissais",
+      "tu": "tu réfléchissais",
+      "il": "il réfléchissait",
+      "elle": "elle réfléchissait",
+      "on": "on réfléchissait",
+      "nous": "nous réfléchissions",
+      "vous": "vous réfléchissiez",
+      "ils": "ils réfléchissaient",
+      "elles": "elles réfléchissaient"
+    },
+    "futur_simple": {
+      "je": "je réfléchirai",
+      "tu": "tu réfléchiras",
+      "il": "il réfléchira",
+      "elle": "elle réfléchira",
+      "on": "on réfléchira",
+      "nous": "nous réfléchirons",
+      "vous": "vous réfléchirez",
+      "ils": "ils réfléchiront",
+      "elles": "elles réfléchiront"
+    },
+    "conditionnel_present": {
+      "je": "je réfléchirais",
+      "tu": "tu réfléchirais",
+      "il": "il réfléchirait",
+      "elle": "elle réfléchirait",
+      "on": "on réfléchirait",
+      "nous": "nous réfléchirions",
+      "vous": "vous réfléchiriez",
+      "ils": "ils réfléchiraient",
+      "elles": "elles réfléchiraient"
+    },
+    "subjonctif_present": {
+      "je": "je réfléchisse",
+      "tu": "tu réfléchisses",
+      "il": "il réfléchisse",
+      "elle": "elle réfléchisse",
+      "on": "on réfléchisse",
+      "nous": "nous réfléchissions",
+      "vous": "vous réfléchissiez",
+      "ils": "ils réfléchissent",
+      "elles": "elles réfléchissent"
+    },
+    "passe_simple": {
+      "je": "je réfléchis",
+      "tu": "tu réfléchis",
+      "il": "il réfléchit",
+      "elle": "elle réfléchit",
+      "on": "on réfléchit",
+      "nous": "nous réfléchîmes",
+      "vous": "vous réfléchîtes",
+      "ils": "ils réfléchirent",
+      "elles": "elles réfléchirent"
+    },
+    "passe_compose": {
+      "je": "j'ai réfléchi",
+      "tu": "tu as réfléchi",
+      "il": "il a réfléchi",
+      "elle": "elle a réfléchi",
+      "on": "on a réfléchi",
+      "nous": "nous avons réfléchi",
+      "vous": "vous avez réfléchi",
+      "ils": "ils ont réfléchi",
+      "elles": "elles ont réfléchi"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais réfléchi",
+      "tu": "tu avais réfléchi",
+      "il": "il avait réfléchi",
+      "elle": "elle avait réfléchi",
+      "on": "on avait réfléchi",
+      "nous": "nous avions réfléchi",
+      "vous": "vous aviez réfléchi",
+      "ils": "ils avaient réfléchi",
+      "elles": "elles avaient réfléchi"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai réfléchi",
+      "tu": "tu auras réfléchi",
+      "il": "il aura réfléchi",
+      "elle": "elle aura réfléchi",
+      "on": "on aura réfléchi",
+      "nous": "nous aurons réfléchi",
+      "vous": "vous aurez réfléchi",
+      "ils": "ils auront réfléchi",
+      "elles": "elles auront réfléchi"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais réfléchi",
+      "tu": "tu aurais réfléchi",
+      "il": "il aurait réfléchi",
+      "elle": "elle aurait réfléchi",
+      "on": "on aurait réfléchi",
+      "nous": "nous aurions réfléchi",
+      "vous": "vous auriez réfléchi",
+      "ils": "ils auraient réfléchi",
+      "elles": "elles auraient réfléchi"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie réfléchi",
+      "tu": "tu aies réfléchi",
+      "il": "il ait réfléchi",
+      "elle": "elle ait réfléchi",
+      "on": "on ait réfléchi",
+      "nous": "nous ayons réfléchi",
+      "vous": "vous ayez réfléchi",
+      "ils": "ils aient réfléchi",
+      "elles": "elles aient réfléchi"
+    },
+    "futur_proche": {
+      "je": "je vais réfléchir",
+      "tu": "tu vas réfléchir",
+      "il": "il va réfléchir",
+      "elle": "elle va réfléchir",
+      "on": "on va réfléchir",
+      "nous": "nous allons réfléchir",
+      "vous": "vous allez réfléchir",
+      "ils": "ils vont réfléchir",
+      "elles": "elles vont réfléchir"
+    },
+    "imperatif_present": {
+      "tu": "réfléchis",
+      "nous": "réfléchissons",
+      "vous": "réfléchissez"
+    }
+  }
+}

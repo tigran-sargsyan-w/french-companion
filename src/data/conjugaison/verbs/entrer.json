@@ -1,0 +1,144 @@
+{
+  "infinitive": "entrer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'entre",
+      "tu": "tu entres",
+      "il": "il entre",
+      "elle": "elle entre",
+      "on": "on entre",
+      "nous": "nous entrons",
+      "vous": "vous entrez",
+      "ils": "ils entrent",
+      "elles": "elles entrent"
+    },
+    "imparfait": {
+      "je": "j'entrais",
+      "tu": "tu entrais",
+      "il": "il entrait",
+      "elle": "elle entrait",
+      "on": "on entrait",
+      "nous": "nous entrions",
+      "vous": "vous entriez",
+      "ils": "ils entraient",
+      "elles": "elles entraient"
+    },
+    "futur_simple": {
+      "je": "j'entrerai",
+      "tu": "tu entreras",
+      "il": "il entrera",
+      "elle": "elle entrera",
+      "on": "on entrera",
+      "nous": "nous entrerons",
+      "vous": "vous entrerez",
+      "ils": "ils entreront",
+      "elles": "elles entreront"
+    },
+    "conditionnel_present": {
+      "je": "j'entrerais",
+      "tu": "tu entrerais",
+      "il": "il entrerait",
+      "elle": "elle entrerait",
+      "on": "on entrerait",
+      "nous": "nous entrerions",
+      "vous": "vous entreriez",
+      "ils": "ils entreraient",
+      "elles": "elles entreraient"
+    },
+    "subjonctif_present": {
+      "je": "j'entre",
+      "tu": "tu entres",
+      "il": "il entre",
+      "elle": "elle entre",
+      "on": "on entre",
+      "nous": "nous entrions",
+      "vous": "vous entriez",
+      "ils": "ils entrent",
+      "elles": "elles entrent"
+    },
+    "passe_simple": {
+      "je": "j'entrai",
+      "tu": "tu entras",
+      "il": "il entra",
+      "elle": "elle entra",
+      "on": "on entra",
+      "nous": "nous entrâmes",
+      "vous": "vous entrâtes",
+      "ils": "ils entrèrent",
+      "elles": "elles entrèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai entré",
+      "tu": "tu as entré",
+      "il": "il a entré",
+      "elle": "elle a entré",
+      "on": "on a entré",
+      "nous": "nous avons entré",
+      "vous": "vous avez entré",
+      "ils": "ils ont entré",
+      "elles": "elles ont entré"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais entré",
+      "tu": "tu avais entré",
+      "il": "il avait entré",
+      "elle": "elle avait entré",
+      "on": "on avait entré",
+      "nous": "nous avions entré",
+      "vous": "vous aviez entré",
+      "ils": "ils avaient entré",
+      "elles": "elles avaient entré"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai entré",
+      "tu": "tu auras entré",
+      "il": "il aura entré",
+      "elle": "elle aura entré",
+      "on": "on aura entré",
+      "nous": "nous aurons entré",
+      "vous": "vous aurez entré",
+      "ils": "ils auront entré",
+      "elles": "elles auront entré"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais entré",
+      "tu": "tu aurais entré",
+      "il": "il aurait entré",
+      "elle": "elle aurait entré",
+      "on": "on aurait entré",
+      "nous": "nous aurions entré",
+      "vous": "vous auriez entré",
+      "ils": "ils auraient entré",
+      "elles": "elles auraient entré"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie entré",
+      "tu": "tu aies entré",
+      "il": "il ait entré",
+      "elle": "elle ait entré",
+      "on": "on ait entré",
+      "nous": "nous ayons entré",
+      "vous": "vous ayez entré",
+      "ils": "ils aient entré",
+      "elles": "elles aient entré"
+    },
+    "futur_proche": {
+      "je": "je vais entrer",
+      "tu": "tu vas entrer",
+      "il": "il va entrer",
+      "elle": "elle va entrer",
+      "on": "on va entrer",
+      "nous": "nous allons entrer",
+      "vous": "vous allez entrer",
+      "ils": "ils vont entrer",
+      "elles": "elles vont entrer"
+    },
+    "imperatif_present": {
+      "tu": "entre",
+      "nous": "entrons",
+      "vous": "entrez"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "infinitive": "profiter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je profite",
+      "tu": "tu profites",
+      "il": "il profite",
+      "elle": "elle profite",
+      "on": "on profite",
+      "nous": "nous profitons",
+      "vous": "vous profitez",
+      "ils": "ils profitent",
+      "elles": "elles profitent"
+    },
+    "imparfait": {
+      "je": "je profitais",
+      "tu": "tu profitais",
+      "il": "il profitait",
+      "elle": "elle profitait",
+      "on": "on profitait",
+      "nous": "nous profitions",
+      "vous": "vous profitiez",
+      "ils": "ils profitaient",
+      "elles": "elles profitaient"
+    },
+    "futur_simple": {
+      "je": "je profiterai",
+      "tu": "tu profiteras",
+      "il": "il profitera",
+      "elle": "elle profitera",
+      "on": "on profitera",
+      "nous": "nous profiterons",
+      "vous": "vous profiterez",
+      "ils": "ils profiteront",
+      "elles": "elles profiteront"
+    },
+    "conditionnel_present": {
+      "je": "je profiterais",
+      "tu": "tu profiterais",
+      "il": "il profiterait",
+      "elle": "elle profiterait",
+      "on": "on profiterait",
+      "nous": "nous profiterions",
+      "vous": "vous profiteriez",
+      "ils": "ils profiteraient",
+      "elles": "elles profiteraient"
+    },
+    "subjonctif_present": {
+      "je": "je profite",
+      "tu": "tu profites",
+      "il": "il profite",
+      "elle": "elle profite",
+      "on": "on profite",
+      "nous": "nous profitions",
+      "vous": "vous profitiez",
+      "ils": "ils profitent",
+      "elles": "elles profitent"
+    },
+    "passe_simple": {
+      "je": "je profitai",
+      "tu": "tu profitas",
+      "il": "il profita",
+      "elle": "elle profita",
+      "on": "on profita",
+      "nous": "nous profitâmes",
+      "vous": "vous profitâtes",
+      "ils": "ils profitèrent",
+      "elles": "elles profitèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai profité",
+      "tu": "tu as profité",
+      "il": "il a profité",
+      "elle": "elle a profité",
+      "on": "on a profité",
+      "nous": "nous avons profité",
+      "vous": "vous avez profité",
+      "ils": "ils ont profité",
+      "elles": "elles ont profité"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais profité",
+      "tu": "tu avais profité",
+      "il": "il avait profité",
+      "elle": "elle avait profité",
+      "on": "on avait profité",
+      "nous": "nous avions profité",
+      "vous": "vous aviez profité",
+      "ils": "ils avaient profité",
+      "elles": "elles avaient profité"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai profité",
+      "tu": "tu auras profité",
+      "il": "il aura profité",
+      "elle": "elle aura profité",
+      "on": "on aura profité",
+      "nous": "nous aurons profité",
+      "vous": "vous aurez profité",
+      "ils": "ils auront profité",
+      "elles": "elles auront profité"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais profité",
+      "tu": "tu aurais profité",
+      "il": "il aurait profité",
+      "elle": "elle aurait profité",
+      "on": "on aurait profité",
+      "nous": "nous aurions profité",
+      "vous": "vous auriez profité",
+      "ils": "ils auraient profité",
+      "elles": "elles auraient profité"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie profité",
+      "tu": "tu aies profité",
+      "il": "il ait profité",
+      "elle": "elle ait profité",
+      "on": "on ait profité",
+      "nous": "nous ayons profité",
+      "vous": "vous ayez profité",
+      "ils": "ils aient profité",
+      "elles": "elles aient profité"
+    },
+    "futur_proche": {
+      "je": "je vais profiter",
+      "tu": "tu vas profiter",
+      "il": "il va profiter",
+      "elle": "elle va profiter",
+      "on": "on va profiter",
+      "nous": "nous allons profiter",
+      "vous": "vous allez profiter",
+      "ils": "ils vont profiter",
+      "elles": "elles vont profiter"
+    },
+    "imperatif_present": {
+      "tu": "profite",
+      "nous": "profitons",
+      "vous": "profitez"
+    }
+  }
+}

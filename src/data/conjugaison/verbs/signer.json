@@ -1,0 +1,144 @@
+{
+  "infinitive": "signer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je signe",
+      "tu": "tu signes",
+      "il": "il signe",
+      "elle": "elle signe",
+      "on": "on signe",
+      "nous": "nous signons",
+      "vous": "vous signez",
+      "ils": "ils signent",
+      "elles": "elles signent"
+    },
+    "imparfait": {
+      "je": "je signais",
+      "tu": "tu signais",
+      "il": "il signait",
+      "elle": "elle signait",
+      "on": "on signait",
+      "nous": "nous signions",
+      "vous": "vous signiez",
+      "ils": "ils signaient",
+      "elles": "elles signaient"
+    },
+    "futur_simple": {
+      "je": "je signerai",
+      "tu": "tu signeras",
+      "il": "il signera",
+      "elle": "elle signera",
+      "on": "on signera",
+      "nous": "nous signerons",
+      "vous": "vous signerez",
+      "ils": "ils signeront",
+      "elles": "elles signeront"
+    },
+    "conditionnel_present": {
+      "je": "je signerais",
+      "tu": "tu signerais",
+      "il": "il signerait",
+      "elle": "elle signerait",
+      "on": "on signerait",
+      "nous": "nous signerions",
+      "vous": "vous signeriez",
+      "ils": "ils signeraient",
+      "elles": "elles signeraient"
+    },
+    "subjonctif_present": {
+      "je": "je signe",
+      "tu": "tu signes",
+      "il": "il signe",
+      "elle": "elle signe",
+      "on": "on signe",
+      "nous": "nous signions",
+      "vous": "vous signiez",
+      "ils": "ils signent",
+      "elles": "elles signent"
+    },
+    "passe_simple": {
+      "je": "je signai",
+      "tu": "tu signas",
+      "il": "il signa",
+      "elle": "elle signa",
+      "on": "on signa",
+      "nous": "nous signâmes",
+      "vous": "vous signâtes",
+      "ils": "ils signèrent",
+      "elles": "elles signèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai signé",
+      "tu": "tu as signé",
+      "il": "il a signé",
+      "elle": "elle a signé",
+      "on": "on a signé",
+      "nous": "nous avons signé",
+      "vous": "vous avez signé",
+      "ils": "ils ont signé",
+      "elles": "elles ont signé"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais signé",
+      "tu": "tu avais signé",
+      "il": "il avait signé",
+      "elle": "elle avait signé",
+      "on": "on avait signé",
+      "nous": "nous avions signé",
+      "vous": "vous aviez signé",
+      "ils": "ils avaient signé",
+      "elles": "elles avaient signé"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai signé",
+      "tu": "tu auras signé",
+      "il": "il aura signé",
+      "elle": "elle aura signé",
+      "on": "on aura signé",
+      "nous": "nous aurons signé",
+      "vous": "vous aurez signé",
+      "ils": "ils auront signé",
+      "elles": "elles auront signé"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais signé",
+      "tu": "tu aurais signé",
+      "il": "il aurait signé",
+      "elle": "elle aurait signé",
+      "on": "on aurait signé",
+      "nous": "nous aurions signé",
+      "vous": "vous auriez signé",
+      "ils": "ils auraient signé",
+      "elles": "elles auraient signé"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie signé",
+      "tu": "tu aies signé",
+      "il": "il ait signé",
+      "elle": "elle ait signé",
+      "on": "on ait signé",
+      "nous": "nous ayons signé",
+      "vous": "vous ayez signé",
+      "ils": "ils aient signé",
+      "elles": "elles aient signé"
+    },
+    "futur_proche": {
+      "je": "je vais signer",
+      "tu": "tu vas signer",
+      "il": "il va signer",
+      "elle": "elle va signer",
+      "on": "on va signer",
+      "nous": "nous allons signer",
+      "vous": "vous allez signer",
+      "ils": "ils vont signer",
+      "elles": "elles vont signer"
+    },
+    "imperatif_present": {
+      "tu": "signe",
+      "nous": "signons",
+      "vous": "signez"
+    }
+  }
+}

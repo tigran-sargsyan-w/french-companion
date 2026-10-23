@@ -1,0 +1,144 @@
+{
+  "infinitive": "confondre",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je confonds",
+      "tu": "tu confonds",
+      "il": "il confond",
+      "elle": "elle confond",
+      "on": "on confond",
+      "nous": "nous confondons",
+      "vous": "vous confondez",
+      "ils": "ils confondent",
+      "elles": "elles confondent"
+    },
+    "imparfait": {
+      "je": "je confondais",
+      "tu": "tu confondais",
+      "il": "il confondait",
+      "elle": "elle confondait",
+      "on": "on confondait",
+      "nous": "nous confondions",
+      "vous": "vous confondiez",
+      "ils": "ils confondaient",
+      "elles": "elles confondaient"
+    },
+    "futur_simple": {
+      "je": "je confondai",
+      "tu": "tu confondas",
+      "il": "il confonda",
+      "elle": "elle confonda",
+      "on": "on confonda",
+      "nous": "nous confondons",
+      "vous": "vous confondez",
+      "ils": "ils confondont",
+      "elles": "elles confondont"
+    },
+    "conditionnel_present": {
+      "je": "je confondais",
+      "tu": "tu confondais",
+      "il": "il confondait",
+      "elle": "elle confondait",
+      "on": "on confondait",
+      "nous": "nous confondions",
+      "vous": "vous confondiez",
+      "ils": "ils confondaient",
+      "elles": "elles confondaient"
+    },
+    "subjonctif_present": {
+      "je": "je confonde",
+      "tu": "tu confondes",
+      "il": "il confonde",
+      "elle": "elle confonde",
+      "on": "on confonde",
+      "nous": "nous confondions",
+      "vous": "vous confondiez",
+      "ils": "ils confondent",
+      "elles": "elles confondent"
+    },
+    "passe_simple": {
+      "je": "je confondis",
+      "tu": "tu confondis",
+      "il": "il confondit",
+      "elle": "elle confondit",
+      "on": "on confondit",
+      "nous": "nous confondîmes",
+      "vous": "vous confondîtes",
+      "ils": "ils confondirent",
+      "elles": "elles confondirent"
+    },
+    "passe_compose": {
+      "je": "j'ai confondu",
+      "tu": "tu as confondu",
+      "il": "il a confondu",
+      "elle": "elle a confondu",
+      "on": "on a confondu",
+      "nous": "nous avons confondu",
+      "vous": "vous avez confondu",
+      "ils": "ils ont confondu",
+      "elles": "elles ont confondu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais confondu",
+      "tu": "tu avais confondu",
+      "il": "il avait confondu",
+      "elle": "elle avait confondu",
+      "on": "on avait confondu",
+      "nous": "nous avions confondu",
+      "vous": "vous aviez confondu",
+      "ils": "ils avaient confondu",
+      "elles": "elles avaient confondu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai confondu",
+      "tu": "tu auras confondu",
+      "il": "il aura confondu",
+      "elle": "elle aura confondu",
+      "on": "on aura confondu",
+      "nous": "nous aurons confondu",
+      "vous": "vous aurez confondu",
+      "ils": "ils auront confondu",
+      "elles": "elles auront confondu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais confondu",
+      "tu": "tu aurais confondu",
+      "il": "il aurait confondu",
+      "elle": "elle aurait confondu",
+      "on": "on aurait confondu",
+      "nous": "nous aurions confondu",
+      "vous": "vous auriez confondu",
+      "ils": "ils auraient confondu",
+      "elles": "elles auraient confondu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie confondu",
+      "tu": "tu aies confondu",
+      "il": "il ait confondu",
+      "elle": "elle ait confondu",
+      "on": "on ait confondu",
+      "nous": "nous ayons confondu",
+      "vous": "vous ayez confondu",
+      "ils": "ils aient confondu",
+      "elles": "elles aient confondu"
+    },
+    "futur_proche": {
+      "je": "je vais confondre",
+      "tu": "tu vas confondre",
+      "il": "il va confondre",
+      "elle": "elle va confondre",
+      "on": "on va confondre",
+      "nous": "nous allons confondre",
+      "vous": "vous allez confondre",
+      "ils": "ils vont confondre",
+      "elles": "elles vont confondre"
+    },
+    "imperatif_present": {
+      "tu": "confonds",
+      "nous": "confondons",
+      "vous": "confondez"
+    }
+  }
+}

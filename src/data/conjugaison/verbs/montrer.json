@@ -1,0 +1,144 @@
+{
+  "infinitive": "montrer",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je montre",
+      "tu": "tu montres",
+      "il": "il montre",
+      "elle": "elle montre",
+      "on": "on montre",
+      "nous": "nous montrons",
+      "vous": "vous montrez",
+      "ils": "ils montrent",
+      "elles": "elles montrent"
+    },
+    "imparfait": {
+      "je": "je montrais",
+      "tu": "tu montrais",
+      "il": "il montrait",
+      "elle": "elle montrait",
+      "on": "on montrait",
+      "nous": "nous montrions",
+      "vous": "vous montriez",
+      "ils": "ils montraient",
+      "elles": "elles montraient"
+    },
+    "futur_simple": {
+      "je": "je montrerai",
+      "tu": "tu montreras",
+      "il": "il montrera",
+      "elle": "elle montrera",
+      "on": "on montrera",
+      "nous": "nous montrerons",
+      "vous": "vous montrerez",
+      "ils": "ils montreront",
+      "elles": "elles montreront"
+    },
+    "conditionnel_present": {
+      "je": "je montrerais",
+      "tu": "tu montrerais",
+      "il": "il montrerait",
+      "elle": "elle montrerait",
+      "on": "on montrerait",
+      "nous": "nous montrerions",
+      "vous": "vous montreriez",
+      "ils": "ils montreraient",
+      "elles": "elles montreraient"
+    },
+    "subjonctif_present": {
+      "je": "je montre",
+      "tu": "tu montres",
+      "il": "il montre",
+      "elle": "elle montre",
+      "on": "on montre",
+      "nous": "nous montrions",
+      "vous": "vous montriez",
+      "ils": "ils montrent",
+      "elles": "elles montrent"
+    },
+    "passe_simple": {
+      "je": "je montrai",
+      "tu": "tu montras",
+      "il": "il montra",
+      "elle": "elle montra",
+      "on": "on montra",
+      "nous": "nous montrâmes",
+      "vous": "vous montrâtes",
+      "ils": "ils montrèrent",
+      "elles": "elles montrèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai montré",
+      "tu": "tu as montré",
+      "il": "il a montré",
+      "elle": "elle a montré",
+      "on": "on a montré",
+      "nous": "nous avons montré",
+      "vous": "vous avez montré",
+      "ils": "ils ont montré",
+      "elles": "elles ont montré"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais montré",
+      "tu": "tu avais montré",
+      "il": "il avait montré",
+      "elle": "elle avait montré",
+      "on": "on avait montré",
+      "nous": "nous avions montré",
+      "vous": "vous aviez montré",
+      "ils": "ils avaient montré",
+      "elles": "elles avaient montré"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai montré",
+      "tu": "tu auras montré",
+      "il": "il aura montré",
+      "elle": "elle aura montré",
+      "on": "on aura montré",
+      "nous": "nous aurons montré",
+      "vous": "vous aurez montré",
+      "ils": "ils auront montré",
+      "elles": "elles auront montré"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais montré",
+      "tu": "tu aurais montré",
+      "il": "il aurait montré",
+      "elle": "elle aurait montré",
+      "on": "on aurait montré",
+      "nous": "nous aurions montré",
+      "vous": "vous auriez montré",
+      "ils": "ils auraient montré",
+      "elles": "elles auraient montré"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie montré",
+      "tu": "tu aies montré",
+      "il": "il ait montré",
+      "elle": "elle ait montré",
+      "on": "on ait montré",
+      "nous": "nous ayons montré",
+      "vous": "vous ayez montré",
+      "ils": "ils aient montré",
+      "elles": "elles aient montré"
+    },
+    "futur_proche": {
+      "je": "je vais montrer",
+      "tu": "tu vas montrer",
+      "il": "il va montrer",
+      "elle": "elle va montrer",
+      "on": "on va montrer",
+      "nous": "nous allons montrer",
+      "vous": "vous allez montrer",
+      "ils": "ils vont montrer",
+      "elles": "elles vont montrer"
+    },
+    "imperatif_present": {
+      "tu": "montre",
+      "nous": "montrons",
+      "vous": "montrez"
+    }
+  }
+}

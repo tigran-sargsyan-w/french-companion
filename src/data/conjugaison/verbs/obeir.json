@@ -1,0 +1,144 @@
+{
+  "infinitive": "obéir",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'obéis",
+      "tu": "tu obéis",
+      "il": "il obéit",
+      "elle": "elle obéit",
+      "on": "on obéit",
+      "nous": "nous obéissons",
+      "vous": "vous obéissez",
+      "ils": "ils obéissent",
+      "elles": "elles obéissent"
+    },
+    "imparfait": {
+      "je": "j'obéissais",
+      "tu": "tu obéissais",
+      "il": "il obéissait",
+      "elle": "elle obéissait",
+      "on": "on obéissait",
+      "nous": "nous obéissions",
+      "vous": "vous obéissiez",
+      "ils": "ils obéissaient",
+      "elles": "elles obéissaient"
+    },
+    "futur_simple": {
+      "je": "j'obéirai",
+      "tu": "tu obéiras",
+      "il": "il obéira",
+      "elle": "elle obéira",
+      "on": "on obéira",
+      "nous": "nous obéirons",
+      "vous": "vous obéirez",
+      "ils": "ils obéiront",
+      "elles": "elles obéiront"
+    },
+    "conditionnel_present": {
+      "je": "j'obéirais",
+      "tu": "tu obéirais",
+      "il": "il obéirait",
+      "elle": "elle obéirait",
+      "on": "on obéirait",
+      "nous": "nous obéirions",
+      "vous": "vous obéiriez",
+      "ils": "ils obéiraient",
+      "elles": "elles obéiraient"
+    },
+    "subjonctif_present": {
+      "je": "j'obéisse",
+      "tu": "tu obéisses",
+      "il": "il obéisse",
+      "elle": "elle obéisse",
+      "on": "on obéisse",
+      "nous": "nous obéissions",
+      "vous": "vous obéissiez",
+      "ils": "ils obéissent",
+      "elles": "elles obéissent"
+    },
+    "passe_simple": {
+      "je": "j'obéis",
+      "tu": "tu obéis",
+      "il": "il obéit",
+      "elle": "elle obéit",
+      "on": "on obéit",
+      "nous": "nous obéîmes",
+      "vous": "vous obéîtes",
+      "ils": "ils obéirent",
+      "elles": "elles obéirent"
+    },
+    "passe_compose": {
+      "je": "j'ai obéi",
+      "tu": "tu as obéi",
+      "il": "il a obéi",
+      "elle": "elle a obéi",
+      "on": "on a obéi",
+      "nous": "nous avons obéi",
+      "vous": "vous avez obéi",
+      "ils": "ils ont obéi",
+      "elles": "elles ont obéi"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais obéi",
+      "tu": "tu avais obéi",
+      "il": "il avait obéi",
+      "elle": "elle avait obéi",
+      "on": "on avait obéi",
+      "nous": "nous avions obéi",
+      "vous": "vous aviez obéi",
+      "ils": "ils avaient obéi",
+      "elles": "elles avaient obéi"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai obéi",
+      "tu": "tu auras obéi",
+      "il": "il aura obéi",
+      "elle": "elle aura obéi",
+      "on": "on aura obéi",
+      "nous": "nous aurons obéi",
+      "vous": "vous aurez obéi",
+      "ils": "ils auront obéi",
+      "elles": "elles auront obéi"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais obéi",
+      "tu": "tu aurais obéi",
+      "il": "il aurait obéi",
+      "elle": "elle aurait obéi",
+      "on": "on aurait obéi",
+      "nous": "nous aurions obéi",
+      "vous": "vous auriez obéi",
+      "ils": "ils auraient obéi",
+      "elles": "elles auraient obéi"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie obéi",
+      "tu": "tu aies obéi",
+      "il": "il ait obéi",
+      "elle": "elle ait obéi",
+      "on": "on ait obéi",
+      "nous": "nous ayons obéi",
+      "vous": "vous ayez obéi",
+      "ils": "ils aient obéi",
+      "elles": "elles aient obéi"
+    },
+    "futur_proche": {
+      "je": "je vais obéir",
+      "tu": "tu vas obéir",
+      "il": "il va obéir",
+      "elle": "elle va obéir",
+      "on": "on va obéir",
+      "nous": "nous allons obéir",
+      "vous": "vous allez obéir",
+      "ils": "ils vont obéir",
+      "elles": "elles vont obéir"
+    },
+    "imperatif_present": {
+      "tu": "obéis",
+      "nous": "obéissons",
+      "vous": "obéissez"
+    }
+  }
+}

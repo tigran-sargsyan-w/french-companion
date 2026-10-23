@@ -1,0 +1,144 @@
+{
+  "infinitive": "offrir",
+  "status": "learning",
+  "group": "irregular",
+  "forms": {
+    "present": {
+      "je": "j'offre",
+      "tu": "tu offres",
+      "il": "il offre",
+      "elle": "elle offre",
+      "on": "on offre",
+      "nous": "nous offrons",
+      "vous": "vous offrez",
+      "ils": "ils offrent",
+      "elles": "elles offrent"
+    },
+    "imparfait": {
+      "je": "j'offrais",
+      "tu": "tu offrais",
+      "il": "il offrait",
+      "elle": "elle offrait",
+      "on": "on offrait",
+      "nous": "nous offrions",
+      "vous": "vous offriez",
+      "ils": "ils offraient",
+      "elles": "elles offraient"
+    },
+    "futur_simple": {
+      "je": "j'offrirai",
+      "tu": "tu offriras",
+      "il": "il offrira",
+      "elle": "elle offrira",
+      "on": "on offrira",
+      "nous": "nous offrirons",
+      "vous": "vous offrirez",
+      "ils": "ils offriront",
+      "elles": "elles offriront"
+    },
+    "conditionnel_present": {
+      "je": "j'offrirais",
+      "tu": "tu offrirais",
+      "il": "il offrirait",
+      "elle": "elle offrirait",
+      "on": "on offrirait",
+      "nous": "nous offririons",
+      "vous": "vous offririez",
+      "ils": "ils offriraient",
+      "elles": "elles offriraient"
+    },
+    "subjonctif_present": {
+      "je": "j'offre",
+      "tu": "tu offres",
+      "il": "il offre",
+      "elle": "elle offre",
+      "on": "on offre",
+      "nous": "nous offrions",
+      "vous": "vous offriez",
+      "ils": "ils offrent",
+      "elles": "elles offrent"
+    },
+    "passe_simple": {
+      "je": "j'offris",
+      "tu": "tu offris",
+      "il": "il offrit",
+      "elle": "elle offrit",
+      "on": "on offrit",
+      "nous": "nous offrîmes",
+      "vous": "vous offrîtes",
+      "ils": "ils offrirent",
+      "elles": "elles offrirent"
+    },
+    "passe_compose": {
+      "je": "j'ai offert",
+      "tu": "tu as offert",
+      "il": "il a offert",
+      "elle": "elle a offert",
+      "on": "on a offert",
+      "nous": "nous avons offert",
+      "vous": "vous avez offert",
+      "ils": "ils ont offert",
+      "elles": "elles ont offert"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais offert",
+      "tu": "tu avais offert",
+      "il": "il avait offert",
+      "elle": "elle avait offert",
+      "on": "on avait offert",
+      "nous": "nous avions offert",
+      "vous": "vous aviez offert",
+      "ils": "ils avaient offert",
+      "elles": "elles avaient offert"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai offert",
+      "tu": "tu auras offert",
+      "il": "il aura offert",
+      "elle": "elle aura offert",
+      "on": "on aura offert",
+      "nous": "nous aurons offert",
+      "vous": "vous aurez offert",
+      "ils": "ils auront offert",
+      "elles": "elles auront offert"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais offert",
+      "tu": "tu aurais offert",
+      "il": "il aurait offert",
+      "elle": "elle aurait offert",
+      "on": "on aurait offert",
+      "nous": "nous aurions offert",
+      "vous": "vous auriez offert",
+      "ils": "ils auraient offert",
+      "elles": "elles auraient offert"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie offert",
+      "tu": "tu aies offert",
+      "il": "il ait offert",
+      "elle": "elle ait offert",
+      "on": "on ait offert",
+      "nous": "nous ayons offert",
+      "vous": "vous ayez offert",
+      "ils": "ils aient offert",
+      "elles": "elles aient offert"
+    },
+    "futur_proche": {
+      "je": "je vais offrir",
+      "tu": "tu vas offrir",
+      "il": "il va offrir",
+      "elle": "elle va offrir",
+      "on": "on va offrir",
+      "nous": "nous allons offrir",
+      "vous": "vous allez offrir",
+      "ils": "ils vont offrir",
+      "elles": "elles vont offrir"
+    },
+    "imperatif_present": {
+      "tu": "offre",
+      "nous": "offrons",
+      "vous": "offrez"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "infinitive": "habiter",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'habite",
+      "tu": "tu habites",
+      "il": "il habite",
+      "elle": "elle habite",
+      "on": "on habite",
+      "nous": "nous habitons",
+      "vous": "vous habitez",
+      "ils": "ils habitent",
+      "elles": "elles habitent"
+    },
+    "imparfait": {
+      "je": "j'habitais",
+      "tu": "tu habitais",
+      "il": "il habitait",
+      "elle": "elle habitait",
+      "on": "on habitait",
+      "nous": "nous habitions",
+      "vous": "vous habitiez",
+      "ils": "ils habitaient",
+      "elles": "elles habitaient"
+    },
+    "futur_simple": {
+      "je": "j'habiterai",
+      "tu": "tu habiteras",
+      "il": "il habitera",
+      "elle": "elle habitera",
+      "on": "on habitera",
+      "nous": "nous habiterons",
+      "vous": "vous habiterez",
+      "ils": "ils habiteront",
+      "elles": "elles habiteront"
+    },
+    "conditionnel_present": {
+      "je": "j'habiterais",
+      "tu": "tu habiterais",
+      "il": "il habiterait",
+      "elle": "elle habiterait",
+      "on": "on habiterait",
+      "nous": "nous habiterions",
+      "vous": "vous habiteriez",
+      "ils": "ils habiteraient",
+      "elles": "elles habiteraient"
+    },
+    "subjonctif_present": {
+      "je": "j'habite",
+      "tu": "tu habites",
+      "il": "il habite",
+      "elle": "elle habite",
+      "on": "on habite",
+      "nous": "nous habitions",
+      "vous": "vous habitiez",
+      "ils": "ils habitent",
+      "elles": "elles habitent"
+    },
+    "passe_simple": {
+      "je": "j'habitai",
+      "tu": "tu habitas",
+      "il": "il habita",
+      "elle": "elle habita",
+      "on": "on habita",
+      "nous": "nous habitâmes",
+      "vous": "vous habitâtes",
+      "ils": "ils habitèrent",
+      "elles": "elles habitèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai habité",
+      "tu": "tu as habité",
+      "il": "il a habité",
+      "elle": "elle a habité",
+      "on": "on a habité",
+      "nous": "nous avons habité",
+      "vous": "vous avez habité",
+      "ils": "ils ont habité",
+      "elles": "elles ont habité"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais habité",
+      "tu": "tu avais habité",
+      "il": "il avait habité",
+      "elle": "elle avait habité",
+      "on": "on avait habité",
+      "nous": "nous avions habité",
+      "vous": "vous aviez habité",
+      "ils": "ils avaient habité",
+      "elles": "elles avaient habité"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai habité",
+      "tu": "tu auras habité",
+      "il": "il aura habité",
+      "elle": "elle aura habité",
+      "on": "on aura habité",
+      "nous": "nous aurons habité",
+      "vous": "vous aurez habité",
+      "ils": "ils auront habité",
+      "elles": "elles auront habité"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais habité",
+      "tu": "tu aurais habité",
+      "il": "il aurait habité",
+      "elle": "elle aurait habité",
+      "on": "on aurait habité",
+      "nous": "nous aurions habité",
+      "vous": "vous auriez habité",
+      "ils": "ils auraient habité",
+      "elles": "elles auraient habité"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie habité",
+      "tu": "tu aies habité",
+      "il": "il ait habité",
+      "elle": "elle ait habité",
+      "on": "on ait habité",
+      "nous": "nous ayons habité",
+      "vous": "vous ayez habité",
+      "ils": "ils aient habité",
+      "elles": "elles aient habité"
+    },
+    "futur_proche": {
+      "je": "je vais habiter",
+      "tu": "tu vas habiter",
+      "il": "il va habiter",
+      "elle": "elle va habiter",
+      "on": "on va habiter",
+      "nous": "nous allons habiter",
+      "vous": "vous allez habiter",
+      "ils": "ils vont habiter",
+      "elles": "elles vont habiter"
+    },
+    "imperatif_present": {
+      "tu": "habite",
+      "nous": "habitons",
+      "vous": "habitez"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "infinitive": "attendre",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "j'attends",
+      "tu": "tu attends",
+      "il": "il attend",
+      "elle": "elle attend",
+      "on": "on attend",
+      "nous": "nous attendons",
+      "vous": "vous attendez",
+      "ils": "ils attendent",
+      "elles": "elles attendent"
+    },
+    "imparfait": {
+      "je": "j'attendais",
+      "tu": "tu attendais",
+      "il": "il attendait",
+      "elle": "elle attendait",
+      "on": "on attendait",
+      "nous": "nous attendions",
+      "vous": "vous attendiez",
+      "ils": "ils attendaient",
+      "elles": "elles attendaient"
+    },
+    "futur_simple": {
+      "je": "j'attendai",
+      "tu": "tu attendas",
+      "il": "il attenda",
+      "elle": "elle attenda",
+      "on": "on attenda",
+      "nous": "nous attendons",
+      "vous": "vous attendez",
+      "ils": "ils attendont",
+      "elles": "elles attendont"
+    },
+    "conditionnel_present": {
+      "je": "j'attendais",
+      "tu": "tu attendais",
+      "il": "il attendait",
+      "elle": "elle attendait",
+      "on": "on attendait",
+      "nous": "nous attendions",
+      "vous": "vous attendiez",
+      "ils": "ils attendaient",
+      "elles": "elles attendaient"
+    },
+    "subjonctif_present": {
+      "je": "j'attende",
+      "tu": "tu attendes",
+      "il": "il attende",
+      "elle": "elle attende",
+      "on": "on attende",
+      "nous": "nous attendions",
+      "vous": "vous attendiez",
+      "ils": "ils attendent",
+      "elles": "elles attendent"
+    },
+    "passe_simple": {
+      "je": "j'attendis",
+      "tu": "tu attendis",
+      "il": "il attendit",
+      "elle": "elle attendit",
+      "on": "on attendit",
+      "nous": "nous attendîmes",
+      "vous": "vous attendîtes",
+      "ils": "ils attendirent",
+      "elles": "elles attendirent"
+    },
+    "passe_compose": {
+      "je": "j'ai attendu",
+      "tu": "tu as attendu",
+      "il": "il a attendu",
+      "elle": "elle a attendu",
+      "on": "on a attendu",
+      "nous": "nous avons attendu",
+      "vous": "vous avez attendu",
+      "ils": "ils ont attendu",
+      "elles": "elles ont attendu"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais attendu",
+      "tu": "tu avais attendu",
+      "il": "il avait attendu",
+      "elle": "elle avait attendu",
+      "on": "on avait attendu",
+      "nous": "nous avions attendu",
+      "vous": "vous aviez attendu",
+      "ils": "ils avaient attendu",
+      "elles": "elles avaient attendu"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai attendu",
+      "tu": "tu auras attendu",
+      "il": "il aura attendu",
+      "elle": "elle aura attendu",
+      "on": "on aura attendu",
+      "nous": "nous aurons attendu",
+      "vous": "vous aurez attendu",
+      "ils": "ils auront attendu",
+      "elles": "elles auront attendu"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais attendu",
+      "tu": "tu aurais attendu",
+      "il": "il aurait attendu",
+      "elle": "elle aurait attendu",
+      "on": "on aurait attendu",
+      "nous": "nous aurions attendu",
+      "vous": "vous auriez attendu",
+      "ils": "ils auraient attendu",
+      "elles": "elles auraient attendu"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie attendu",
+      "tu": "tu aies attendu",
+      "il": "il ait attendu",
+      "elle": "elle ait attendu",
+      "on": "on ait attendu",
+      "nous": "nous ayons attendu",
+      "vous": "vous ayez attendu",
+      "ils": "ils aient attendu",
+      "elles": "elles aient attendu"
+    },
+    "futur_proche": {
+      "je": "je vais attendre",
+      "tu": "tu vas attendre",
+      "il": "il va attendre",
+      "elle": "elle va attendre",
+      "on": "on va attendre",
+      "nous": "nous allons attendre",
+      "vous": "vous allez attendre",
+      "ils": "ils vont attendre",
+      "elles": "elles vont attendre"
+    },
+    "imperatif_present": {
+      "tu": "attends",
+      "nous": "attendons",
+      "vous": "attendez"
+    }
+  }
+}

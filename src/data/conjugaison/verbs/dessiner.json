@@ -1,0 +1,144 @@
+{
+  "infinitive": "dessiner",
+  "status": "learning",
+  "group": "regular",
+  "forms": {
+    "present": {
+      "je": "je dessine",
+      "tu": "tu dessines",
+      "il": "il dessine",
+      "elle": "elle dessine",
+      "on": "on dessine",
+      "nous": "nous dessinons",
+      "vous": "vous dessinez",
+      "ils": "ils dessinent",
+      "elles": "elles dessinent"
+    },
+    "imparfait": {
+      "je": "je dessinais",
+      "tu": "tu dessinais",
+      "il": "il dessinait",
+      "elle": "elle dessinait",
+      "on": "on dessinait",
+      "nous": "nous dessinions",
+      "vous": "vous dessiniez",
+      "ils": "ils dessinaient",
+      "elles": "elles dessinaient"
+    },
+    "futur_simple": {
+      "je": "je dessinerai",
+      "tu": "tu dessineras",
+      "il": "il dessinera",
+      "elle": "elle dessinera",
+      "on": "on dessinera",
+      "nous": "nous dessinerons",
+      "vous": "vous dessinerez",
+      "ils": "ils dessineront",
+      "elles": "elles dessineront"
+    },
+    "conditionnel_present": {
+      "je": "je dessinerais",
+      "tu": "tu dessinerais",
+      "il": "il dessinerait",
+      "elle": "elle dessinerait",
+      "on": "on dessinerait",
+      "nous": "nous dessinerions",
+      "vous": "vous dessineriez",
+      "ils": "ils dessineraient",
+      "elles": "elles dessineraient"
+    },
+    "subjonctif_present": {
+      "je": "je dessine",
+      "tu": "tu dessines",
+      "il": "il dessine",
+      "elle": "elle dessine",
+      "on": "on dessine",
+      "nous": "nous dessinions",
+      "vous": "vous dessiniez",
+      "ils": "ils dessinent",
+      "elles": "elles dessinent"
+    },
+    "passe_simple": {
+      "je": "je dessinai",
+      "tu": "tu dessinas",
+      "il": "il dessina",
+      "elle": "elle dessina",
+      "on": "on dessina",
+      "nous": "nous dessinâmes",
+      "vous": "vous dessinâtes",
+      "ils": "ils dessinèrent",
+      "elles": "elles dessinèrent"
+    },
+    "passe_compose": {
+      "je": "j'ai dessiné",
+      "tu": "tu as dessiné",
+      "il": "il a dessiné",
+      "elle": "elle a dessiné",
+      "on": "on a dessiné",
+      "nous": "nous avons dessiné",
+      "vous": "vous avez dessiné",
+      "ils": "ils ont dessiné",
+      "elles": "elles ont dessiné"
+    },
+    "plus_que_parfait": {
+      "je": "j'avais dessiné",
+      "tu": "tu avais dessiné",
+      "il": "il avait dessiné",
+      "elle": "elle avait dessiné",
+      "on": "on avait dessiné",
+      "nous": "nous avions dessiné",
+      "vous": "vous aviez dessiné",
+      "ils": "ils avaient dessiné",
+      "elles": "elles avaient dessiné"
+    },
+    "futur_anterieur": {
+      "je": "j'aurai dessiné",
+      "tu": "tu auras dessiné",
+      "il": "il aura dessiné",
+      "elle": "elle aura dessiné",
+      "on": "on aura dessiné",
+      "nous": "nous aurons dessiné",
+      "vous": "vous aurez dessiné",
+      "ils": "ils auront dessiné",
+      "elles": "elles auront dessiné"
+    },
+    "conditionnel_passe": {
+      "je": "j'aurais dessiné",
+      "tu": "tu aurais dessiné",
+      "il": "il aurait dessiné",
+      "elle": "elle aurait dessiné",
+      "on": "on aurait dessiné",
+      "nous": "nous aurions dessiné",
+      "vous": "vous auriez dessiné",
+      "ils": "ils auraient dessiné",
+      "elles": "elles auraient dessiné"
+    },
+    "subjonctif_passe": {
+      "je": "j'aie dessiné",
+      "tu": "tu aies dessiné",
+      "il": "il ait dessiné",
+      "elle": "elle ait dessiné",
+      "on": "on ait dessiné",
+      "nous": "nous ayons dessiné",
+      "vous": "vous ayez dessiné",
+      "ils": "ils aient dessiné",
+      "elles": "elles aient dessiné"
+    },
+    "futur_proche": {
+      "je": "je vais dessiner",
+      "tu": "tu vas dessiner",
+      "il": "il va dessiner",
+      "elle": "elle va dessiner",
+      "on": "on va dessiner",
+      "nous": "nous allons dessiner",
+      "vous": "vous allez dessiner",
+      "ils": "ils vont dessiner",
+      "elles": "elles vont dessiner"
+    },
+    "imperatif_present": {
+      "tu": "dessine",
+      "nous": "dessinons",
+      "vous": "dessinez"
+    }
+  }
+}
