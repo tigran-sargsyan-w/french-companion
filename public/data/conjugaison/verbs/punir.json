@@ -139,6 +139,52 @@
       "tu": "punis",
       "nous": "punissons",
       "vous": "punissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je punisse",
+      "tu": "tu punisses",
+      "il": "il punît",
+      "elle": "elle punît",
+      "on": "on punît",
+      "nous": "nous punissions",
+      "vous": "vous punissiez",
+      "ils": "ils punissent",
+      "elles": "elles punissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus puni",
+      "tu": "tu eus puni",
+      "il": "il eut puni",
+      "elle": "elle eut puni",
+      "on": "on eut puni",
+      "nous": "nous eûmes puni",
+      "vous": "vous eûtes puni",
+      "ils": "ils eurent puni",
+      "elles": "elles eurent puni"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse puni",
+      "tu": "tu eusses puni",
+      "il": "il eût puni",
+      "elle": "elle eût puni",
+      "on": "on eût puni",
+      "nous": "nous eussions puni",
+      "vous": "vous eussiez puni",
+      "ils": "ils eussent puni",
+      "elles": "elles eussent puni"
+    },
+    "imperatif_passe": {
+      "tu": "aie puni",
+      "nous": "ayons puni",
+      "vous": "ayez puni"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "punir",
+    "infinitif_passe": "avoir puni",
+    "participe_present": "punissant",
+    "participe_passe": "puni",
+    "gerondif_present": "en punissant",
+    "gerondif_passe": "en ayant puni"
   }
 }

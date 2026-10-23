@@ -139,6 +139,52 @@
       "tu": "ralentis",
       "nous": "ralentissons",
       "vous": "ralentissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je ralentisse",
+      "tu": "tu ralentisses",
+      "il": "il ralentît",
+      "elle": "elle ralentît",
+      "on": "on ralentît",
+      "nous": "nous ralentissions",
+      "vous": "vous ralentissiez",
+      "ils": "ils ralentissent",
+      "elles": "elles ralentissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus ralenti",
+      "tu": "tu eus ralenti",
+      "il": "il eut ralenti",
+      "elle": "elle eut ralenti",
+      "on": "on eut ralenti",
+      "nous": "nous eûmes ralenti",
+      "vous": "vous eûtes ralenti",
+      "ils": "ils eurent ralenti",
+      "elles": "elles eurent ralenti"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse ralenti",
+      "tu": "tu eusses ralenti",
+      "il": "il eût ralenti",
+      "elle": "elle eût ralenti",
+      "on": "on eût ralenti",
+      "nous": "nous eussions ralenti",
+      "vous": "vous eussiez ralenti",
+      "ils": "ils eussent ralenti",
+      "elles": "elles eussent ralenti"
+    },
+    "imperatif_passe": {
+      "tu": "aie ralenti",
+      "nous": "ayons ralenti",
+      "vous": "ayez ralenti"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "ralentir",
+    "infinitif_passe": "avoir ralenti",
+    "participe_present": "ralentissant",
+    "participe_passe": "ralenti",
+    "gerondif_present": "en ralentissant",
+    "gerondif_passe": "en ayant ralenti"
   }
 }

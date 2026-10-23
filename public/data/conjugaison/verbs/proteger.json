@@ -139,6 +139,52 @@
       "tu": "protège",
       "nous": "protégeons",
       "vous": "protégez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je protégeasse",
+      "tu": "tu protégeasses",
+      "il": "il protégeât",
+      "elle": "elle protégeât",
+      "on": "on protégeât",
+      "nous": "nous protégeassions",
+      "vous": "vous protégeassiez",
+      "ils": "ils protégeassent",
+      "elles": "elles protégeassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus protégé",
+      "tu": "tu eus protégé",
+      "il": "il eut protégé",
+      "elle": "elle eut protégé",
+      "on": "on eut protégé",
+      "nous": "nous eûmes protégé",
+      "vous": "vous eûtes protégé",
+      "ils": "ils eurent protégé",
+      "elles": "elles eurent protégé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse protégé",
+      "tu": "tu eusses protégé",
+      "il": "il eût protégé",
+      "elle": "elle eût protégé",
+      "on": "on eût protégé",
+      "nous": "nous eussions protégé",
+      "vous": "vous eussiez protégé",
+      "ils": "ils eussent protégé",
+      "elles": "elles eussent protégé"
+    },
+    "imperatif_passe": {
+      "tu": "aie protégé",
+      "nous": "ayons protégé",
+      "vous": "ayez protégé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "protéger",
+    "infinitif_passe": "avoir protégé",
+    "participe_present": "protégeant",
+    "participe_passe": "protégé",
+    "gerondif_present": "en protégeant",
+    "gerondif_passe": "en ayant protégé"
   }
 }

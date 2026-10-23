@@ -139,6 +139,52 @@
       "tu": "prépare",
       "nous": "préparons",
       "vous": "préparez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je préparasse",
+      "tu": "tu préparasses",
+      "il": "il préparât",
+      "elle": "elle préparât",
+      "on": "on préparât",
+      "nous": "nous préparassions",
+      "vous": "vous préparassiez",
+      "ils": "ils préparassent",
+      "elles": "elles préparassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus préparé",
+      "tu": "tu eus préparé",
+      "il": "il eut préparé",
+      "elle": "elle eut préparé",
+      "on": "on eut préparé",
+      "nous": "nous eûmes préparé",
+      "vous": "vous eûtes préparé",
+      "ils": "ils eurent préparé",
+      "elles": "elles eurent préparé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse préparé",
+      "tu": "tu eusses préparé",
+      "il": "il eût préparé",
+      "elle": "elle eût préparé",
+      "on": "on eût préparé",
+      "nous": "nous eussions préparé",
+      "vous": "vous eussiez préparé",
+      "ils": "ils eussent préparé",
+      "elles": "elles eussent préparé"
+    },
+    "imperatif_passe": {
+      "tu": "aie préparé",
+      "nous": "ayons préparé",
+      "vous": "ayez préparé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "préparer",
+    "infinitif_passe": "avoir préparé",
+    "participe_present": "préparant",
+    "participe_passe": "préparé",
+    "gerondif_present": "en préparant",
+    "gerondif_passe": "en ayant préparé"
   }
 }

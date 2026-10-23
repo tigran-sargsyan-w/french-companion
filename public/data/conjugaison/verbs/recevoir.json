@@ -139,6 +139,52 @@
       "tu": "reçois",
       "nous": "recevons",
       "vous": "recevez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je reçusse",
+      "tu": "tu reçusses",
+      "il": "il reçût",
+      "elle": "elle reçût",
+      "on": "on reçût",
+      "nous": "nous reçussions",
+      "vous": "vous reçussiez",
+      "ils": "ils reçussent",
+      "elles": "elles reçussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus reçu",
+      "tu": "tu eus reçu",
+      "il": "il eut reçu",
+      "elle": "elle eut reçu",
+      "on": "on eut reçu",
+      "nous": "nous eûmes reçu",
+      "vous": "vous eûtes reçu",
+      "ils": "ils eurent reçu",
+      "elles": "elles eurent reçu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse reçu",
+      "tu": "tu eusses reçu",
+      "il": "il eût reçu",
+      "elle": "elle eût reçu",
+      "on": "on eût reçu",
+      "nous": "nous eussions reçu",
+      "vous": "vous eussiez reçu",
+      "ils": "ils eussent reçu",
+      "elles": "elles eussent reçu"
+    },
+    "imperatif_passe": {
+      "tu": "aie reçu",
+      "nous": "ayons reçu",
+      "vous": "ayez reçu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "recevoir",
+    "infinitif_passe": "avoir reçu",
+    "participe_present": "recevant",
+    "participe_passe": "reçu",
+    "gerondif_present": "en recevant",
+    "gerondif_passe": "en ayant reçu"
   }
 }

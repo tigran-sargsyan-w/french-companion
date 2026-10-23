@@ -139,6 +139,52 @@
       "tu": "présente",
       "nous": "présentons",
       "vous": "présentez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je présentasse",
+      "tu": "tu présentasses",
+      "il": "il présentât",
+      "elle": "elle présentât",
+      "on": "on présentât",
+      "nous": "nous présentassions",
+      "vous": "vous présentassiez",
+      "ils": "ils présentassent",
+      "elles": "elles présentassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus présenté",
+      "tu": "tu eus présenté",
+      "il": "il eut présenté",
+      "elle": "elle eut présenté",
+      "on": "on eut présenté",
+      "nous": "nous eûmes présenté",
+      "vous": "vous eûtes présenté",
+      "ils": "ils eurent présenté",
+      "elles": "elles eurent présenté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse présenté",
+      "tu": "tu eusses présenté",
+      "il": "il eût présenté",
+      "elle": "elle eût présenté",
+      "on": "on eût présenté",
+      "nous": "nous eussions présenté",
+      "vous": "vous eussiez présenté",
+      "ils": "ils eussent présenté",
+      "elles": "elles eussent présenté"
+    },
+    "imperatif_passe": {
+      "tu": "aie présenté",
+      "nous": "ayons présenté",
+      "vous": "ayez présenté"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "présenter",
+    "infinitif_passe": "avoir présenté",
+    "participe_present": "présentant",
+    "participe_passe": "présenté",
+    "gerondif_present": "en présentant",
+    "gerondif_passe": "en ayant présenté"
   }
 }

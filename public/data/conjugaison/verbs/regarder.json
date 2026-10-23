@@ -139,6 +139,52 @@
       "tu": "regarde",
       "nous": "regardons",
       "vous": "regardez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je regardasse",
+      "tu": "tu regardasses",
+      "il": "il regardât",
+      "elle": "elle regardât",
+      "on": "on regardât",
+      "nous": "nous regardassions",
+      "vous": "vous regardassiez",
+      "ils": "ils regardassent",
+      "elles": "elles regardassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus regardé",
+      "tu": "tu eus regardé",
+      "il": "il eut regardé",
+      "elle": "elle eut regardé",
+      "on": "on eut regardé",
+      "nous": "nous eûmes regardé",
+      "vous": "vous eûtes regardé",
+      "ils": "ils eurent regardé",
+      "elles": "elles eurent regardé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse regardé",
+      "tu": "tu eusses regardé",
+      "il": "il eût regardé",
+      "elle": "elle eût regardé",
+      "on": "on eût regardé",
+      "nous": "nous eussions regardé",
+      "vous": "vous eussiez regardé",
+      "ils": "ils eussent regardé",
+      "elles": "elles eussent regardé"
+    },
+    "imperatif_passe": {
+      "tu": "aie regardé",
+      "nous": "ayons regardé",
+      "vous": "ayez regardé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "regarder",
+    "infinitif_passe": "avoir regardé",
+    "participe_present": "regardant",
+    "participe_passe": "regardé",
+    "gerondif_present": "en regardant",
+    "gerondif_passe": "en ayant regardé"
   }
 }

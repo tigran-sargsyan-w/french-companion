@@ -139,6 +139,52 @@
       "tu": "prends",
       "nous": "prenons",
       "vous": "prenez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je prisse",
+      "tu": "tu prisses",
+      "il": "il prît",
+      "elle": "elle prît",
+      "on": "on prît",
+      "nous": "nous prissions",
+      "vous": "vous prissiez",
+      "ils": "ils prissent",
+      "elles": "elles prissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus pris",
+      "tu": "tu eus pris",
+      "il": "il eut pris",
+      "elle": "elle eut pris",
+      "on": "on eut pris",
+      "nous": "nous eûmes pris",
+      "vous": "vous eûtes pris",
+      "ils": "ils eurent pris",
+      "elles": "elles eurent pris"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse pris",
+      "tu": "tu eusses pris",
+      "il": "il eût pris",
+      "elle": "elle eût pris",
+      "on": "on eût pris",
+      "nous": "nous eussions pris",
+      "vous": "vous eussiez pris",
+      "ils": "ils eussent pris",
+      "elles": "elles eussent pris"
+    },
+    "imperatif_passe": {
+      "tu": "aie pris",
+      "nous": "ayons pris",
+      "vous": "ayez pris"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "prendre",
+    "infinitif_passe": "avoir pris",
+    "participe_present": "prenant",
+    "participe_passe": "pris",
+    "gerondif_present": "en prenant",
+    "gerondif_passe": "en ayant pris"
   }
 }

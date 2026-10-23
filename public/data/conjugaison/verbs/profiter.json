@@ -139,6 +139,52 @@
       "tu": "profite",
       "nous": "profitons",
       "vous": "profitez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je profitasse",
+      "tu": "tu profitasses",
+      "il": "il profitât",
+      "elle": "elle profitât",
+      "on": "on profitât",
+      "nous": "nous profitassions",
+      "vous": "vous profitassiez",
+      "ils": "ils profitassent",
+      "elles": "elles profitassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus profité",
+      "tu": "tu eus profité",
+      "il": "il eut profité",
+      "elle": "elle eut profité",
+      "on": "on eut profité",
+      "nous": "nous eûmes profité",
+      "vous": "vous eûtes profité",
+      "ils": "ils eurent profité",
+      "elles": "elles eurent profité"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse profité",
+      "tu": "tu eusses profité",
+      "il": "il eût profité",
+      "elle": "elle eût profité",
+      "on": "on eût profité",
+      "nous": "nous eussions profité",
+      "vous": "vous eussiez profité",
+      "ils": "ils eussent profité",
+      "elles": "elles eussent profité"
+    },
+    "imperatif_passe": {
+      "tu": "aie profité",
+      "nous": "ayons profité",
+      "vous": "ayez profité"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "profiter",
+    "infinitif_passe": "avoir profité",
+    "participe_present": "profitant",
+    "participe_passe": "profité",
+    "gerondif_present": "en profitant",
+    "gerondif_passe": "en ayant profité"
   }
 }

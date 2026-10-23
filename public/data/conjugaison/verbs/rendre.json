@@ -139,6 +139,52 @@
       "tu": "rends",
       "nous": "rendons",
       "vous": "rendez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je rendisse",
+      "tu": "tu rendisses",
+      "il": "il rendît",
+      "elle": "elle rendît",
+      "on": "on rendît",
+      "nous": "nous rendissions",
+      "vous": "vous rendissiez",
+      "ils": "ils rendissent",
+      "elles": "elles rendissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus rendu",
+      "tu": "tu eus rendu",
+      "il": "il eut rendu",
+      "elle": "elle eut rendu",
+      "on": "on eut rendu",
+      "nous": "nous eûmes rendu",
+      "vous": "vous eûtes rendu",
+      "ils": "ils eurent rendu",
+      "elles": "elles eurent rendu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse rendu",
+      "tu": "tu eusses rendu",
+      "il": "il eût rendu",
+      "elle": "elle eût rendu",
+      "on": "on eût rendu",
+      "nous": "nous eussions rendu",
+      "vous": "vous eussiez rendu",
+      "ils": "ils eussent rendu",
+      "elles": "elles eussent rendu"
+    },
+    "imperatif_passe": {
+      "tu": "aie rendu",
+      "nous": "ayons rendu",
+      "vous": "ayez rendu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "rendre",
+    "infinitif_passe": "avoir rendu",
+    "participe_present": "rendant",
+    "participe_passe": "rendu",
+    "gerondif_present": "en rendant",
+    "gerondif_passe": "en ayant rendu"
   }
 }

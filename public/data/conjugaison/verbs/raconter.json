@@ -139,6 +139,52 @@
       "tu": "raconte",
       "nous": "racontons",
       "vous": "racontez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je racontasse",
+      "tu": "tu racontasses",
+      "il": "il racontât",
+      "elle": "elle racontât",
+      "on": "on racontât",
+      "nous": "nous racontassions",
+      "vous": "vous racontassiez",
+      "ils": "ils racontassent",
+      "elles": "elles racontassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus raconté",
+      "tu": "tu eus raconté",
+      "il": "il eut raconté",
+      "elle": "elle eut raconté",
+      "on": "on eut raconté",
+      "nous": "nous eûmes raconté",
+      "vous": "vous eûtes raconté",
+      "ils": "ils eurent raconté",
+      "elles": "elles eurent raconté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse raconté",
+      "tu": "tu eusses raconté",
+      "il": "il eût raconté",
+      "elle": "elle eût raconté",
+      "on": "on eût raconté",
+      "nous": "nous eussions raconté",
+      "vous": "vous eussiez raconté",
+      "ils": "ils eussent raconté",
+      "elles": "elles eussent raconté"
+    },
+    "imperatif_passe": {
+      "tu": "aie raconté",
+      "nous": "ayons raconté",
+      "vous": "ayez raconté"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "raconter",
+    "infinitif_passe": "avoir raconté",
+    "participe_present": "racontant",
+    "participe_passe": "raconté",
+    "gerondif_present": "en racontant",
+    "gerondif_passe": "en ayant raconté"
   }
 }

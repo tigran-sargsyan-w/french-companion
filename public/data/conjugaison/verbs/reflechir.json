@@ -139,6 +139,52 @@
       "tu": "réfléchis",
       "nous": "réfléchissons",
       "vous": "réfléchissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je réfléchisse",
+      "tu": "tu réfléchisses",
+      "il": "il réfléchît",
+      "elle": "elle réfléchît",
+      "on": "on réfléchît",
+      "nous": "nous réfléchissions",
+      "vous": "vous réfléchissiez",
+      "ils": "ils réfléchissent",
+      "elles": "elles réfléchissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus réfléchi",
+      "tu": "tu eus réfléchi",
+      "il": "il eut réfléchi",
+      "elle": "elle eut réfléchi",
+      "on": "on eut réfléchi",
+      "nous": "nous eûmes réfléchi",
+      "vous": "vous eûtes réfléchi",
+      "ils": "ils eurent réfléchi",
+      "elles": "elles eurent réfléchi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse réfléchi",
+      "tu": "tu eusses réfléchi",
+      "il": "il eût réfléchi",
+      "elle": "elle eût réfléchi",
+      "on": "on eût réfléchi",
+      "nous": "nous eussions réfléchi",
+      "vous": "vous eussiez réfléchi",
+      "ils": "ils eussent réfléchi",
+      "elles": "elles eussent réfléchi"
+    },
+    "imperatif_passe": {
+      "tu": "aie réfléchi",
+      "nous": "ayons réfléchi",
+      "vous": "ayez réfléchi"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "réfléchir",
+    "infinitif_passe": "avoir réfléchi",
+    "participe_present": "réfléchissant",
+    "participe_passe": "réfléchi",
+    "gerondif_present": "en réfléchissant",
+    "gerondif_passe": "en ayant réfléchi"
   }
 }

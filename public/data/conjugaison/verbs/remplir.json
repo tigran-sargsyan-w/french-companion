@@ -139,6 +139,52 @@
       "tu": "remplis",
       "nous": "remplissons",
       "vous": "remplissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je remplisse",
+      "tu": "tu remplisses",
+      "il": "il remplît",
+      "elle": "elle remplît",
+      "on": "on remplît",
+      "nous": "nous remplissions",
+      "vous": "vous remplissiez",
+      "ils": "ils remplissent",
+      "elles": "elles remplissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus rempli",
+      "tu": "tu eus rempli",
+      "il": "il eut rempli",
+      "elle": "elle eut rempli",
+      "on": "on eut rempli",
+      "nous": "nous eûmes rempli",
+      "vous": "vous eûtes rempli",
+      "ils": "ils eurent rempli",
+      "elles": "elles eurent rempli"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse rempli",
+      "tu": "tu eusses rempli",
+      "il": "il eût rempli",
+      "elle": "elle eût rempli",
+      "on": "on eût rempli",
+      "nous": "nous eussions rempli",
+      "vous": "vous eussiez rempli",
+      "ils": "ils eussent rempli",
+      "elles": "elles eussent rempli"
+    },
+    "imperatif_passe": {
+      "tu": "aie rempli",
+      "nous": "ayons rempli",
+      "vous": "ayez rempli"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "remplir",
+    "infinitif_passe": "avoir rempli",
+    "participe_present": "remplissant",
+    "participe_passe": "rempli",
+    "gerondif_present": "en remplissant",
+    "gerondif_passe": "en ayant rempli"
   }
 }

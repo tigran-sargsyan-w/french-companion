@@ -139,6 +139,52 @@
       "tu": "rencontre",
       "nous": "rencontrons",
       "vous": "rencontrez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je rencontrasse",
+      "tu": "tu rencontrasses",
+      "il": "il rencontrât",
+      "elle": "elle rencontrât",
+      "on": "on rencontrât",
+      "nous": "nous rencontrassions",
+      "vous": "vous rencontrassiez",
+      "ils": "ils rencontrassent",
+      "elles": "elles rencontrassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus rencontré",
+      "tu": "tu eus rencontré",
+      "il": "il eut rencontré",
+      "elle": "elle eut rencontré",
+      "on": "on eut rencontré",
+      "nous": "nous eûmes rencontré",
+      "vous": "vous eûtes rencontré",
+      "ils": "ils eurent rencontré",
+      "elles": "elles eurent rencontré"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse rencontré",
+      "tu": "tu eusses rencontré",
+      "il": "il eût rencontré",
+      "elle": "elle eût rencontré",
+      "on": "on eût rencontré",
+      "nous": "nous eussions rencontré",
+      "vous": "vous eussiez rencontré",
+      "ils": "ils eussent rencontré",
+      "elles": "elles eussent rencontré"
+    },
+    "imperatif_passe": {
+      "tu": "aie rencontré",
+      "nous": "ayons rencontré",
+      "vous": "ayez rencontré"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "rencontrer",
+    "infinitif_passe": "avoir rencontré",
+    "participe_present": "rencontrant",
+    "participe_passe": "rencontré",
+    "gerondif_present": "en rencontrant",
+    "gerondif_passe": "en ayant rencontré"
   }
 }
