@@ -139,6 +139,52 @@
       "tu": "reste",
       "nous": "restons",
       "vous": "restez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je restasse",
+      "tu": "tu restasses",
+      "il": "il restât",
+      "elle": "elle restât",
+      "on": "on restât",
+      "nous": "nous restassions",
+      "vous": "vous restassiez",
+      "ils": "ils restassent",
+      "elles": "elles restassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus resté",
+      "tu": "tu eus resté",
+      "il": "il eut resté",
+      "elle": "elle eut resté",
+      "on": "on eut resté",
+      "nous": "nous eûmes resté",
+      "vous": "vous eûtes resté",
+      "ils": "ils eurent resté",
+      "elles": "elles eurent resté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse resté",
+      "tu": "tu eusses resté",
+      "il": "il eût resté",
+      "elle": "elle eût resté",
+      "on": "on eût resté",
+      "nous": "nous eussions resté",
+      "vous": "vous eussiez resté",
+      "ils": "ils eussent resté",
+      "elles": "elles eussent resté"
+    },
+    "imperatif_passe": {
+      "tu": "aie resté",
+      "nous": "ayons resté",
+      "vous": "ayez resté"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "rester",
+    "infinitif_passe": "avoir resté",
+    "participe_present": "restant",
+    "participe_passe": "resté",
+    "gerondif_present": "en restant",
+    "gerondif_passe": "en ayant resté"
   }
 }

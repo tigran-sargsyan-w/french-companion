@@ -139,6 +139,52 @@
       "tu": "reviens",
       "nous": "revenons",
       "vous": "revenez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je revinsse",
+      "tu": "tu revinsses",
+      "il": "il revînt",
+      "elle": "elle revînt",
+      "on": "on revînt",
+      "nous": "nous revinssions",
+      "vous": "vous revinssiez",
+      "ils": "ils revinssent",
+      "elles": "elles revinssent"
+    },
+    "passe_anterieur": {
+      "je": "je fus revenu",
+      "tu": "tu fus revenu",
+      "il": "il fut revenu",
+      "elle": "elle fut revenue",
+      "on": "on fut revenu",
+      "nous": "nous fûmes revenus",
+      "vous": "vous fûtes revenus",
+      "ils": "ils furent revenus",
+      "elles": "elles furent revenues"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je fusse revenu",
+      "tu": "tu fusses revenu",
+      "il": "il fût revenu",
+      "elle": "elle fût revenue",
+      "on": "on fût revenu",
+      "nous": "nous fussions revenus",
+      "vous": "vous fussiez revenus",
+      "ils": "ils fussent revenus",
+      "elles": "elles fussent revenues"
+    },
+    "imperatif_passe": {
+      "tu": "sois revenu",
+      "nous": "soyons revenus",
+      "vous": "soyez revenus"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "revenir",
+    "infinitif_passe": "être revenu",
+    "participe_present": "revenant",
+    "participe_passe": "revenu",
+    "gerondif_present": "en revenant",
+    "gerondif_passe": "en étant revenu"
   }
 }

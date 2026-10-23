@@ -139,6 +139,52 @@
       "tu": "sers",
       "nous": "servons",
       "vous": "servez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je servisse",
+      "tu": "tu servisses",
+      "il": "il servît",
+      "elle": "elle servît",
+      "on": "on servît",
+      "nous": "nous servissions",
+      "vous": "vous servissiez",
+      "ils": "ils servissent",
+      "elles": "elles servissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus servi",
+      "tu": "tu eus servi",
+      "il": "il eut servi",
+      "elle": "elle eut servi",
+      "on": "on eut servi",
+      "nous": "nous eûmes servi",
+      "vous": "vous eûtes servi",
+      "ils": "ils eurent servi",
+      "elles": "elles eurent servi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse servi",
+      "tu": "tu eusses servi",
+      "il": "il eût servi",
+      "elle": "elle eût servi",
+      "on": "on eût servi",
+      "nous": "nous eussions servi",
+      "vous": "vous eussiez servi",
+      "ils": "ils eussent servi",
+      "elles": "elles eussent servi"
+    },
+    "imperatif_passe": {
+      "tu": "aie servi",
+      "nous": "ayons servi",
+      "vous": "ayez servi"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "servir",
+    "infinitif_passe": "avoir servi",
+    "participe_present": "servant",
+    "participe_passe": "servi",
+    "gerondif_present": "en servant",
+    "gerondif_passe": "en ayant servi"
   }
 }

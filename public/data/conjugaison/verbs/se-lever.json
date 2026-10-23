@@ -139,6 +139,47 @@
       "tu": "lève-toi",
       "nous": "levons-nous",
       "vous": "levez-vous"
+    },
+    "subjonctif_imparfait": {
+      "je": "je me se levasse",
+      "tu": "tu te se levasses",
+      "il": "il se se levât",
+      "elle": "elle se se levât",
+      "on": "on se se levât",
+      "nous": "nous nous se levassions",
+      "vous": "vous vous se levassiez",
+      "ils": "ils se se levassent",
+      "elles": "elles se se levassent"
+    },
+    "passe_anterieur": {
+      "je": "je me fus levé",
+      "tu": "tu te fus levé",
+      "il": "il se fut levé",
+      "elle": "elle se fut levée",
+      "on": "on se fut levé",
+      "nous": "nous nous fûmes levés",
+      "vous": "vous vous fûtes levés",
+      "ils": "ils se furent levés",
+      "elles": "elles se furent levées"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je me fusse levé",
+      "tu": "tu te fusses levé",
+      "il": "il se fût levé",
+      "elle": "elle se fût levée",
+      "on": "on se fût levé",
+      "nous": "nous nous fussions levés",
+      "vous": "vous vous fussiez levés",
+      "ils": "ils se fussent levés",
+      "elles": "elles se fussent levées"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "se lever",
+    "infinitif_passe": "s'être levé",
+    "participe_present": "se levant",
+    "participe_passe": "levé",
+    "gerondif_present": "en se levant",
+    "gerondif_passe": "en s'étant levé"
   }
 }

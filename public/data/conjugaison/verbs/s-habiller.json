@@ -139,6 +139,47 @@
       "tu": "habille-toi",
       "nous": "habillons-nous",
       "vous": "habillez-vous"
+    },
+    "subjonctif_imparfait": {
+      "je": "je me s'habillasse",
+      "tu": "tu te s'habillasses",
+      "il": "il se s'habillât",
+      "elle": "elle se s'habillât",
+      "on": "on se s'habillât",
+      "nous": "nous nous s'habillassions",
+      "vous": "vous vous s'habillassiez",
+      "ils": "ils se s'habillassent",
+      "elles": "elles se s'habillassent"
+    },
+    "passe_anterieur": {
+      "je": "je me fus habillé",
+      "tu": "tu te fus habillé",
+      "il": "il se fut habillé",
+      "elle": "elle se fut habillée",
+      "on": "on se fut habillé",
+      "nous": "nous nous fûmes habillés",
+      "vous": "vous vous fûtes habillés",
+      "ils": "ils se furent habillés",
+      "elles": "elles se furent habillées"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je me fusse habillé",
+      "tu": "tu te fusses habillé",
+      "il": "il se fût habillé",
+      "elle": "elle se fût habillée",
+      "on": "on se fût habillé",
+      "nous": "nous nous fussions habillés",
+      "vous": "vous vous fussiez habillés",
+      "ils": "ils se fussent habillés",
+      "elles": "elles se fussent habillées"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "s'habiller",
+    "infinitif_passe": "s'être habillé",
+    "participe_present": "s'habillant",
+    "participe_passe": "habillé",
+    "gerondif_present": "en s'habillant",
+    "gerondif_passe": "en s'étant habillé"
   }
 }

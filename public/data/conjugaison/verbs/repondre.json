@@ -139,6 +139,52 @@
       "tu": "réponds",
       "nous": "répondons",
       "vous": "répondez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je répondisse",
+      "tu": "tu répondisses",
+      "il": "il répondît",
+      "elle": "elle répondît",
+      "on": "on répondît",
+      "nous": "nous répondissions",
+      "vous": "vous répondissiez",
+      "ils": "ils répondissent",
+      "elles": "elles répondissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus répondu",
+      "tu": "tu eus répondu",
+      "il": "il eut répondu",
+      "elle": "elle eut répondu",
+      "on": "on eut répondu",
+      "nous": "nous eûmes répondu",
+      "vous": "vous eûtes répondu",
+      "ils": "ils eurent répondu",
+      "elles": "elles eurent répondu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse répondu",
+      "tu": "tu eusses répondu",
+      "il": "il eût répondu",
+      "elle": "elle eût répondu",
+      "on": "on eût répondu",
+      "nous": "nous eussions répondu",
+      "vous": "vous eussiez répondu",
+      "ils": "ils eussent répondu",
+      "elles": "elles eussent répondu"
+    },
+    "imperatif_passe": {
+      "tu": "aie répondu",
+      "nous": "ayons répondu",
+      "vous": "ayez répondu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "répondre",
+    "infinitif_passe": "avoir répondu",
+    "participe_present": "répondant",
+    "participe_passe": "répondu",
+    "gerondif_present": "en répondant",
+    "gerondif_passe": "en ayant répondu"
   }
 }

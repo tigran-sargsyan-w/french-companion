@@ -139,6 +139,52 @@
       "tu": "rougis",
       "nous": "rougissons",
       "vous": "rougissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je rougisse",
+      "tu": "tu rougisses",
+      "il": "il rougît",
+      "elle": "elle rougît",
+      "on": "on rougît",
+      "nous": "nous rougissions",
+      "vous": "vous rougissiez",
+      "ils": "ils rougissent",
+      "elles": "elles rougissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus rougi",
+      "tu": "tu eus rougi",
+      "il": "il eut rougi",
+      "elle": "elle eut rougi",
+      "on": "on eut rougi",
+      "nous": "nous eûmes rougi",
+      "vous": "vous eûtes rougi",
+      "ils": "ils eurent rougi",
+      "elles": "elles eurent rougi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse rougi",
+      "tu": "tu eusses rougi",
+      "il": "il eût rougi",
+      "elle": "elle eût rougi",
+      "on": "on eût rougi",
+      "nous": "nous eussions rougi",
+      "vous": "vous eussiez rougi",
+      "ils": "ils eussent rougi",
+      "elles": "elles eussent rougi"
+    },
+    "imperatif_passe": {
+      "tu": "aie rougi",
+      "nous": "ayons rougi",
+      "vous": "ayez rougi"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "rougir",
+    "infinitif_passe": "avoir rougi",
+    "participe_present": "rougissant",
+    "participe_passe": "rougi",
+    "gerondif_present": "en rougissant",
+    "gerondif_passe": "en ayant rougi"
   }
 }

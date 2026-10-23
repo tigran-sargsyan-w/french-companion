@@ -139,6 +139,52 @@
       "tu": "réussis",
       "nous": "réussissons",
       "vous": "réussissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je réussisse",
+      "tu": "tu réussisses",
+      "il": "il réussît",
+      "elle": "elle réussît",
+      "on": "on réussît",
+      "nous": "nous réussissions",
+      "vous": "vous réussissiez",
+      "ils": "ils réussissent",
+      "elles": "elles réussissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus réussi",
+      "tu": "tu eus réussi",
+      "il": "il eut réussi",
+      "elle": "elle eut réussi",
+      "on": "on eut réussi",
+      "nous": "nous eûmes réussi",
+      "vous": "vous eûtes réussi",
+      "ils": "ils eurent réussi",
+      "elles": "elles eurent réussi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse réussi",
+      "tu": "tu eusses réussi",
+      "il": "il eût réussi",
+      "elle": "elle eût réussi",
+      "on": "on eût réussi",
+      "nous": "nous eussions réussi",
+      "vous": "vous eussiez réussi",
+      "ils": "ils eussent réussi",
+      "elles": "elles eussent réussi"
+    },
+    "imperatif_passe": {
+      "tu": "aie réussi",
+      "nous": "ayons réussi",
+      "vous": "ayez réussi"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "réussir",
+    "infinitif_passe": "avoir réussi",
+    "participe_present": "réussissant",
+    "participe_passe": "réussi",
+    "gerondif_present": "en réussissant",
+    "gerondif_passe": "en ayant réussi"
   }
 }

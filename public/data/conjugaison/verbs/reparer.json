@@ -139,6 +139,52 @@
       "tu": "répare",
       "nous": "réparons",
       "vous": "réparez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je réparasse",
+      "tu": "tu réparasses",
+      "il": "il réparât",
+      "elle": "elle réparât",
+      "on": "on réparât",
+      "nous": "nous réparassions",
+      "vous": "vous réparassiez",
+      "ils": "ils réparassent",
+      "elles": "elles réparassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus réparé",
+      "tu": "tu eus réparé",
+      "il": "il eut réparé",
+      "elle": "elle eut réparé",
+      "on": "on eut réparé",
+      "nous": "nous eûmes réparé",
+      "vous": "vous eûtes réparé",
+      "ils": "ils eurent réparé",
+      "elles": "elles eurent réparé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse réparé",
+      "tu": "tu eusses réparé",
+      "il": "il eût réparé",
+      "elle": "elle eût réparé",
+      "on": "on eût réparé",
+      "nous": "nous eussions réparé",
+      "vous": "vous eussiez réparé",
+      "ils": "ils eussent réparé",
+      "elles": "elles eussent réparé"
+    },
+    "imperatif_passe": {
+      "tu": "aie réparé",
+      "nous": "ayons réparé",
+      "vous": "ayez réparé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "réparer",
+    "infinitif_passe": "avoir réparé",
+    "participe_present": "réparant",
+    "participe_passe": "réparé",
+    "gerondif_present": "en réparant",
+    "gerondif_passe": "en ayant réparé"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "respecte",
       "nous": "respectons",
       "vous": "respectez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je respectasse",
+      "tu": "tu respectasses",
+      "il": "il respectât",
+      "elle": "elle respectât",
+      "on": "on respectât",
+      "nous": "nous respectassions",
+      "vous": "vous respectassiez",
+      "ils": "ils respectassent",
+      "elles": "elles respectassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus respecté",
+      "tu": "tu eus respecté",
+      "il": "il eut respecté",
+      "elle": "elle eut respecté",
+      "on": "on eut respecté",
+      "nous": "nous eûmes respecté",
+      "vous": "vous eûtes respecté",
+      "ils": "ils eurent respecté",
+      "elles": "elles eurent respecté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse respecté",
+      "tu": "tu eusses respecté",
+      "il": "il eût respecté",
+      "elle": "elle eût respecté",
+      "on": "on eût respecté",
+      "nous": "nous eussions respecté",
+      "vous": "vous eussiez respecté",
+      "ils": "ils eussent respecté",
+      "elles": "elles eussent respecté"
+    },
+    "imperatif_passe": {
+      "tu": "aie respecté",
+      "nous": "ayons respecté",
+      "vous": "ayez respecté"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "respecter",
+    "infinitif_passe": "avoir respecté",
+    "participe_present": "respectant",
+    "participe_passe": "respecté",
+    "gerondif_present": "en respectant",
+    "gerondif_passe": "en ayant respecté"
   }
 }

@@ -139,6 +139,47 @@
       "tu": "lave-toi",
       "nous": "lavons-nous",
       "vous": "lavez-vous"
+    },
+    "subjonctif_imparfait": {
+      "je": "je me se lavasse",
+      "tu": "tu te se lavasses",
+      "il": "il se se lavât",
+      "elle": "elle se se lavât",
+      "on": "on se se lavât",
+      "nous": "nous nous se lavassions",
+      "vous": "vous vous se lavassiez",
+      "ils": "ils se se lavassent",
+      "elles": "elles se se lavassent"
+    },
+    "passe_anterieur": {
+      "je": "je me fus lavé",
+      "tu": "tu te fus lavé",
+      "il": "il se fut lavé",
+      "elle": "elle se fut lavée",
+      "on": "on se fut lavé",
+      "nous": "nous nous fûmes lavés",
+      "vous": "vous vous fûtes lavés",
+      "ils": "ils se furent lavés",
+      "elles": "elles se furent lavées"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je me fusse lavé",
+      "tu": "tu te fusses lavé",
+      "il": "il se fût lavé",
+      "elle": "elle se fût lavée",
+      "on": "on se fût lavé",
+      "nous": "nous nous fussions lavés",
+      "vous": "vous vous fussiez lavés",
+      "ils": "ils se fussent lavés",
+      "elles": "elles se fussent lavées"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "se laver",
+    "infinitif_passe": "s'être lavé",
+    "participe_present": "se lavant",
+    "participe_passe": "lavé",
+    "gerondif_present": "en se lavant",
+    "gerondif_passe": "en s'étant lavé"
   }
 }

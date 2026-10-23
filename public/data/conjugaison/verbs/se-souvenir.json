@@ -139,6 +139,47 @@
       "tu": "souviens-toi",
       "nous": "souvenons-nous",
       "vous": "souvenez-vous"
+    },
+    "subjonctif_imparfait": {
+      "je": "je me se souvinsse",
+      "tu": "tu te se souvinsses",
+      "il": "il se se souvînt",
+      "elle": "elle se se souvînt",
+      "on": "on se se souvînt",
+      "nous": "nous nous se souvinssions",
+      "vous": "vous vous se souvinssiez",
+      "ils": "ils se se souvinssent",
+      "elles": "elles se se souvinssent"
+    },
+    "passe_anterieur": {
+      "je": "je me fus souvenu",
+      "tu": "tu te fus souvenu",
+      "il": "il se fut souvenu",
+      "elle": "elle se fut souvenue",
+      "on": "on se fut souvenu",
+      "nous": "nous nous fûmes souvenus",
+      "vous": "vous vous fûtes souvenus",
+      "ils": "ils se furent souvenus",
+      "elles": "elles se furent souvenues"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je me fusse souvenu",
+      "tu": "tu te fusses souvenu",
+      "il": "il se fût souvenu",
+      "elle": "elle se fût souvenue",
+      "on": "on se fût souvenu",
+      "nous": "nous nous fussions souvenus",
+      "vous": "vous vous fussiez souvenus",
+      "ils": "ils se fussent souvenus",
+      "elles": "elles se fussent souvenues"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "se souvenir",
+    "infinitif_passe": "s'être souvenu",
+    "participe_present": "se souvenant",
+    "participe_passe": "souvenu",
+    "gerondif_present": "en se souvenant",
+    "gerondif_passe": "en s'étant souvenu"
   }
 }

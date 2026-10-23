@@ -139,6 +139,52 @@
       "tu": "réunis",
       "nous": "réunissons",
       "vous": "réunissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je réunisse",
+      "tu": "tu réunisses",
+      "il": "il réunît",
+      "elle": "elle réunît",
+      "on": "on réunît",
+      "nous": "nous réunissions",
+      "vous": "vous réunissiez",
+      "ils": "ils réunissent",
+      "elles": "elles réunissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus réuni",
+      "tu": "tu eus réuni",
+      "il": "il eut réuni",
+      "elle": "elle eut réuni",
+      "on": "on eut réuni",
+      "nous": "nous eûmes réuni",
+      "vous": "vous eûtes réuni",
+      "ils": "ils eurent réuni",
+      "elles": "elles eurent réuni"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse réuni",
+      "tu": "tu eusses réuni",
+      "il": "il eût réuni",
+      "elle": "elle eût réuni",
+      "on": "on eût réuni",
+      "nous": "nous eussions réuni",
+      "vous": "vous eussiez réuni",
+      "ils": "ils eussent réuni",
+      "elles": "elles eussent réuni"
+    },
+    "imperatif_passe": {
+      "tu": "aie réuni",
+      "nous": "ayons réuni",
+      "vous": "ayez réuni"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "réunir",
+    "infinitif_passe": "avoir réuni",
+    "participe_present": "réunissant",
+    "participe_passe": "réuni",
+    "gerondif_present": "en réunissant",
+    "gerondif_passe": "en ayant réuni"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "revois",
       "nous": "revoyons",
       "vous": "revoyez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je revisse",
+      "tu": "tu revisses",
+      "il": "il revît",
+      "elle": "elle revît",
+      "on": "on revît",
+      "nous": "nous revissions",
+      "vous": "vous revissiez",
+      "ils": "ils revissent",
+      "elles": "elles revissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus revu",
+      "tu": "tu eus revu",
+      "il": "il eut revu",
+      "elle": "elle eut revu",
+      "on": "on eut revu",
+      "nous": "nous eûmes revu",
+      "vous": "vous eûtes revu",
+      "ils": "ils eurent revu",
+      "elles": "elles eurent revu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse revu",
+      "tu": "tu eusses revu",
+      "il": "il eût revu",
+      "elle": "elle eût revu",
+      "on": "on eût revu",
+      "nous": "nous eussions revu",
+      "vous": "vous eussiez revu",
+      "ils": "ils eussent revu",
+      "elles": "elles eussent revu"
+    },
+    "imperatif_passe": {
+      "tu": "aie revu",
+      "nous": "ayons revu",
+      "vous": "ayez revu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "revoir",
+    "infinitif_passe": "avoir revu",
+    "participe_present": "revoyant",
+    "participe_passe": "revu",
+    "gerondif_present": "en revoyant",
+    "gerondif_passe": "en ayant revu"
   }
 }

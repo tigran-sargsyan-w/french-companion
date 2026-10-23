@@ -139,6 +139,52 @@
       "tu": "sache",
       "nous": "sachons",
       "vous": "sachez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je susse",
+      "tu": "tu susses",
+      "il": "il sût",
+      "elle": "elle sût",
+      "on": "on sût",
+      "nous": "nous sussions",
+      "vous": "vous sussiez",
+      "ils": "ils sussent",
+      "elles": "elles sussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus su",
+      "tu": "tu eus su",
+      "il": "il eut su",
+      "elle": "elle eut su",
+      "on": "on eut su",
+      "nous": "nous eûmes su",
+      "vous": "vous eûtes su",
+      "ils": "ils eurent su",
+      "elles": "elles eurent su"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse su",
+      "tu": "tu eusses su",
+      "il": "il eût su",
+      "elle": "elle eût su",
+      "on": "on eût su",
+      "nous": "nous eussions su",
+      "vous": "vous eussiez su",
+      "ils": "ils eussent su",
+      "elles": "elles eussent su"
+    },
+    "imperatif_passe": {
+      "tu": "aie su",
+      "nous": "ayons su",
+      "vous": "ayez su"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "savoir",
+    "infinitif_passe": "avoir su",
+    "participe_present": "sachant",
+    "participe_passe": "su",
+    "gerondif_present": "en sachant",
+    "gerondif_passe": "en ayant su"
   }
 }
