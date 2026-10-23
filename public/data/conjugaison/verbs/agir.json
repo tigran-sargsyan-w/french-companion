@@ -139,6 +139,52 @@
       "tu": "agis",
       "nous": "agissons",
       "vous": "agissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'agisse",
+      "tu": "tu agisses",
+      "il": "il agît",
+      "elle": "elle agît",
+      "on": "on agît",
+      "nous": "nous agissions",
+      "vous": "vous agissiez",
+      "ils": "ils agissent",
+      "elles": "elles agissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus agi",
+      "tu": "tu eus agi",
+      "il": "il eut agi",
+      "elle": "elle eut agi",
+      "on": "on eut agi",
+      "nous": "nous eûmes agi",
+      "vous": "vous eûtes agi",
+      "ils": "ils eurent agi",
+      "elles": "elles eurent agi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse agi",
+      "tu": "tu eusses agi",
+      "il": "il eût agi",
+      "elle": "elle eût agi",
+      "on": "on eût agi",
+      "nous": "nous eussions agi",
+      "vous": "vous eussiez agi",
+      "ils": "ils eussent agi",
+      "elles": "elles eussent agi"
+    },
+    "imperatif_passe": {
+      "tu": "aie agi",
+      "nous": "ayons agi",
+      "vous": "ayez agi"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "agir",
+    "infinitif_passe": "avoir agi",
+    "participe_present": "agissant",
+    "participe_passe": "agi",
+    "gerondif_present": "en agissant",
+    "gerondif_passe": "en ayant agi"
   }
 }

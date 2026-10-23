@@ -139,6 +139,52 @@
       "tu": "aime",
       "nous": "aimons",
       "vous": "aimez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'aimasse",
+      "tu": "tu aimasses",
+      "il": "il aimât",
+      "elle": "elle aimât",
+      "on": "on aimât",
+      "nous": "nous aimassions",
+      "vous": "vous aimassiez",
+      "ils": "ils aimassent",
+      "elles": "elles aimassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus aimé",
+      "tu": "tu eus aimé",
+      "il": "il eut aimé",
+      "elle": "elle eut aimé",
+      "on": "on eut aimé",
+      "nous": "nous eûmes aimé",
+      "vous": "vous eûtes aimé",
+      "ils": "ils eurent aimé",
+      "elles": "elles eurent aimé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse aimé",
+      "tu": "tu eusses aimé",
+      "il": "il eût aimé",
+      "elle": "elle eût aimé",
+      "on": "on eût aimé",
+      "nous": "nous eussions aimé",
+      "vous": "vous eussiez aimé",
+      "ils": "ils eussent aimé",
+      "elles": "elles eussent aimé"
+    },
+    "imperatif_passe": {
+      "tu": "aie aimé",
+      "nous": "ayons aimé",
+      "vous": "ayez aimé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "aimer",
+    "infinitif_passe": "avoir aimé",
+    "participe_present": "aimant",
+    "participe_passe": "aimé",
+    "gerondif_present": "en aimant",
+    "gerondif_passe": "en ayant aimé"
   }
 }

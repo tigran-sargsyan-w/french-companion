@@ -139,6 +139,52 @@
       "tu": "va",
       "nous": "allons",
       "vous": "allez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'allasse",
+      "tu": "tu allasses",
+      "il": "il allât",
+      "elle": "elle allât",
+      "on": "on allât",
+      "nous": "nous allassions",
+      "vous": "vous allassiez",
+      "ils": "ils allassent",
+      "elles": "elles allassent"
+    },
+    "passe_anterieur": {
+      "je": "je fus allé",
+      "tu": "tu fus allé",
+      "il": "il fut allé",
+      "elle": "elle fut allée",
+      "on": "on fut allé",
+      "nous": "nous fûmes allés",
+      "vous": "vous fûtes allés",
+      "ils": "ils furent allés",
+      "elles": "elles furent allées"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je fusse allé",
+      "tu": "tu fusses allé",
+      "il": "il fût allé",
+      "elle": "elle fût allée",
+      "on": "on fût allé",
+      "nous": "nous fussions allés",
+      "vous": "vous fussiez allés",
+      "ils": "ils fussent allés",
+      "elles": "elles fussent allées"
+    },
+    "imperatif_passe": {
+      "tu": "sois allé",
+      "nous": "soyons allés",
+      "vous": "soyez allés"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "aller",
+    "infinitif_passe": "être allé",
+    "participe_present": "allant",
+    "participe_passe": "allé",
+    "gerondif_present": "en allant",
+    "gerondif_passe": "en étant allé"
   }
 }

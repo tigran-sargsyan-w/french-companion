@@ -139,6 +139,52 @@
       "tu": "accepte",
       "nous": "acceptons",
       "vous": "acceptez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'acceptasse",
+      "tu": "tu acceptasses",
+      "il": "il acceptât",
+      "elle": "elle acceptât",
+      "on": "on acceptât",
+      "nous": "nous acceptassions",
+      "vous": "vous acceptassiez",
+      "ils": "ils acceptassent",
+      "elles": "elles acceptassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus accepté",
+      "tu": "tu eus accepté",
+      "il": "il eut accepté",
+      "elle": "elle eut accepté",
+      "on": "on eut accepté",
+      "nous": "nous eûmes accepté",
+      "vous": "vous eûtes accepté",
+      "ils": "ils eurent accepté",
+      "elles": "elles eurent accepté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse accepté",
+      "tu": "tu eusses accepté",
+      "il": "il eût accepté",
+      "elle": "elle eût accepté",
+      "on": "on eût accepté",
+      "nous": "nous eussions accepté",
+      "vous": "vous eussiez accepté",
+      "ils": "ils eussent accepté",
+      "elles": "elles eussent accepté"
+    },
+    "imperatif_passe": {
+      "tu": "aie accepté",
+      "nous": "ayons accepté",
+      "vous": "ayez accepté"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "accepter",
+    "infinitif_passe": "avoir accepté",
+    "participe_present": "acceptant",
+    "participe_passe": "accepté",
+    "gerondif_present": "en acceptant",
+    "gerondif_passe": "en ayant accepté"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "applaudis",
       "nous": "applaudissons",
       "vous": "applaudissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'applaudisse",
+      "tu": "tu applaudisses",
+      "il": "il applaudît",
+      "elle": "elle applaudît",
+      "on": "on applaudît",
+      "nous": "nous applaudissions",
+      "vous": "vous applaudissiez",
+      "ils": "ils applaudissent",
+      "elles": "elles applaudissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus applaudi",
+      "tu": "tu eus applaudi",
+      "il": "il eut applaudi",
+      "elle": "elle eut applaudi",
+      "on": "on eut applaudi",
+      "nous": "nous eûmes applaudi",
+      "vous": "vous eûtes applaudi",
+      "ils": "ils eurent applaudi",
+      "elles": "elles eurent applaudi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse applaudi",
+      "tu": "tu eusses applaudi",
+      "il": "il eût applaudi",
+      "elle": "elle eût applaudi",
+      "on": "on eût applaudi",
+      "nous": "nous eussions applaudi",
+      "vous": "vous eussiez applaudi",
+      "ils": "ils eussent applaudi",
+      "elles": "elles eussent applaudi"
+    },
+    "imperatif_passe": {
+      "tu": "aie applaudi",
+      "nous": "ayons applaudi",
+      "vous": "ayez applaudi"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "applaudir",
+    "infinitif_passe": "avoir applaudi",
+    "participe_present": "applaudissant",
+    "participe_passe": "applaudi",
+    "gerondif_present": "en applaudissant",
+    "gerondif_passe": "en ayant applaudi"
   }
 }

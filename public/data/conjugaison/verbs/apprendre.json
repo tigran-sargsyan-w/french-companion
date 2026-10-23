@@ -139,6 +139,52 @@
       "tu": "apprends",
       "nous": "apprenons",
       "vous": "apprenez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'apprisse",
+      "tu": "tu apprisses",
+      "il": "il apprît",
+      "elle": "elle apprît",
+      "on": "on apprît",
+      "nous": "nous apprissions",
+      "vous": "vous apprissiez",
+      "ils": "ils apprissent",
+      "elles": "elles apprissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus appris",
+      "tu": "tu eus appris",
+      "il": "il eut appris",
+      "elle": "elle eut appris",
+      "on": "on eut appris",
+      "nous": "nous eûmes appris",
+      "vous": "vous eûtes appris",
+      "ils": "ils eurent appris",
+      "elles": "elles eurent appris"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse appris",
+      "tu": "tu eusses appris",
+      "il": "il eût appris",
+      "elle": "elle eût appris",
+      "on": "on eût appris",
+      "nous": "nous eussions appris",
+      "vous": "vous eussiez appris",
+      "ils": "ils eussent appris",
+      "elles": "elles eussent appris"
+    },
+    "imperatif_passe": {
+      "tu": "aie appris",
+      "nous": "ayons appris",
+      "vous": "ayez appris"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "apprendre",
+    "infinitif_passe": "avoir appris",
+    "participe_present": "apprenant",
+    "participe_passe": "appris",
+    "gerondif_present": "en apprenant",
+    "gerondif_passe": "en ayant appris"
   }
 }

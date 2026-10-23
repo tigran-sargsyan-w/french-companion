@@ -139,6 +139,52 @@
       "tu": "accompagne",
       "nous": "accompagnons",
       "vous": "accompagnez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'accompagnasse",
+      "tu": "tu accompagnasses",
+      "il": "il accompagnât",
+      "elle": "elle accompagnât",
+      "on": "on accompagnât",
+      "nous": "nous accompagnassions",
+      "vous": "vous accompagnassiez",
+      "ils": "ils accompagnassent",
+      "elles": "elles accompagnassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus accompagné",
+      "tu": "tu eus accompagné",
+      "il": "il eut accompagné",
+      "elle": "elle eut accompagné",
+      "on": "on eut accompagné",
+      "nous": "nous eûmes accompagné",
+      "vous": "vous eûtes accompagné",
+      "ils": "ils eurent accompagné",
+      "elles": "elles eurent accompagné"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse accompagné",
+      "tu": "tu eusses accompagné",
+      "il": "il eût accompagné",
+      "elle": "elle eût accompagné",
+      "on": "on eût accompagné",
+      "nous": "nous eussions accompagné",
+      "vous": "vous eussiez accompagné",
+      "ils": "ils eussent accompagné",
+      "elles": "elles eussent accompagné"
+    },
+    "imperatif_passe": {
+      "tu": "aie accompagné",
+      "nous": "ayons accompagné",
+      "vous": "ayez accompagné"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "accompagner",
+    "infinitif_passe": "avoir accompagné",
+    "participe_present": "accompagnant",
+    "participe_passe": "accompagné",
+    "gerondif_present": "en accompagnant",
+    "gerondif_passe": "en ayant accompagné"
   }
 }

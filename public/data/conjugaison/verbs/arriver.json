@@ -139,6 +139,52 @@
       "tu": "arrive",
       "nous": "arrivons",
       "vous": "arrivez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'arrivasse",
+      "tu": "tu arrivasses",
+      "il": "il arrivât",
+      "elle": "elle arrivât",
+      "on": "on arrivât",
+      "nous": "nous arrivassions",
+      "vous": "vous arrivassiez",
+      "ils": "ils arrivassent",
+      "elles": "elles arrivassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus arrivé",
+      "tu": "tu eus arrivé",
+      "il": "il eut arrivé",
+      "elle": "elle eut arrivé",
+      "on": "on eut arrivé",
+      "nous": "nous eûmes arrivé",
+      "vous": "vous eûtes arrivé",
+      "ils": "ils eurent arrivé",
+      "elles": "elles eurent arrivé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse arrivé",
+      "tu": "tu eusses arrivé",
+      "il": "il eût arrivé",
+      "elle": "elle eût arrivé",
+      "on": "on eût arrivé",
+      "nous": "nous eussions arrivé",
+      "vous": "vous eussiez arrivé",
+      "ils": "ils eussent arrivé",
+      "elles": "elles eussent arrivé"
+    },
+    "imperatif_passe": {
+      "tu": "aie arrivé",
+      "nous": "ayons arrivé",
+      "vous": "ayez arrivé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "arriver",
+    "infinitif_passe": "avoir arrivé",
+    "participe_present": "arrivant",
+    "participe_passe": "arrivé",
+    "gerondif_present": "en arrivant",
+    "gerondif_passe": "en ayant arrivé"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "attends",
       "nous": "attendons",
       "vous": "attendez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'attendisse",
+      "tu": "tu attendisses",
+      "il": "il attendît",
+      "elle": "elle attendît",
+      "on": "on attendît",
+      "nous": "nous attendissions",
+      "vous": "vous attendissiez",
+      "ils": "ils attendissent",
+      "elles": "elles attendissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus attendu",
+      "tu": "tu eus attendu",
+      "il": "il eut attendu",
+      "elle": "elle eut attendu",
+      "on": "on eut attendu",
+      "nous": "nous eûmes attendu",
+      "vous": "vous eûtes attendu",
+      "ils": "ils eurent attendu",
+      "elles": "elles eurent attendu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse attendu",
+      "tu": "tu eusses attendu",
+      "il": "il eût attendu",
+      "elle": "elle eût attendu",
+      "on": "on eût attendu",
+      "nous": "nous eussions attendu",
+      "vous": "vous eussiez attendu",
+      "ils": "ils eussent attendu",
+      "elles": "elles eussent attendu"
+    },
+    "imperatif_passe": {
+      "tu": "aie attendu",
+      "nous": "ayons attendu",
+      "vous": "ayez attendu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "attendre",
+    "infinitif_passe": "avoir attendu",
+    "participe_present": "attendant",
+    "participe_passe": "attendu",
+    "gerondif_present": "en attendant",
+    "gerondif_passe": "en ayant attendu"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "aide",
       "nous": "aidons",
       "vous": "aidez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'aidasse",
+      "tu": "tu aidasses",
+      "il": "il aidât",
+      "elle": "elle aidât",
+      "on": "on aidât",
+      "nous": "nous aidassions",
+      "vous": "vous aidassiez",
+      "ils": "ils aidassent",
+      "elles": "elles aidassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus aidé",
+      "tu": "tu eus aidé",
+      "il": "il eut aidé",
+      "elle": "elle eut aidé",
+      "on": "on eut aidé",
+      "nous": "nous eûmes aidé",
+      "vous": "vous eûtes aidé",
+      "ils": "ils eurent aidé",
+      "elles": "elles eurent aidé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse aidé",
+      "tu": "tu eusses aidé",
+      "il": "il eût aidé",
+      "elle": "elle eût aidé",
+      "on": "on eût aidé",
+      "nous": "nous eussions aidé",
+      "vous": "vous eussiez aidé",
+      "ils": "ils eussent aidé",
+      "elles": "elles eussent aidé"
+    },
+    "imperatif_passe": {
+      "tu": "aie aidé",
+      "nous": "ayons aidé",
+      "vous": "ayez aidé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "aider",
+    "infinitif_passe": "avoir aidé",
+    "participe_present": "aidant",
+    "participe_passe": "aidé",
+    "gerondif_present": "en aidant",
+    "gerondif_passe": "en ayant aidé"
   }
 }

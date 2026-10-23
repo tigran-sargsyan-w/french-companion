@@ -139,6 +139,52 @@
       "tu": "apporte",
       "nous": "apportons",
       "vous": "apportez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'apportasse",
+      "tu": "tu apportasses",
+      "il": "il apportât",
+      "elle": "elle apportât",
+      "on": "on apportât",
+      "nous": "nous apportassions",
+      "vous": "vous apportassiez",
+      "ils": "ils apportassent",
+      "elles": "elles apportassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus apporté",
+      "tu": "tu eus apporté",
+      "il": "il eut apporté",
+      "elle": "elle eut apporté",
+      "on": "on eut apporté",
+      "nous": "nous eûmes apporté",
+      "vous": "vous eûtes apporté",
+      "ils": "ils eurent apporté",
+      "elles": "elles eurent apporté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse apporté",
+      "tu": "tu eusses apporté",
+      "il": "il eût apporté",
+      "elle": "elle eût apporté",
+      "on": "on eût apporté",
+      "nous": "nous eussions apporté",
+      "vous": "vous eussiez apporté",
+      "ils": "ils eussent apporté",
+      "elles": "elles eussent apporté"
+    },
+    "imperatif_passe": {
+      "tu": "aie apporté",
+      "nous": "ayons apporté",
+      "vous": "ayez apporté"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "apporter",
+    "infinitif_passe": "avoir apporté",
+    "participe_present": "apportant",
+    "participe_passe": "apporté",
+    "gerondif_present": "en apportant",
+    "gerondif_passe": "en ayant apporté"
   }
 }
