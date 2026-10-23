@@ -139,6 +139,52 @@
       "tu": "perds",
       "nous": "perdons",
       "vous": "perdez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je perdisse",
+      "tu": "tu perdisses",
+      "il": "il perdît",
+      "elle": "elle perdît",
+      "on": "on perdît",
+      "nous": "nous perdissions",
+      "vous": "vous perdissiez",
+      "ils": "ils perdissent",
+      "elles": "elles perdissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus perdu",
+      "tu": "tu eus perdu",
+      "il": "il eut perdu",
+      "elle": "elle eut perdu",
+      "on": "on eut perdu",
+      "nous": "nous eûmes perdu",
+      "vous": "vous eûtes perdu",
+      "ils": "ils eurent perdu",
+      "elles": "elles eurent perdu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse perdu",
+      "tu": "tu eusses perdu",
+      "il": "il eût perdu",
+      "elle": "elle eût perdu",
+      "on": "on eût perdu",
+      "nous": "nous eussions perdu",
+      "vous": "vous eussiez perdu",
+      "ils": "ils eussent perdu",
+      "elles": "elles eussent perdu"
+    },
+    "imperatif_passe": {
+      "tu": "aie perdu",
+      "nous": "ayons perdu",
+      "vous": "ayez perdu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "perdre",
+    "infinitif_passe": "avoir perdu",
+    "participe_present": "perdant",
+    "participe_passe": "perdu",
+    "gerondif_present": "en perdant",
+    "gerondif_passe": "en ayant perdu"
   }
 }

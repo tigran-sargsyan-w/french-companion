@@ -139,6 +139,52 @@
       "tu": "pense",
       "nous": "pensons",
       "vous": "pensez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je pensasse",
+      "tu": "tu pensasses",
+      "il": "il pensât",
+      "elle": "elle pensât",
+      "on": "on pensât",
+      "nous": "nous pensassions",
+      "vous": "vous pensassiez",
+      "ils": "ils pensassent",
+      "elles": "elles pensassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus pensé",
+      "tu": "tu eus pensé",
+      "il": "il eut pensé",
+      "elle": "elle eut pensé",
+      "on": "on eut pensé",
+      "nous": "nous eûmes pensé",
+      "vous": "vous eûtes pensé",
+      "ils": "ils eurent pensé",
+      "elles": "elles eurent pensé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse pensé",
+      "tu": "tu eusses pensé",
+      "il": "il eût pensé",
+      "elle": "elle eût pensé",
+      "on": "on eût pensé",
+      "nous": "nous eussions pensé",
+      "vous": "vous eussiez pensé",
+      "ils": "ils eussent pensé",
+      "elles": "elles eussent pensé"
+    },
+    "imperatif_passe": {
+      "tu": "aie pensé",
+      "nous": "ayons pensé",
+      "vous": "ayez pensé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "penser",
+    "infinitif_passe": "avoir pensé",
+    "participe_present": "pensant",
+    "participe_passe": "pensé",
+    "gerondif_present": "en pensant",
+    "gerondif_passe": "en ayant pensé"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "pars",
       "nous": "partons",
       "vous": "partez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je partisse",
+      "tu": "tu partisses",
+      "il": "il partît",
+      "elle": "elle partît",
+      "on": "on partît",
+      "nous": "nous partissions",
+      "vous": "vous partissiez",
+      "ils": "ils partissent",
+      "elles": "elles partissent"
+    },
+    "passe_anterieur": {
+      "je": "je fus parti",
+      "tu": "tu fus parti",
+      "il": "il fut parti",
+      "elle": "elle fut partie",
+      "on": "on fut parti",
+      "nous": "nous fûmes partis",
+      "vous": "vous fûtes partis",
+      "ils": "ils furent partis",
+      "elles": "elles furent parties"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je fusse parti",
+      "tu": "tu fusses parti",
+      "il": "il fût parti",
+      "elle": "elle fût partie",
+      "on": "on fût parti",
+      "nous": "nous fussions partis",
+      "vous": "vous fussiez partis",
+      "ils": "ils fussent partis",
+      "elles": "elles fussent parties"
+    },
+    "imperatif_passe": {
+      "tu": "sois parti",
+      "nous": "soyons partis",
+      "vous": "soyez partis"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "partir",
+    "infinitif_passe": "être parti",
+    "participe_present": "partant",
+    "participe_passe": "parti",
+    "gerondif_present": "en partant",
+    "gerondif_passe": "en étant parti"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "organise",
       "nous": "organisons",
       "vous": "organisez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'organisasse",
+      "tu": "tu organisasses",
+      "il": "il organisât",
+      "elle": "elle organisât",
+      "on": "on organisât",
+      "nous": "nous organisassions",
+      "vous": "vous organisassiez",
+      "ils": "ils organisassent",
+      "elles": "elles organisassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus organisé",
+      "tu": "tu eus organisé",
+      "il": "il eut organisé",
+      "elle": "elle eut organisé",
+      "on": "on eut organisé",
+      "nous": "nous eûmes organisé",
+      "vous": "vous eûtes organisé",
+      "ils": "ils eurent organisé",
+      "elles": "elles eurent organisé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse organisé",
+      "tu": "tu eusses organisé",
+      "il": "il eût organisé",
+      "elle": "elle eût organisé",
+      "on": "on eût organisé",
+      "nous": "nous eussions organisé",
+      "vous": "vous eussiez organisé",
+      "ils": "ils eussent organisé",
+      "elles": "elles eussent organisé"
+    },
+    "imperatif_passe": {
+      "tu": "aie organisé",
+      "nous": "ayons organisé",
+      "vous": "ayez organisé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "organiser",
+    "infinitif_passe": "avoir organisé",
+    "participe_present": "organisant",
+    "participe_passe": "organisé",
+    "gerondif_present": "en organisant",
+    "gerondif_passe": "en ayant organisé"
   }
 }

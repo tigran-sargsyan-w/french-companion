@@ -139,6 +139,52 @@
       "tu": "ouvre",
       "nous": "ouvrons",
       "vous": "ouvrez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'ouvrisse",
+      "tu": "tu ouvrisses",
+      "il": "il ouvrît",
+      "elle": "elle ouvrît",
+      "on": "on ouvrît",
+      "nous": "nous ouvrissions",
+      "vous": "vous ouvrissiez",
+      "ils": "ils ouvrissent",
+      "elles": "elles ouvrissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus ouvert",
+      "tu": "tu eus ouvert",
+      "il": "il eut ouvert",
+      "elle": "elle eut ouvert",
+      "on": "on eut ouvert",
+      "nous": "nous eûmes ouvert",
+      "vous": "vous eûtes ouvert",
+      "ils": "ils eurent ouvert",
+      "elles": "elles eurent ouvert"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse ouvert",
+      "tu": "tu eusses ouvert",
+      "il": "il eût ouvert",
+      "elle": "elle eût ouvert",
+      "on": "on eût ouvert",
+      "nous": "nous eussions ouvert",
+      "vous": "vous eussiez ouvert",
+      "ils": "ils eussent ouvert",
+      "elles": "elles eussent ouvert"
+    },
+    "imperatif_passe": {
+      "tu": "aie ouvert",
+      "nous": "ayons ouvert",
+      "vous": "ayez ouvert"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "ouvrir",
+    "infinitif_passe": "avoir ouvert",
+    "participe_present": "ouvrant",
+    "participe_passe": "ouvert",
+    "gerondif_present": "en ouvrant",
+    "gerondif_passe": "en ayant ouvert"
   }
 }

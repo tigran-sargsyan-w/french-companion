@@ -139,6 +139,52 @@
       "tu": "porte",
       "nous": "portons",
       "vous": "portez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je portasse",
+      "tu": "tu portasses",
+      "il": "il portât",
+      "elle": "elle portât",
+      "on": "on portât",
+      "nous": "nous portassions",
+      "vous": "vous portassiez",
+      "ils": "ils portassent",
+      "elles": "elles portassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus porté",
+      "tu": "tu eus porté",
+      "il": "il eut porté",
+      "elle": "elle eut porté",
+      "on": "on eut porté",
+      "nous": "nous eûmes porté",
+      "vous": "vous eûtes porté",
+      "ils": "ils eurent porté",
+      "elles": "elles eurent porté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse porté",
+      "tu": "tu eusses porté",
+      "il": "il eût porté",
+      "elle": "elle eût porté",
+      "on": "on eût porté",
+      "nous": "nous eussions porté",
+      "vous": "vous eussiez porté",
+      "ils": "ils eussent porté",
+      "elles": "elles eussent porté"
+    },
+    "imperatif_passe": {
+      "tu": "aie porté",
+      "nous": "ayons porté",
+      "vous": "ayez porté"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "porter",
+    "infinitif_passe": "avoir porté",
+    "participe_present": "portant",
+    "participe_passe": "porté",
+    "gerondif_present": "en portant",
+    "gerondif_passe": "en ayant porté"
   }
 }

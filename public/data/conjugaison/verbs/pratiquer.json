@@ -139,6 +139,52 @@
       "tu": "pratique",
       "nous": "pratiquons",
       "vous": "pratiquez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je pratiquasse",
+      "tu": "tu pratiquasses",
+      "il": "il pratiquât",
+      "elle": "elle pratiquât",
+      "on": "on pratiquât",
+      "nous": "nous pratiquassions",
+      "vous": "vous pratiquassiez",
+      "ils": "ils pratiquassent",
+      "elles": "elles pratiquassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus pratiqué",
+      "tu": "tu eus pratiqué",
+      "il": "il eut pratiqué",
+      "elle": "elle eut pratiqué",
+      "on": "on eut pratiqué",
+      "nous": "nous eûmes pratiqué",
+      "vous": "vous eûtes pratiqué",
+      "ils": "ils eurent pratiqué",
+      "elles": "elles eurent pratiqué"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse pratiqué",
+      "tu": "tu eusses pratiqué",
+      "il": "il eût pratiqué",
+      "elle": "elle eût pratiqué",
+      "on": "on eût pratiqué",
+      "nous": "nous eussions pratiqué",
+      "vous": "vous eussiez pratiqué",
+      "ils": "ils eussent pratiqué",
+      "elles": "elles eussent pratiqué"
+    },
+    "imperatif_passe": {
+      "tu": "aie pratiqué",
+      "nous": "ayons pratiqué",
+      "vous": "ayez pratiqué"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "pratiquer",
+    "infinitif_passe": "avoir pratiqué",
+    "participe_present": "pratiquant",
+    "participe_passe": "pratiqué",
+    "gerondif_present": "en pratiquant",
+    "gerondif_passe": "en ayant pratiqué"
   }
 }

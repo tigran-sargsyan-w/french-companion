@@ -139,6 +139,52 @@
       "tu": "permets",
       "nous": "permettons",
       "vous": "permettez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je permisse",
+      "tu": "tu permisses",
+      "il": "il permît",
+      "elle": "elle permît",
+      "on": "on permît",
+      "nous": "nous permissions",
+      "vous": "vous permissiez",
+      "ils": "ils permissent",
+      "elles": "elles permissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus permis",
+      "tu": "tu eus permis",
+      "il": "il eut permis",
+      "elle": "elle eut permis",
+      "on": "on eut permis",
+      "nous": "nous eûmes permis",
+      "vous": "vous eûtes permis",
+      "ils": "ils eurent permis",
+      "elles": "elles eurent permis"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse permis",
+      "tu": "tu eusses permis",
+      "il": "il eût permis",
+      "elle": "elle eût permis",
+      "on": "on eût permis",
+      "nous": "nous eussions permis",
+      "vous": "vous eussiez permis",
+      "ils": "ils eussent permis",
+      "elles": "elles eussent permis"
+    },
+    "imperatif_passe": {
+      "tu": "aie permis",
+      "nous": "ayons permis",
+      "vous": "ayez permis"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "permettre",
+    "infinitif_passe": "avoir permis",
+    "participe_present": "permettant",
+    "participe_passe": "permis",
+    "gerondif_present": "en permettant",
+    "gerondif_passe": "en ayant permis"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "partage",
       "nous": "partageons",
       "vous": "partagez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je partageasse",
+      "tu": "tu partageasses",
+      "il": "il partageât",
+      "elle": "elle partageât",
+      "on": "on partageât",
+      "nous": "nous partageassions",
+      "vous": "vous partageassiez",
+      "ils": "ils partageassent",
+      "elles": "elles partageassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus partagé",
+      "tu": "tu eus partagé",
+      "il": "il eut partagé",
+      "elle": "elle eut partagé",
+      "on": "on eut partagé",
+      "nous": "nous eûmes partagé",
+      "vous": "vous eûtes partagé",
+      "ils": "ils eurent partagé",
+      "elles": "elles eurent partagé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse partagé",
+      "tu": "tu eusses partagé",
+      "il": "il eût partagé",
+      "elle": "elle eût partagé",
+      "on": "on eût partagé",
+      "nous": "nous eussions partagé",
+      "vous": "vous eussiez partagé",
+      "ils": "ils eussent partagé",
+      "elles": "elles eussent partagé"
+    },
+    "imperatif_passe": {
+      "tu": "aie partagé",
+      "nous": "ayons partagé",
+      "vous": "ayez partagé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "partager",
+    "infinitif_passe": "avoir partagé",
+    "participe_present": "partageant",
+    "participe_passe": "partagé",
+    "gerondif_present": "en partageant",
+    "gerondif_passe": "en ayant partagé"
   }
 }

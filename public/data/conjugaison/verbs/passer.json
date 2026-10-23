@@ -139,6 +139,52 @@
       "tu": "passe",
       "nous": "passons",
       "vous": "passez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je passasse",
+      "tu": "tu passasses",
+      "il": "il passât",
+      "elle": "elle passât",
+      "on": "on passât",
+      "nous": "nous passassions",
+      "vous": "vous passassiez",
+      "ils": "ils passassent",
+      "elles": "elles passassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus passé",
+      "tu": "tu eus passé",
+      "il": "il eut passé",
+      "elle": "elle eut passé",
+      "on": "on eut passé",
+      "nous": "nous eûmes passé",
+      "vous": "vous eûtes passé",
+      "ils": "ils eurent passé",
+      "elles": "elles eurent passé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse passé",
+      "tu": "tu eusses passé",
+      "il": "il eût passé",
+      "elle": "elle eût passé",
+      "on": "on eût passé",
+      "nous": "nous eussions passé",
+      "vous": "vous eussiez passé",
+      "ils": "ils eussent passé",
+      "elles": "elles eussent passé"
+    },
+    "imperatif_passe": {
+      "tu": "aie passé",
+      "nous": "ayons passé",
+      "vous": "ayez passé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "passer",
+    "infinitif_passe": "avoir passé",
+    "participe_present": "passant",
+    "participe_passe": "passé",
+    "gerondif_present": "en passant",
+    "gerondif_passe": "en ayant passé"
   }
 }

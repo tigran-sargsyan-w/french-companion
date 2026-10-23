@@ -139,6 +139,52 @@
       "tu": "offre",
       "nous": "offrons",
       "vous": "offrez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'offrisse",
+      "tu": "tu offrisses",
+      "il": "il offrît",
+      "elle": "elle offrît",
+      "on": "on offrît",
+      "nous": "nous offrissions",
+      "vous": "vous offrissiez",
+      "ils": "ils offrissent",
+      "elles": "elles offrissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus offert",
+      "tu": "tu eus offert",
+      "il": "il eut offert",
+      "elle": "elle eut offert",
+      "on": "on eut offert",
+      "nous": "nous eûmes offert",
+      "vous": "vous eûtes offert",
+      "ils": "ils eurent offert",
+      "elles": "elles eurent offert"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse offert",
+      "tu": "tu eusses offert",
+      "il": "il eût offert",
+      "elle": "elle eût offert",
+      "on": "on eût offert",
+      "nous": "nous eussions offert",
+      "vous": "vous eussiez offert",
+      "ils": "ils eussent offert",
+      "elles": "elles eussent offert"
+    },
+    "imperatif_passe": {
+      "tu": "aie offert",
+      "nous": "ayons offert",
+      "vous": "ayez offert"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "offrir",
+    "infinitif_passe": "avoir offert",
+    "participe_present": "offrant",
+    "participe_passe": "offert",
+    "gerondif_present": "en offrant",
+    "gerondif_passe": "en ayant offert"
   }
 }

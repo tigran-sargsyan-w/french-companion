@@ -134,6 +134,47 @@
       "vous": "vous allez pouvoir",
       "ils": "ils vont pouvoir",
       "elles": "elles vont pouvoir"
+    },
+    "subjonctif_imparfait": {
+      "je": "je pusse",
+      "tu": "tu pusses",
+      "il": "il pût",
+      "elle": "elle pût",
+      "on": "on pût",
+      "nous": "nous pussions",
+      "vous": "vous pussiez",
+      "ils": "ils pussent",
+      "elles": "elles pussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus pu",
+      "tu": "tu eus pu",
+      "il": "il eut pu",
+      "elle": "elle eut pu",
+      "on": "on eut pu",
+      "nous": "nous eûmes pu",
+      "vous": "vous eûtes pu",
+      "ils": "ils eurent pu",
+      "elles": "elles eurent pu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse pu",
+      "tu": "tu eusses pu",
+      "il": "il eût pu",
+      "elle": "elle eût pu",
+      "on": "on eût pu",
+      "nous": "nous eussions pu",
+      "vous": "vous eussiez pu",
+      "ils": "ils eussent pu",
+      "elles": "elles eussent pu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "pouvoir",
+    "infinitif_passe": "avoir pu",
+    "participe_present": "pouvant",
+    "participe_passe": "pu",
+    "gerondif_present": "en pouvant",
+    "gerondif_passe": "en ayant pu"
   }
 }

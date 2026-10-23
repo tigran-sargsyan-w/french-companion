@@ -139,6 +139,52 @@
       "tu": "oublie",
       "nous": "oublions",
       "vous": "oubliez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'oubliasse",
+      "tu": "tu oubliasses",
+      "il": "il oubliât",
+      "elle": "elle oubliât",
+      "on": "on oubliât",
+      "nous": "nous oubliassions",
+      "vous": "vous oubliassiez",
+      "ils": "ils oubliassent",
+      "elles": "elles oubliassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus oublié",
+      "tu": "tu eus oublié",
+      "il": "il eut oublié",
+      "elle": "elle eut oublié",
+      "on": "on eut oublié",
+      "nous": "nous eûmes oublié",
+      "vous": "vous eûtes oublié",
+      "ils": "ils eurent oublié",
+      "elles": "elles eurent oublié"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse oublié",
+      "tu": "tu eusses oublié",
+      "il": "il eût oublié",
+      "elle": "elle eût oublié",
+      "on": "on eût oublié",
+      "nous": "nous eussions oublié",
+      "vous": "vous eussiez oublié",
+      "ils": "ils eussent oublié",
+      "elles": "elles eussent oublié"
+    },
+    "imperatif_passe": {
+      "tu": "aie oublié",
+      "nous": "ayons oublié",
+      "vous": "ayez oublié"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "oublier",
+    "infinitif_passe": "avoir oublié",
+    "participe_present": "oubliant",
+    "participe_passe": "oublié",
+    "gerondif_present": "en oubliant",
+    "gerondif_passe": "en ayant oublié"
   }
 }

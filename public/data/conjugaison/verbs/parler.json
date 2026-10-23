@@ -139,6 +139,52 @@
       "tu": "parle",
       "nous": "parlons",
       "vous": "parlez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je parlasse",
+      "tu": "tu parlasses",
+      "il": "il parlât",
+      "elle": "elle parlât",
+      "on": "on parlât",
+      "nous": "nous parlassions",
+      "vous": "vous parlassiez",
+      "ils": "ils parlassent",
+      "elles": "elles parlassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus parlé",
+      "tu": "tu eus parlé",
+      "il": "il eut parlé",
+      "elle": "elle eut parlé",
+      "on": "on eut parlé",
+      "nous": "nous eûmes parlé",
+      "vous": "vous eûtes parlé",
+      "ils": "ils eurent parlé",
+      "elles": "elles eurent parlé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse parlé",
+      "tu": "tu eusses parlé",
+      "il": "il eût parlé",
+      "elle": "elle eût parlé",
+      "on": "on eût parlé",
+      "nous": "nous eussions parlé",
+      "vous": "vous eussiez parlé",
+      "ils": "ils eussent parlé",
+      "elles": "elles eussent parlé"
+    },
+    "imperatif_passe": {
+      "tu": "aie parlé",
+      "nous": "ayons parlé",
+      "vous": "ayez parlé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "parler",
+    "infinitif_passe": "avoir parlé",
+    "participe_present": "parlant",
+    "participe_passe": "parlé",
+    "gerondif_present": "en parlant",
+    "gerondif_passe": "en ayant parlé"
   }
 }

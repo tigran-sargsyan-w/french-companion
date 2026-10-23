@@ -139,6 +139,52 @@
       "tu": "obéis",
       "nous": "obéissons",
       "vous": "obéissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'obéisse",
+      "tu": "tu obéisses",
+      "il": "il obéît",
+      "elle": "elle obéît",
+      "on": "on obéît",
+      "nous": "nous obéissions",
+      "vous": "vous obéissiez",
+      "ils": "ils obéissent",
+      "elles": "elles obéissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus obéi",
+      "tu": "tu eus obéi",
+      "il": "il eut obéi",
+      "elle": "elle eut obéi",
+      "on": "on eut obéi",
+      "nous": "nous eûmes obéi",
+      "vous": "vous eûtes obéi",
+      "ils": "ils eurent obéi",
+      "elles": "elles eurent obéi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse obéi",
+      "tu": "tu eusses obéi",
+      "il": "il eût obéi",
+      "elle": "elle eût obéi",
+      "on": "on eût obéi",
+      "nous": "nous eussions obéi",
+      "vous": "vous eussiez obéi",
+      "ils": "ils eussent obéi",
+      "elles": "elles eussent obéi"
+    },
+    "imperatif_passe": {
+      "tu": "aie obéi",
+      "nous": "ayons obéi",
+      "vous": "ayez obéi"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "obéir",
+    "infinitif_passe": "avoir obéi",
+    "participe_present": "obéissant",
+    "participe_passe": "obéi",
+    "gerondif_present": "en obéissant",
+    "gerondif_passe": "en ayant obéi"
   }
 }
