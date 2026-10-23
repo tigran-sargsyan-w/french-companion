@@ -139,6 +139,52 @@
       "tu": "vends",
       "nous": "vendons",
       "vous": "vendez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je vendisse",
+      "tu": "tu vendisses",
+      "il": "il vendît",
+      "elle": "elle vendît",
+      "on": "on vendît",
+      "nous": "nous vendissions",
+      "vous": "vous vendissiez",
+      "ils": "ils vendissent",
+      "elles": "elles vendissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus vendu",
+      "tu": "tu eus vendu",
+      "il": "il eut vendu",
+      "elle": "elle eut vendu",
+      "on": "on eut vendu",
+      "nous": "nous eûmes vendu",
+      "vous": "vous eûtes vendu",
+      "ils": "ils eurent vendu",
+      "elles": "elles eurent vendu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse vendu",
+      "tu": "tu eusses vendu",
+      "il": "il eût vendu",
+      "elle": "elle eût vendu",
+      "on": "on eût vendu",
+      "nous": "nous eussions vendu",
+      "vous": "vous eussiez vendu",
+      "ils": "ils eussent vendu",
+      "elles": "elles eussent vendu"
+    },
+    "imperatif_passe": {
+      "tu": "aie vendu",
+      "nous": "ayons vendu",
+      "vous": "ayez vendu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "vendre",
+    "infinitif_passe": "avoir vendu",
+    "participe_present": "vendant",
+    "participe_passe": "vendu",
+    "gerondif_present": "en vendant",
+    "gerondif_passe": "en ayant vendu"
   }
 }

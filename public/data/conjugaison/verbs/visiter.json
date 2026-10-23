@@ -139,6 +139,52 @@
       "tu": "visite",
       "nous": "visitons",
       "vous": "visitez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je visitasse",
+      "tu": "tu visitasses",
+      "il": "il visitât",
+      "elle": "elle visitât",
+      "on": "on visitât",
+      "nous": "nous visitassions",
+      "vous": "vous visitassiez",
+      "ils": "ils visitassent",
+      "elles": "elles visitassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus visité",
+      "tu": "tu eus visité",
+      "il": "il eut visité",
+      "elle": "elle eut visité",
+      "on": "on eut visité",
+      "nous": "nous eûmes visité",
+      "vous": "vous eûtes visité",
+      "ils": "ils eurent visité",
+      "elles": "elles eurent visité"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse visité",
+      "tu": "tu eusses visité",
+      "il": "il eût visité",
+      "elle": "elle eût visité",
+      "on": "on eût visité",
+      "nous": "nous eussions visité",
+      "vous": "vous eussiez visité",
+      "ils": "ils eussent visité",
+      "elles": "elles eussent visité"
+    },
+    "imperatif_passe": {
+      "tu": "aie visité",
+      "nous": "ayons visité",
+      "vous": "ayez visité"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "visiter",
+    "infinitif_passe": "avoir visité",
+    "participe_present": "visitant",
+    "participe_passe": "visité",
+    "gerondif_present": "en visitant",
+    "gerondif_passe": "en ayant visité"
   }
 }

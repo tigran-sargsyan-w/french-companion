@@ -139,6 +139,52 @@
       "tu": "sors",
       "nous": "sortons",
       "vous": "sortez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je sortisse",
+      "tu": "tu sortisses",
+      "il": "il sortît",
+      "elle": "elle sortît",
+      "on": "on sortît",
+      "nous": "nous sortissions",
+      "vous": "vous sortissiez",
+      "ils": "ils sortissent",
+      "elles": "elles sortissent"
+    },
+    "passe_anterieur": {
+      "je": "je fus sorti",
+      "tu": "tu fus sorti",
+      "il": "il fut sorti",
+      "elle": "elle fut sortie",
+      "on": "on fut sorti",
+      "nous": "nous fûmes sortis",
+      "vous": "vous fûtes sortis",
+      "ils": "ils furent sortis",
+      "elles": "elles furent sorties"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je fusse sorti",
+      "tu": "tu fusses sorti",
+      "il": "il fût sorti",
+      "elle": "elle fût sortie",
+      "on": "on fût sorti",
+      "nous": "nous fussions sortis",
+      "vous": "vous fussiez sortis",
+      "ils": "ils fussent sortis",
+      "elles": "elles fussent sorties"
+    },
+    "imperatif_passe": {
+      "tu": "sois sorti",
+      "nous": "soyons sortis",
+      "vous": "soyez sortis"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "sortir",
+    "infinitif_passe": "être sorti",
+    "participe_present": "sortant",
+    "participe_passe": "sorti",
+    "gerondif_present": "en sortant",
+    "gerondif_passe": "en étant sorti"
   }
 }

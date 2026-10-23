@@ -139,6 +139,52 @@
       "tu": "vieillis",
       "nous": "vieillissons",
       "vous": "vieillissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je vieillisse",
+      "tu": "tu vieillisses",
+      "il": "il vieillît",
+      "elle": "elle vieillît",
+      "on": "on vieillît",
+      "nous": "nous vieillissions",
+      "vous": "vous vieillissiez",
+      "ils": "ils vieillissent",
+      "elles": "elles vieillissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus vieilli",
+      "tu": "tu eus vieilli",
+      "il": "il eut vieilli",
+      "elle": "elle eut vieilli",
+      "on": "on eut vieilli",
+      "nous": "nous eûmes vieilli",
+      "vous": "vous eûtes vieilli",
+      "ils": "ils eurent vieilli",
+      "elles": "elles eurent vieilli"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse vieilli",
+      "tu": "tu eusses vieilli",
+      "il": "il eût vieilli",
+      "elle": "elle eût vieilli",
+      "on": "on eût vieilli",
+      "nous": "nous eussions vieilli",
+      "vous": "vous eussiez vieilli",
+      "ils": "ils eussent vieilli",
+      "elles": "elles eussent vieilli"
+    },
+    "imperatif_passe": {
+      "tu": "aie vieilli",
+      "nous": "ayons vieilli",
+      "vous": "ayez vieilli"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "vieillir",
+    "infinitif_passe": "avoir vieilli",
+    "participe_present": "vieillissant",
+    "participe_passe": "vieilli",
+    "gerondif_present": "en vieillissant",
+    "gerondif_passe": "en ayant vieilli"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "termine",
       "nous": "terminons",
       "vous": "terminez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je terminasse",
+      "tu": "tu terminasses",
+      "il": "il terminât",
+      "elle": "elle terminât",
+      "on": "on terminât",
+      "nous": "nous terminassions",
+      "vous": "vous terminassiez",
+      "ils": "ils terminassent",
+      "elles": "elles terminassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus terminé",
+      "tu": "tu eus terminé",
+      "il": "il eut terminé",
+      "elle": "elle eut terminé",
+      "on": "on eut terminé",
+      "nous": "nous eûmes terminé",
+      "vous": "vous eûtes terminé",
+      "ils": "ils eurent terminé",
+      "elles": "elles eurent terminé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse terminé",
+      "tu": "tu eusses terminé",
+      "il": "il eût terminé",
+      "elle": "elle eût terminé",
+      "on": "on eût terminé",
+      "nous": "nous eussions terminé",
+      "vous": "vous eussiez terminé",
+      "ils": "ils eussent terminé",
+      "elles": "elles eussent terminé"
+    },
+    "imperatif_passe": {
+      "tu": "aie terminé",
+      "nous": "ayons terminé",
+      "vous": "ayez terminé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "terminer",
+    "infinitif_passe": "avoir terminé",
+    "participe_present": "terminant",
+    "participe_passe": "terminé",
+    "gerondif_present": "en terminant",
+    "gerondif_passe": "en ayant terminé"
   }
 }

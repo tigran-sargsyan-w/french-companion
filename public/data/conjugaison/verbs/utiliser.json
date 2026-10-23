@@ -139,6 +139,52 @@
       "tu": "utilise",
       "nous": "utilisons",
       "vous": "utilisez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'utilisasse",
+      "tu": "tu utilisasses",
+      "il": "il utilisât",
+      "elle": "elle utilisât",
+      "on": "on utilisât",
+      "nous": "nous utilisassions",
+      "vous": "vous utilisassiez",
+      "ils": "ils utilisassent",
+      "elles": "elles utilisassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus utilisé",
+      "tu": "tu eus utilisé",
+      "il": "il eut utilisé",
+      "elle": "elle eut utilisé",
+      "on": "on eut utilisé",
+      "nous": "nous eûmes utilisé",
+      "vous": "vous eûtes utilisé",
+      "ils": "ils eurent utilisé",
+      "elles": "elles eurent utilisé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse utilisé",
+      "tu": "tu eusses utilisé",
+      "il": "il eût utilisé",
+      "elle": "elle eût utilisé",
+      "on": "on eût utilisé",
+      "nous": "nous eussions utilisé",
+      "vous": "vous eussiez utilisé",
+      "ils": "ils eussent utilisé",
+      "elles": "elles eussent utilisé"
+    },
+    "imperatif_passe": {
+      "tu": "aie utilisé",
+      "nous": "ayons utilisé",
+      "vous": "ayez utilisé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "utiliser",
+    "infinitif_passe": "avoir utilisé",
+    "participe_present": "utilisant",
+    "participe_passe": "utilisé",
+    "gerondif_present": "en utilisant",
+    "gerondif_passe": "en ayant utilisé"
   }
 }

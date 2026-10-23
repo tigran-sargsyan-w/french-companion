@@ -139,6 +139,52 @@
       "tu": "tombe",
       "nous": "tombons",
       "vous": "tombez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je tombasse",
+      "tu": "tu tombasses",
+      "il": "il tombât",
+      "elle": "elle tombât",
+      "on": "on tombât",
+      "nous": "nous tombassions",
+      "vous": "vous tombassiez",
+      "ils": "ils tombassent",
+      "elles": "elles tombassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus tombé",
+      "tu": "tu eus tombé",
+      "il": "il eut tombé",
+      "elle": "elle eut tombé",
+      "on": "on eut tombé",
+      "nous": "nous eûmes tombé",
+      "vous": "vous eûtes tombé",
+      "ils": "ils eurent tombé",
+      "elles": "elles eurent tombé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse tombé",
+      "tu": "tu eusses tombé",
+      "il": "il eût tombé",
+      "elle": "elle eût tombé",
+      "on": "on eût tombé",
+      "nous": "nous eussions tombé",
+      "vous": "vous eussiez tombé",
+      "ils": "ils eussent tombé",
+      "elles": "elles eussent tombé"
+    },
+    "imperatif_passe": {
+      "tu": "aie tombé",
+      "nous": "ayons tombé",
+      "vous": "ayez tombé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "tomber",
+    "infinitif_passe": "avoir tombé",
+    "participe_present": "tombant",
+    "participe_passe": "tombé",
+    "gerondif_present": "en tombant",
+    "gerondif_passe": "en ayant tombé"
   }
 }

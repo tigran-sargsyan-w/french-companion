@@ -139,6 +139,52 @@
       "tu": "viens",
       "nous": "venons",
       "vous": "venez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je vinsse",
+      "tu": "tu vinsses",
+      "il": "il vînt",
+      "elle": "elle vînt",
+      "on": "on vînt",
+      "nous": "nous vinssions",
+      "vous": "vous vinssiez",
+      "ils": "ils vinssent",
+      "elles": "elles vinssent"
+    },
+    "passe_anterieur": {
+      "je": "je fus venu",
+      "tu": "tu fus venu",
+      "il": "il fut venu",
+      "elle": "elle fut venue",
+      "on": "on fut venu",
+      "nous": "nous fûmes venus",
+      "vous": "vous fûtes venus",
+      "ils": "ils furent venus",
+      "elles": "elles furent venues"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je fusse venu",
+      "tu": "tu fusses venu",
+      "il": "il fût venu",
+      "elle": "elle fût venue",
+      "on": "on fût venu",
+      "nous": "nous fussions venus",
+      "vous": "vous fussiez venus",
+      "ils": "ils fussent venus",
+      "elles": "elles fussent venues"
+    },
+    "imperatif_passe": {
+      "tu": "sois venu",
+      "nous": "soyons venus",
+      "vous": "soyez venus"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "venir",
+    "infinitif_passe": "être venu",
+    "participe_present": "venant",
+    "participe_passe": "venu",
+    "gerondif_present": "en venant",
+    "gerondif_passe": "en étant venu"
   }
 }

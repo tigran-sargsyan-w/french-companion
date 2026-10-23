@@ -139,6 +139,52 @@
       "tu": "souhaite",
       "nous": "souhaitons",
       "vous": "souhaitez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je souhaitasse",
+      "tu": "tu souhaitasses",
+      "il": "il souhaitât",
+      "elle": "elle souhaitât",
+      "on": "on souhaitât",
+      "nous": "nous souhaitassions",
+      "vous": "vous souhaitassiez",
+      "ils": "ils souhaitassent",
+      "elles": "elles souhaitassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus souhaité",
+      "tu": "tu eus souhaité",
+      "il": "il eut souhaité",
+      "elle": "elle eut souhaité",
+      "on": "on eut souhaité",
+      "nous": "nous eûmes souhaité",
+      "vous": "vous eûtes souhaité",
+      "ils": "ils eurent souhaité",
+      "elles": "elles eurent souhaité"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse souhaité",
+      "tu": "tu eusses souhaité",
+      "il": "il eût souhaité",
+      "elle": "elle eût souhaité",
+      "on": "on eût souhaité",
+      "nous": "nous eussions souhaité",
+      "vous": "vous eussiez souhaité",
+      "ils": "ils eussent souhaité",
+      "elles": "elles eussent souhaité"
+    },
+    "imperatif_passe": {
+      "tu": "aie souhaité",
+      "nous": "ayons souhaité",
+      "vous": "ayez souhaité"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "souhaiter",
+    "infinitif_passe": "avoir souhaité",
+    "participe_present": "souhaitant",
+    "participe_passe": "souhaité",
+    "gerondif_present": "en souhaitant",
+    "gerondif_passe": "en ayant souhaité"
   }
 }

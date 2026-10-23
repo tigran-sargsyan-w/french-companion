@@ -139,6 +139,52 @@
       "tu": "souffre",
       "nous": "souffrons",
       "vous": "souffrez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je souffrisse",
+      "tu": "tu souffrisses",
+      "il": "il souffrît",
+      "elle": "elle souffrît",
+      "on": "on souffrît",
+      "nous": "nous souffrissions",
+      "vous": "vous souffrissiez",
+      "ils": "ils souffrissent",
+      "elles": "elles souffrissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus souffert",
+      "tu": "tu eus souffert",
+      "il": "il eut souffert",
+      "elle": "elle eut souffert",
+      "on": "on eut souffert",
+      "nous": "nous eûmes souffert",
+      "vous": "vous eûtes souffert",
+      "ils": "ils eurent souffert",
+      "elles": "elles eurent souffert"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse souffert",
+      "tu": "tu eusses souffert",
+      "il": "il eût souffert",
+      "elle": "elle eût souffert",
+      "on": "on eût souffert",
+      "nous": "nous eussions souffert",
+      "vous": "vous eussiez souffert",
+      "ils": "ils eussent souffert",
+      "elles": "elles eussent souffert"
+    },
+    "imperatif_passe": {
+      "tu": "aie souffert",
+      "nous": "ayons souffert",
+      "vous": "ayez souffert"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "souffrir",
+    "infinitif_passe": "avoir souffert",
+    "participe_present": "souffrant",
+    "participe_passe": "souffert",
+    "gerondif_present": "en souffrant",
+    "gerondif_passe": "en ayant souffert"
   }
 }

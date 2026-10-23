@@ -139,6 +139,52 @@
       "tu": "signe",
       "nous": "signons",
       "vous": "signez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je signasse",
+      "tu": "tu signasses",
+      "il": "il signât",
+      "elle": "elle signât",
+      "on": "on signât",
+      "nous": "nous signassions",
+      "vous": "vous signassiez",
+      "ils": "ils signassent",
+      "elles": "elles signassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus signé",
+      "tu": "tu eus signé",
+      "il": "il eut signé",
+      "elle": "elle eut signé",
+      "on": "on eut signé",
+      "nous": "nous eûmes signé",
+      "vous": "vous eûtes signé",
+      "ils": "ils eurent signé",
+      "elles": "elles eurent signé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse signé",
+      "tu": "tu eusses signé",
+      "il": "il eût signé",
+      "elle": "elle eût signé",
+      "on": "on eût signé",
+      "nous": "nous eussions signé",
+      "vous": "vous eussiez signé",
+      "ils": "ils eussent signé",
+      "elles": "elles eussent signé"
+    },
+    "imperatif_passe": {
+      "tu": "aie signé",
+      "nous": "ayons signé",
+      "vous": "ayez signé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "signer",
+    "infinitif_passe": "avoir signé",
+    "participe_present": "signant",
+    "participe_passe": "signé",
+    "gerondif_present": "en signant",
+    "gerondif_passe": "en ayant signé"
   }
 }

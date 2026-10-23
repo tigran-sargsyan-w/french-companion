@@ -139,6 +139,52 @@
       "tu": "suis",
       "nous": "suivons",
       "vous": "suivez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je suivisse",
+      "tu": "tu suivisses",
+      "il": "il suivît",
+      "elle": "elle suivît",
+      "on": "on suivît",
+      "nous": "nous suivissions",
+      "vous": "vous suivissiez",
+      "ils": "ils suivissent",
+      "elles": "elles suivissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus suivi",
+      "tu": "tu eus suivi",
+      "il": "il eut suivi",
+      "elle": "elle eut suivi",
+      "on": "on eut suivi",
+      "nous": "nous eûmes suivi",
+      "vous": "vous eûtes suivi",
+      "ils": "ils eurent suivi",
+      "elles": "elles eurent suivi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse suivi",
+      "tu": "tu eusses suivi",
+      "il": "il eût suivi",
+      "elle": "elle eût suivi",
+      "on": "on eût suivi",
+      "nous": "nous eussions suivi",
+      "vous": "vous eussiez suivi",
+      "ils": "ils eussent suivi",
+      "elles": "elles eussent suivi"
+    },
+    "imperatif_passe": {
+      "tu": "aie suivi",
+      "nous": "ayons suivi",
+      "vous": "ayez suivi"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "suivre",
+    "infinitif_passe": "avoir suivi",
+    "participe_present": "suivant",
+    "participe_passe": "suivi",
+    "gerondif_present": "en suivant",
+    "gerondif_passe": "en ayant suivi"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "travaille",
       "nous": "travaillons",
       "vous": "travaillez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je travaillasse",
+      "tu": "tu travaillasses",
+      "il": "il travaillât",
+      "elle": "elle travaillât",
+      "on": "on travaillât",
+      "nous": "nous travaillassions",
+      "vous": "vous travaillassiez",
+      "ils": "ils travaillassent",
+      "elles": "elles travaillassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus travaillé",
+      "tu": "tu eus travaillé",
+      "il": "il eut travaillé",
+      "elle": "elle eut travaillé",
+      "on": "on eut travaillé",
+      "nous": "nous eûmes travaillé",
+      "vous": "vous eûtes travaillé",
+      "ils": "ils eurent travaillé",
+      "elles": "elles eurent travaillé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse travaillé",
+      "tu": "tu eusses travaillé",
+      "il": "il eût travaillé",
+      "elle": "elle eût travaillé",
+      "on": "on eût travaillé",
+      "nous": "nous eussions travaillé",
+      "vous": "vous eussiez travaillé",
+      "ils": "ils eussent travaillé",
+      "elles": "elles eussent travaillé"
+    },
+    "imperatif_passe": {
+      "tu": "aie travaillé",
+      "nous": "ayons travaillé",
+      "vous": "ayez travaillé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "travailler",
+    "infinitif_passe": "avoir travaillé",
+    "participe_present": "travaillant",
+    "participe_passe": "travaillé",
+    "gerondif_present": "en travaillant",
+    "gerondif_passe": "en ayant travaillé"
   }
 }

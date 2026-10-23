@@ -139,6 +139,52 @@
       "tu": "tiens",
       "nous": "tenons",
       "vous": "tenez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je tinsse",
+      "tu": "tu tinsses",
+      "il": "il tînt",
+      "elle": "elle tînt",
+      "on": "on tînt",
+      "nous": "nous tinssions",
+      "vous": "vous tinssiez",
+      "ils": "ils tinssent",
+      "elles": "elles tinssent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus tenu",
+      "tu": "tu eus tenu",
+      "il": "il eut tenu",
+      "elle": "elle eut tenu",
+      "on": "on eut tenu",
+      "nous": "nous eûmes tenu",
+      "vous": "vous eûtes tenu",
+      "ils": "ils eurent tenu",
+      "elles": "elles eurent tenu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse tenu",
+      "tu": "tu eusses tenu",
+      "il": "il eût tenu",
+      "elle": "elle eût tenu",
+      "on": "on eût tenu",
+      "nous": "nous eussions tenu",
+      "vous": "vous eussiez tenu",
+      "ils": "ils eussent tenu",
+      "elles": "elles eussent tenu"
+    },
+    "imperatif_passe": {
+      "tu": "aie tenu",
+      "nous": "ayons tenu",
+      "vous": "ayez tenu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "tenir",
+    "infinitif_passe": "avoir tenu",
+    "participe_present": "tenant",
+    "participe_passe": "tenu",
+    "gerondif_present": "en tenant",
+    "gerondif_passe": "en ayant tenu"
   }
 }
