@@ -139,6 +139,52 @@
       "tu": "voyage",
       "nous": "voyageons",
       "vous": "voyagez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je voyageasse",
+      "tu": "tu voyageasses",
+      "il": "il voyageât",
+      "elle": "elle voyageât",
+      "on": "on voyageât",
+      "nous": "nous voyageassions",
+      "vous": "vous voyageassiez",
+      "ils": "ils voyageassent",
+      "elles": "elles voyageassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus voyagé",
+      "tu": "tu eus voyagé",
+      "il": "il eut voyagé",
+      "elle": "elle eut voyagé",
+      "on": "on eut voyagé",
+      "nous": "nous eûmes voyagé",
+      "vous": "vous eûtes voyagé",
+      "ils": "ils eurent voyagé",
+      "elles": "elles eurent voyagé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse voyagé",
+      "tu": "tu eusses voyagé",
+      "il": "il eût voyagé",
+      "elle": "elle eût voyagé",
+      "on": "on eût voyagé",
+      "nous": "nous eussions voyagé",
+      "vous": "vous eussiez voyagé",
+      "ils": "ils eussent voyagé",
+      "elles": "elles eussent voyagé"
+    },
+    "imperatif_passe": {
+      "tu": "aie voyagé",
+      "nous": "ayons voyagé",
+      "vous": "ayez voyagé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "voyager",
+    "infinitif_passe": "avoir voyagé",
+    "participe_present": "voyageant",
+    "participe_passe": "voyagé",
+    "gerondif_present": "en voyageant",
+    "gerondif_passe": "en ayant voyagé"
   }
 }

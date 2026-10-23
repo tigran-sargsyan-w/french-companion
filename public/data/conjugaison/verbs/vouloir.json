@@ -139,6 +139,52 @@
       "tu": "veuille",
       "nous": "veuillons",
       "vous": "veuillez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je voulusse",
+      "tu": "tu voulusses",
+      "il": "il voulût",
+      "elle": "elle voulût",
+      "on": "on voulût",
+      "nous": "nous voulussions",
+      "vous": "vous voulussiez",
+      "ils": "ils voulussent",
+      "elles": "elles voulussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus voulu",
+      "tu": "tu eus voulu",
+      "il": "il eut voulu",
+      "elle": "elle eut voulu",
+      "on": "on eut voulu",
+      "nous": "nous eûmes voulu",
+      "vous": "vous eûtes voulu",
+      "ils": "ils eurent voulu",
+      "elles": "elles eurent voulu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse voulu",
+      "tu": "tu eusses voulu",
+      "il": "il eût voulu",
+      "elle": "elle eût voulu",
+      "on": "on eût voulu",
+      "nous": "nous eussions voulu",
+      "vous": "vous eussiez voulu",
+      "ils": "ils eussent voulu",
+      "elles": "elles eussent voulu"
+    },
+    "imperatif_passe": {
+      "tu": "aie voulu",
+      "nous": "ayons voulu",
+      "vous": "ayez voulu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "vouloir",
+    "infinitif_passe": "avoir voulu",
+    "participe_present": "voulant",
+    "participe_passe": "voulu",
+    "gerondif_present": "en voulant",
+    "gerondif_passe": "en ayant voulu"
   }
 }

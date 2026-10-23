@@ -139,6 +139,52 @@
       "tu": "vois",
       "nous": "voyons",
       "vous": "voyez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je visse",
+      "tu": "tu visses",
+      "il": "il vît",
+      "elle": "elle vît",
+      "on": "on vît",
+      "nous": "nous vissions",
+      "vous": "vous vissiez",
+      "ils": "ils vissent",
+      "elles": "elles vissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus vu",
+      "tu": "tu eus vu",
+      "il": "il eut vu",
+      "elle": "elle eut vu",
+      "on": "on eut vu",
+      "nous": "nous eûmes vu",
+      "vous": "vous eûtes vu",
+      "ils": "ils eurent vu",
+      "elles": "elles eurent vu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse vu",
+      "tu": "tu eusses vu",
+      "il": "il eût vu",
+      "elle": "elle eût vu",
+      "on": "on eût vu",
+      "nous": "nous eussions vu",
+      "vous": "vous eussiez vu",
+      "ils": "ils eussent vu",
+      "elles": "elles eussent vu"
+    },
+    "imperatif_passe": {
+      "tu": "aie vu",
+      "nous": "ayons vu",
+      "vous": "ayez vu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "voir",
+    "infinitif_passe": "avoir vu",
+    "participe_present": "voyant",
+    "participe_passe": "vu",
+    "gerondif_present": "en voyant",
+    "gerondif_passe": "en ayant vu"
   }
 }

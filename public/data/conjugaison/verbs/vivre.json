@@ -139,6 +139,52 @@
       "tu": "vis",
       "nous": "vivons",
       "vous": "vivez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je vécusse",
+      "tu": "tu vécusses",
+      "il": "il vécût",
+      "elle": "elle vécût",
+      "on": "on vécût",
+      "nous": "nous vécussions",
+      "vous": "vous vécussiez",
+      "ils": "ils vécussent",
+      "elles": "elles vécussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus vécu",
+      "tu": "tu eus vécu",
+      "il": "il eut vécu",
+      "elle": "elle eut vécu",
+      "on": "on eut vécu",
+      "nous": "nous eûmes vécu",
+      "vous": "vous eûtes vécu",
+      "ils": "ils eurent vécu",
+      "elles": "elles eurent vécu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse vécu",
+      "tu": "tu eusses vécu",
+      "il": "il eût vécu",
+      "elle": "elle eût vécu",
+      "on": "on eût vécu",
+      "nous": "nous eussions vécu",
+      "vous": "vous eussiez vécu",
+      "ils": "ils eussent vécu",
+      "elles": "elles eussent vécu"
+    },
+    "imperatif_passe": {
+      "tu": "aie vécu",
+      "nous": "ayons vécu",
+      "vous": "ayez vécu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "vivre",
+    "infinitif_passe": "avoir vécu",
+    "participe_present": "vivant",
+    "participe_passe": "vécu",
+    "gerondif_present": "en vivant",
+    "gerondif_passe": "en ayant vécu"
   }
 }
