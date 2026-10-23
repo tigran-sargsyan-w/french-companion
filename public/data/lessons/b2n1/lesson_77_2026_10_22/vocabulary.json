@@ -1,0 +1,618 @@
+[
+  {
+    "id": "v_2026_10_22_un_cascadeur",
+    "french": "un cascadeur",
+    "translation": "каскадёр",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_exercer_un_metier",
+    "french": "exercer un métier",
+    "translation": "работать по профессии",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_etre_muscle",
+    "french": "être musclé",
+    "translation": "быть мускулистым",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_silhouette",
+    "french": "une silhouette",
+    "translation": "силуэт, фигура",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_identique_a",
+    "french": "identique à",
+    "translation": "идентичный, такой же как",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_avoir_le_gout_du_risque",
+    "french": "avoir le goût du risque",
+    "translation": "любить риск",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_entrainement",
+    "french": "un entraînement",
+    "translation": "тренировка, подготовка",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_etre_en_forme",
+    "french": "être en forme",
+    "translation": "быть в хорошей форме",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_endurer",
+    "french": "endurer",
+    "translation": "выдерживать, переносить",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_scene_intense",
+    "french": "une scène intense",
+    "translation": "напряжённая сцена",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_a_refaire_plusieurs_fois",
+    "french": "à refaire plusieurs fois",
+    "translation": "которую нужно повторять несколько раз",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_ne_pas_etre_a_l_abri_de",
+    "french": "ne pas être à l'abri de",
+    "translation": "быть не застрахованным от",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_accident",
+    "french": "un accident",
+    "translation": "несчастный случай",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_se_blesser",
+    "french": "se blesser",
+    "translation": "получить травму",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_se_fracturer_l_epaule",
+    "french": "se fracturer l'épaule",
+    "translation": "сломать плечо",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_la_cheville",
+    "french": "la cheville",
+    "translation": "лодыжка",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_faire_payer_chaque_blessure",
+    "french": "faire payer chaque blessure",
+    "translation": "заставлять расплачиваться за каждую травму",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_danseuse",
+    "french": "une danseuse",
+    "translation": "танцовщица",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_avec_le_temps",
+    "french": "avec le temps",
+    "translation": "со временем",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_se_transformer",
+    "french": "se transformer",
+    "translation": "преображаться, изменяться",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_estimer_que",
+    "french": "estimer que",
+    "translation": "считать, полагать что",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_avoir_la_chance_de",
+    "french": "avoir la chance de",
+    "translation": "иметь возможность, посчастливиться",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_continuer_de",
+    "french": "continuer de",
+    "translation": "продолжать",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_carriere",
+    "french": "une carrière",
+    "translation": "карьера",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_etre_rare",
+    "french": "être rare",
+    "translation": "быть редким",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_la_majorite",
+    "french": "la majorité",
+    "translation": "большинство",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_sonner_la_fin_d_une_activite",
+    "french": "sonner la fin d'une activité",
+    "translation": "означать конец деятельности",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_faire_rever",
+    "french": "faire rêver",
+    "translation": "заставлять мечтать",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_derriere_le_reve",
+    "french": "derrière le rêve",
+    "translation": "за мечтой, за красивой картинкой",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_etre_soumis_a",
+    "french": "être soumis à",
+    "translation": "подвергаться, быть подверженным",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_grande_discipline",
+    "french": "une grande discipline",
+    "translation": "строгая дисциплина",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_impliquer",
+    "french": "impliquer",
+    "translation": "подразумевать, влечь за собой",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_beaucoup_de_sacrifices",
+    "french": "beaucoup de sacrifices",
+    "translation": "много жертв",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_des_efforts_intenses",
+    "french": "des efforts intenses",
+    "translation": "интенсивные усилия",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_etre_davantage_a_l_ecoute_de_son_corps",
+    "french": "être davantage à l'écoute de son corps",
+    "translation": "внимательнее прислушиваться к своему телу",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_en_cas_de_lesion",
+    "french": "en cas de lésion",
+    "translation": "в случае повреждения тканей",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_recuperer",
+    "french": "récupérer",
+    "translation": "восстанавливаться",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_de_la_meme_facon",
+    "french": "de la même façon",
+    "translation": "таким же образом",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_mannequin_de_detail",
+    "french": "un mannequin de détail",
+    "translation": "модель для демонстрации отдельных частей тела",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_surveiller_de_pres",
+    "french": "surveiller de près",
+    "translation": "внимательно следить",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_creation",
+    "french": "une création",
+    "translation": "творение, изделие",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_styliste",
+    "french": "un styliste",
+    "translation": "стилист, модельер",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_etre_soumis_a_des_contraintes",
+    "french": "être soumis à des contraintes",
+    "translation": "сталкиваться с ограничениями",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_tenir_longtemps",
+    "french": "tenir longtemps",
+    "translation": "долго выдерживать",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_pose_inconfortable",
+    "french": "une pose inconfortable",
+    "translation": "неудобная поза",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_les_bras_en_l_air",
+    "french": "les bras en l'air",
+    "translation": "с поднятыми руками",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_traiter_les_ongles",
+    "french": "traiter les ongles",
+    "translation": "ухаживать за ногтями, обрабатывать ногти",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_continuellement",
+    "french": "continuellement",
+    "translation": "постоянно, непрерывно",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_des_produits_cosmetiques",
+    "french": "des produits cosmétiques",
+    "translation": "косметические средства",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_avoir_la_peau_lisse",
+    "french": "avoir la peau lisse",
+    "translation": "иметь гладкую кожу",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_sans_cicatrices",
+    "french": "sans cicatrices",
+    "translation": "без шрамов",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_sacrifier",
+    "french": "sacrifier",
+    "translation": "жертвовать",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_garder_les_ongles_longs",
+    "french": "garder les ongles longs",
+    "translation": "сохранять длинные ногти",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_faire_attention_a_ne_pas_se_blesser",
+    "french": "faire attention à ne pas se blesser",
+    "translation": "следить за тем, чтобы не травмироваться",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_main_assuree",
+    "french": "une main assurée",
+    "translation": "твёрдая, уверенная рука",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_pianiste",
+    "french": "un pianiste",
+    "translation": "пианист",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_chirurgien",
+    "french": "un chirurgien",
+    "translation": "хирург",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_artiste_de_cirque",
+    "french": "un artiste de cirque",
+    "translation": "артист цирка",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_numero",
+    "french": "un numéro",
+    "translation": "цирковой номер",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_le_regard_fascine_du_public",
+    "french": "le regard fasciné du public",
+    "translation": "восхищённые взгляды зрителей",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_trapeziste",
+    "french": "un trapéziste",
+    "translation": "воздушный гимнаст",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_le_risque_de_se_blesser",
+    "french": "le risque de se blesser",
+    "translation": "риск получить травму",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_a_cause_d_une_chute",
+    "french": "à cause d'une chute",
+    "translation": "из-за падения",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_entrainer",
+    "french": "entraîner",
+    "translation": "повлечь за собой",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_incapacite_de_travailler",
+    "french": "une incapacité de travailler",
+    "translation": "невозможность работать",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_la_perte_d_un_contrat",
+    "french": "la perte d'un contrat",
+    "translation": "потеря контракта",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_evoluer_sur_des_tournees",
+    "french": "évoluer sur des tournées",
+    "translation": "выступать во время гастролей",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_constamment",
+    "french": "constamment",
+    "translation": "постоянно",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_etre_au_meilleur_de_sa_forme",
+    "french": "être au meilleur de sa forme",
+    "translation": "быть в наилучшей форме",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_assurer_le_spectacle",
+    "french": "assurer le spectacle",
+    "translation": "обеспечивать выступление, проводить шоу",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_sa_propre_securite",
+    "french": "sa propre sécurité",
+    "translation": "собственная безопасность",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_outil_a_perfectionner",
+    "french": "un outil à perfectionner",
+    "translation": "инструмент, который нужно совершенствовать",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_judoka",
+    "french": "un judoka",
+    "translation": "дзюдоист",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_discipline_sportive",
+    "french": "une discipline sportive",
+    "translation": "спортивная дисциплина",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_conditionner",
+    "french": "conditionner",
+    "translation": "обусловливать",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_la_participation_a_une_competition",
+    "french": "la participation à une compétition",
+    "translation": "участие в соревновании",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_controler_son_poids",
+    "french": "contrôler son poids",
+    "translation": "контролировать свой вес",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_se_faire_eliminer_d_un_tournoi",
+    "french": "se faire éliminer d'un tournoi",
+    "translation": "вылететь из турнира",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_depasser_les_limites_etablies",
+    "french": "dépasser les limites établies",
+    "translation": "превышать установленные ограничения",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_sportif_de_haut_niveau",
+    "french": "un sportif de haut niveau",
+    "translation": "спортсмен высокого уровня",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_subir_des_contraintes",
+    "french": "subir des contraintes",
+    "translation": "испытывать ограничения",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_contrainte_physique",
+    "french": "une contrainte physique",
+    "translation": "физическое ограничение, нагрузка",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_une_contrainte_psychologique",
+    "french": "une contrainte psychologique",
+    "translation": "психологическое давление",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_la_pression_de_la_performance",
+    "french": "la pression de la performance",
+    "translation": "давление из-за необходимости показывать результат",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_un_echec",
+    "french": "un échec",
+    "translation": "неудача, провал",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_etre_mal_vecu",
+    "french": "être mal vécu",
+    "translation": "тяжело переживаться",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_de_plus_en_plus",
+    "french": "de plus en plus",
+    "translation": "всё больше и больше",
+    "example": "",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_22_veiller_sur_sa_sante_mentale",
+    "french": "veiller sur sa santé mentale",
+    "translation": "заботиться о своём психическом здоровье",
+    "example": "",
+    "status": "learning"
+  }
+]
