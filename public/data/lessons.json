@@ -738,5 +738,15 @@
     "classLevel": "B2N1",
     "status": "done",
     "path": "data/lessons/b2n1/lesson_74_2026_10_19"
+  },
+  {
+    "id": "lesson_75_2026_10_20",
+    "number": 75,
+    "title": "Les standards de beauté, l'intelligence artificielle et les stéréotypes de genre",
+    "date": "2026-10-20",
+    "level": "B2",
+    "classLevel": "B2N1",
+    "status": "done",
+    "path": "data/lessons/b2n1/lesson_75_2026_10_20"
   }
 ]

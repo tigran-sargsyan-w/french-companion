@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "v_2026_10_20_la_perfection_physique",
+    "french": "la perfection physique",
+    "translation": "физическое совершенство",
+    "example": "Le cours aborde « la perfection physique » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_etude_recente",
+    "french": "une étude récente",
+    "translation": "недавнее исследование",
+    "example": "Le cours aborde « une étude récente » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_chercheur",
+    "french": "un chercheur",
+    "translation": "исследователь",
+    "example": "Le cours aborde « un chercheur » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_generer_des_images",
+    "french": "générer des images",
+    "translation": "создавать изображения",
+    "example": "Dans cette activité, nous discutons de l'expression « générer des images » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_representer",
+    "french": "représenter",
+    "translation": "изображать, представлять",
+    "example": "Dans cette activité, nous discutons de l'expression « représenter » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_les_standards_contemporains",
+    "french": "les standards contemporains",
+    "translation": "современные стандарты",
+    "example": "Le cours aborde « les standards contemporains » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_mince",
+    "french": "mince",
+    "translation": "стройный, худощавый",
+    "example": "Dans cette activité, nous discutons de l'expression « mince » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_muscle",
+    "french": "musclé",
+    "translation": "мускулистый",
+    "example": "Dans cette activité, nous discutons de l'expression « musclé » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_representation",
+    "french": "une représentation",
+    "translation": "изображение, представление",
+    "example": "Le cours aborde « une représentation » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_susciter",
+    "french": "susciter",
+    "translation": "вызывать",
+    "example": "Dans cette activité, nous discutons de l'expression « susciter » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_autant_d_admiration_que_de_debats",
+    "french": "autant d'admiration que de débats",
+    "translation": "столько же восхищения, сколько и споров",
+    "example": "Dans cette activité, nous discutons de l'expression « autant d'admiration que de débats » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_les_standards_physiques",
+    "french": "les standards physiques",
+    "translation": "физические стандарты",
+    "example": "Le cours aborde « les standards physiques » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_stereotype",
+    "french": "stéréotypé",
+    "translation": "стереотипный",
+    "example": "Dans cette activité, nous discutons de l'expression « stéréotypé » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_algorithme",
+    "french": "un algorithme",
+    "translation": "алгоритм",
+    "example": "Le cours aborde « un algorithme » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_l_intelligence_artificielle",
+    "french": "l'intelligence artificielle",
+    "translation": "искусственный интеллект",
+    "example": "Le cours aborde « l'intelligence artificielle » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_portrait",
+    "french": "un portrait",
+    "translation": "портрет",
+    "example": "Le cours aborde « un portrait » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_processus",
+    "french": "un processus",
+    "translation": "процесс",
+    "example": "Le cours aborde « un processus » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_consister_a",
+    "french": "consister à",
+    "translation": "заключаться в том, чтобы",
+    "example": "Dans cette activité, nous discutons de l'expression « consister à » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_entrainer_un_modele",
+    "french": "entraîner un modèle",
+    "translation": "обучать модель",
+    "example": "Dans cette activité, nous discutons de l'expression « entraîner un modèle » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_des_donnees_issues_de",
+    "french": "des données issues de",
+    "translation": "данные, полученные из",
+    "example": "Dans cette activité, nous discutons de l'expression « des données issues de » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_les_reseaux_sociaux",
+    "french": "les réseaux sociaux",
+    "translation": "социальные сети",
+    "example": "Le cours aborde « les réseaux sociaux » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_les_medias_populaires",
+    "french": "les médias populaires",
+    "translation": "популярные медиа",
+    "example": "Le cours aborde « les médias populaires » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_en_d_autres_termes",
+    "french": "en d'autres termes",
+    "translation": "другими словами",
+    "example": "Dans cette activité, nous discutons de l'expression « en d'autres termes » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_ingerer",
+    "french": "ingérer",
+    "translation": "поглощать, обрабатывать данные",
+    "example": "Dans cette activité, nous discutons de l'expression « ingérer » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_tonne_de",
+    "french": "une tonne de",
+    "translation": "масса, огромное количество",
+    "example": "Le cours aborde « une tonne de » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_contenu",
+    "french": "un contenu",
+    "translation": "содержание, контент",
+    "example": "Le cours aborde « un contenu » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_etre_cense",
+    "french": "être censé",
+    "translation": "предполагаться, быть призванным",
+    "example": "Dans cette activité, nous discutons de l'expression « être censé » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_refleter",
+    "french": "refléter",
+    "translation": "отражать",
+    "example": "Dans cette activité, nous discutons de l'expression « refléter » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_valoriser",
+    "french": "valoriser",
+    "translation": "придавать ценность, превозносить",
+    "example": "Dans cette activité, nous discutons de l'expression « valoriser » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_en_termes_de",
+    "french": "en termes de",
+    "translation": "с точки зрения, в плане",
+    "example": "Dans cette activité, nous discutons de l'expression « en termes de » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_les_proportions",
+    "french": "les proportions",
+    "translation": "пропорции",
+    "example": "Le cours aborde « les proportions » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_mannequin",
+    "french": "un mannequin",
+    "translation": "модель, манекенщик",
+    "example": "Le cours aborde « un mannequin » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_apollon",
+    "french": "un apollon",
+    "translation": "Аполлон, эталон мужской красоты",
+    "example": "Le cours aborde « un apollon » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_l_allure",
+    "french": "l'allure",
+    "translation": "внешний вид, осанка",
+    "example": "Le cours aborde « l'allure » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_super_heros",
+    "french": "un super-héros",
+    "translation": "супергерой",
+    "example": "Le cours aborde « un super-héros » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_ideal",
+    "french": "idéal",
+    "translation": "идеальный",
+    "example": "Dans cette activité, nous discutons de l'expression « idéal » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_fragile",
+    "french": "fragile",
+    "translation": "хрупкий",
+    "example": "Dans cette activité, nous discutons de l'expression « fragile » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_brin",
+    "french": "un brin",
+    "translation": "немного, чуточку",
+    "example": "Le cours aborde « un brin » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_date",
+    "french": "daté",
+    "translation": "устаревший",
+    "example": "Dans cette activité, nous discutons de l'expression « daté » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_portrait_feminin",
+    "french": "un portrait féminin",
+    "translation": "женский портрет",
+    "example": "Le cours aborde « un portrait féminin » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_cocher_toutes_les_cases",
+    "french": "cocher toutes les cases",
+    "translation": "соответствовать всем критериям",
+    "example": "Dans cette activité, nous discutons de l'expression « cocher toutes les cases » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_stereotype",
+    "french": "un stéréotype",
+    "translation": "стереотип",
+    "example": "Le cours aborde « un stéréotype » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_percevoir",
+    "french": "percevoir",
+    "translation": "воспринимать",
+    "example": "Dans cette activité, nous discutons de l'expression « percevoir » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_pop_culture",
+    "french": "la pop culture",
+    "translation": "поп-культура",
+    "example": "Le cours aborde « la pop culture » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_occidental",
+    "french": "occidental",
+    "translation": "западный",
+    "example": "Dans cette activité, nous discutons de l'expression « occidental » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_silhouette_fine",
+    "french": "une silhouette fine",
+    "translation": "стройный силуэт",
+    "example": "Le cours aborde « une silhouette fine » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_les_courbes",
+    "french": "les courbes",
+    "translation": "изгибы тела",
+    "example": "Le cours aborde « les courbes » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_aux_bons_endroits",
+    "french": "aux bons endroits",
+    "translation": "в нужных местах",
+    "example": "Dans cette activité, nous discutons de l'expression « aux bons endroits » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_peau_claire",
+    "french": "la peau claire",
+    "translation": "светлая кожа",
+    "example": "Le cours aborde « la peau claire » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_sourire_eclatant",
+    "french": "un sourire éclatant",
+    "translation": "сияющая улыбка",
+    "example": "Le cours aborde « un sourire éclatant » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_passer_pour",
+    "french": "passer pour",
+    "translation": "слыть, считаться",
+    "example": "Dans cette activité, nous discutons de l'expression « passer pour » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_flatteur",
+    "french": "flatteur",
+    "translation": "лестный, приукрашивающий",
+    "example": "Dans cette activité, nous discutons de l'expression « flatteur » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_trahir",
+    "french": "trahir",
+    "translation": "выдавать, обнаруживать",
+    "example": "Dans cette activité, nous discutons de l'expression « trahir » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_conditionnement_persistant",
+    "french": "un conditionnement persistant",
+    "translation": "устойчивое обусловливание",
+    "example": "Le cours aborde « un conditionnement persistant » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_decennie",
+    "french": "une décennie",
+    "translation": "десятилетие",
+    "example": "Le cours aborde « une décennie » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_etre_associe_a",
+    "french": "être associé à",
+    "translation": "ассоциироваться с",
+    "example": "Dans cette activité, nous discutons de l'expression « être associé à » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_feminite",
+    "french": "la féminité",
+    "translation": "женственность",
+    "example": "Le cours aborde « la féminité » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_jeunesse",
+    "french": "la jeunesse",
+    "translation": "молодость",
+    "example": "Le cours aborde « la jeunesse » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_l_innocence",
+    "french": "l'innocence",
+    "translation": "невинность",
+    "example": "Le cours aborde « l'innocence » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_l_imaginaire_collectif",
+    "french": "l'imaginaire collectif",
+    "translation": "коллективное воображение",
+    "example": "Le cours aborde « l'imaginaire collectif » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_ne_faire_que",
+    "french": "ne faire que",
+    "translation": "всего лишь",
+    "example": "Dans cette activité, nous discutons de l'expression « ne faire que » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_compiler",
+    "french": "compiler",
+    "translation": "собирать, компилировать",
+    "example": "Dans cette activité, nous discutons de l'expression « compiler » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_extraire",
+    "french": "extraire",
+    "translation": "извлекать",
+    "example": "Dans cette activité, nous discutons de l'expression « extraire » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_synthese",
+    "french": "une synthèse",
+    "translation": "обобщение, синтез",
+    "example": "Le cours aborde « une synthèse » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_terriblement",
+    "french": "terriblement",
+    "translation": "ужасно, чрезвычайно",
+    "example": "Dans cette activité, nous discutons de l'expression « terriblement » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_cliche",
+    "french": "cliché",
+    "translation": "клишированный, избитый",
+    "example": "Dans cette activité, nous discutons de l'expression « cliché » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_minceur",
+    "french": "la minceur",
+    "translation": "худоба, стройность",
+    "example": "Le cours aborde « la minceur » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_encore",
+    "french": "là encore",
+    "translation": "и здесь тоже",
+    "example": "Dans cette activité, nous discutons de l'expression « là encore » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_obsession_societale",
+    "french": "une obsession sociétale",
+    "translation": "общественная одержимость",
+    "example": "Le cours aborde « une obsession sociétale » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_influencer",
+    "french": "influencer",
+    "translation": "влиять",
+    "example": "Dans cette activité, nous discutons de l'expression « influencer » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_influenceuse",
+    "french": "une influenceuse",
+    "translation": "инфлюенсер, блогер",
+    "example": "Le cours aborde « une influenceuse » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_ideal",
+    "french": "un idéal",
+    "translation": "идеал",
+    "example": "Le cours aborde « un idéal » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_n_avoir_rien_d_universel",
+    "french": "n'avoir rien d'universel",
+    "translation": "не иметь ничего универсального",
+    "example": "Dans cette activité, nous discutons de l'expression « n'avoir rien d'universel » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_silhouette_ronde",
+    "french": "une silhouette ronde",
+    "translation": "округлый силуэт",
+    "example": "Le cours aborde « une silhouette ronde » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_etre_synonyme_de",
+    "french": "être synonyme de",
+    "translation": "быть синонимом",
+    "example": "Dans cette activité, nous discutons de l'expression « être synonyme de » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_visiblement",
+    "french": "visiblement",
+    "translation": "очевидно, по всей видимости",
+    "example": "Dans cette activité, nous discutons de l'expression « visiblement » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_explorer_la_diversite",
+    "french": "explorer la diversité",
+    "translation": "изучать разнообразие",
+    "example": "Dans cette activité, nous discutons de l'expression « explorer la diversité » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_blockbuster",
+    "french": "un blockbuster",
+    "translation": "блокбастер",
+    "example": "Le cours aborde « un blockbuster » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_cote_masculin",
+    "french": "côté masculin",
+    "translation": "что касается мужчин",
+    "example": "Dans cette activité, nous discutons de l'expression « côté masculin » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_verdict",
+    "french": "un verdict",
+    "translation": "вердикт, заключение",
+    "example": "Le cours aborde « un verdict » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_tout_aussi",
+    "french": "tout aussi",
+    "translation": "столь же",
+    "example": "Dans cette activité, nous discutons de l'expression « tout aussi » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_machoire_carree",
+    "french": "une mâchoire carrée",
+    "translation": "квадратная челюсть",
+    "example": "Le cours aborde « une mâchoire carrée » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_digne_de",
+    "french": "digne de",
+    "translation": "достойный",
+    "example": "Dans cette activité, nous discutons de l'expression « digne de » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_figurer_dans",
+    "french": "figurer dans",
+    "translation": "фигурировать в",
+    "example": "Dans cette activité, nous discutons de l'expression « figurer dans » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_puiser_dans",
+    "french": "puiser dans",
+    "translation": "черпать из",
+    "example": "Dans cette activité, nous discutons de l'expression « puiser dans » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_figure_classique",
+    "french": "une figure classique",
+    "translation": "классический образ",
+    "example": "Le cours aborde « une figure classique » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_virilite",
+    "french": "la virilité",
+    "translation": "мужественность",
+    "example": "Le cours aborde « la virilité » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_populariser",
+    "french": "populariser",
+    "translation": "популяризировать",
+    "example": "Dans cette activité, nous discutons de l'expression « populariser » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_icone",
+    "french": "une icône",
+    "translation": "икона, культовый образ",
+    "example": "Le cours aborde « une icône » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_attribut_cle",
+    "french": "un attribut clé",
+    "translation": "ключевой атрибут",
+    "example": "Le cours aborde « un attribut clé » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_puissance_physique",
+    "french": "la puissance physique",
+    "translation": "физическая сила",
+    "example": "Le cours aborde « la puissance physique » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_corps_athletique",
+    "french": "un corps athlétique",
+    "translation": "атлетическое тело",
+    "example": "Le cours aborde « un corps athlétique » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_amplifier",
+    "french": "amplifier",
+    "translation": "усиливать",
+    "example": "Dans cette activité, nous discutons de l'expression « amplifier » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_les_industries_du_fitness",
+    "french": "les industries du fitness",
+    "translation": "фитнес-индустрии",
+    "example": "Le cours aborde « les industries du fitness » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_les_industries_du_cinema",
+    "french": "les industries du cinéma",
+    "translation": "киноиндустрии",
+    "example": "Le cours aborde « les industries du cinéma » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_bombardement_incessant",
+    "french": "un bombardement incessant",
+    "translation": "непрерывный поток, бомбардировка",
+    "example": "Le cours aborde « un bombardement incessant » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_standard_irrealiste",
+    "french": "un standard irréaliste",
+    "translation": "нереалистичный стандарт",
+    "example": "Le cours aborde « un standard irréaliste » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_donnee_biaisee",
+    "french": "une donnée biaisée",
+    "translation": "искажённые данные",
+    "example": "Le cours aborde « une donnée biaisée » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_reproduire",
+    "french": "reproduire",
+    "translation": "воспроизводить",
+    "example": "Dans cette activité, nous discutons de l'expression « reproduire » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_biais",
+    "french": "un biais",
+    "translation": "предвзятость, систематическое искажение",
+    "example": "Le cours aborde « un biais » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_stereotype_sexiste",
+    "french": "un stéréotype sexiste",
+    "translation": "сексистский стереотип",
+    "example": "Le cours aborde « un stéréotype sexiste » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_eurocentre",
+    "french": "eurocentré",
+    "translation": "евроцентричный",
+    "example": "Dans cette activité, nous discutons de l'expression « eurocentré » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_avoir_fait_son_grand_retour",
+    "french": "avoir fait son grand retour",
+    "translation": "снова громко заявить о себе",
+    "example": "Dans cette activité, nous discutons de l'expression « avoir fait son grand retour » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_neutre",
+    "french": "neutre",
+    "translation": "нейтральный",
+    "example": "Dans cette activité, nous discutons de l'expression « neutre » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_l_analyse_des_donnees",
+    "french": "l'analyse des données",
+    "translation": "анализ данных",
+    "example": "Le cours aborde « l'analyse des données » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_par_ailleurs",
+    "french": "par ailleurs",
+    "translation": "кроме того",
+    "example": "Dans cette activité, nous discutons de l'expression « par ailleurs » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_jouer_un_role_majeur",
+    "french": "jouer un rôle majeur",
+    "translation": "играть важную роль",
+    "example": "Dans cette activité, nous discutons de l'expression « jouer un rôle majeur » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_definition_des_standards",
+    "french": "la définition des standards",
+    "translation": "определение стандартов",
+    "example": "Le cours aborde « la définition des standards » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_circuler",
+    "french": "circuler",
+    "translation": "распространяться",
+    "example": "Dans cette activité, nous discutons de l'expression « circuler » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_privilegier",
+    "french": "privilégier",
+    "translation": "отдавать предпочтение",
+    "example": "Dans cette activité, nous discutons de l'expression « privilégier » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_corps_sculpte",
+    "french": "un corps sculpté",
+    "translation": "рельефное тело",
+    "example": "Le cours aborde « un corps sculpté » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_peau_lisse",
+    "french": "une peau lisse",
+    "translation": "гладкая кожа",
+    "example": "Le cours aborde « une peau lisse » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_visage_impeccable",
+    "french": "un visage impeccable",
+    "translation": "безупречное лицо",
+    "example": "Le cours aborde « un visage impeccable » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_outil_de_changement",
+    "french": "un outil de changement",
+    "translation": "инструмент изменений",
+    "example": "Le cours aborde « un outil de changement » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_amplificateur_de_biais",
+    "french": "un amplificateur de biais",
+    "translation": "усилитель предвзятости",
+    "example": "Le cours aborde « un amplificateur de biais » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_ignorer",
+    "french": "ignorer",
+    "translation": "игнорировать",
+    "example": "Dans cette activité, nous discutons de l'expression « ignorer » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_tout_un_pan_de_l_humanite",
+    "french": "tout un pan de l'humanité",
+    "translation": "целый пласт человечества",
+    "example": "Dans cette activité, nous discutons de l'expression « tout un pan de l'humanité » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_personne_agee",
+    "french": "une personne âgée",
+    "translation": "пожилой человек",
+    "example": "Le cours aborde « une personne âgée » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_atypique",
+    "french": "atypique",
+    "translation": "нетипичный",
+    "example": "Dans cette activité, nous discutons de l'expression « atypique » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_ethnie",
+    "french": "une ethnie",
+    "translation": "этническая группа",
+    "example": "Le cours aborde « une ethnie » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_handicap",
+    "french": "un handicap",
+    "translation": "инвалидность, ограничение возможностей",
+    "example": "Le cours aborde « un handicap » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_resumer_a",
+    "french": "résumer à",
+    "translation": "сводить к",
+    "example": "Dans cette activité, nous discutons de l'expression « résumer à » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_critere_etroit",
+    "french": "un critère étroit",
+    "translation": "узкий критерий",
+    "example": "Le cours aborde « un critère étroit » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_standardise",
+    "french": "standardisé",
+    "translation": "стандартизированный",
+    "example": "Dans cette activité, nous discutons de l'expression « standardisé » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_perpetuer",
+    "french": "perpétuer",
+    "translation": "увековечивать, поддерживать",
+    "example": "Dans cette activité, nous discutons de l'expression « perpétuer » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_meriter",
+    "french": "mériter",
+    "translation": "заслуживать",
+    "example": "Dans cette activité, nous discutons de l'expression « mériter » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_l_admiration",
+    "french": "l'admiration",
+    "translation": "восхищение",
+    "example": "Le cours aborde « l'admiration » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_valorisation",
+    "french": "la valorisation",
+    "translation": "признание ценности",
+    "example": "Le cours aborde « la valorisation » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_passer_sous_silence",
+    "french": "passer sous silence",
+    "translation": "замалчивать",
+    "example": "Dans cette activité, nous discutons de l'expression « passer sous silence » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_subtil",
+    "french": "subtil",
+    "translation": "тонкий, едва уловимый",
+    "example": "Dans cette activité, nous discutons de l'expression « subtil » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_l_authenticite",
+    "french": "l'authenticité",
+    "translation": "подлинность",
+    "example": "Le cours aborde « l'authenticité » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_confiance",
+    "french": "la confiance",
+    "translation": "доверие, уверенность",
+    "example": "Le cours aborde « la confiance » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_le_caractere_unique",
+    "french": "le caractère unique",
+    "translation": "уникальность",
+    "example": "Le cours aborde « le caractère unique » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_individu",
+    "french": "un individu",
+    "translation": "индивид, человек",
+    "example": "Le cours aborde « un individu » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_susciter_des_inquietudes",
+    "french": "susciter des inquiétudes",
+    "translation": "вызывать опасения",
+    "example": "Dans cette activité, nous discutons de l'expression « susciter des inquiétudes » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_norme_physique",
+    "french": "une norme physique",
+    "translation": "стандарт внешности",
+    "example": "Le cours aborde « une norme physique » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_inaccessible",
+    "french": "inaccessible",
+    "translation": "недостижимый",
+    "example": "Dans cette activité, nous discutons de l'expression « inaccessible » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_renforcer",
+    "french": "renforcer",
+    "translation": "укреплять, усиливать",
+    "example": "Dans cette activité, nous discutons de l'expression « renforcer » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_un_complexe",
+    "french": "un complexe",
+    "translation": "комплекс",
+    "example": "Le cours aborde « un complexe » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_accentuer",
+    "french": "accentuer",
+    "translation": "усиливать, обострять",
+    "example": "Dans cette activité, nous discutons de l'expression « accentuer » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_pression_sociale",
+    "french": "la pression sociale",
+    "translation": "социальное давление",
+    "example": "Le cours aborde « la pression sociale » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_l_apparence",
+    "french": "l'apparence",
+    "translation": "внешность",
+    "example": "Le cours aborde « l'apparence » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_la_question_qui_se_pose",
+    "french": "la question qui se pose",
+    "translation": "возникающий вопрос",
+    "example": "Le cours aborde « la question qui se pose » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_contribuer_a",
+    "french": "contribuer à",
+    "translation": "способствовать",
+    "example": "Dans cette activité, nous discutons de l'expression « contribuer à » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_elargir",
+    "french": "élargir",
+    "translation": "расширять",
+    "example": "Dans cette activité, nous discutons de l'expression « élargir » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_etre_condamne_a",
+    "french": "être condamné à",
+    "translation": "быть обречённым на",
+    "example": "Dans cette activité, nous discutons de l'expression « être condamné à » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_reformuler",
+    "french": "reformuler",
+    "translation": "переформулировать",
+    "example": "Dans cette activité, nous discutons de l'expression « reformuler » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_caracteriser",
+    "french": "caractériser",
+    "translation": "характеризовать",
+    "example": "Dans cette activité, nous discutons de l'expression « caractériser » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_souligner",
+    "french": "souligner",
+    "translation": "подчёркивать",
+    "example": "Dans cette activité, nous discutons de l'expression « souligner » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_legiferer",
+    "french": "légiférer",
+    "translation": "принимать законы",
+    "example": "Dans cette activité, nous discutons de l'expression « légiférer » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_creer_des_lois",
+    "french": "créer des lois",
+    "translation": "создавать законы",
+    "example": "Dans cette activité, nous discutons de l'expression « créer des lois » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_se_targuer",
+    "french": "se targuer",
+    "translation": "хвастаться, кичиться",
+    "example": "Dans cette activité, nous discutons de l'expression « se targuer » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_se_vanter",
+    "french": "se vanter",
+    "translation": "хвастаться",
+    "example": "Dans cette activité, nous discutons de l'expression « se vanter » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_se_flatter",
+    "french": "se flatter",
+    "translation": "льстить себе",
+    "example": "Dans cette activité, nous discutons de l'expression « se flatter » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_cutane",
+    "french": "cutané",
+    "translation": "кожный",
+    "example": "Dans cette activité, nous discutons de l'expression « cutané » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_relatif_a_la_peau",
+    "french": "relatif à la peau",
+    "translation": "относящийся к коже",
+    "example": "Dans cette activité, nous discutons de l'expression « relatif à la peau » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_nefaste",
+    "french": "néfaste",
+    "translation": "вредный, пагубный",
+    "example": "Dans cette activité, nous discutons de l'expression « néfaste » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_causer_des_dommages",
+    "french": "causer des dommages",
+    "translation": "причинять ущерб",
+    "example": "Dans cette activité, nous discutons de l'expression « causer des dommages » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_faire_du_mal",
+    "french": "faire du mal",
+    "translation": "причинять вред",
+    "example": "Dans cette activité, nous discutons de l'expression « faire du mal » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_une_affirmation",
+    "french": "une affirmation",
+    "translation": "утверждение",
+    "example": "Le cours aborde « une affirmation » dans le contexte des standards de beauté.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_reagir",
+    "french": "réagir",
+    "translation": "реагировать",
+    "example": "Dans cette activité, nous discutons de l'expression « réagir » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_etre_d_accord",
+    "french": "être d'accord",
+    "translation": "быть согласным",
+    "example": "Dans cette activité, nous discutons de l'expression « être d'accord » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_deranger",
+    "french": "déranger",
+    "translation": "беспокоить, раздражать",
+    "example": "Dans cette activité, nous discutons de l'expression « déranger » et de son sens.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_20_prendre_soin_de_soi",
+    "french": "prendre soin de soi",
+    "translation": "заботиться о себе",
+    "example": "Dans cette activité, nous discutons de l'expression « prendre soin de soi » et de son sens.",
+    "status": "learning"
+  }
+]
