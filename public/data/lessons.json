@@ -768,5 +768,15 @@
     "classLevel": "B2N1",
     "status": "done",
     "path": "data/lessons/b2n1/lesson_77_2026_10_22"
+  },
+  {
+    "id": "lesson_78_2026_10_23",
+    "number": 78,
+    "title": "Les Jeux olympiques du futur et l'expression du futur antérieur",
+    "date": "2026-10-23",
+    "level": "B2",
+    "classLevel": "B2N1",
+    "status": "done",
+    "path": "data/lessons/b2n1/lesson_78_2026_10_23"
   }
 ]

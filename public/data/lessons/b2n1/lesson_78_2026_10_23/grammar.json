@@ -1,0 +1,126 @@
+[
+  {
+    "id": "g_2026_10_23_futur_anterieur",
+    "title": "Le futur antérieur : formation et emploi",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Formation\n",
+        "**Avoir** ou **être** au futur simple + **participe passé**.",
+        "Avec **être**, le participe passé s'accorde avec le sujet : *elle sera allée*, *ils seront partis*."
+      ],
+      [
+        "### Conjugaison\n",
+        "| Personne | Créer | Aller |",
+        "|---|---|---|",
+        "| je | j'aurai créé | je serai allé(e) |",
+        "| tu | tu auras créé | tu seras allé(e) |",
+        "| il / elle | il / elle aura créé | il sera allé / elle sera allée |",
+        "| nous | nous aurons créé | nous serons allé(e)s |",
+        "| vous | vous aurez créé | vous serez allé(e)(s) |",
+        "| ils / elles | ils / elles auront créé | ils seront allés / elles seront allées |"
+      ],
+      [
+        "### Emploi\n",
+        "Le futur antérieur désigne une action **achevée avant une autre action future** ou accomplie avant un repère temporel futur.",
+        "**Quand**, **dès que**, **une fois que**, **aussitôt que** et **lorsque** peuvent introduire cette action.",
+        "**À retenir :** l'auxiliaire est au **futur simple**, pas au présent."
+      ]
+    ],
+    "examples": [
+      "Quand les humains auront modifié leurs capacités physiques, les Jeux olympiques n'existeront plus.",
+      "Nous confirmerons notre réservation dès que nous aurons obtenu le visa.",
+      "Dans les années 2050, les progrès technologiques auront modifié les compétitions sportives."
+    ],
+    "annotatedExamples": [
+      {
+        "title": "Antériorité dans le futur",
+        "markup": "{{temps:Quand}} les humains {{verbe:auront modifié}} leurs capacités physiques, les Jeux olympiques {{verbe:n'existeront plus}}.",
+        "explanation": "La modification est achevée avant la situation exprimée au futur simple.",
+        "sourceSentences": [
+          "Les humains modifieront leurs capacités physiques.",
+          "Les Jeux olympiques n'existeront plus."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_2026_10_23_formes_futur",
+    "title": "Futur proche, futur simple et conditionnel présent",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Comparaison des formes\n",
+        "| Forme | Construction | Emploi principal |",
+        "|---|---|---|",
+        "| Futur proche | aller au présent + infinitif | projet ou événement proche |",
+        "| Futur simple | radical du futur + terminaisons | prévisions, promesses, consignes |",
+        "| Futur antérieur | auxiliaire au futur + participe passé | action future accomplie |",
+        "| Conditionnel présent | radical du futur + terminaisons de l'imparfait | hypothèse, information non confirmée ou futur dans le passé |"
+      ],
+      [
+        "### Terminaisons\n",
+        "**Futur simple** : -ai, -as, -a, -ons, -ez, -ont.",
+        "**Conditionnel présent** : -ais, -ais, -ait, -ions, -iez, -aient.",
+        "Pour les verbes en **-re**, on retire le *e* final : *je prendrai*, *je prendrais*."
+      ],
+      [
+        "### Certitude et prudence\n",
+        "Dans les notes personnelles, le futur est associé à une affirmation assurée et le conditionnel à une plus grande réserve.",
+        "Cette distinction est utile, mais le conditionnel exprime aussi une **hypothèse**, une **information rapportée non confirmée** ou le **futur dans le passé** ; il ne sert pas simplement à exprimer toute incertitude."
+      ]
+    ],
+    "examples": [
+      "Demain, nous allons dîner chez Carole.",
+      "En 2060, les voitures voleront.",
+      "Il a dit qu'il me répondrait bientôt.",
+      "Si tout le monde parlait la même langue, il y aurait moins de malentendus."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_10_23_connecteurs_temporels",
+    "title": "Marqueurs temporels et chronologie",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Une action avant une autre\n",
+        "Après **quand**, **dès que**, **une fois que**, **lorsque**, **aussitôt que**, le futur antérieur peut exprimer une action qui sera terminée avant une autre action future.",
+        "**Après + infinitif passé** exprime aussi la succession : *après avoir préparé le dîner*.",
+        "**Dans** indique le délai avant un événement futur ; **pour** indique une durée prévue."
+      ]
+    ],
+    "examples": [
+      "Quand tu auras résolu tes problèmes, tu pourras sortir.",
+      "Je sortirai le chien après avoir préparé le dîner.",
+      "Ils partiront dans une semaine.",
+      "Nous avons signé le contrat pour six mois."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_10_23_temps_passe",
+    "title": "Imparfait, passé composé et plus-que-parfait",
+    "category": "Tenses",
+    "summary": [
+      [
+        "### Trois temps complémentaires\n",
+        "**Imparfait** : description, contexte ou habitude dans le passé ; formation à partir du radical de *nous* au présent et des terminaisons -ais, -ais, -ait, -ions, -iez, -aient.",
+        "**Passé composé** : événement passé achevé ; *avoir / être au présent + participe passé*.",
+        "**Plus-que-parfait** : événement antérieur à un autre événement passé ; *avoir / être à l'imparfait + participe passé*."
+      ],
+      [
+        "### Accord du participe passé\n",
+        "Avec **être**, accord avec le sujet dans les constructions concernées : *ils sont allés*.",
+        "Avec **avoir**, accord avec le COD lorsque celui-ci précède le verbe : *les amies que j'ai vues*."
+      ]
+    ],
+    "examples": [
+      "Avant, nous allions au cinéma toutes les semaines.",
+      "Elles ont fait un gâteau au chocolat.",
+      "Il avait fait encore plus froid l'année d'avant.",
+      "Les amies que j'ai vues vivent au Chili."
+    ],
+    "annotatedExamples": []
+  }
+]

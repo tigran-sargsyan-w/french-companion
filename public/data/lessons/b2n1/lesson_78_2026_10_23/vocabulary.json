@@ -1,0 +1,632 @@
+[
+  {
+    "id": "v_2026_10_23_ressembler_a",
+    "french": "ressembler à",
+    "translation": "походить на",
+    "example": "Ce robot ressemble à un athlète.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_historien_des_sports",
+    "french": "un historien des sports",
+    "translation": "историк спорта",
+    "example": "Un historien des sports étudie les anciens Jeux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_professeur_a_l_universite",
+    "french": "un professeur à l'université",
+    "translation": "преподаватель университета",
+    "example": "Un professeur à l'université analyse cette évolution.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_vision_de_l_avenir",
+    "french": "une vision de l'avenir",
+    "translation": "видение будущего",
+    "example": "Ce récit présente une vision de l'avenir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_recit",
+    "french": "un récit",
+    "translation": "рассказ, повествование",
+    "example": "Le récit imagine les sports de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_resolument",
+    "french": "résolument",
+    "translation": "решительно, определённо",
+    "example": "L'auteur adopte une position résolument critique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_pessimiste",
+    "french": "pessimiste",
+    "translation": "пессимистичный",
+    "example": "Cette prévision est plutôt pessimiste.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_provoquer_des_reactions",
+    "french": "provoquer des réactions",
+    "translation": "вызывать реакцию",
+    "example": "Ces changements pourraient provoquer des réactions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_reaction_salutaire",
+    "french": "une réaction salutaire",
+    "translation": "благотворная реакция",
+    "example": "Le débat a provoqué une réaction salutaire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_se_fonder_sur",
+    "french": "se fonder sur",
+    "translation": "основываться на",
+    "example": "Cette prévision se fonde sur les progrès actuels.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_tendance",
+    "french": "une tendance",
+    "translation": "тенденция",
+    "example": "Cette tendance pourrait se poursuivre.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_voir_apparaitre",
+    "french": "voir apparaître",
+    "translation": "увидеть появление",
+    "example": "Nous pourrions voir apparaître de nouveaux sports.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_jeux_olympiques",
+    "french": "les Jeux olympiques",
+    "translation": "Олимпийские игры",
+    "example": "Les Jeux olympiques évolueront peut-être.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_marquer_la_dissolution_de",
+    "french": "marquer la dissolution de",
+    "translation": "ознаменовать роспуск",
+    "example": "Cet événement marquera la dissolution de l'organisation.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_comite_international_olympique_cio",
+    "french": "le Comité international olympique (CIO)",
+    "translation": "Международный олимпийский комитет",
+    "example": "Le Comité international olympique organise les Jeux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_celebration",
+    "french": "la célébration",
+    "translation": "празднование",
+    "example": "La célébration aura lieu en 2050.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_200e_anniversaire",
+    "french": "le 200e anniversaire",
+    "translation": "двухсотлетний юбилей",
+    "example": "Le 200e anniversaire pourrait être célébré autrement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_remettre_au_gout_du_jour",
+    "french": "remettre au goût du jour",
+    "translation": "снова сделать актуальным",
+    "example": "La technologie remettra ce sport au goût du jour.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_tourner_court",
+    "french": "tourner court",
+    "translation": "внезапно прерваться",
+    "example": "Le projet a tourné court après plusieurs retraits.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_suite_au_retrait_de",
+    "french": "suite au retrait de",
+    "translation": "вследствие выхода",
+    "example": "La compétition a été annulée suite au retrait de plusieurs pays.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_grande_puissance",
+    "french": "une grande puissance",
+    "translation": "великая держава",
+    "example": "Une grande puissance a décidé de ne pas participer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_participer_aux_jeux",
+    "french": "participer aux Jeux",
+    "translation": "участвовать в Играх",
+    "example": "De nouveaux athlètes pourront participer aux Jeux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_no_limit_sport",
+    "french": "le no-limit sport",
+    "translation": "спорт без ограничений",
+    "example": "Le no-limit sport changerait les règles classiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_l_ingenierie_technologique",
+    "french": "l'ingénierie technologique",
+    "translation": "технологическая инженерия",
+    "example": "L'ingénierie technologique modifiera les équipements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_l_ingenierie_genetique",
+    "french": "l'ingénierie génétique",
+    "translation": "генная инженерия",
+    "example": "L'ingénierie génétique soulève des questions éthiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_achever_un_processus",
+    "french": "achever un processus",
+    "translation": "завершить процесс",
+    "example": "Les chercheurs espèrent achever un processus complexe.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_processus_d_augmentation_de_l_homme",
+    "french": "un processus d'augmentation de l'homme",
+    "translation": "процесс технологического усиления человека",
+    "example": "Ce processus d'augmentation de l'homme reste controversé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_prothese",
+    "french": "une prothèse",
+    "translation": "протез",
+    "example": "Une prothèse peut améliorer la mobilité.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_exosquelette",
+    "french": "un exosquelette",
+    "translation": "экзоскелет",
+    "example": "Un exosquelette peut assister les mouvements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_dermosquelette",
+    "french": "un dermosquelette",
+    "translation": "дермоскелет",
+    "example": "Le dermosquelette pourrait protéger le corps.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_modification_genetique",
+    "french": "une modification génétique",
+    "translation": "генетическое изменение",
+    "example": "Une modification génétique pourrait améliorer certaines capacités.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_nanotechnologies",
+    "french": "les nanotechnologies",
+    "translation": "нанотехнологии",
+    "example": "Les nanotechnologies pourraient révolutionner le sport.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_rendre_obsolete",
+    "french": "rendre obsolète",
+    "translation": "сделать устаревшим",
+    "example": "Ces inventions risquent de rendre obsolètes certains équipements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_dopage",
+    "french": "le dopage",
+    "translation": "допинг",
+    "example": "Le dopage reste interdit dans de nombreuses disciplines.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_si_bien_que",
+    "french": "si bien que",
+    "translation": "так что, вследствие чего",
+    "example": "Les performances évoluent, si bien que les règles doivent changer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_interdiction",
+    "french": "une interdiction",
+    "translation": "запрет",
+    "example": "Cette interdiction vise à protéger les sportifs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_levee_d_une_interdiction",
+    "french": "la levée d'une interdiction",
+    "translation": "снятие запрета",
+    "example": "La levée d'une interdiction pourrait modifier la compétition.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_radicalement",
+    "french": "radicalement",
+    "translation": "радикально",
+    "example": "Les épreuves pourraient changer radicalement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_changer_la_face_de",
+    "french": "changer la face de",
+    "translation": "коренным образом изменить",
+    "example": "Ces progrès changeront la face du sport.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_athlete",
+    "french": "un athlète",
+    "translation": "атлет, спортсмен",
+    "example": "Un athlète s'entraîne chaque jour.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_s_epuiser",
+    "french": "s'épuiser",
+    "translation": "изнемогать",
+    "example": "Après la course, il commence à s'épuiser.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_terrain",
+    "french": "un terrain",
+    "translation": "площадка, поле",
+    "example": "Le terrain sera adapté aux nouvelles épreuves.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_en_long_et_en_large",
+    "french": "en long et en large",
+    "translation": "вдоль и поперёк",
+    "example": "L'athlète a parcouru le terrain en long et en large.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_equipe_de",
+    "french": "être équipé de",
+    "translation": "быть оснащённым",
+    "example": "Le joueur est équipé de capteurs.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_bionique",
+    "french": "bionique",
+    "translation": "бионический",
+    "example": "Un membre bionique peut faciliter le mouvement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_bondir",
+    "french": "bondir",
+    "translation": "подпрыгивать",
+    "example": "Le joueur peut bondir beaucoup plus haut.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_se_jouer_en_trois_dimensions",
+    "french": "se jouer en trois dimensions",
+    "translation": "проходить в трёх измерениях",
+    "example": "Le match pourrait se jouer en trois dimensions.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_subsister",
+    "french": "subsister",
+    "translation": "сохраняться, продолжать существовать",
+    "example": "Certaines règles continueront de subsister.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_regle_fondamentale",
+    "french": "une règle fondamentale",
+    "translation": "основополагающее правило",
+    "example": "Le respect de l'adversaire reste une règle fondamentale.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_s_expedier_dans",
+    "french": "s'expédier dans",
+    "translation": "отправляться в",
+    "example": "Dans ce sport, le ballon doit s'expédier dans une cible.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_panier",
+    "french": "un panier",
+    "translation": "корзина (в баскетболе)",
+    "example": "Le ballon est entré dans le panier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_sport_de_combat",
+    "french": "un sport de combat",
+    "translation": "боевой вид спорта",
+    "example": "La boxe est un sport de combat.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_haut_niveau_de_violence",
+    "french": "un haut niveau de violence",
+    "translation": "высокий уровень жестокости",
+    "example": "Ce sport implique un haut niveau de violence.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_prise",
+    "french": "être prisé",
+    "translation": "пользоваться спросом",
+    "example": "Cette discipline est très prisée du public.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_pari_sportif",
+    "french": "un pari sportif",
+    "translation": "спортивная ставка",
+    "example": "Les paris sportifs suscitent des débats.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_atteindre_de_nouveaux_records",
+    "french": "atteindre de nouveaux records",
+    "translation": "достигать новых рекордов",
+    "example": "Les athlètes pourraient atteindre de nouveaux records.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_suivant_cette_evolution",
+    "french": "suivant cette évolution",
+    "translation": "вслед за этой эволюцией",
+    "example": "Suivant cette évolution, les stades seront transformés.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_infrastructure",
+    "french": "une infrastructure",
+    "translation": "инфраструктура",
+    "example": "Une nouvelle infrastructure sera construite.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_considerablement",
+    "french": "considérablement",
+    "translation": "значительно",
+    "example": "Les performances pourraient augmenter considérablement.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_evoluer",
+    "french": "évoluer",
+    "translation": "развиваться, изменяться",
+    "example": "Les compétitions continueront d'évoluer.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_adapte_a",
+    "french": "être adapté à",
+    "translation": "быть приспособленным к",
+    "example": "Le stade sera adapté à ces changements.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_handisport",
+    "french": "le handisport",
+    "translation": "спорт для людей с инвалидностью",
+    "example": "Le handisport occupe une place importante.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_qualite_physique",
+    "french": "une qualité physique",
+    "translation": "физическое качество",
+    "example": "La vitesse est une qualité physique essentielle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_faire_de_moins_en_moins_la_difference",
+    "french": "faire de moins en moins la différence",
+    "translation": "играть всё меньшую роль",
+    "example": "La force pourrait faire de moins en moins la différence.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_acuite_visuelle",
+    "french": "une acuité visuelle",
+    "translation": "острота зрения",
+    "example": "L'acuité visuelle joue un rôle dans ce sport.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_acuite_sensorielle",
+    "french": "une acuité sensorielle",
+    "translation": "острота восприятия",
+    "example": "L'acuité sensorielle peut être développée.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_barriere",
+    "french": "une barrière",
+    "translation": "барьер",
+    "example": "La technologie pourrait supprimer certaines barrières.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_athlete_valide",
+    "french": "un athlète valide",
+    "translation": "спортсмен без инвалидности",
+    "example": "Un athlète valide participe à l'épreuve.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_athlete_handicape",
+    "french": "un athlète handicapé",
+    "translation": "спортсмен с инвалидностью",
+    "example": "Un athlète handicapé peut concourir à haut niveau.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_paraitre_improbable",
+    "french": "paraître improbable",
+    "translation": "казаться маловероятным",
+    "example": "Cette prévision paraît improbable aujourd'hui.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_rappeler",
+    "french": "rappeler",
+    "translation": "напоминать",
+    "example": "Cette histoire rappelle les anciens Jeux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_s_interroger_sur",
+    "french": "s'interroger sur",
+    "translation": "задаваться вопросом о",
+    "example": "Les experts s'interrogent sur les conséquences.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_potentiel",
+    "french": "un potentiel",
+    "translation": "потенциал",
+    "example": "Ce sportif possède un grand potentiel.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_avantage",
+    "french": "un avantage",
+    "translation": "преимущество",
+    "example": "Cette technologie donne un avantage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_performance_athletique",
+    "french": "une performance athlétique",
+    "translation": "спортивное достижение",
+    "example": "Il a réalisé une performance athlétique remarquable.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_vertigineux",
+    "french": "vertigineux",
+    "translation": "головокружительный, ошеломляющий",
+    "example": "Le progrès technique avance à un rythme vertigineux.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_record",
+    "french": "un record",
+    "translation": "рекорд",
+    "example": "Elle a battu un record mondial.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_juge_imbattable",
+    "french": "être jugé imbattable",
+    "translation": "считаться непревзойдённым",
+    "example": "Ce record était jugé imbattable.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_remonter_a",
+    "french": "remonter à",
+    "translation": "восходить к, датироваться",
+    "example": "Cette tradition remonte au siècle dernier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_deuxieme_age_du_dopage",
+    "french": "le deuxième âge du dopage",
+    "translation": "вторая эпоха допинга",
+    "example": "Le récit imagine un deuxième âge du dopage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_de_nouveau_franchi",
+    "french": "être de nouveau franchi",
+    "translation": "быть вновь преодолённым",
+    "example": "La limite pourrait être de nouveau franchie.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_franchir_une_barre",
+    "french": "franchir une barre",
+    "translation": "преодолеть отметку",
+    "example": "Le coureur veut franchir la barre des dix secondes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_descendre_en_dessous_de",
+    "french": "descendre en dessous de",
+    "translation": "опуститься ниже",
+    "example": "Il espère descendre en dessous de dix secondes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_athlete_cyborg",
+    "french": "un athlète cyborg",
+    "translation": "спортсмен-киборг",
+    "example": "Un athlète cyborg pourrait dépasser les limites humaines.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_barre_des_cinq_secondes",
+    "french": "la barre des cinq secondes",
+    "translation": "пятисекундный рубеж",
+    "example": "La barre des cinq secondes paraît inaccessible.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_il_aura_fallu_attendre",
+    "french": "il aura fallu attendre",
+    "translation": "потребовалось дождаться",
+    "example": "Il aura fallu attendre des décennies pour réussir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_corps_humain",
+    "french": "le corps humain",
+    "translation": "человеческое тело",
+    "example": "Le corps humain a certaines limites.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_capable_de_resister_a",
+    "french": "être capable de résister à",
+    "translation": "быть способным выдержать",
+    "example": "Il faut être capable de résister à la fatigue.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_haute_pression",
+    "french": "une haute pression",
+    "translation": "высокое давление",
+    "example": "Le corps subit une haute pression.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_frottement",
+    "french": "un frottement",
+    "translation": "трение",
+    "example": "Le frottement peut ralentir le mouvement.",
+    "status": "learning"
+  }
+]
