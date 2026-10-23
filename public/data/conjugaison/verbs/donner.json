@@ -139,6 +139,52 @@
       "tu": "donne",
       "nous": "donnons",
       "vous": "donnez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je donnasse",
+      "tu": "tu donnasses",
+      "il": "il donnât",
+      "elle": "elle donnât",
+      "on": "on donnât",
+      "nous": "nous donnassions",
+      "vous": "vous donnassiez",
+      "ils": "ils donnassent",
+      "elles": "elles donnassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus donné",
+      "tu": "tu eus donné",
+      "il": "il eut donné",
+      "elle": "elle eut donné",
+      "on": "on eut donné",
+      "nous": "nous eûmes donné",
+      "vous": "vous eûtes donné",
+      "ils": "ils eurent donné",
+      "elles": "elles eurent donné"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse donné",
+      "tu": "tu eusses donné",
+      "il": "il eût donné",
+      "elle": "elle eût donné",
+      "on": "on eût donné",
+      "nous": "nous eussions donné",
+      "vous": "vous eussiez donné",
+      "ils": "ils eussent donné",
+      "elles": "elles eussent donné"
+    },
+    "imperatif_passe": {
+      "tu": "aie donné",
+      "nous": "ayons donné",
+      "vous": "ayez donné"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "donner",
+    "infinitif_passe": "avoir donné",
+    "participe_present": "donnant",
+    "participe_passe": "donné",
+    "gerondif_present": "en donnant",
+    "gerondif_passe": "en ayant donné"
   }
 }

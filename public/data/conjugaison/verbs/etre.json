@@ -139,6 +139,52 @@
       "tu": "sois",
       "nous": "soyons",
       "vous": "soyez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je fusse",
+      "tu": "tu fusses",
+      "il": "il fût",
+      "elle": "elle fût",
+      "on": "on fût",
+      "nous": "nous fussions",
+      "vous": "vous fussiez",
+      "ils": "ils fussent",
+      "elles": "elles fussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus été",
+      "tu": "tu eus été",
+      "il": "il eut été",
+      "elle": "elle eut été",
+      "on": "on eut été",
+      "nous": "nous eûmes été",
+      "vous": "vous eûtes été",
+      "ils": "ils eurent été",
+      "elles": "elles eurent été"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse été",
+      "tu": "tu eusses été",
+      "il": "il eût été",
+      "elle": "elle eût été",
+      "on": "on eût été",
+      "nous": "nous eussions été",
+      "vous": "vous eussiez été",
+      "ils": "ils eussent été",
+      "elles": "elles eussent été"
+    },
+    "imperatif_passe": {
+      "tu": "aie été",
+      "nous": "ayons été",
+      "vous": "ayez été"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "être",
+    "infinitif_passe": "avoir été",
+    "participe_present": "étant",
+    "participe_passe": "été",
+    "gerondif_present": "en étant",
+    "gerondif_passe": "en ayant été"
   }
 }

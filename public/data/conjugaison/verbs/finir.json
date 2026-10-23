@@ -139,6 +139,52 @@
       "tu": "finis",
       "nous": "finissons",
       "vous": "finissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je finisse",
+      "tu": "tu finisses",
+      "il": "il finît",
+      "elle": "elle finît",
+      "on": "on finît",
+      "nous": "nous finissions",
+      "vous": "vous finissiez",
+      "ils": "ils finissent",
+      "elles": "elles finissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus fini",
+      "tu": "tu eus fini",
+      "il": "il eut fini",
+      "elle": "elle eut fini",
+      "on": "on eut fini",
+      "nous": "nous eûmes fini",
+      "vous": "vous eûtes fini",
+      "ils": "ils eurent fini",
+      "elles": "elles eurent fini"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse fini",
+      "tu": "tu eusses fini",
+      "il": "il eût fini",
+      "elle": "elle eût fini",
+      "on": "on eût fini",
+      "nous": "nous eussions fini",
+      "vous": "vous eussiez fini",
+      "ils": "ils eussent fini",
+      "elles": "elles eussent fini"
+    },
+    "imperatif_passe": {
+      "tu": "aie fini",
+      "nous": "ayons fini",
+      "vous": "ayez fini"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "finir",
+    "infinitif_passe": "avoir fini",
+    "participe_present": "finissant",
+    "participe_passe": "fini",
+    "gerondif_present": "en finissant",
+    "gerondif_passe": "en ayant fini"
   }
 }

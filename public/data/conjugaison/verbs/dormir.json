@@ -139,6 +139,52 @@
       "tu": "dors",
       "nous": "dormons",
       "vous": "dormez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je dormisse",
+      "tu": "tu dormisses",
+      "il": "il dormît",
+      "elle": "elle dormît",
+      "on": "on dormît",
+      "nous": "nous dormissions",
+      "vous": "vous dormissiez",
+      "ils": "ils dormissent",
+      "elles": "elles dormissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus dormi",
+      "tu": "tu eus dormi",
+      "il": "il eut dormi",
+      "elle": "elle eut dormi",
+      "on": "on eut dormi",
+      "nous": "nous eûmes dormi",
+      "vous": "vous eûtes dormi",
+      "ils": "ils eurent dormi",
+      "elles": "elles eurent dormi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse dormi",
+      "tu": "tu eusses dormi",
+      "il": "il eût dormi",
+      "elle": "elle eût dormi",
+      "on": "on eût dormi",
+      "nous": "nous eussions dormi",
+      "vous": "vous eussiez dormi",
+      "ils": "ils eussent dormi",
+      "elles": "elles eussent dormi"
+    },
+    "imperatif_passe": {
+      "tu": "aie dormi",
+      "nous": "ayons dormi",
+      "vous": "ayez dormi"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "dormir",
+    "infinitif_passe": "avoir dormi",
+    "participe_present": "dormant",
+    "participe_passe": "dormi",
+    "gerondif_present": "en dormant",
+    "gerondif_passe": "en ayant dormi"
   }
 }

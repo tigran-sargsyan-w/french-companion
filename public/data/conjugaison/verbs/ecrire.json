@@ -139,6 +139,52 @@
       "tu": "écris",
       "nous": "écrivons",
       "vous": "écrivez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'écrivisse",
+      "tu": "tu écrivisses",
+      "il": "il écrivît",
+      "elle": "elle écrivît",
+      "on": "on écrivît",
+      "nous": "nous écrivissions",
+      "vous": "vous écrivissiez",
+      "ils": "ils écrivissent",
+      "elles": "elles écrivissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus écrit",
+      "tu": "tu eus écrit",
+      "il": "il eut écrit",
+      "elle": "elle eut écrit",
+      "on": "on eut écrit",
+      "nous": "nous eûmes écrit",
+      "vous": "vous eûtes écrit",
+      "ils": "ils eurent écrit",
+      "elles": "elles eurent écrit"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse écrit",
+      "tu": "tu eusses écrit",
+      "il": "il eût écrit",
+      "elle": "elle eût écrit",
+      "on": "on eût écrit",
+      "nous": "nous eussions écrit",
+      "vous": "vous eussiez écrit",
+      "ils": "ils eussent écrit",
+      "elles": "elles eussent écrit"
+    },
+    "imperatif_passe": {
+      "tu": "aie écrit",
+      "nous": "ayons écrit",
+      "vous": "ayez écrit"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "écrire",
+    "infinitif_passe": "avoir écrit",
+    "participe_present": "écrivant",
+    "participe_passe": "écrit",
+    "gerondif_present": "en écrivant",
+    "gerondif_passe": "en ayant écrit"
   }
 }

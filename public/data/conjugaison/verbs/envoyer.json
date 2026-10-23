@@ -139,6 +139,52 @@
       "tu": "envoie",
       "nous": "envoyons",
       "vous": "envoyez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'envoyasse",
+      "tu": "tu envoyasses",
+      "il": "il envoyât",
+      "elle": "elle envoyât",
+      "on": "on envoyât",
+      "nous": "nous envoyassions",
+      "vous": "vous envoyassiez",
+      "ils": "ils envoyassent",
+      "elles": "elles envoyassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus envoyé",
+      "tu": "tu eus envoyé",
+      "il": "il eut envoyé",
+      "elle": "elle eut envoyé",
+      "on": "on eut envoyé",
+      "nous": "nous eûmes envoyé",
+      "vous": "vous eûtes envoyé",
+      "ils": "ils eurent envoyé",
+      "elles": "elles eurent envoyé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse envoyé",
+      "tu": "tu eusses envoyé",
+      "il": "il eût envoyé",
+      "elle": "elle eût envoyé",
+      "on": "on eût envoyé",
+      "nous": "nous eussions envoyé",
+      "vous": "vous eussiez envoyé",
+      "ils": "ils eussent envoyé",
+      "elles": "elles eussent envoyé"
+    },
+    "imperatif_passe": {
+      "tu": "aie envoyé",
+      "nous": "ayons envoyé",
+      "vous": "ayez envoyé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "envoyer",
+    "infinitif_passe": "avoir envoyé",
+    "participe_present": "envoyant",
+    "participe_passe": "envoyé",
+    "gerondif_present": "en envoyant",
+    "gerondif_passe": "en ayant envoyé"
   }
 }

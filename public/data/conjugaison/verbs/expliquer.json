@@ -139,6 +139,52 @@
       "tu": "explique",
       "nous": "expliquons",
       "vous": "expliquez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'expliquasse",
+      "tu": "tu expliquasses",
+      "il": "il expliquât",
+      "elle": "elle expliquât",
+      "on": "on expliquât",
+      "nous": "nous expliquassions",
+      "vous": "vous expliquassiez",
+      "ils": "ils expliquassent",
+      "elles": "elles expliquassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus expliqué",
+      "tu": "tu eus expliqué",
+      "il": "il eut expliqué",
+      "elle": "elle eut expliqué",
+      "on": "on eut expliqué",
+      "nous": "nous eûmes expliqué",
+      "vous": "vous eûtes expliqué",
+      "ils": "ils eurent expliqué",
+      "elles": "elles eurent expliqué"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse expliqué",
+      "tu": "tu eusses expliqué",
+      "il": "il eût expliqué",
+      "elle": "elle eût expliqué",
+      "on": "on eût expliqué",
+      "nous": "nous eussions expliqué",
+      "vous": "vous eussiez expliqué",
+      "ils": "ils eussent expliqué",
+      "elles": "elles eussent expliqué"
+    },
+    "imperatif_passe": {
+      "tu": "aie expliqué",
+      "nous": "ayons expliqué",
+      "vous": "ayez expliqué"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "expliquer",
+    "infinitif_passe": "avoir expliqué",
+    "participe_present": "expliquant",
+    "participe_passe": "expliqué",
+    "gerondif_present": "en expliquant",
+    "gerondif_passe": "en ayant expliqué"
   }
 }

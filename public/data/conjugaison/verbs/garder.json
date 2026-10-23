@@ -139,6 +139,52 @@
       "tu": "garde",
       "nous": "gardons",
       "vous": "gardez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je gardasse",
+      "tu": "tu gardasses",
+      "il": "il gardât",
+      "elle": "elle gardât",
+      "on": "on gardât",
+      "nous": "nous gardassions",
+      "vous": "vous gardassiez",
+      "ils": "ils gardassent",
+      "elles": "elles gardassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus gardé",
+      "tu": "tu eus gardé",
+      "il": "il eut gardé",
+      "elle": "elle eut gardé",
+      "on": "on eut gardé",
+      "nous": "nous eûmes gardé",
+      "vous": "vous eûtes gardé",
+      "ils": "ils eurent gardé",
+      "elles": "elles eurent gardé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse gardé",
+      "tu": "tu eusses gardé",
+      "il": "il eût gardé",
+      "elle": "elle eût gardé",
+      "on": "on eût gardé",
+      "nous": "nous eussions gardé",
+      "vous": "vous eussiez gardé",
+      "ils": "ils eussent gardé",
+      "elles": "elles eussent gardé"
+    },
+    "imperatif_passe": {
+      "tu": "aie gardé",
+      "nous": "ayons gardé",
+      "vous": "ayez gardé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "garder",
+    "infinitif_passe": "avoir gardé",
+    "participe_present": "gardant",
+    "participe_passe": "gardé",
+    "gerondif_present": "en gardant",
+    "gerondif_passe": "en ayant gardé"
   }
 }

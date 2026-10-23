@@ -139,6 +139,52 @@
       "tu": "entends",
       "nous": "entendons",
       "vous": "entendez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'entendisse",
+      "tu": "tu entendisses",
+      "il": "il entendît",
+      "elle": "elle entendît",
+      "on": "on entendît",
+      "nous": "nous entendissions",
+      "vous": "vous entendissiez",
+      "ils": "ils entendissent",
+      "elles": "elles entendissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus entendu",
+      "tu": "tu eus entendu",
+      "il": "il eut entendu",
+      "elle": "elle eut entendu",
+      "on": "on eut entendu",
+      "nous": "nous eûmes entendu",
+      "vous": "vous eûtes entendu",
+      "ils": "ils eurent entendu",
+      "elles": "elles eurent entendu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse entendu",
+      "tu": "tu eusses entendu",
+      "il": "il eût entendu",
+      "elle": "elle eût entendu",
+      "on": "on eût entendu",
+      "nous": "nous eussions entendu",
+      "vous": "vous eussiez entendu",
+      "ils": "ils eussent entendu",
+      "elles": "elles eussent entendu"
+    },
+    "imperatif_passe": {
+      "tu": "aie entendu",
+      "nous": "ayons entendu",
+      "vous": "ayez entendu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "entendre",
+    "infinitif_passe": "avoir entendu",
+    "participe_present": "entendant",
+    "participe_passe": "entendu",
+    "gerondif_present": "en entendant",
+    "gerondif_passe": "en ayant entendu"
   }
 }

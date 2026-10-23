@@ -139,6 +139,52 @@
       "tu": "fais",
       "nous": "faisons",
       "vous": "faites"
+    },
+    "subjonctif_imparfait": {
+      "je": "je fisse",
+      "tu": "tu fisses",
+      "il": "il fît",
+      "elle": "elle fît",
+      "on": "on fît",
+      "nous": "nous fissions",
+      "vous": "vous fissiez",
+      "ils": "ils fissent",
+      "elles": "elles fissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus fait",
+      "tu": "tu eus fait",
+      "il": "il eut fait",
+      "elle": "elle eut fait",
+      "on": "on eut fait",
+      "nous": "nous eûmes fait",
+      "vous": "vous eûtes fait",
+      "ils": "ils eurent fait",
+      "elles": "elles eurent fait"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse fait",
+      "tu": "tu eusses fait",
+      "il": "il eût fait",
+      "elle": "elle eût fait",
+      "on": "on eût fait",
+      "nous": "nous eussions fait",
+      "vous": "vous eussiez fait",
+      "ils": "ils eussent fait",
+      "elles": "elles eussent fait"
+    },
+    "imperatif_passe": {
+      "tu": "aie fait",
+      "nous": "ayons fait",
+      "vous": "ayez fait"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "faire",
+    "infinitif_passe": "avoir fait",
+    "participe_present": "faisant",
+    "participe_passe": "fait",
+    "gerondif_present": "en faisant",
+    "gerondif_passe": "en ayant fait"
   }
 }

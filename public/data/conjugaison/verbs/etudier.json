@@ -139,6 +139,52 @@
       "tu": "étudie",
       "nous": "étudions",
       "vous": "étudiez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'étudiasse",
+      "tu": "tu étudiasses",
+      "il": "il étudiât",
+      "elle": "elle étudiât",
+      "on": "on étudiât",
+      "nous": "nous étudiassions",
+      "vous": "vous étudiassiez",
+      "ils": "ils étudiassent",
+      "elles": "elles étudiassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus étudié",
+      "tu": "tu eus étudié",
+      "il": "il eut étudié",
+      "elle": "elle eut étudié",
+      "on": "on eut étudié",
+      "nous": "nous eûmes étudié",
+      "vous": "vous eûtes étudié",
+      "ils": "ils eurent étudié",
+      "elles": "elles eurent étudié"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse étudié",
+      "tu": "tu eusses étudié",
+      "il": "il eût étudié",
+      "elle": "elle eût étudié",
+      "on": "on eût étudié",
+      "nous": "nous eussions étudié",
+      "vous": "vous eussiez étudié",
+      "ils": "ils eussent étudié",
+      "elles": "elles eussent étudié"
+    },
+    "imperatif_passe": {
+      "tu": "aie étudié",
+      "nous": "ayons étudié",
+      "vous": "ayez étudié"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "étudier",
+    "infinitif_passe": "avoir étudié",
+    "participe_present": "étudiant",
+    "participe_passe": "étudié",
+    "gerondif_present": "en étudiant",
+    "gerondif_passe": "en ayant étudié"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "entre",
       "nous": "entrons",
       "vous": "entrez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'entrasse",
+      "tu": "tu entrasses",
+      "il": "il entrât",
+      "elle": "elle entrât",
+      "on": "on entrât",
+      "nous": "nous entrassions",
+      "vous": "vous entrassiez",
+      "ils": "ils entrassent",
+      "elles": "elles entrassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus entré",
+      "tu": "tu eus entré",
+      "il": "il eut entré",
+      "elle": "elle eut entré",
+      "on": "on eut entré",
+      "nous": "nous eûmes entré",
+      "vous": "vous eûtes entré",
+      "ils": "ils eurent entré",
+      "elles": "elles eurent entré"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse entré",
+      "tu": "tu eusses entré",
+      "il": "il eût entré",
+      "elle": "elle eût entré",
+      "on": "on eût entré",
+      "nous": "nous eussions entré",
+      "vous": "vous eussiez entré",
+      "ils": "ils eussent entré",
+      "elles": "elles eussent entré"
+    },
+    "imperatif_passe": {
+      "tu": "aie entré",
+      "nous": "ayons entré",
+      "vous": "ayez entré"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "entrer",
+    "infinitif_passe": "avoir entré",
+    "participe_present": "entrant",
+    "participe_passe": "entré",
+    "gerondif_present": "en entrant",
+    "gerondif_passe": "en ayant entré"
   }
 }

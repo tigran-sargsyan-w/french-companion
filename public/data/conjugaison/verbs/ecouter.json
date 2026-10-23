@@ -139,6 +139,52 @@
       "tu": "écoute",
       "nous": "écoutons",
       "vous": "écoutez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'écoutasse",
+      "tu": "tu écoutasses",
+      "il": "il écoutât",
+      "elle": "elle écoutât",
+      "on": "on écoutât",
+      "nous": "nous écoutassions",
+      "vous": "vous écoutassiez",
+      "ils": "ils écoutassent",
+      "elles": "elles écoutassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus écouté",
+      "tu": "tu eus écouté",
+      "il": "il eut écouté",
+      "elle": "elle eut écouté",
+      "on": "on eut écouté",
+      "nous": "nous eûmes écouté",
+      "vous": "vous eûtes écouté",
+      "ils": "ils eurent écouté",
+      "elles": "elles eurent écouté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse écouté",
+      "tu": "tu eusses écouté",
+      "il": "il eût écouté",
+      "elle": "elle eût écouté",
+      "on": "on eût écouté",
+      "nous": "nous eussions écouté",
+      "vous": "vous eussiez écouté",
+      "ils": "ils eussent écouté",
+      "elles": "elles eussent écouté"
+    },
+    "imperatif_passe": {
+      "tu": "aie écouté",
+      "nous": "ayons écouté",
+      "vous": "ayez écouté"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "écouter",
+    "infinitif_passe": "avoir écouté",
+    "participe_present": "écoutant",
+    "participe_passe": "écouté",
+    "gerondif_present": "en écoutant",
+    "gerondif_passe": "en ayant écouté"
   }
 }

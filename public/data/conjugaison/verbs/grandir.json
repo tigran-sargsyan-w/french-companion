@@ -139,6 +139,52 @@
       "tu": "grandis",
       "nous": "grandissons",
       "vous": "grandissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je grandisse",
+      "tu": "tu grandisses",
+      "il": "il grandît",
+      "elle": "elle grandît",
+      "on": "on grandît",
+      "nous": "nous grandissions",
+      "vous": "vous grandissiez",
+      "ils": "ils grandissent",
+      "elles": "elles grandissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus grandi",
+      "tu": "tu eus grandi",
+      "il": "il eut grandi",
+      "elle": "elle eut grandi",
+      "on": "on eut grandi",
+      "nous": "nous eûmes grandi",
+      "vous": "vous eûtes grandi",
+      "ils": "ils eurent grandi",
+      "elles": "elles eurent grandi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse grandi",
+      "tu": "tu eusses grandi",
+      "il": "il eût grandi",
+      "elle": "elle eût grandi",
+      "on": "on eût grandi",
+      "nous": "nous eussions grandi",
+      "vous": "vous eussiez grandi",
+      "ils": "ils eussent grandi",
+      "elles": "elles eussent grandi"
+    },
+    "imperatif_passe": {
+      "tu": "aie grandi",
+      "nous": "ayons grandi",
+      "vous": "ayez grandi"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "grandir",
+    "infinitif_passe": "avoir grandi",
+    "participe_present": "grandissant",
+    "participe_passe": "grandi",
+    "gerondif_present": "en grandissant",
+    "gerondif_passe": "en ayant grandi"
   }
 }

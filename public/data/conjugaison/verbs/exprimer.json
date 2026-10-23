@@ -139,6 +139,52 @@
       "tu": "exprime",
       "nous": "exprimons",
       "vous": "exprimez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'exprimasse",
+      "tu": "tu exprimasses",
+      "il": "il exprimât",
+      "elle": "elle exprimât",
+      "on": "on exprimât",
+      "nous": "nous exprimassions",
+      "vous": "vous exprimassiez",
+      "ils": "ils exprimassent",
+      "elles": "elles exprimassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus exprimé",
+      "tu": "tu eus exprimé",
+      "il": "il eut exprimé",
+      "elle": "elle eut exprimé",
+      "on": "on eut exprimé",
+      "nous": "nous eûmes exprimé",
+      "vous": "vous eûtes exprimé",
+      "ils": "ils eurent exprimé",
+      "elles": "elles eurent exprimé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse exprimé",
+      "tu": "tu eusses exprimé",
+      "il": "il eût exprimé",
+      "elle": "elle eût exprimé",
+      "on": "on eût exprimé",
+      "nous": "nous eussions exprimé",
+      "vous": "vous eussiez exprimé",
+      "ils": "ils eussent exprimé",
+      "elles": "elles eussent exprimé"
+    },
+    "imperatif_passe": {
+      "tu": "aie exprimé",
+      "nous": "ayons exprimé",
+      "vous": "ayez exprimé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "exprimer",
+    "infinitif_passe": "avoir exprimé",
+    "participe_present": "exprimant",
+    "participe_passe": "exprimé",
+    "gerondif_present": "en exprimant",
+    "gerondif_passe": "en ayant exprimé"
   }
 }
