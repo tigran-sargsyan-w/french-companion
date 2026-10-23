@@ -13,6 +13,47 @@
       "Révision des temps du passé et exercices de conjugaison."
     ]
   ],
-  "notes": "Fait en classe:\n- Correction des devoirs.\n- Livre, pages 60–61, exercices 1 à 9 : les Jeux olympiques du futur.\n- Exercices sur les temps du futur (document PDF) : conjugaison et mise en contexte du futur antérieur.\n\nGrammaire:\n- Futur antérieur : auxiliaires avoir / être au futur simple et participe passé.\n- Succession des actions futures : quand, dès que, une fois que.\n- Comparaison avec futur proche, futur simple et conditionnel présent.\n- Rappel : imparfait, passé composé et plus-que-parfait.\n\nVocabulaire:\n- Jeux olympiques, records et nouvelles formes de compétition.\n- Ingénierie génétique, prothèses, exosquelettes, nanotechnologies et handisport.\n\nNotes personnelles:\n- Différence entre une affirmation au futur et une formulation hypothétique au conditionnel ; cette opposition dépend du contexte.\n\nIllustrations:\n- Les huit images sources sont préparées séparément ; elles ne sont pas encore intégrées au dépôt.",
-  "photos": []
+  "notes": "Fait en classe:\n- Correction des devoirs.\n- Livre, pages 60–61, exercices 1 à 9 : les Jeux olympiques du futur.\n- Exercices sur les temps du futur (document PDF) : conjugaison et mise en contexte du futur antérieur.\n\nGrammaire:\n- Futur antérieur : auxiliaires avoir / être au futur simple et participe passé.\n- Succession des actions futures : quand, dès que, une fois que.\n- Comparaison avec futur proche, futur simple et conditionnel présent.\n- Rappel : imparfait, passé composé et plus-que-parfait.\n\nVocabulaire:\n- Jeux olympiques, records et nouvelles formes de compétition.\n- Ingénierie génétique, prothèses, exosquelettes, nanotechnologies et handisport.\n\nNotes personnelles:\n- Différence entre une affirmation au futur et une formulation hypothétique au conditionnel ; cette opposition dépend du contexte.",
+  "photos": [
+    {
+      "src": "photos/cours-23-octobre.png",
+      "caption": "Programme du cours du 23 octobre",
+      "alt": "Message du professeur sur les Jeux olympiques du futur et le futur antérieur"
+    },
+    {
+      "src": "photos/exercices-futur-corrections.png",
+      "caption": "Exercices corrigés sur les temps du futur",
+      "alt": "Tableau et corrections d'exercices sur le futur proche, le futur simple, le futur antérieur et le conditionnel"
+    },
+    {
+      "src": "photos/formes-du-futur-theorie.png",
+      "caption": "Rappel théorique des formes du futur",
+      "alt": "Fiche sur le futur proche, le futur simple, le futur antérieur et le conditionnel présent"
+    },
+    {
+      "src": "photos/notes-futur-conditionnel.png",
+      "caption": "Notes personnelles sur le futur et le conditionnel",
+      "alt": "Notes manuscrites comparant l'affirmation au futur et l'incertitude au conditionnel"
+    },
+    {
+      "src": "photos/futur-anterieur-conjugaison.png",
+      "caption": "Conjugaison du futur antérieur",
+      "alt": "Tableau de conjugaison des verbes créer et aller au futur antérieur"
+    },
+    {
+      "src": "photos/temps-du-passe-rappel.png",
+      "caption": "Rappel des temps du passé",
+      "alt": "Fiche sur l'imparfait, le passé composé et le plus-que-parfait"
+    },
+    {
+      "src": "photos/futur-anterieur-regles.png",
+      "caption": "Règles du futur antérieur",
+      "alt": "Page de manuel présentant la formation du futur antérieur et son utilisation dans le contexte des Jeux olympiques"
+    },
+    {
+      "src": "photos/exercices-futur-et-passe.png",
+      "caption": "Exercices sur le futur et les temps du passé",
+      "alt": "Page d'exercices sur le futur antérieur et les temps du passé"
+    }
+  ]
 }
