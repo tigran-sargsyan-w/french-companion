@@ -56,3 +56,26 @@ The Conjugaison route is separate from the vocabulary review route; the conjugat
 5. Deploy the build. Opening vocabulary review does not request `verbs-bundle.json`; opening Conjugaison uses `?v=<content-version>` with browser cache for the bundle.
 
 Session statistics are ephemeral; the only persistent include/exclude switch is each verb's committed `status` field.
+
+## Sélection rapide des temps
+
+The Conjugaison configuration provides seven optional selection presets. They
+change only the set of selected tense/form IDs (not the verbs or pronouns):
+
+| Preset | Selected forms |
+| --- | --- |
+| Tout — entraînement complet | All 23 |
+| Vie quotidienne | Present, passé composé, imparfait, futur proche, futur simple, conditionnel présent, subjonctif présent, impératif présent |
+| Révision B1 | Daily forms plus plus-que-parfait and conditionnel passé, excluding the rarer passé composé's literary equivalents |
+| Entraînement B2 | 17 selected forms, including futur antérieur, subjonctif passé, participes and gérondifs, without very rare literary forms |
+| Subjonctif et conditionnel | All four subjunctive and both conditional tenses |
+| Français littéraire | Narrative/literary tenses and selected non-personal forms |
+| Formes non personnelles | All six non-personal forms, with no pronoun required |
+
+These are practice-oriented groupings, not an official CEFR classification.
+The initial selection is **Tout**. Clicking individual tense chips marks the
+selection as **Personnalisé**; users can pick another preset to reset it.
+
+After a wrong answer, the feedback displays the user's selected form, the
+matching tense label(s), and the correct form. Ambiguous spellings can belong to
+multiple tenses, so all matching labels are shown.
