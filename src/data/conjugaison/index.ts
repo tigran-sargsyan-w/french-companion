@@ -1,3 +1,6 @@
+import { useQuery } from "@tanstack/react-query";
+import { useContentVersion } from "@/data";
+
 export const TENSES = [
   { id: "present", label: "Présent" },
   { id: "imparfait", label: "Imparfait" },
@@ -26,12 +29,28 @@ export type ConjugationVerb = {
   forms: Partial<Record<Tense, Partial<Record<Pronoun, string>>>>;
 };
 
-const importedVerbs = import.meta.glob("./verbs/*.json", { eager: true, import: "default" }) as Record<string, ConjugationVerb>;
-
-/** Only imported by the Conjugaison route: never loads with vocabulary review. */
-export const verbs: ConjugationVerb[] = Object.values(importedVerbs)
-  .filter((verb) => verb.status === "learning")
-  .sort((a, b) => a.infinitive.localeCompare(b.infinitive, "fr"));
+/**
+ * The lesson bundle and conjugation bundle share the same version sentinel,
+ * but this query runs only when the Conjugaison route is mounted.
+ */
+export function useConjugationVerbs() {
+  const versionQuery = useContentVersion();
+  const version = versionQuery.data?.version;
+  return useQuery({
+    queryKey: ["conjugaison-verbs", version ?? "version-unavailable"],
+    queryFn: async (): Promise<ConjugationVerb[]> => {
+      if (!version) throw versionQuery.error ?? new Error("Version du contenu indisponible.");
+      const url = `${import.meta.env.BASE_URL}data/conjugaison/verbs-bundle.json?v=${encodeURIComponent(version)}`;
+      const response = await fetch(url, { cache: "force-cache" });
+      if (!response.ok) throw new Error(`Impossible de charger les conjugaisons : ${response.status}`);
+      const data: { verbs: ConjugationVerb[] } = await response.json();
+      return data.verbs.filter((verb) => verb.status === "learning")
+        .sort((a, b) => a.infinitive.localeCompare(b.infinitive, "fr"));
+    },
+    enabled: Boolean(version) || versionQuery.isError,
+    staleTime: Infinity,
+  });
+}
 
 export type Prompt = { verb: ConjugationVerb; tense: Tense; pronoun: Pronoun };
 export type Question = Prompt & { choices: string[]; correctIndex: number; correct: string };

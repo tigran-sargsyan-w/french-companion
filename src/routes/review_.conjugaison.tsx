@@ -7,7 +7,7 @@ import {
   createQuestion,
   PRONOUNS,
   TENSES,
-  verbs,
+  useConjugationVerbs,
   type Pronoun,
   type Question,
   type Tense,
@@ -32,6 +32,7 @@ const outlined = button + " border border-border hover:bg-secondary";
 const label = (tense: Tense) => TENSES.find((item) => item.id === tense)?.label ?? tense;
 
 function ConjugaisonPage() {
+  const verbQuery = useConjugationVerbs();
   const [tenses, setTenses] = useState<Tense[]>(TENSES.map((tense) => tense.id));
   const [pronouns, setPronouns] = useState<Pronoun[]>([...PRONOUNS]);
   const [verbFilter, setVerbFilter] = useState<VerbFilter>("all");
@@ -42,8 +43,8 @@ function ConjugaisonPage() {
   const [answers, setAnswers] = useState<RecordAnswer[]>([]);
 
   const available = useMemo(
-    () => verbs.filter((verb) => verbFilter === "all" || verb.group === verbFilter),
-    [verbFilter],
+    () => (verbQuery.data ?? []).filter((verb) => verbFilter === "all" || verb.group === verbFilter),
+    [verbFilter, verbQuery.data],
   );
   const current = deck?.[position];
   const finished = deck !== null && position >= deck.length;
@@ -106,7 +107,11 @@ function ConjugaisonPage() {
         <span className={primary} aria-current="page">Conjugaison</span>
       </div>
 
-      {deck === null ? (
+      {verbQuery.isPending ? (
+        <div className="card-soft p-8 text-center text-muted-foreground">Chargement des conjugaisons…</div>
+      ) : verbQuery.isError ? (
+        <div role="alert" className="card-soft p-8 text-center text-destructive">Impossible de charger les conjugaisons : {verbQuery.error.message}</div>
+      ) : deck === null ? (
         <section className="card-soft mx-auto max-w-3xl space-y-6 p-5 sm:p-7">
           <div className="flex flex-wrap items-center justify-between gap-3">
             <h2 className="flex items-center gap-2 font-display text-2xl">

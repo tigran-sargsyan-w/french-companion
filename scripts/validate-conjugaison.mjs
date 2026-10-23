@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
-const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../src/data/conjugaison/verbs");
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../public/data/conjugaison/verbs");
 const tenses = [
   "present", "imparfait", "passe_compose", "plus_que_parfait", "futur_proche",
   "futur_simple", "futur_anterieur", "conditionnel_present", "conditionnel_passe",
