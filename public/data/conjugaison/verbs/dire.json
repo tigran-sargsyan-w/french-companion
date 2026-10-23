@@ -139,6 +139,52 @@
       "tu": "dis",
       "nous": "disons",
       "vous": "dites"
+    },
+    "subjonctif_imparfait": {
+      "je": "je disse",
+      "tu": "tu disses",
+      "il": "il dît",
+      "elle": "elle dît",
+      "on": "on dît",
+      "nous": "nous dissions",
+      "vous": "vous dissiez",
+      "ils": "ils dissent",
+      "elles": "elles dissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus dit",
+      "tu": "tu eus dit",
+      "il": "il eut dit",
+      "elle": "elle eut dit",
+      "on": "on eut dit",
+      "nous": "nous eûmes dit",
+      "vous": "vous eûtes dit",
+      "ils": "ils eurent dit",
+      "elles": "elles eurent dit"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse dit",
+      "tu": "tu eusses dit",
+      "il": "il eût dit",
+      "elle": "elle eût dit",
+      "on": "on eût dit",
+      "nous": "nous eussions dit",
+      "vous": "vous eussiez dit",
+      "ils": "ils eussent dit",
+      "elles": "elles eussent dit"
+    },
+    "imperatif_passe": {
+      "tu": "aie dit",
+      "nous": "ayons dit",
+      "vous": "ayez dit"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "dire",
+    "infinitif_passe": "avoir dit",
+    "participe_present": "disant",
+    "participe_passe": "dit",
+    "gerondif_present": "en disant",
+    "gerondif_passe": "en ayant dit"
   }
 }

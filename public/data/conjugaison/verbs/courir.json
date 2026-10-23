@@ -139,6 +139,52 @@
       "tu": "cours",
       "nous": "courons",
       "vous": "courez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je courusse",
+      "tu": "tu courusses",
+      "il": "il courût",
+      "elle": "elle courût",
+      "on": "on courût",
+      "nous": "nous courussions",
+      "vous": "vous courussiez",
+      "ils": "ils courussent",
+      "elles": "elles courussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus couru",
+      "tu": "tu eus couru",
+      "il": "il eut couru",
+      "elle": "elle eut couru",
+      "on": "on eut couru",
+      "nous": "nous eûmes couru",
+      "vous": "vous eûtes couru",
+      "ils": "ils eurent couru",
+      "elles": "elles eurent couru"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse couru",
+      "tu": "tu eusses couru",
+      "il": "il eût couru",
+      "elle": "elle eût couru",
+      "on": "on eût couru",
+      "nous": "nous eussions couru",
+      "vous": "vous eussiez couru",
+      "ils": "ils eussent couru",
+      "elles": "elles eussent couru"
+    },
+    "imperatif_passe": {
+      "tu": "aie couru",
+      "nous": "ayons couru",
+      "vous": "ayez couru"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "courir",
+    "infinitif_passe": "avoir couru",
+    "participe_present": "courant",
+    "participe_passe": "couru",
+    "gerondif_present": "en courant",
+    "gerondif_passe": "en ayant couru"
   }
 }

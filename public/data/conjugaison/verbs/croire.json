@@ -139,6 +139,52 @@
       "tu": "crois",
       "nous": "croyons",
       "vous": "croyez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je crusse",
+      "tu": "tu crusses",
+      "il": "il crût",
+      "elle": "elle crût",
+      "on": "on crût",
+      "nous": "nous crussions",
+      "vous": "vous crussiez",
+      "ils": "ils crussent",
+      "elles": "elles crussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus cru",
+      "tu": "tu eus cru",
+      "il": "il eut cru",
+      "elle": "elle eut cru",
+      "on": "on eut cru",
+      "nous": "nous eûmes cru",
+      "vous": "vous eûtes cru",
+      "ils": "ils eurent cru",
+      "elles": "elles eurent cru"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse cru",
+      "tu": "tu eusses cru",
+      "il": "il eût cru",
+      "elle": "elle eût cru",
+      "on": "on eût cru",
+      "nous": "nous eussions cru",
+      "vous": "vous eussiez cru",
+      "ils": "ils eussent cru",
+      "elles": "elles eussent cru"
+    },
+    "imperatif_passe": {
+      "tu": "aie cru",
+      "nous": "ayons cru",
+      "vous": "ayez cru"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "croire",
+    "infinitif_passe": "avoir cru",
+    "participe_present": "croyant",
+    "participe_passe": "cru",
+    "gerondif_present": "en croyant",
+    "gerondif_passe": "en ayant cru"
   }
 }

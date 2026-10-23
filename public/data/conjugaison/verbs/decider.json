@@ -139,6 +139,52 @@
       "tu": "décide",
       "nous": "décidons",
       "vous": "décidez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je décidasse",
+      "tu": "tu décidasses",
+      "il": "il décidât",
+      "elle": "elle décidât",
+      "on": "on décidât",
+      "nous": "nous décidassions",
+      "vous": "vous décidassiez",
+      "ils": "ils décidassent",
+      "elles": "elles décidassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus décidé",
+      "tu": "tu eus décidé",
+      "il": "il eut décidé",
+      "elle": "elle eut décidé",
+      "on": "on eut décidé",
+      "nous": "nous eûmes décidé",
+      "vous": "vous eûtes décidé",
+      "ils": "ils eurent décidé",
+      "elles": "elles eurent décidé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse décidé",
+      "tu": "tu eusses décidé",
+      "il": "il eût décidé",
+      "elle": "elle eût décidé",
+      "on": "on eût décidé",
+      "nous": "nous eussions décidé",
+      "vous": "vous eussiez décidé",
+      "ils": "ils eussent décidé",
+      "elles": "elles eussent décidé"
+    },
+    "imperatif_passe": {
+      "tu": "aie décidé",
+      "nous": "ayons décidé",
+      "vous": "ayez décidé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "décider",
+    "infinitif_passe": "avoir décidé",
+    "participe_present": "décidant",
+    "participe_passe": "décidé",
+    "gerondif_present": "en décidant",
+    "gerondif_passe": "en ayant décidé"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "deviens",
       "nous": "devenons",
       "vous": "devenez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je devinsse",
+      "tu": "tu devinsses",
+      "il": "il devînt",
+      "elle": "elle devînt",
+      "on": "on devînt",
+      "nous": "nous devinssions",
+      "vous": "vous devinssiez",
+      "ils": "ils devinssent",
+      "elles": "elles devinssent"
+    },
+    "passe_anterieur": {
+      "je": "je fus devenu",
+      "tu": "tu fus devenu",
+      "il": "il fut devenu",
+      "elle": "elle fut devenue",
+      "on": "on fut devenu",
+      "nous": "nous fûmes devenus",
+      "vous": "vous fûtes devenus",
+      "ils": "ils furent devenus",
+      "elles": "elles furent devenues"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "je fusse devenu",
+      "tu": "tu fusses devenu",
+      "il": "il fût devenu",
+      "elle": "elle fût devenue",
+      "on": "on fût devenu",
+      "nous": "nous fussions devenus",
+      "vous": "vous fussiez devenus",
+      "ils": "ils fussent devenus",
+      "elles": "elles fussent devenues"
+    },
+    "imperatif_passe": {
+      "tu": "sois devenu",
+      "nous": "soyons devenus",
+      "vous": "soyez devenus"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "devenir",
+    "infinitif_passe": "être devenu",
+    "participe_present": "devenant",
+    "participe_passe": "devenu",
+    "gerondif_present": "en devenant",
+    "gerondif_passe": "en étant devenu"
   }
 }

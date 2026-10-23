@@ -139,6 +139,52 @@
       "tu": "cuisine",
       "nous": "cuisinons",
       "vous": "cuisinez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je cuisinasse",
+      "tu": "tu cuisinasses",
+      "il": "il cuisinât",
+      "elle": "elle cuisinât",
+      "on": "on cuisinât",
+      "nous": "nous cuisinassions",
+      "vous": "vous cuisinassiez",
+      "ils": "ils cuisinassent",
+      "elles": "elles cuisinassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus cuisiné",
+      "tu": "tu eus cuisiné",
+      "il": "il eut cuisiné",
+      "elle": "elle eut cuisiné",
+      "on": "on eut cuisiné",
+      "nous": "nous eûmes cuisiné",
+      "vous": "vous eûtes cuisiné",
+      "ils": "ils eurent cuisiné",
+      "elles": "elles eurent cuisiné"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse cuisiné",
+      "tu": "tu eusses cuisiné",
+      "il": "il eût cuisiné",
+      "elle": "elle eût cuisiné",
+      "on": "on eût cuisiné",
+      "nous": "nous eussions cuisiné",
+      "vous": "vous eussiez cuisiné",
+      "ils": "ils eussent cuisiné",
+      "elles": "elles eussent cuisiné"
+    },
+    "imperatif_passe": {
+      "tu": "aie cuisiné",
+      "nous": "ayons cuisiné",
+      "vous": "ayez cuisiné"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "cuisiner",
+    "infinitif_passe": "avoir cuisiné",
+    "participe_present": "cuisinant",
+    "participe_passe": "cuisiné",
+    "gerondif_present": "en cuisinant",
+    "gerondif_passe": "en ayant cuisiné"
   }
 }

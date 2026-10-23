@@ -139,6 +139,52 @@
       "tu": "dépends",
       "nous": "dépendons",
       "vous": "dépendez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je dépendisse",
+      "tu": "tu dépendisses",
+      "il": "il dépendît",
+      "elle": "elle dépendît",
+      "on": "on dépendît",
+      "nous": "nous dépendissions",
+      "vous": "vous dépendissiez",
+      "ils": "ils dépendissent",
+      "elles": "elles dépendissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus dépendu",
+      "tu": "tu eus dépendu",
+      "il": "il eut dépendu",
+      "elle": "elle eut dépendu",
+      "on": "on eut dépendu",
+      "nous": "nous eûmes dépendu",
+      "vous": "vous eûtes dépendu",
+      "ils": "ils eurent dépendu",
+      "elles": "elles eurent dépendu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse dépendu",
+      "tu": "tu eusses dépendu",
+      "il": "il eût dépendu",
+      "elle": "elle eût dépendu",
+      "on": "on eût dépendu",
+      "nous": "nous eussions dépendu",
+      "vous": "vous eussiez dépendu",
+      "ils": "ils eussent dépendu",
+      "elles": "elles eussent dépendu"
+    },
+    "imperatif_passe": {
+      "tu": "aie dépendu",
+      "nous": "ayons dépendu",
+      "vous": "ayez dépendu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "dépendre",
+    "infinitif_passe": "avoir dépendu",
+    "participe_present": "dépendant",
+    "participe_passe": "dépendu",
+    "gerondif_present": "en dépendant",
+    "gerondif_passe": "en ayant dépendu"
   }
 }

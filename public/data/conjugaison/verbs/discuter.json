@@ -139,6 +139,52 @@
       "tu": "discute",
       "nous": "discutons",
       "vous": "discutez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je discutasse",
+      "tu": "tu discutasses",
+      "il": "il discutât",
+      "elle": "elle discutât",
+      "on": "on discutât",
+      "nous": "nous discutassions",
+      "vous": "vous discutassiez",
+      "ils": "ils discutassent",
+      "elles": "elles discutassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus discuté",
+      "tu": "tu eus discuté",
+      "il": "il eut discuté",
+      "elle": "elle eut discuté",
+      "on": "on eut discuté",
+      "nous": "nous eûmes discuté",
+      "vous": "vous eûtes discuté",
+      "ils": "ils eurent discuté",
+      "elles": "elles eurent discuté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse discuté",
+      "tu": "tu eusses discuté",
+      "il": "il eût discuté",
+      "elle": "elle eût discuté",
+      "on": "on eût discuté",
+      "nous": "nous eussions discuté",
+      "vous": "vous eussiez discuté",
+      "ils": "ils eussent discuté",
+      "elles": "elles eussent discuté"
+    },
+    "imperatif_passe": {
+      "tu": "aie discuté",
+      "nous": "ayons discuté",
+      "vous": "ayez discuté"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "discuter",
+    "infinitif_passe": "avoir discuté",
+    "participe_present": "discutant",
+    "participe_passe": "discuté",
+    "gerondif_present": "en discutant",
+    "gerondif_passe": "en ayant discuté"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "développe",
       "nous": "développons",
       "vous": "développez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je développasse",
+      "tu": "tu développasses",
+      "il": "il développât",
+      "elle": "elle développât",
+      "on": "on développât",
+      "nous": "nous développassions",
+      "vous": "vous développassiez",
+      "ils": "ils développassent",
+      "elles": "elles développassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus développé",
+      "tu": "tu eus développé",
+      "il": "il eut développé",
+      "elle": "elle eut développé",
+      "on": "on eut développé",
+      "nous": "nous eûmes développé",
+      "vous": "vous eûtes développé",
+      "ils": "ils eurent développé",
+      "elles": "elles eurent développé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse développé",
+      "tu": "tu eusses développé",
+      "il": "il eût développé",
+      "elle": "elle eût développé",
+      "on": "on eût développé",
+      "nous": "nous eussions développé",
+      "vous": "vous eussiez développé",
+      "ils": "ils eussent développé",
+      "elles": "elles eussent développé"
+    },
+    "imperatif_passe": {
+      "tu": "aie développé",
+      "nous": "ayons développé",
+      "vous": "ayez développé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "développer",
+    "infinitif_passe": "avoir développé",
+    "participe_present": "développant",
+    "participe_passe": "développé",
+    "gerondif_present": "en développant",
+    "gerondif_passe": "en ayant développé"
   }
 }

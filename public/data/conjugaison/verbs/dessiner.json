@@ -139,6 +139,52 @@
       "tu": "dessine",
       "nous": "dessinons",
       "vous": "dessinez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je dessinasse",
+      "tu": "tu dessinasses",
+      "il": "il dessinât",
+      "elle": "elle dessinât",
+      "on": "on dessinât",
+      "nous": "nous dessinassions",
+      "vous": "vous dessinassiez",
+      "ils": "ils dessinassent",
+      "elles": "elles dessinassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus dessiné",
+      "tu": "tu eus dessiné",
+      "il": "il eut dessiné",
+      "elle": "elle eut dessiné",
+      "on": "on eut dessiné",
+      "nous": "nous eûmes dessiné",
+      "vous": "vous eûtes dessiné",
+      "ils": "ils eurent dessiné",
+      "elles": "elles eurent dessiné"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse dessiné",
+      "tu": "tu eusses dessiné",
+      "il": "il eût dessiné",
+      "elle": "elle eût dessiné",
+      "on": "on eût dessiné",
+      "nous": "nous eussions dessiné",
+      "vous": "vous eussiez dessiné",
+      "ils": "ils eussent dessiné",
+      "elles": "elles eussent dessiné"
+    },
+    "imperatif_passe": {
+      "tu": "aie dessiné",
+      "nous": "ayons dessiné",
+      "vous": "ayez dessiné"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "dessiner",
+    "infinitif_passe": "avoir dessiné",
+    "participe_present": "dessinant",
+    "participe_passe": "dessiné",
+    "gerondif_present": "en dessinant",
+    "gerondif_passe": "en ayant dessiné"
   }
 }

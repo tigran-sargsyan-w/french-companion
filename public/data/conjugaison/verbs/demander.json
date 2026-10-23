@@ -139,6 +139,52 @@
       "tu": "demande",
       "nous": "demandons",
       "vous": "demandez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je demandasse",
+      "tu": "tu demandasses",
+      "il": "il demandât",
+      "elle": "elle demandât",
+      "on": "on demandât",
+      "nous": "nous demandassions",
+      "vous": "vous demandassiez",
+      "ils": "ils demandassent",
+      "elles": "elles demandassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus demandé",
+      "tu": "tu eus demandé",
+      "il": "il eut demandé",
+      "elle": "elle eut demandé",
+      "on": "on eut demandé",
+      "nous": "nous eûmes demandé",
+      "vous": "vous eûtes demandé",
+      "ils": "ils eurent demandé",
+      "elles": "elles eurent demandé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse demandé",
+      "tu": "tu eusses demandé",
+      "il": "il eût demandé",
+      "elle": "elle eût demandé",
+      "on": "on eût demandé",
+      "nous": "nous eussions demandé",
+      "vous": "vous eussiez demandé",
+      "ils": "ils eussent demandé",
+      "elles": "elles eussent demandé"
+    },
+    "imperatif_passe": {
+      "tu": "aie demandé",
+      "nous": "ayons demandé",
+      "vous": "ayez demandé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "demander",
+    "infinitif_passe": "avoir demandé",
+    "participe_present": "demandant",
+    "participe_passe": "demandé",
+    "gerondif_present": "en demandant",
+    "gerondif_passe": "en ayant demandé"
   }
 }

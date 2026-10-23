@@ -139,6 +139,52 @@
       "tu": "corrige",
       "nous": "corrigeons",
       "vous": "corrigez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je corrigeasse",
+      "tu": "tu corrigeasses",
+      "il": "il corrigeât",
+      "elle": "elle corrigeât",
+      "on": "on corrigeât",
+      "nous": "nous corrigeassions",
+      "vous": "vous corrigeassiez",
+      "ils": "ils corrigeassent",
+      "elles": "elles corrigeassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus corrigé",
+      "tu": "tu eus corrigé",
+      "il": "il eut corrigé",
+      "elle": "elle eut corrigé",
+      "on": "on eut corrigé",
+      "nous": "nous eûmes corrigé",
+      "vous": "vous eûtes corrigé",
+      "ils": "ils eurent corrigé",
+      "elles": "elles eurent corrigé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse corrigé",
+      "tu": "tu eusses corrigé",
+      "il": "il eût corrigé",
+      "elle": "elle eût corrigé",
+      "on": "on eût corrigé",
+      "nous": "nous eussions corrigé",
+      "vous": "vous eussiez corrigé",
+      "ils": "ils eussent corrigé",
+      "elles": "elles eussent corrigé"
+    },
+    "imperatif_passe": {
+      "tu": "aie corrigé",
+      "nous": "ayons corrigé",
+      "vous": "ayez corrigé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "corriger",
+    "infinitif_passe": "avoir corrigé",
+    "participe_present": "corrigeant",
+    "participe_passe": "corrigé",
+    "gerondif_present": "en corrigeant",
+    "gerondif_passe": "en ayant corrigé"
   }
 }

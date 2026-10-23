@@ -139,6 +139,52 @@
       "tu": "danse",
       "nous": "dansons",
       "vous": "dansez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je dansasse",
+      "tu": "tu dansasses",
+      "il": "il dansât",
+      "elle": "elle dansât",
+      "on": "on dansât",
+      "nous": "nous dansassions",
+      "vous": "vous dansassiez",
+      "ils": "ils dansassent",
+      "elles": "elles dansassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus dansé",
+      "tu": "tu eus dansé",
+      "il": "il eut dansé",
+      "elle": "elle eut dansé",
+      "on": "on eut dansé",
+      "nous": "nous eûmes dansé",
+      "vous": "vous eûtes dansé",
+      "ils": "ils eurent dansé",
+      "elles": "elles eurent dansé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse dansé",
+      "tu": "tu eusses dansé",
+      "il": "il eût dansé",
+      "elle": "elle eût dansé",
+      "on": "on eût dansé",
+      "nous": "nous eussions dansé",
+      "vous": "vous eussiez dansé",
+      "ils": "ils eussent dansé",
+      "elles": "elles eussent dansé"
+    },
+    "imperatif_passe": {
+      "tu": "aie dansé",
+      "nous": "ayons dansé",
+      "vous": "ayez dansé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "danser",
+    "infinitif_passe": "avoir dansé",
+    "participe_present": "dansant",
+    "participe_passe": "dansé",
+    "gerondif_present": "en dansant",
+    "gerondif_passe": "en ayant dansé"
   }
 }

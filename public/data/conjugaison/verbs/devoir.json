@@ -134,6 +134,47 @@
       "vous": "vous allez devoir",
       "ils": "ils vont devoir",
       "elles": "elles vont devoir"
+    },
+    "subjonctif_imparfait": {
+      "je": "je dusse",
+      "tu": "tu dusses",
+      "il": "il dût",
+      "elle": "elle dût",
+      "on": "on dût",
+      "nous": "nous dussions",
+      "vous": "vous dussiez",
+      "ils": "ils dussent",
+      "elles": "elles dussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus dû",
+      "tu": "tu eus dû",
+      "il": "il eut dû",
+      "elle": "elle eut dû",
+      "on": "on eut dû",
+      "nous": "nous eûmes dû",
+      "vous": "vous eûtes dû",
+      "ils": "ils eurent dû",
+      "elles": "elles eurent dû"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse dû",
+      "tu": "tu eusses dû",
+      "il": "il eût dû",
+      "elle": "elle eût dû",
+      "on": "on eût dû",
+      "nous": "nous eussions dû",
+      "vous": "vous eussiez dû",
+      "ils": "ils eussent dû",
+      "elles": "elles eussent dû"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "devoir",
+    "infinitif_passe": "avoir dû",
+    "participe_present": "devant",
+    "participe_passe": "dû",
+    "gerondif_present": "en devant",
+    "gerondif_passe": "en ayant dû"
   }
 }

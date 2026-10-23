@@ -139,6 +139,52 @@
       "tu": "défends",
       "nous": "défendons",
       "vous": "défendez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je défendisse",
+      "tu": "tu défendisses",
+      "il": "il défendît",
+      "elle": "elle défendît",
+      "on": "on défendît",
+      "nous": "nous défendissions",
+      "vous": "vous défendissiez",
+      "ils": "ils défendissent",
+      "elles": "elles défendissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus défendu",
+      "tu": "tu eus défendu",
+      "il": "il eut défendu",
+      "elle": "elle eut défendu",
+      "on": "on eut défendu",
+      "nous": "nous eûmes défendu",
+      "vous": "vous eûtes défendu",
+      "ils": "ils eurent défendu",
+      "elles": "elles eurent défendu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse défendu",
+      "tu": "tu eusses défendu",
+      "il": "il eût défendu",
+      "elle": "elle eût défendu",
+      "on": "on eût défendu",
+      "nous": "nous eussions défendu",
+      "vous": "vous eussiez défendu",
+      "ils": "ils eussent défendu",
+      "elles": "elles eussent défendu"
+    },
+    "imperatif_passe": {
+      "tu": "aie défendu",
+      "nous": "ayons défendu",
+      "vous": "ayez défendu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "défendre",
+    "infinitif_passe": "avoir défendu",
+    "participe_present": "défendant",
+    "participe_passe": "défendu",
+    "gerondif_present": "en défendant",
+    "gerondif_passe": "en ayant défendu"
   }
 }
