@@ -139,6 +139,52 @@
       "tu": "continue",
       "nous": "continuons",
       "vous": "continuez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je continuasse",
+      "tu": "tu continuasses",
+      "il": "il continuât",
+      "elle": "elle continuât",
+      "on": "on continuât",
+      "nous": "nous continuassions",
+      "vous": "vous continuassiez",
+      "ils": "ils continuassent",
+      "elles": "elles continuassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus continué",
+      "tu": "tu eus continué",
+      "il": "il eut continué",
+      "elle": "elle eut continué",
+      "on": "on eut continué",
+      "nous": "nous eûmes continué",
+      "vous": "vous eûtes continué",
+      "ils": "ils eurent continué",
+      "elles": "elles eurent continué"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse continué",
+      "tu": "tu eusses continué",
+      "il": "il eût continué",
+      "elle": "elle eût continué",
+      "on": "on eût continué",
+      "nous": "nous eussions continué",
+      "vous": "vous eussiez continué",
+      "ils": "ils eussent continué",
+      "elles": "elles eussent continué"
+    },
+    "imperatif_passe": {
+      "tu": "aie continué",
+      "nous": "ayons continué",
+      "vous": "ayez continué"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "continuer",
+    "infinitif_passe": "avoir continué",
+    "participe_present": "continuant",
+    "participe_passe": "continué",
+    "gerondif_present": "en continuant",
+    "gerondif_passe": "en ayant continué"
   }
 }

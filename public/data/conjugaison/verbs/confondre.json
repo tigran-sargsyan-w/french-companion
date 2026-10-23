@@ -139,6 +139,52 @@
       "tu": "confonds",
       "nous": "confondons",
       "vous": "confondez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je confondisse",
+      "tu": "tu confondisses",
+      "il": "il confondît",
+      "elle": "elle confondît",
+      "on": "on confondît",
+      "nous": "nous confondissions",
+      "vous": "vous confondissiez",
+      "ils": "ils confondissent",
+      "elles": "elles confondissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus confondu",
+      "tu": "tu eus confondu",
+      "il": "il eut confondu",
+      "elle": "elle eut confondu",
+      "on": "on eut confondu",
+      "nous": "nous eûmes confondu",
+      "vous": "vous eûtes confondu",
+      "ils": "ils eurent confondu",
+      "elles": "elles eurent confondu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse confondu",
+      "tu": "tu eusses confondu",
+      "il": "il eût confondu",
+      "elle": "elle eût confondu",
+      "on": "on eût confondu",
+      "nous": "nous eussions confondu",
+      "vous": "vous eussiez confondu",
+      "ils": "ils eussent confondu",
+      "elles": "elles eussent confondu"
+    },
+    "imperatif_passe": {
+      "tu": "aie confondu",
+      "nous": "ayons confondu",
+      "vous": "ayez confondu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "confondre",
+    "infinitif_passe": "avoir confondu",
+    "participe_present": "confondant",
+    "participe_passe": "confondu",
+    "gerondif_present": "en confondant",
+    "gerondif_passe": "en ayant confondu"
   }
 }

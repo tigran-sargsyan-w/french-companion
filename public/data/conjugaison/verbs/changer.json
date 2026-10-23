@@ -139,6 +139,52 @@
       "tu": "change",
       "nous": "changeons",
       "vous": "changez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je changeasse",
+      "tu": "tu changeasses",
+      "il": "il changeât",
+      "elle": "elle changeât",
+      "on": "on changeât",
+      "nous": "nous changeassions",
+      "vous": "vous changeassiez",
+      "ils": "ils changeassent",
+      "elles": "elles changeassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus changé",
+      "tu": "tu eus changé",
+      "il": "il eut changé",
+      "elle": "elle eut changé",
+      "on": "on eut changé",
+      "nous": "nous eûmes changé",
+      "vous": "vous eûtes changé",
+      "ils": "ils eurent changé",
+      "elles": "elles eurent changé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse changé",
+      "tu": "tu eusses changé",
+      "il": "il eût changé",
+      "elle": "elle eût changé",
+      "on": "on eût changé",
+      "nous": "nous eussions changé",
+      "vous": "vous eussiez changé",
+      "ils": "ils eussent changé",
+      "elles": "elles eussent changé"
+    },
+    "imperatif_passe": {
+      "tu": "aie changé",
+      "nous": "ayons changé",
+      "vous": "ayez changé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "changer",
+    "infinitif_passe": "avoir changé",
+    "participe_present": "changeant",
+    "participe_passe": "changé",
+    "gerondif_present": "en changeant",
+    "gerondif_passe": "en ayant changé"
   }
 }

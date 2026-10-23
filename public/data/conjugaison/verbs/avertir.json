@@ -139,6 +139,52 @@
       "tu": "avertis",
       "nous": "avertissons",
       "vous": "avertissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'avertisse",
+      "tu": "tu avertisses",
+      "il": "il avertît",
+      "elle": "elle avertît",
+      "on": "on avertît",
+      "nous": "nous avertissions",
+      "vous": "vous avertissiez",
+      "ils": "ils avertissent",
+      "elles": "elles avertissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus averti",
+      "tu": "tu eus averti",
+      "il": "il eut averti",
+      "elle": "elle eut averti",
+      "on": "on eut averti",
+      "nous": "nous eûmes averti",
+      "vous": "vous eûtes averti",
+      "ils": "ils eurent averti",
+      "elles": "elles eurent averti"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse averti",
+      "tu": "tu eusses averti",
+      "il": "il eût averti",
+      "elle": "elle eût averti",
+      "on": "on eût averti",
+      "nous": "nous eussions averti",
+      "vous": "vous eussiez averti",
+      "ils": "ils eussent averti",
+      "elles": "elles eussent averti"
+    },
+    "imperatif_passe": {
+      "tu": "aie averti",
+      "nous": "ayons averti",
+      "vous": "ayez averti"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "avertir",
+    "infinitif_passe": "avoir averti",
+    "participe_present": "avertissant",
+    "participe_passe": "averti",
+    "gerondif_present": "en avertissant",
+    "gerondif_passe": "en ayant averti"
   }
 }

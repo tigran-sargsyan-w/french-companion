@@ -139,6 +139,52 @@
       "tu": "choisis",
       "nous": "choisissons",
       "vous": "choisissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je choisisse",
+      "tu": "tu choisisses",
+      "il": "il choisît",
+      "elle": "elle choisît",
+      "on": "on choisît",
+      "nous": "nous choisissions",
+      "vous": "vous choisissiez",
+      "ils": "ils choisissent",
+      "elles": "elles choisissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus choisi",
+      "tu": "tu eus choisi",
+      "il": "il eut choisi",
+      "elle": "elle eut choisi",
+      "on": "on eut choisi",
+      "nous": "nous eûmes choisi",
+      "vous": "vous eûtes choisi",
+      "ils": "ils eurent choisi",
+      "elles": "elles eurent choisi"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse choisi",
+      "tu": "tu eusses choisi",
+      "il": "il eût choisi",
+      "elle": "elle eût choisi",
+      "on": "on eût choisi",
+      "nous": "nous eussions choisi",
+      "vous": "vous eussiez choisi",
+      "ils": "ils eussent choisi",
+      "elles": "elles eussent choisi"
+    },
+    "imperatif_passe": {
+      "tu": "aie choisi",
+      "nous": "ayons choisi",
+      "vous": "ayez choisi"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "choisir",
+    "infinitif_passe": "avoir choisi",
+    "participe_present": "choisissant",
+    "participe_passe": "choisi",
+    "gerondif_present": "en choisissant",
+    "gerondif_passe": "en ayant choisi"
   }
 }

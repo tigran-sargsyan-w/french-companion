@@ -139,6 +139,52 @@
       "tu": "comprends",
       "nous": "comprenons",
       "vous": "comprenez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je comprisse",
+      "tu": "tu comprisses",
+      "il": "il comprît",
+      "elle": "elle comprît",
+      "on": "on comprît",
+      "nous": "nous comprissions",
+      "vous": "vous comprissiez",
+      "ils": "ils comprissent",
+      "elles": "elles comprissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus compris",
+      "tu": "tu eus compris",
+      "il": "il eut compris",
+      "elle": "elle eut compris",
+      "on": "on eut compris",
+      "nous": "nous eûmes compris",
+      "vous": "vous eûtes compris",
+      "ils": "ils eurent compris",
+      "elles": "elles eurent compris"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse compris",
+      "tu": "tu eusses compris",
+      "il": "il eût compris",
+      "elle": "elle eût compris",
+      "on": "on eût compris",
+      "nous": "nous eussions compris",
+      "vous": "vous eussiez compris",
+      "ils": "ils eussent compris",
+      "elles": "elles eussent compris"
+    },
+    "imperatif_passe": {
+      "tu": "aie compris",
+      "nous": "ayons compris",
+      "vous": "ayez compris"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "comprendre",
+    "infinitif_passe": "avoir compris",
+    "participe_present": "comprenant",
+    "participe_passe": "compris",
+    "gerondif_present": "en comprenant",
+    "gerondif_passe": "en ayant compris"
   }
 }

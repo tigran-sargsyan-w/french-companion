@@ -139,6 +139,52 @@
       "tu": "bois",
       "nous": "buvons",
       "vous": "buvez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je busse",
+      "tu": "tu busses",
+      "il": "il bût",
+      "elle": "elle bût",
+      "on": "on bût",
+      "nous": "nous bussions",
+      "vous": "vous bussiez",
+      "ils": "ils bussent",
+      "elles": "elles bussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus bu",
+      "tu": "tu eus bu",
+      "il": "il eut bu",
+      "elle": "elle eut bu",
+      "on": "on eut bu",
+      "nous": "nous eûmes bu",
+      "vous": "vous eûtes bu",
+      "ils": "ils eurent bu",
+      "elles": "elles eurent bu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse bu",
+      "tu": "tu eusses bu",
+      "il": "il eût bu",
+      "elle": "elle eût bu",
+      "on": "on eût bu",
+      "nous": "nous eussions bu",
+      "vous": "vous eussiez bu",
+      "ils": "ils eussent bu",
+      "elles": "elles eussent bu"
+    },
+    "imperatif_passe": {
+      "tu": "aie bu",
+      "nous": "ayons bu",
+      "vous": "ayez bu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "boire",
+    "infinitif_passe": "avoir bu",
+    "participe_present": "buvant",
+    "participe_passe": "bu",
+    "gerondif_present": "en buvant",
+    "gerondif_passe": "en ayant bu"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "compte",
       "nous": "comptons",
       "vous": "comptez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je comptasse",
+      "tu": "tu comptasses",
+      "il": "il comptât",
+      "elle": "elle comptât",
+      "on": "on comptât",
+      "nous": "nous comptassions",
+      "vous": "vous comptassiez",
+      "ils": "ils comptassent",
+      "elles": "elles comptassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus compté",
+      "tu": "tu eus compté",
+      "il": "il eut compté",
+      "elle": "elle eut compté",
+      "on": "on eut compté",
+      "nous": "nous eûmes compté",
+      "vous": "vous eûtes compté",
+      "ils": "ils eurent compté",
+      "elles": "elles eurent compté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse compté",
+      "tu": "tu eusses compté",
+      "il": "il eût compté",
+      "elle": "elle eût compté",
+      "on": "on eût compté",
+      "nous": "nous eussions compté",
+      "vous": "vous eussiez compté",
+      "ils": "ils eussent compté",
+      "elles": "elles eussent compté"
+    },
+    "imperatif_passe": {
+      "tu": "aie compté",
+      "nous": "ayons compté",
+      "vous": "ayez compté"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "compter",
+    "infinitif_passe": "avoir compté",
+    "participe_present": "comptant",
+    "participe_passe": "compté",
+    "gerondif_present": "en comptant",
+    "gerondif_passe": "en ayant compté"
   }
 }

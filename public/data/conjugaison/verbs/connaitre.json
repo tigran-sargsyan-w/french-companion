@@ -139,6 +139,52 @@
       "tu": "connais",
       "nous": "connaissons",
       "vous": "connaissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je connusse",
+      "tu": "tu connusses",
+      "il": "il connût",
+      "elle": "elle connût",
+      "on": "on connût",
+      "nous": "nous connussions",
+      "vous": "vous connussiez",
+      "ils": "ils connussent",
+      "elles": "elles connussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus connu",
+      "tu": "tu eus connu",
+      "il": "il eut connu",
+      "elle": "elle eut connu",
+      "on": "on eut connu",
+      "nous": "nous eûmes connu",
+      "vous": "vous eûtes connu",
+      "ils": "ils eurent connu",
+      "elles": "elles eurent connu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse connu",
+      "tu": "tu eusses connu",
+      "il": "il eût connu",
+      "elle": "elle eût connu",
+      "on": "on eût connu",
+      "nous": "nous eussions connu",
+      "vous": "vous eussiez connu",
+      "ils": "ils eussent connu",
+      "elles": "elles eussent connu"
+    },
+    "imperatif_passe": {
+      "tu": "aie connu",
+      "nous": "ayons connu",
+      "vous": "ayez connu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "connaître",
+    "infinitif_passe": "avoir connu",
+    "participe_present": "connaissant",
+    "participe_passe": "connu",
+    "gerondif_present": "en connaissant",
+    "gerondif_passe": "en ayant connu"
   }
 }

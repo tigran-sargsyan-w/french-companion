@@ -139,6 +139,52 @@
       "tu": "contacte",
       "nous": "contactons",
       "vous": "contactez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je contactasse",
+      "tu": "tu contactasses",
+      "il": "il contactât",
+      "elle": "elle contactât",
+      "on": "on contactât",
+      "nous": "nous contactassions",
+      "vous": "vous contactassiez",
+      "ils": "ils contactassent",
+      "elles": "elles contactassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus contacté",
+      "tu": "tu eus contacté",
+      "il": "il eut contacté",
+      "elle": "elle eut contacté",
+      "on": "on eut contacté",
+      "nous": "nous eûmes contacté",
+      "vous": "vous eûtes contacté",
+      "ils": "ils eurent contacté",
+      "elles": "elles eurent contacté"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse contacté",
+      "tu": "tu eusses contacté",
+      "il": "il eût contacté",
+      "elle": "elle eût contacté",
+      "on": "on eût contacté",
+      "nous": "nous eussions contacté",
+      "vous": "vous eussiez contacté",
+      "ils": "ils eussent contacté",
+      "elles": "elles eussent contacté"
+    },
+    "imperatif_passe": {
+      "tu": "aie contacté",
+      "nous": "ayons contacté",
+      "vous": "ayez contacté"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "contacter",
+    "infinitif_passe": "avoir contacté",
+    "participe_present": "contactant",
+    "participe_passe": "contacté",
+    "gerondif_present": "en contactant",
+    "gerondif_passe": "en ayant contacté"
   }
 }

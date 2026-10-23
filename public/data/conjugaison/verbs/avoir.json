@@ -139,6 +139,52 @@
       "tu": "aie",
       "nous": "ayons",
       "vous": "ayez"
+    },
+    "subjonctif_imparfait": {
+      "je": "j'eusse",
+      "tu": "tu eusses",
+      "il": "il eût",
+      "elle": "elle eût",
+      "on": "on eût",
+      "nous": "nous eussions",
+      "vous": "vous eussiez",
+      "ils": "ils eussent",
+      "elles": "elles eussent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus eu",
+      "tu": "tu eus eu",
+      "il": "il eut eu",
+      "elle": "elle eut eu",
+      "on": "on eut eu",
+      "nous": "nous eûmes eu",
+      "vous": "vous eûtes eu",
+      "ils": "ils eurent eu",
+      "elles": "elles eurent eu"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse eu",
+      "tu": "tu eusses eu",
+      "il": "il eût eu",
+      "elle": "elle eût eu",
+      "on": "on eût eu",
+      "nous": "nous eussions eu",
+      "vous": "vous eussiez eu",
+      "ils": "ils eussent eu",
+      "elles": "elles eussent eu"
+    },
+    "imperatif_passe": {
+      "tu": "aie eu",
+      "nous": "ayons eu",
+      "vous": "ayez eu"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "avoir",
+    "infinitif_passe": "avoir eu",
+    "participe_present": "ayant",
+    "participe_passe": "eu",
+    "gerondif_present": "en ayant",
+    "gerondif_passe": "en ayant eu"
   }
 }

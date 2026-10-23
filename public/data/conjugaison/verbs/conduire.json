@@ -139,6 +139,52 @@
       "tu": "conduis",
       "nous": "conduisons",
       "vous": "conduisez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je conduisisse",
+      "tu": "tu conduisisses",
+      "il": "il conduisît",
+      "elle": "elle conduisît",
+      "on": "on conduisît",
+      "nous": "nous conduisissions",
+      "vous": "vous conduisissiez",
+      "ils": "ils conduisissent",
+      "elles": "elles conduisissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus conduit",
+      "tu": "tu eus conduit",
+      "il": "il eut conduit",
+      "elle": "elle eut conduit",
+      "on": "on eut conduit",
+      "nous": "nous eûmes conduit",
+      "vous": "vous eûtes conduit",
+      "ils": "ils eurent conduit",
+      "elles": "elles eurent conduit"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse conduit",
+      "tu": "tu eusses conduit",
+      "il": "il eût conduit",
+      "elle": "elle eût conduit",
+      "on": "on eût conduit",
+      "nous": "nous eussions conduit",
+      "vous": "vous eussiez conduit",
+      "ils": "ils eussent conduit",
+      "elles": "elles eussent conduit"
+    },
+    "imperatif_passe": {
+      "tu": "aie conduit",
+      "nous": "ayons conduit",
+      "vous": "ayez conduit"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "conduire",
+    "infinitif_passe": "avoir conduit",
+    "participe_present": "conduisant",
+    "participe_passe": "conduit",
+    "gerondif_present": "en conduisant",
+    "gerondif_passe": "en ayant conduit"
   }
 }

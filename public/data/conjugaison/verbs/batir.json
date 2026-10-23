@@ -139,6 +139,52 @@
       "tu": "bâtis",
       "nous": "bâtissons",
       "vous": "bâtissez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je bâtisse",
+      "tu": "tu bâtisses",
+      "il": "il bâtît",
+      "elle": "elle bâtît",
+      "on": "on bâtît",
+      "nous": "nous bâtissions",
+      "vous": "vous bâtissiez",
+      "ils": "ils bâtissent",
+      "elles": "elles bâtissent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus bâti",
+      "tu": "tu eus bâti",
+      "il": "il eut bâti",
+      "elle": "elle eut bâti",
+      "on": "on eut bâti",
+      "nous": "nous eûmes bâti",
+      "vous": "vous eûtes bâti",
+      "ils": "ils eurent bâti",
+      "elles": "elles eurent bâti"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse bâti",
+      "tu": "tu eusses bâti",
+      "il": "il eût bâti",
+      "elle": "elle eût bâti",
+      "on": "on eût bâti",
+      "nous": "nous eussions bâti",
+      "vous": "vous eussiez bâti",
+      "ils": "ils eussent bâti",
+      "elles": "elles eussent bâti"
+    },
+    "imperatif_passe": {
+      "tu": "aie bâti",
+      "nous": "ayons bâti",
+      "vous": "ayez bâti"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "bâtir",
+    "infinitif_passe": "avoir bâti",
+    "participe_present": "bâtissant",
+    "participe_passe": "bâti",
+    "gerondif_present": "en bâtissant",
+    "gerondif_passe": "en ayant bâti"
   }
 }

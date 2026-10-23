@@ -139,6 +139,52 @@
       "tu": "commence",
       "nous": "commencçons",
       "vous": "commencez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je commençasse",
+      "tu": "tu commençasses",
+      "il": "il commençât",
+      "elle": "elle commençât",
+      "on": "on commençât",
+      "nous": "nous commençassions",
+      "vous": "vous commençassiez",
+      "ils": "ils commençassent",
+      "elles": "elles commençassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus commencé",
+      "tu": "tu eus commencé",
+      "il": "il eut commencé",
+      "elle": "elle eut commencé",
+      "on": "on eut commencé",
+      "nous": "nous eûmes commencé",
+      "vous": "vous eûtes commencé",
+      "ils": "ils eurent commencé",
+      "elles": "elles eurent commencé"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse commencé",
+      "tu": "tu eusses commencé",
+      "il": "il eût commencé",
+      "elle": "elle eût commencé",
+      "on": "on eût commencé",
+      "nous": "nous eussions commencé",
+      "vous": "vous eussiez commencé",
+      "ils": "ils eussent commencé",
+      "elles": "elles eussent commencé"
+    },
+    "imperatif_passe": {
+      "tu": "aie commencé",
+      "nous": "ayons commencé",
+      "vous": "ayez commencé"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "commencer",
+    "infinitif_passe": "avoir commencé",
+    "participe_present": "commencçant",
+    "participe_passe": "commencé",
+    "gerondif_present": "en commencçant",
+    "gerondif_passe": "en ayant commencé"
   }
 }

@@ -139,6 +139,52 @@
       "tu": "cherche",
       "nous": "cherchons",
       "vous": "cherchez"
+    },
+    "subjonctif_imparfait": {
+      "je": "je cherchasse",
+      "tu": "tu cherchasses",
+      "il": "il cherchât",
+      "elle": "elle cherchât",
+      "on": "on cherchât",
+      "nous": "nous cherchassions",
+      "vous": "vous cherchassiez",
+      "ils": "ils cherchassent",
+      "elles": "elles cherchassent"
+    },
+    "passe_anterieur": {
+      "je": "j'eus cherché",
+      "tu": "tu eus cherché",
+      "il": "il eut cherché",
+      "elle": "elle eut cherché",
+      "on": "on eut cherché",
+      "nous": "nous eûmes cherché",
+      "vous": "vous eûtes cherché",
+      "ils": "ils eurent cherché",
+      "elles": "elles eurent cherché"
+    },
+    "subjonctif_plus_que_parfait": {
+      "je": "j'eusse cherché",
+      "tu": "tu eusses cherché",
+      "il": "il eût cherché",
+      "elle": "elle eût cherché",
+      "on": "on eût cherché",
+      "nous": "nous eussions cherché",
+      "vous": "vous eussiez cherché",
+      "ils": "ils eussent cherché",
+      "elles": "elles eussent cherché"
+    },
+    "imperatif_passe": {
+      "tu": "aie cherché",
+      "nous": "ayons cherché",
+      "vous": "ayez cherché"
     }
+  },
+  "nonFinite": {
+    "infinitif_present": "chercher",
+    "infinitif_passe": "avoir cherché",
+    "participe_present": "cherchant",
+    "participe_passe": "cherché",
+    "gerondif_present": "en cherchant",
+    "gerondif_passe": "en ayant cherché"
   }
 }
