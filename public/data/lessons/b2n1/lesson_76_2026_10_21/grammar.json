@@ -1,0 +1,87 @@
+[
+  {
+    "id": "g_2026_10_21_voix_passive",
+    "title": "La voix passive",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Formation\n",
+        "À la forme passive, le complément d'objet direct de la phrase active devient le sujet.",
+        "**être** (au temps voulu) + **participe passé** accordé avec le sujet + éventuellement **par** (ou **de** après certains verbes de sentiment)."
+      ],
+      [
+        "### Complément d'agent\n",
+        "L'agent peut être introduit par **par** : « Des photos sont créées par les IA. »",
+        "Après certains verbes de sentiment, on peut rencontrer **de** : « Cet artiste est apprécié du public. »",
+        "L'agent peut être omis lorsqu'il est inconnu ou peu important."
+      ],
+      [
+        "### Temps et formes proches\n",
+        "Présent : « Des photos sont créées. »",
+        "Passé composé : « Des photos ont été créées. »",
+        "Plus-que-parfait : « Des photos avaient été créées. »",
+        "Futur : « Cette photo sera publiée. »",
+        "Le participe passé peut aussi former une proposition relative réduite : « Le portrait généré par l'IA » (= qui a été généré par l'IA).",
+        "Une construction pronominale peut parfois exprimer une valeur passive : « La question qui se pose… »"
+      ]
+    ],
+    "examples": [
+      "Les réseaux sociaux influencent notre conception de la beauté. → Notre conception de la beauté est influencée par les réseaux sociaux.",
+      "L'IA n'a pas été programmée pour explorer cette diversité.",
+      "Cette photo sera publiée sur de nombreux sites."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_10_21_se_faire_se_laisser",
+    "title": "Se faire / se laisser + infinitif",
+    "category": "Verbs",
+    "summary": [
+      [
+        "### Construction\n",
+        "**se faire / se laisser + infinitif** permet d'exprimer une action subie ou reçue lorsque le sujet est une personne.",
+        "« Beaucoup de gens se font tatouer. »",
+        "« Les gens se laissent influencer par les réseaux sociaux. »"
+      ],
+      [
+        "### Différence de sens\n",
+        "**Se faire** présente le sujet comme la personne concernée par l'action ; selon le contexte, elle peut l'avoir provoquée ou la subir.",
+        "**Se laisser** insiste sur le fait de laisser l'action se produire, volontairement ou par passivité."
+      ],
+      [
+        "### Temps composés\n",
+        "Dans **se faire + infinitif**, le participe passé **fait** reste invariable : « Elles se sont fait tatouer. »",
+        "Devant un infinitif, **laissé** est également invariable selon la recommandation orthographique de 1990 : « Ils se sont laissé pousser la barbe. »"
+      ]
+    ],
+    "examples": [
+      "Un tatoueur m'a tatoué un papillon. → Je me suis fait tatouer un papillon.",
+      "On t'a coupé les cheveux ? → Tu t'es fait couper les cheveux ?",
+      "Elles se sont fait draguer."
+    ],
+    "annotatedExamples": []
+  },
+  {
+    "id": "g_2026_10_21_caracteriser",
+    "title": "Caractériser une personne",
+    "category": "Opinions",
+    "summary": [
+      [
+        "### Décrire l'apparence\n",
+        "**personne + au / aux / à la / à l' + nom + adjectif** : « une femme aux cheveux longs » ; « un homme à la barbe courte ».",
+        "**personne + avec + nom** : « une personne avec des lunettes »."
+      ],
+      [
+        "### Autres procédés\n",
+        "Un adjectif peut être employé comme nom : **une blonde**.",
+        "On peut utiliser une comparaison : **un apollon** (beau comme Apollon), **un super-héros** (musclé comme un super-héros)."
+      ]
+    ],
+    "examples": [
+      "C'est une femme aux cheveux longs.",
+      "C'est un homme avec une barbe.",
+      "Il ressemble à un super-héros."
+    ],
+    "annotatedExamples": []
+  }
+]
