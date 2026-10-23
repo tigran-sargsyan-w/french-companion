@@ -2,6 +2,7 @@ import { Link, createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { ArrowRight, Check, RotateCw, Settings2, X } from "lucide-react";
 import { PageHeader } from "@/components/AppShell";
+import { TENSE_PRESETS, type TensePresetId } from "@/data/conjugaison/presets";
 import {
   createDeck,
   createQuestion,
@@ -36,6 +37,7 @@ const label = (tense: Tense) => TENSES.find((item) => item.id === tense)?.label 
 function ConjugaisonPage() {
   const verbQuery = useConjugationVerbs();
   const [tenses, setTenses] = useState<Tense[]>(TENSES.map((tense) => tense.id));
+  const [selectedPreset, setSelectedPreset] = useState<TensePresetId | "custom">("all");
   const [pronouns, setPronouns] = useState<Pronoun[]>([...PRONOUNS]);
   const [verbFilter, setVerbFilter] = useState<VerbFilter>("all");
   const [questionLimit, setQuestionLimit] = useState("20");
@@ -43,6 +45,20 @@ function ConjugaisonPage() {
   const [position, setPosition] = useState(0);
   const [chosen, setChosen] = useState<number | null>(null);
   const [answers, setAnswers] = useState<RecordAnswer[]>([]);
+
+  const applyPreset = (id: TensePresetId) => {
+    const preset = TENSE_PRESETS.find((item) => item.id === id);
+    if (!preset) return;
+    setTenses([...preset.tenses]);
+    setSelectedPreset(id);
+  };
+
+  const toggleTense = (id: Tense) => {
+    setTenses((previous) =>
+      previous.includes(id) ? previous.filter((tense) => tense !== id) : [...previous, id],
+    );
+    setSelectedPreset("custom");
+  };
 
   const available = useMemo(
     () => (verbQuery.data ?? []).filter((verb) => verbFilter === "all" || verb.group === verbFilter),
@@ -128,9 +144,34 @@ function ConjugaisonPage() {
             <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
               <h3 className="font-semibold">Temps verbaux ({tenses.length} / {TENSES.length})</h3>
               <div className="flex gap-2 text-xs">
-                <button onClick={() => setTenses(TENSES.map((t) => t.id))} className="text-primary hover:underline">Tout sélectionner</button>
-                <button onClick={() => setTenses([])} className="text-muted-foreground hover:underline">Aucun</button>
+                <button onClick={() => applyPreset("all")} className="text-primary hover:underline">Tout sélectionner</button>
+                <button onClick={() => { setTenses([]); setSelectedPreset("custom"); }} className="text-muted-foreground hover:underline">Aucun</button>
               </div>
+            </div>
+            <div className="mb-5 space-y-2">
+              <label htmlFor="conjugaison-preset" className="block text-sm font-medium">
+                Sélection rapide
+              </label>
+              <select
+                id="conjugaison-preset"
+                value={selectedPreset}
+                onChange={(event) => applyPreset(event.target.value as TensePresetId)}
+                className="w-full rounded-lg border border-border bg-background px-3 py-2.5 text-sm"
+              >
+                {selectedPreset === "custom" && (
+                  <option value="custom" disabled>Personnalisé ({tenses.length} formes)</option>
+                )}
+                {TENSE_PRESETS.map((preset) => (
+                  <option key={preset.id} value={preset.id}>
+                    {preset.label} ({preset.tenses.length}/{TENSES.length})
+                  </option>
+                ))}
+              </select>
+              <p className="text-xs text-muted-foreground">
+                {selectedPreset === "custom"
+                  ? "Sélection personnalisée : tu peux encore modifier les formes ci-dessous."
+                  : TENSE_PRESETS.find((preset) => preset.id === selectedPreset)?.description}
+              </p>
             </div>
             <div className="space-y-4">
               {TENSE_GROUPS.map((group) => (
@@ -144,10 +185,7 @@ function ConjugaisonPage() {
                           key={tense.id}
                           type="button"
                           aria-pressed={active}
-                          onClick={() => setTenses((previous) => active
-                            ? previous.filter((id) => id !== tense.id)
-                            : [...previous, tense.id],
-                          )}
+                          onClick={() => toggleTense(tense.id)}
                           className={"rounded-full border px-3 py-2 text-xs sm:text-sm " +
                             (active ? "border-primary bg-primary/10 text-foreground" :
                               "border-border bg-secondary/40 text-muted-foreground")}
