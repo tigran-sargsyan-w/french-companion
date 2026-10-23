@@ -1,0 +1,632 @@
+[
+  {
+    "id": "v_2026_10_23_ressembler_a",
+    "french": "ressembler à",
+    "translation": "походить на",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_historien_des_sports",
+    "french": "un historien des sports",
+    "translation": "историк спорта",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un historien des sports.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_professeur_a_l_universite",
+    "french": "un professeur à l'université",
+    "translation": "преподаватель университета",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un professeur à l'université.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_vision_de_l_avenir",
+    "french": "une vision de l'avenir",
+    "translation": "видение будущего",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une vision de l'avenir.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_recit",
+    "french": "un récit",
+    "translation": "рассказ, повествование",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un récit.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_resolument",
+    "french": "résolument",
+    "translation": "решительно, определённо",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_pessimiste",
+    "french": "pessimiste",
+    "translation": "пессимистичный",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_provoquer_des_reactions",
+    "french": "provoquer des réactions",
+    "translation": "вызывать реакцию",
+    "example": "Les experts imaginent comment provoquer des réactions dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_reaction_salutaire",
+    "french": "une réaction salutaire",
+    "translation": "благотворная реакция",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une réaction salutaire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_se_fonder_sur",
+    "french": "se fonder sur",
+    "translation": "основываться на",
+    "example": "Les experts imaginent comment se fonder sur dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_tendance",
+    "french": "une tendance",
+    "translation": "тенденция",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une tendance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_voir_apparaitre",
+    "french": "voir apparaître",
+    "translation": "увидеть появление",
+    "example": "Les experts imaginent comment voir apparaître dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_jeux_olympiques",
+    "french": "les Jeux olympiques",
+    "translation": "Олимпийские игры",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque les Jeux olympiques.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_marquer_la_dissolution_de",
+    "french": "marquer la dissolution de",
+    "translation": "ознаменовать роспуск",
+    "example": "Les experts imaginent comment marquer la dissolution de dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_comite_international_olympique_cio",
+    "french": "le Comité international olympique (CIO)",
+    "translation": "Международный олимпийский комитет",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque le Comité international olympique (CIO).",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_celebration",
+    "french": "la célébration",
+    "translation": "празднование",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque la célébration.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_200e_anniversaire",
+    "french": "le 200e anniversaire",
+    "translation": "двухсотлетний юбилей",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque le 200e anniversaire.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_remettre_au_gout_du_jour",
+    "french": "remettre au goût du jour",
+    "translation": "снова сделать актуальным",
+    "example": "Les experts imaginent comment remettre au goût du jour dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_tourner_court",
+    "french": "tourner court",
+    "translation": "внезапно прерваться",
+    "example": "Les experts imaginent comment tourner court dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_suite_au_retrait_de",
+    "french": "suite au retrait de",
+    "translation": "вследствие выхода",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_grande_puissance",
+    "french": "une grande puissance",
+    "translation": "великая держава",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une grande puissance.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_participer_aux_jeux",
+    "french": "participer aux Jeux",
+    "translation": "участвовать в Играх",
+    "example": "Les experts imaginent comment participer aux Jeux dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_no_limit_sport",
+    "french": "le no-limit sport",
+    "translation": "спорт без ограничений",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque le no-limit sport.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_l_ingenierie_technologique",
+    "french": "l'ingénierie technologique",
+    "translation": "технологическая инженерия",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque l'ingénierie technologique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_l_ingenierie_genetique",
+    "french": "l'ingénierie génétique",
+    "translation": "генная инженерия",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque l'ingénierie génétique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_achever_un_processus",
+    "french": "achever un processus",
+    "translation": "завершить процесс",
+    "example": "Les experts imaginent comment achever un processus dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_processus_d_augmentation_de_l_homme",
+    "french": "un processus d'augmentation de l'homme",
+    "translation": "процесс технологического усиления человека",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un processus d'augmentation de l'homme.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_prothese",
+    "french": "une prothèse",
+    "translation": "протез",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une prothèse.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_exosquelette",
+    "french": "un exosquelette",
+    "translation": "экзоскелет",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un exosquelette.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_dermosquelette",
+    "french": "un dermosquelette",
+    "translation": "дермоскелет",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un dermosquelette.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_modification_genetique",
+    "french": "une modification génétique",
+    "translation": "генетическое изменение",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une modification génétique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_nanotechnologies",
+    "french": "les nanotechnologies",
+    "translation": "нанотехнологии",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque les nanotechnologies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_rendre_obsolete",
+    "french": "rendre obsolète",
+    "translation": "сделать устаревшим",
+    "example": "Les experts imaginent comment rendre obsolète dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_dopage",
+    "french": "le dopage",
+    "translation": "допинг",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque le dopage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_si_bien_que",
+    "french": "si bien que",
+    "translation": "так что, вследствие чего",
+    "example": "Les règles ont changé, si bien que les compétitions sont différentes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_interdiction",
+    "french": "une interdiction",
+    "translation": "запрет",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une interdiction.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_levee_d_une_interdiction",
+    "french": "la levée d'une interdiction",
+    "translation": "снятие запрета",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque la levée d'une interdiction.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_radicalement",
+    "french": "radicalement",
+    "translation": "радикально",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_changer_la_face_de",
+    "french": "changer la face de",
+    "translation": "коренным образом изменить",
+    "example": "Les experts imaginent comment changer la face de dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_athlete",
+    "french": "un athlète",
+    "translation": "атлет, спортсмен",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un athlète.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_s_epuiser",
+    "french": "s'épuiser",
+    "translation": "изнемогать",
+    "example": "Les experts imaginent comment s'épuiser dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_terrain",
+    "french": "un terrain",
+    "translation": "площадка, поле",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un terrain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_en_long_et_en_large",
+    "french": "en long et en large",
+    "translation": "вдоль и поперёк",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_equipe_de",
+    "french": "être équipé de",
+    "translation": "быть оснащённым",
+    "example": "À l'avenir, certains athlètes pourront être équipé de nouvelles technologies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_bionique",
+    "french": "bionique",
+    "translation": "бионический",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_bondir",
+    "french": "bondir",
+    "translation": "подпрыгивать",
+    "example": "Les experts imaginent comment bondir dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_se_jouer_en_trois_dimensions",
+    "french": "se jouer en trois dimensions",
+    "translation": "проходить в трёх измерениях",
+    "example": "Les experts imaginent comment se jouer en trois dimensions dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_subsister",
+    "french": "subsister",
+    "translation": "сохраняться, продолжать существовать",
+    "example": "Les experts imaginent comment subsister dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_regle_fondamentale",
+    "french": "une règle fondamentale",
+    "translation": "основополагающее правило",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une règle fondamentale.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_s_expedier_dans",
+    "french": "s'expédier dans",
+    "translation": "отправляться в",
+    "example": "Les experts imaginent comment s'expédier dans dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_panier",
+    "french": "un panier",
+    "translation": "корзина (в баскетболе)",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un panier.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_sport_de_combat",
+    "french": "un sport de combat",
+    "translation": "боевой вид спорта",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un sport de combat.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_haut_niveau_de_violence",
+    "french": "un haut niveau de violence",
+    "translation": "высокий уровень жестокости",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un haut niveau de violence.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_prise",
+    "french": "être prisé",
+    "translation": "пользоваться спросом",
+    "example": "À l'avenir, certains athlètes pourront être prisé nouvelles technologies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_pari_sportif",
+    "french": "un pari sportif",
+    "translation": "спортивная ставка",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un pari sportif.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_atteindre_de_nouveaux_records",
+    "french": "atteindre de nouveaux records",
+    "translation": "достигать новых рекордов",
+    "example": "Les experts imaginent comment atteindre de nouveaux records dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_suivant_cette_evolution",
+    "french": "suivant cette évolution",
+    "translation": "вслед за этой эволюцией",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_infrastructure",
+    "french": "une infrastructure",
+    "translation": "инфраструктура",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une infrastructure.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_considerablement",
+    "french": "considérablement",
+    "translation": "значительно",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_evoluer",
+    "french": "évoluer",
+    "translation": "развиваться, изменяться",
+    "example": "Les experts imaginent comment évoluer dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_adapte_a",
+    "french": "être adapté à",
+    "translation": "быть приспособленным к",
+    "example": "À l'avenir, certains athlètes pourront être adapté à nouvelles technologies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_handisport",
+    "french": "le handisport",
+    "translation": "спорт для людей с инвалидностью",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque le handisport.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_qualite_physique",
+    "french": "une qualité physique",
+    "translation": "физическое качество",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une qualité physique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_faire_de_moins_en_moins_la_difference",
+    "french": "faire de moins en moins la différence",
+    "translation": "играть всё меньшую роль",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_acuite_visuelle",
+    "french": "une acuité visuelle",
+    "translation": "острота зрения",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une acuité visuelle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_acuite_sensorielle",
+    "french": "une acuité sensorielle",
+    "translation": "острота восприятия",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une acuité sensorielle.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_barriere",
+    "french": "une barrière",
+    "translation": "барьер",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une barrière.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_athlete_valide",
+    "french": "un athlète valide",
+    "translation": "спортсмен без инвалидности",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un athlète valide.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_athlete_handicape",
+    "french": "un athlète handicapé",
+    "translation": "спортсмен с инвалидностью",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un athlète handicapé.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_paraitre_improbable",
+    "french": "paraître improbable",
+    "translation": "казаться маловероятным",
+    "example": "Les experts imaginent comment paraître improbable dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_rappeler",
+    "french": "rappeler",
+    "translation": "напоминать",
+    "example": "Les experts imaginent comment rappeler dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_s_interroger_sur",
+    "french": "s'interroger sur",
+    "translation": "задаваться вопросом о",
+    "example": "Les experts imaginent comment s'interroger sur dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_potentiel",
+    "french": "un potentiel",
+    "translation": "потенциал",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un potentiel.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_avantage",
+    "french": "un avantage",
+    "translation": "преимущество",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un avantage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_performance_athletique",
+    "french": "une performance athlétique",
+    "translation": "спортивное достижение",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une performance athlétique.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_vertigineux",
+    "french": "vertigineux",
+    "translation": "головокружительный, ошеломляющий",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_record",
+    "french": "un record",
+    "translation": "рекорд",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un record.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_juge_imbattable",
+    "french": "être jugé imbattable",
+    "translation": "считаться непревзойдённым",
+    "example": "À l'avenir, certains athlètes pourront être jugé imbattable nouvelles technologies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_remonter_a",
+    "french": "remonter à",
+    "translation": "восходить к, датироваться",
+    "example": "Cette expression est utilisée dans le récit sur les Jeux olympiques du futur.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_deuxieme_age_du_dopage",
+    "french": "le deuxième âge du dopage",
+    "translation": "вторая эпоха допинга",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque le deuxième âge du dopage.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_de_nouveau_franchi",
+    "french": "être de nouveau franchi",
+    "translation": "быть вновь преодолённым",
+    "example": "À l'avenir, certains athlètes pourront être de nouveau franchi nouvelles technologies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_franchir_une_barre",
+    "french": "franchir une barre",
+    "translation": "преодолеть отметку",
+    "example": "Les experts imaginent comment franchir une barre dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_descendre_en_dessous_de",
+    "french": "descendre en dessous de",
+    "translation": "опуститься ниже",
+    "example": "Les experts imaginent comment descendre en dessous de dans les compétitions de demain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_athlete_cyborg",
+    "french": "un athlète cyborg",
+    "translation": "спортсмен-киборг",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un athlète cyborg.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_barre_des_cinq_secondes",
+    "french": "la barre des cinq secondes",
+    "translation": "пятисекундный рубеж",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque la barre des cinq secondes.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_il_aura_fallu_attendre",
+    "french": "il aura fallu attendre",
+    "translation": "потребовалось дождаться",
+    "example": "Il aura fallu attendre plusieurs décennies pour battre ce record.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_corps_humain",
+    "french": "le corps humain",
+    "translation": "человеческое тело",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque le corps humain.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_etre_capable_de_resister_a",
+    "french": "être capable de résister à",
+    "translation": "быть способным выдержать",
+    "example": "À l'avenir, certains athlètes pourront être capable de résister à nouvelles technologies.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_haute_pression",
+    "french": "une haute pression",
+    "translation": "высокое давление",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque une haute pression.",
+    "status": "learning"
+  },
+  {
+    "id": "v_2026_10_23_frottement",
+    "french": "un frottement",
+    "translation": "трение",
+    "example": "Dans ce récit sur les Jeux du futur, on évoque un frottement.",
+    "status": "learning"
+  }
+]
