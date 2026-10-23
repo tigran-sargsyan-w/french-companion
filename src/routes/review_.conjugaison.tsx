@@ -6,6 +6,7 @@ import { TENSE_PRESETS, type TensePresetId } from "@/data/conjugaison/presets";
 import {
   createDeck,
   createQuestion,
+  getChoiceTenseLabels,
   isNonFinite,
   TENSE_GROUPS,
   PRONOUNS,
@@ -370,8 +371,23 @@ function ConjugaisonPage() {
               <div className="font-semibold">
                 {chosen === current.correctIndex ? "✓ Bonne réponse !" : "✗ Pas tout à fait."}
               </div>
-              {chosen !== current.correctIndex &&
-                <p className="text-sm">Bonne réponse : <strong>{current.correct}</strong></p>}
+              {chosen !== current.correctIndex && (
+                <div className="space-y-2 text-sm">
+                  <p>
+                    Ta réponse : <strong className="text-destructive">{current.choices[chosen]}</strong>
+                  </p>
+                  <p className="text-muted-foreground">
+                    Cette forme correspond à :{" "}
+                    <strong className="text-foreground">
+                      {getChoiceTenseLabels(current, current.choices[chosen]).join(", ")}
+                    </strong>
+                  </p>
+                  <p>
+                    Bonne réponse ({label(current.tense)}) :{" "}
+                    <strong className="text-emerald-600">{current.correct}</strong>
+                  </p>
+                </div>
+              )}
               <p className="text-xs text-muted-foreground">{label(current.tense)} · {current.verb.infinitive}</p>
               <button className={primary + " flex w-full items-center justify-center gap-2"} onClick={advance}>
                 {position === deck.length - 1 ? "Voir les résultats" : "Question suivante"}

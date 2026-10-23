@@ -134,6 +134,30 @@ export function createQuestion(prompt: Prompt): Question | null {
   return { ...prompt, choices, correctIndex: choices.indexOf(correct), correct };
 }
 
+/**
+ * Labels every tense that matches a displayed option.
+ * Some verb forms are homographs across tenses, so return all matches rather
+ * than claiming that one written answer always identifies a unique tense.
+ */
+export function getChoiceTenseLabels(prompt: Prompt, choice: string): string[] {
+  if (isNonFinite(prompt.tense)) {
+    return NON_FINITE_TENSES
+      .filter((tense) => prompt.verb.nonFinite?.[tense.id] === choice)
+      .map((tense) => tense.label);
+  }
+  if (!prompt.pronoun) return [];
+  const imperative = prompt.tense.startsWith("imperatif_");
+  return PERSONAL_TENSES
+    .filter((tense) => {
+      const value = prompt.verb.forms[tense.id]?.[prompt.pronoun!];
+      if (!value) return false;
+      return (imperative && !tense.id.startsWith("imperatif_")
+        ? bareForm(value)
+        : value) === choice;
+    })
+    .map((tense) => tense.label);
+}
+
 /** Personal forms respect chosen pronouns. Non-finite forms never require one. */
 export function createDeck(
   available: readonly ConjugationVerb[],
